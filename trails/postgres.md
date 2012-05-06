@@ -1,7 +1,10 @@
 Postgres
 ========
 
-* Read the following sections of the [Postgres 9 manual](http://www.postgresql.org/docs/9.0/static/sql.html):
+Critical learning
+-----------------
+
+Read these sections of the [Postgres manual](http://www.postgresql.org/docs/9.0/static/index.html):
 
 ```shell
 2.5. Querying a Table
@@ -32,19 +35,19 @@ Postgres
 9. Functions and Operators
   9.1. Logical Operators
   9.2. Comparison Operators
-  9.3. Mathematical Functions and Operators
   9.7.1 LIKE
-  9.18. Aggregate Functions
+  9.20 Subquery Expressions
 11. Indexes
   11.1. Introduction
-  11.2. Index Types
-  11.3. Multicolumn Indexes
-  11.4. Indexes and ORDER BY
   11.5. Combining Multiple Indexes
-  11.6. Unique Indexes
-  11.10. Examining Index Usage
-14. Performance Tips
-  14.1. EXPLAIN
+I. SQL Commands
+  ALTER TABLE
+  CREATE INDEX [ CONCURRENTLY ]
+  CREATE TABLE
+  DELETE
+  INSERT
+  SELECT
+  UPDATE
 ```
 
 * Read the following sections of the [SQL Cookbook](http://www.amazon.com/Cookbook-Cookbooks-OReilly-Anthony-Molinaro/dp/0596009763):
@@ -53,3 +56,31 @@ Postgres
 Appendix A: Window Function Refresher
 Any recipes that interest you
 ```
+
+Validation
+----------
+
+You know everyday SQL when you can:
+
+* Insert a new record.
+* Update one or more records.
+* Delete one or more records.
+* Find rows that satisfy one or more conditions.
+* Limit query results.
+* Order query results.
+* Average values in a column.
+* Find the mininum value in a column.
+* Find the maximum value in a column.
+* Sum values in a column.
+* Count values in a column.
+* Paginate results.
+* Suppress duplicates.
+* Answer negation questions. ("Which students don't take course 101?")
+* Answer limit questions. ("Which students take at least 2 courses?")
+* Answer exact questions. ("Which professors teach only 1 course?")
+* Answer relational division questions. ("Find a plane faster than all trains.")
+
+Ongoing reference
+-----------------
+
+Refer often to the Postgres manual.
