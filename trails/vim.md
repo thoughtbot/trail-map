@@ -42,7 +42,7 @@ You know everyday vim when you can:
 * Modify your environment via dotfiles.
 * Install plugins.
 
-You are an advanced vim user when you can:
+You know advanced vim when you can:
 
 * Identify vim's use of every letter on the keyboard (uppercase and lowercase).
 

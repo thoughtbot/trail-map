@@ -35,7 +35,7 @@ You know everyday git when you can:
 * Merge a branch into master.
 * Push to origin.
 
-You are an advanced git user when you can:
+You know advanced git when you can:
 
 * Cherry pick commits.
 * Reorder commits.
