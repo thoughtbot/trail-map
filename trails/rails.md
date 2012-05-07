@@ -4,6 +4,7 @@ Rails
 Critical learning
 -----------------
 
+* Complete Michael Hartl's [Rails Tutorial](http://ruby.railstutorial.org).
 * Read [the official guides](http://guides.rubyonrails.org).
 * Push your code to [Github](http://github.com).
 * Deploy to [Heroku](http://heroku.com).
@@ -21,6 +22,8 @@ You know everyday Rails when you can:
 * Validate ActiveRecord objects.
 * Whitelist ActiveRecord attributes.
 * Interpolate data in a view.
+* Write and run tests for your models.
+* Deploy your app to production.
 
 Ongoing reference
 -----------------
