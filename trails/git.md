@@ -6,6 +6,7 @@ Critical learning
 
 * Take the [Git Immersion](http://gitimmersion.com) guided tour.
 * Read [Chapter 3 of Pro Git](http://git-scm.com/book/ch3-0.html).
+* Watch [GitCasts](http://gitcasts.com).
 
 Validation
 ----------
