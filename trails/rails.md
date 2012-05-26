@@ -4,10 +4,10 @@ Rails
 Critical learning
 -----------------
 
-* Complete Michael Hartl's [Rails Tutorial](http://ruby.railstutorial.org).
+* Complete Michael Hartl's [Rails Tutorial](http://ruby.railstutorial.org). ($)
 * Read [the official guides](http://guides.rubyonrails.org).
-* Push your code to [Github](http://github.com).
-* Deploy to [Heroku](http://heroku.com).
+* Push your code to [Github](http://github.com). ($)
+* Deploy to [Heroku](http://heroku.com). ($)
 * Watch [Railscasts](http://railscasts.com) that interest you.
 
 Validation

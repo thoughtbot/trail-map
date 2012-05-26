@@ -50,7 +50,7 @@ I. SQL Commands
   UPDATE
 ```
 
-* Read the following sections of the [SQL Cookbook](http://www.amazon.com/Cookbook-Cookbooks-OReilly-Anthony-Molinaro/dp/0596009763):
+Read the following sections of the [SQL Cookbook](http://www.amazon.com/Cookbook-Cookbooks-OReilly-Anthony-Molinaro/dp/0596009763): ($)
 
 ```shell
 Appendix A: Window Function Refresher

@@ -7,7 +7,7 @@ Critical learning
 * Read [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/).
 * Complete the [Ruby Koans](http://rubykoans.com).
 * Read these sections of
-  [The Pickaxe](http://pragprog.com/book/ruby/programming-ruby):
+  [The Pickaxe](http://pragprog.com/book/ruby/programming-ruby): ($)
 
 ```shell
 Chapter 23, "Duck Typing"
@@ -32,5 +32,4 @@ You know everyday Ruby when you can:
 Ongoing reference
 -----------------
 
-* Ruby Library reference in
-  [The Pickaxe](http://www.amazon.com/Programming-Ruby-Pragmatic-Programmers-Edition/dp/0974514055)
+* Ruby Library reference in The Pickaxe.

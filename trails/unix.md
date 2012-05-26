@@ -1,7 +1,7 @@
 Unix
 ----
 
-* Read [The Linux Programming Interface](http://www.amazon.com/The-Linux-Programming-Interface-Handbook/dp/1593272200).
+* Read [The Linux Programming Interface](http://www.amazon.com/The-Linux-Programming-Interface-Handbook/dp/1593272200). ($)
 * Refer to these man pages often:
 
 ```shell
