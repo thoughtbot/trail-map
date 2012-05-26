@@ -10,6 +10,7 @@ Critical learning
 * Watch the [Distributed Workflow](http://blip.tv/scott-chacon/c8-dist-workflow-4113615)
   gitcast.
 * Read [Chapter 3 of Pro Git](http://git-scm.com/book/ch3-0.html).
+* Watch [GitCasts](http://gitcasts.com).
 
 Validation
 ----------
