@@ -4,6 +4,8 @@ Rails
 Critical learning
 -----------------
 
+* Complete the tutorial described in Parts I and II of [Agile Web Development in Ruby on Rails](http://pragprog.com/book/rails4/agile-web-development-with-rails)
+* Complete the [Rails Tutorial](http://ruby.railstutorial.org) by Michael Hartl. Covers Ruby/Rails/MVC/Git/Heroku/RSpec.
 * Read [the official guides](http://guides.rubyonrails.org).
 * Push your code to [Github](http://github.com).
 * Deploy to [Heroku](http://heroku.com).
