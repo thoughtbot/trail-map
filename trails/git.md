@@ -10,6 +10,7 @@ Critical learning
 * Watch the [Distributed Workflow](http://blip.tv/scott-chacon/c8-dist-workflow-4113615)
   gitcast.
 * Read [Chapter 3 of Pro Git](http://git-scm.com/book/ch3-0.html).
+* Read [gitready](http://gitready.com) articles that interest you.
 
 Validation
 ----------
@@ -33,6 +34,15 @@ You know everyday git when you can:
 * Squash commits.
 * Merge a branch into master.
 * Push to origin.
+
+You are an advanced git user when you can:
+
+* Cherry pick commits.
+* Reorder commits.
+* Keep either file in merge conflicts.
+* Restore lost commits.
+* Visualize commits differently using `git log` flags.
+* Visualize changes differently using `git diff` flags.
 
 Ongoing reference
 -----------------
