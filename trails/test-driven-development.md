@@ -16,6 +16,7 @@ You know everyday TDD when you can:
 * Make the test error or fail.
 * Make the test pass by writing the simplest implementation possible.
 * Refactor.
+* Understand the basics of mocking and stubbing in unit tests.
 
 Ongoing reference
 -----------------
