@@ -1,7 +1,7 @@
 Ruby
 ====
 
-Critical learning
+Critical Learning
 -----------------
 
 * Read [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/).
@@ -30,7 +30,8 @@ You know everyday Ruby when you can:
 * Instantiate an object.
 * Iterate over collections.
 
-Ongoing reference
+Ongoing Reference
 -----------------
 
+* [Ruby Core Documentation](http://ruby-doc.org/core-1.9.3)
 * Ruby Library reference in The Pickaxe.
