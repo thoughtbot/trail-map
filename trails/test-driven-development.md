@@ -16,6 +16,8 @@ You know everyday TDD when you can:
 * Make the test error or fail.
 * Make the test pass by writing the simplest implementation possible.
 * Refactor.
+* Name each phase of the Four Phase Test.
+* Identify a Mystery Guest.
 
 Ongoing reference
 -----------------
