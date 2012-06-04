@@ -5,6 +5,7 @@ Critical learning
 -----------------
 
 * Read [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/).
+* Read [The Well-Grounded Rubyist](http://manning.com/black2/).
 * Complete the [Ruby Koans](http://rubykoans.com).
 * Read these sections of
   [The Pickaxe](http://pragprog.com/book/ruby/programming-ruby): ($)
