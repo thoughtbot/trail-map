@@ -1,7 +1,7 @@
 Trail map
 =========
 
-test commit
+another test commit
 
 
 > How do I learn Ruby on Rails? Vim? Test-Driven Development?
