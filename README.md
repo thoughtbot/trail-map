@@ -1,6 +1,9 @@
 Trail map
 =========
 
+test commit
+
+
 > How do I learn Ruby on Rails? Vim? Test-Driven Development?
 
 [apprentice.io](http://apprentice.io) has forced us to formalize our answers to
