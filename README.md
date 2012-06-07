@@ -27,6 +27,7 @@ Trails
 ------
 
 * [Git](/thoughtbot/trail-map/blob/master/trails/git.md)
+* [iOS](/thoughtbot/trail-map/blob/master/trails/ios.md)
 * [Postgres](/thoughtbot/trail-map/blob/master/trails/postgres.md)
 * [Rails](/thoughtbot/trail-map/blob/master/trails/rails.md)
 * [Refactoring](/thoughtbot/trail-map/blob/master/trails/refactoring.md)
