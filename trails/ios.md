@@ -17,32 +17,31 @@ Validation
 
 You know everyday Objective-C and iOS development when you can:
 
-* use Xcode (and the built-in Interface Builder) to compile an iOS app.
-* describe and use ARC and MRC for memory mangement, as well as the rules of the retain/release cycle.
-* use the basic data types (NSInteger, NSString), collection objects (NSArray, NSDictionary), and know when to use them instead of C primitives (int, char, etc).
-* use the basic display and navigation elements (UIWindow, UIView, UINavigationBar, UIToolbar, etc).
-* implement the various iOS controls (UISwitch, UILabel, UISegmentedControl, etc).
-* design and use basic design patterns like MVC, delegates, callbacks, and notifications.
-* use CoreLocation to get location coordinates.
-* implement network communications using AFNetworking, ASI, or NSUrlConnection.
-* implement UX and design best practices as prescribed by Apple.
-* meet App Store submission requirements and submit an app.
+* Use Xcode (and the built-in Interface Builder) to compile an iOS app.
+* Describe and use ARC and MRC for memory mangement, as well as the rules of the retain/release cycle.
+* Use the basic data types (NSInteger, NSString), collection objects (NSArray, NSDictionary), and know when to use them instead of C primitives (int, char, etc).
+* Use the basic display and navigation elements (UIWindow, UIView, UINavigationBar, UIToolbar, etc).
+* Implement the various iOS controls (UISwitch, UILabel, UISegmentedControl, etc).
+* Design and use basic design patterns like MVC, delegates, callbacks, and notifications.
+* Use CoreLocation to get location coordinates.
+* Implement network communications using AFNetworking, ASI, or NSUrlConnection.
+* Implement UX and design best practices as prescribed by Apple.
+* Meet App Store submission requirements and submit an app.
 
 You know advanced Objective-C & iOS Development when you can:
 
-* create and manage Core Data objects and schemas.
-* decide when to best use:
-    * a category vs subclassing.
-    * singletons.
-    * delegates.
-    * proxies.
-* implement animations using CoreAnimation and optimize drawing using CoreGraphics.
-* implement a multi-tasking environment free of race conditions (using appropriate locking techniques such as mutexes and semaphores, message passing, etc).
-* debug memory leaks using NSZombieEnabled, Instruments, and other tools.
+* Create and manage Core Data objects and schemas.
+* Decide when to best use:
+    * A category vs subclassing.
+    * Singletons.
+    * Delegates.
+    * Proxies.
+* Implement animations using CoreAnimation and optimize drawing using CoreGraphics.
+* Implement a multi-tasking environment free of race conditions (using appropriate locking techniques such as mutexes and semaphores, message passing, etc).
+* Debug memory leaks using NSZombieEnabled, Instruments, and other tools.
 
 Ongoing reference
 -----------------
 
-* Maintain an active ADC account and refer to [the official documentation](https://developer.apple.com)
-* Keep up-to-date on iOS news
-
+* Maintain an active ADC account and refer to [the official documentation](https://developer.apple.com).
+* Keep up-to-date on iOS news.
