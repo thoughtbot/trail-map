@@ -30,6 +30,12 @@ You know everyday Ruby when you can:
 * Instantiate an object.
 * Iterate over collections.
 
+You know intermediate Ruby when you can:
+
+* Define a method which takes a block as a parameter.
+* Extract only keys or values from a Hash.
+* Assign default values for undefined keys in a Hash.
+
 Ongoing Reference
 -----------------
 
