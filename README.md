@@ -26,12 +26,14 @@ This repository contains trails to help designers and developers learn.
 Trails
 ------
 
+* [CoffeeScript](/thoughtbot/trail-map/blob/master/trails/coffeescript.md)
 * [Git](/thoughtbot/trail-map/blob/master/trails/git.md)
 * [iOS](/thoughtbot/trail-map/blob/master/trails/ios.md)
 * [Postgres](/thoughtbot/trail-map/blob/master/trails/postgres.md)
 * [Rails](/thoughtbot/trail-map/blob/master/trails/rails.md)
 * [Refactoring](/thoughtbot/trail-map/blob/master/trails/refactoring.md)
 * [Ruby](/thoughtbot/trail-map/blob/master/trails/ruby.md)
+* [SASS](/thoughtbot/trail-map/blob/master/trails/sass.md)
 * [Test-Driven Development](/thoughtbot/trail-map/blob/master/trails/test-driven-development.md)
 * [Unix](/thoughtbot/trail-map/blob/master/trails/unix.md)
 * [Vim](/thoughtbot/trail-map/blob/master/trails/vim.md)
