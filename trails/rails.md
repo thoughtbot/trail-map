@@ -9,6 +9,7 @@ Critical learning
 * Push your code to [Github](http://github.com). ($)
 * Deploy to [Heroku](http://heroku.com). ($)
 * Watch [Railscasts](http://railscasts.com) that interest you.
+* Read examples of source code, such as [this](https://github.com/copycopter/copycopter-server).
 
 Validation
 ----------
