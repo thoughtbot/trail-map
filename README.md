@@ -42,6 +42,11 @@ To use these, you may want to first set up your laptop with
 [this script](https://github.com/thoughtbot/laptop) and
 [these dotfiles](https://github.com/thoughtbot/dotfiles).
 
+Contributing
+------------
+
+Please see [Contribution Guidelines](/thoughtbot/trail-map/blob/master/trails/CONTRIBUTING.md)
+
 Credits
 -------
 
