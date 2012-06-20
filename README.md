@@ -26,7 +26,7 @@ This repository contains trails to help designers and developers learn.
 Trails
 ------
 
-* [CoffeeScript](/thoughtbot/trail-map/blob/master/trails/coffeescript.md)
+* [CoffeeScript](/thoughtbot/trail-map/blob/master/trails/coffescript.md)
 * [Git](/thoughtbot/trail-map/blob/master/trails/git.md)
 * [iOS](/thoughtbot/trail-map/blob/master/trails/ios.md)
 * [Postgres](/thoughtbot/trail-map/blob/master/trails/postgres.md)
