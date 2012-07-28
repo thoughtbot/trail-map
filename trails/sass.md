@@ -13,6 +13,7 @@ Validation
 You know everyday SASS when you can:
 
 * Use nested selectors.
+* Know the difference between @include and @extend and the advantages of each.
 * Set and use variables.
 * Create and use mixins.
 
