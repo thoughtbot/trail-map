@@ -6,8 +6,8 @@ Critical learning
 
 * Complete Michael Hartl's [Rails Tutorial](http://ruby.railstutorial.org). (Free/$)
 * Read [the official guides](http://guides.rubyonrails.org).
-* Push your code to [Github](http://github.com). ($)
-* Deploy to [Heroku](http://heroku.com). ($)
+* Push your code to [Github](http://github.com). (Free/$)
+* Deploy to [Heroku](http://heroku.com). (Free/$)
 * Watch [Railscasts](http://railscasts.com) that interest you.
 * Read examples of source code, such as [this](https://github.com/copycopter/copycopter-server).
 
