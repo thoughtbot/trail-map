@@ -55,3 +55,21 @@ You are an everyday open source maintainer when you can:
 * Provide your code in easily accessible form (rubygems.org, Github).
 * Evaluate pull requests and provide kind, intelligent feedback.
 * Know which license to use.
+
+Ongoing reference
+-----------------
+
+Read selected chapters from "The Architecture of Open Source Applications":
+
+* [Berkeley DB](http://www.aosabook.org/en/bdb.html).
+* [The Bourne-Again Shell](http://www.aosabook.org/en/bash.html).
+* [Continuous Integration](http://www.aosabook.org/en/integration.html).
+* [Git](http://www.aosabook.org/en/git.html).
+* [The Glasgow Haskell Compiler](http://www.aosabook.org/en/ghc.html).
+* [GNU Mailman](http://www.aosabook.org/en/mailman.html).
+* [MediaWiki](http://www.aosabook.org/en/mediawiki.html).
+* [nginx](http://www.aosabook.org/en/nginx.html).
+* [Riak and Erlang/OTP](http://www.aosabook.org/en/riak.html).
+* [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html).
+* [Sendmail](http://www.aosabook.org/en/sendmail.html).
+* [Twisted](http://www.aosabook.org/en/twisted.html).
