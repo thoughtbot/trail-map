@@ -31,3 +31,4 @@ Ongoing reference
 
 * Refer to [the API documentation](http://api.rubyonrails.org).
 * Stick to a [style guide](https://github.com/bbatsov/rails-style-guide).
+* Subscribe to the [Rails Core mailing list](http://goo.gl/YU3Ml).
