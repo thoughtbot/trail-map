@@ -30,10 +30,13 @@ Trails
 ------
 
 * [Git](/thoughtbot/trail-map/blob/master/trails/git.md)
+* [iOS](/thoughtbot/trail-map/blob/master/trails/ios.md)
+* [Open Source](/thoughtbot/trail-map/blob/master/trails/open-source.md)
 * [Postgres](/thoughtbot/trail-map/blob/master/trails/postgres.md)
 * [Rails](/thoughtbot/trail-map/blob/master/trails/rails.md)
 * [Refactoring](/thoughtbot/trail-map/blob/master/trails/refactoring.md)
 * [Ruby](/thoughtbot/trail-map/blob/master/trails/ruby.md)
+* [SASS](/thoughtbot/trail-map/blob/master/trails/sass.md)
 * [Test-Driven Development](/thoughtbot/trail-map/blob/master/trails/test-driven-development.md)
 * [Unix](/thoughtbot/trail-map/blob/master/trails/unix.md)
 * [Vim](/thoughtbot/trail-map/blob/master/trails/vim.md)
@@ -41,6 +44,11 @@ Trails
 To use these, you may want to first set up your laptop with
 [this script](https://github.com/thoughtbot/laptop) and
 [these dotfiles](https://github.com/thoughtbot/dotfiles).
+
+Contributing
+------------
+
+Please see [Contribution Guidelines](/thoughtbot/trail-map/blob/master/trails/CONTRIBUTING.md)
 
 Credits
 -------
