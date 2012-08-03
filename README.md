@@ -28,6 +28,7 @@ Trails
 
 * [Git](/thoughtbot/trail-map/blob/master/trails/git.md)
 * [iOS](/thoughtbot/trail-map/blob/master/trails/ios.md)
+* [Javascript](/thoughtbot/trail-map/blob/master/trails/javascript.md)
 * [Open Source](/thoughtbot/trail-map/blob/master/trails/open-source.md)
 * [Postgres](/thoughtbot/trail-map/blob/master/trails/postgres.md)
 * [Rails](/thoughtbot/trail-map/blob/master/trails/rails.md)
