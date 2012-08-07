@@ -51,8 +51,8 @@ You are an everyday open source maintainer when you can:
 * Document where issues are managed, such as Github Issues.
 * Provide a clear place for questions, such as Stack Overflow. Only provide
   a Google Group mailing list if you're ready to support it.
-* Know how to use major, minor, and patch version numbers.
-* Provide your code in easily accessible form (rubygems.org, Github).
+* Know how to use major, minor, and patch version numbers ([Semantic Versioning](http://semver.org)).
+* Provide your code in easily accessible form ([rubygems.org](http://rubygems.org), [GitHub](http://github.com)).
 * Evaluate pull requests and provide kind, intelligent feedback.
 * Know which license to use.
 
