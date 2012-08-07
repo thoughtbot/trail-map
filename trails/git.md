@@ -17,32 +17,39 @@ Validation
 
 You know everyday git when you can:
 
-* Clone a repo.
-* Pull remote changes locally.
-* Create a branch.
-* Check status.
-* View a diff.
-* Add a file to staging.
-* Unstage a file.
-* Create a commit.
-* Amend a commit.
-* Show a commit by SHA hash.
-* Push to a remote branch.
-* Stash changes.
-* Rebase origin/master into a branch.
-* Resolve a conflict.
-* Squash commits.
-* Merge a branch into master.
-* Push to origin.
+* [Initialize a repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Initializing-a-Repository-in-an-Existing-Directory)
+* [Clone a repository](http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository)
+* [Ignore files](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files)
+* [Add a file to staging](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Tracking-New-Files)
+* [Unstage a file](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Removing-Files)
+* [Check status](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files)
+* [View a diff](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Viewing-Your-Staged-and-Unstaged-Changes)
+* [Create a commit](http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Committing-Your-Changes)
+* Push to origin
+* [Pull remote changes locally](http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Fetching-and-Pulling-from-Your-Remotes)
+* [Resolve a conflict](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merge-Conflicts)
+* [Create a branch](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Branching)
+* [Merge a branch into master](http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merging)
+* [Push to a remote branch](http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Pushing-to-Your-Remotes)
+* [Rebase origin/master into a branch](http://git-scm.com/book/en/Git-Branching-Rebasing#The-Basic-Rebase)
+
+You know intermediate git when you can:
+
+* [Add a remote](http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Adding-Remote-Repositories)
+* [Amend a commit](http://git-scm.com/book/en/Git-Basics-Undoing-Things#Changing-Your-Last-Commit)
+* Show a commit by SHA hash
+* [Stash changes](http://git-scm.com/book/en/Git-Tools-Stashing#Stashing-Your-Work)
+* Squash commits
+* [Create a tag](http://git-scm.com/book/en/Git-Basics-Tagging#Creating-Tags)
 
 You know advanced git when you can:
 
-* Cherry pick commits.
-* Reorder commits.
-* Keep either file in merge conflicts.
-* Restore lost commits.
-* Visualize commits differently using `git log` flags.
-* Visualize changes differently using `git diff` flags.
+* Cherry pick commits
+* Reorder commits
+* Keep either file in merge conflicts
+* Restore lost commits
+* Visualize commits differently using `git log` flags
+* Visualize changes differently using `git diff` flags
 
 Ongoing reference
 -----------------
