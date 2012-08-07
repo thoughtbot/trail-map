@@ -45,10 +45,10 @@ You know intermediate git when you can:
 You know advanced git when you can:
 
 * Cherry pick commits
-* Reorder commits
-* Keep either file in merge conflicts
-* Restore lost commits
-* Visualize commits differently using `git log` flags
+* [Reorder commits](http://gitready.com/advanced/2009/03/20/reorder-commits-with-rebase.html)
+* [Keep either file in merge conflicts](http://gitready.com/advanced/2009/02/25/keep-either-file-in-merge-conflicts.html)
+* [Restore lost commits](http://gitready.com/advanced/2009/01/17/restoring-lost-commits.html)
+* [Visualize commits differently using `git log` flags](http://gitready.com/advanced/2009/01/20/bend-logs-to-your-will.html)
 * Visualize changes differently using `git diff` flags
 
 Ongoing reference
