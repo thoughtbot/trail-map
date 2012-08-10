@@ -4,6 +4,7 @@ Open Source
 Critical learning
 -----------------
 
+* Get a [GitHub](http://github.com) account ($/free)
 * Read [8 steps to fixing other people's code](http://rdd.me/tsf7khhg).
 * Watch [How to manage an open source project](http://vimeo.com/45214727).
 * Read the rubygems.org ["Make your own gem" guide](http://guides.rubygems.org/make-your-own-gem/).
@@ -34,25 +35,25 @@ You are an everyday open source contributor when you can:
 
 * Get annoyed by a defect or missing feature.
 * Find the source code.
-* Create a copy of the source ("fork" on Github).
+* Create a copy of the source ("fork" on [Github](http://github.com)).
 * Check out (`git clone`) the source.
 * Poke around the source in your editor and shell (`grep`).
 * Read the contribution guidelines.
 * Write a failing test in the style of the project's test suite.
 * Write code to make the test pass in the style of the project's codebase.
 * Make sure the entire test suite passes.
-* Create a patch (push to your fork on Github).
-* Submit a patch ("pull request" on Github).
+* Create a patch (push to your fork on [Github](http://github.com)).
+* Submit a patch ("pull request" on [Github](http://github.com)).
 * If it exists, email the project's mailing list asking for feedback.
 
 You are an everyday open source maintainer when you can:
 
 * Document a clear public API.
-* Document where issues are managed, such as Github Issues.
-* Provide a clear place for questions, such as Stack Overflow. Only provide
-  a Google Group mailing list if you're ready to support it.
+* Document where issues are managed, such as [Github](http://github.com) Issues.
+* Provide a clear place for questions, such as [Stack Overflow](http://stackoverflow.com). Only provide
+  a [Google Group](http://groups.google.com) mailing list if you're ready to support it.
 * Know how to use major, minor, and patch version numbers ([Semantic Versioning](http://semver.org)).
-* Provide your code in easily accessible form ([rubygems.org](http://rubygems.org), [GitHub](http://github.com)).
+* Provide your code in easily accessible form ([Rubygems](http://rubygems.org), [GitHub](http://github.com)).
 * Evaluate pull requests and provide kind, intelligent feedback.
 * Know which license to use.
 
