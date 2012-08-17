@@ -44,4 +44,4 @@ Ongoing Reference
 
 * [Ruby Core Documentation](http://ruby-doc.org/core-1.9.3)
 * Ruby Library reference in The Pickaxe.
-* Stick to a [style guide](https://github.com/thoughtbot/style-guide#formatting)
+* Stick to a [style guide](http://build.thoughtbot.com/style-guide)
