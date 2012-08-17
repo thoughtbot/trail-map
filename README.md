@@ -3,8 +3,7 @@ Trail map
 
 > How do I learn Ruby on Rails? Vim? Test-Driven Development?
 
-[apprentice.io](http://apprentice.io) has forced us to formalize our answers to
-such questions.
+[apprentice.io](http://apprentice.io) has forced us to formalize our answers to such questions.
 
 A few problems make those questions difficult to answer. Individuals:
 
@@ -12,8 +11,7 @@ A few problems make those questions difficult to answer. Individuals:
 * have different learning styles
 * change their goals mid-process
 
-A good metaphor for the learning process is a (hiking, biking, or skiing)
-trail map. Individuals:
+A good metaphor for the learning process is a (hiking, biking, or skiing) trail map. Individuals:
 
 * start in different places
 * want to go to different places
@@ -27,17 +25,25 @@ Trails
 ------
 
 * [Git](/thoughtbot/trail-map/blob/master/trails/git.md)
-* [iOS](/thoughtbot/trail-map/blob/master/trails/ios.md)
 * [Javascript](/thoughtbot/trail-map/blob/master/trails/javascript.md)
 * [Open Source](/thoughtbot/trail-map/blob/master/trails/open-source.md)
-* [Postgres](/thoughtbot/trail-map/blob/master/trails/postgres.md)
-* [Rails](/thoughtbot/trail-map/blob/master/trails/rails.md)
-* [Refactoring](/thoughtbot/trail-map/blob/master/trails/refactoring.md)
-* [Ruby](/thoughtbot/trail-map/blob/master/trails/ruby.md)
-* [SASS](/thoughtbot/trail-map/blob/master/trails/sass.md)
-* [Test-Driven Development](/thoughtbot/trail-map/blob/master/trails/test-driven-development.md)
-* [Unix](/thoughtbot/trail-map/blob/master/trails/unix.md)
 * [Vim](/thoughtbot/trail-map/blob/master/trails/vim.md)
+
+Development
+-----------
+
+* [iOS](/thoughtbot/trail-map/blob/master/trails/Development/ios.md)
+* [Postgres](/thoughtbot/trail-map/blob/master/trails/Development/postgres.md)
+* [Rails](/thoughtbot/trail-map/blob/master/trails/Development/rails.md)
+* [Refactoring](/thoughtbot/trail-map/blob/master/trails/Development/refactoring.md)
+* [Ruby](/thoughtbot/trail-map/blob/master/trails/Development/ruby.md)
+* [Test-Driven Development](/thoughtbot/trail-map/blob/master/trails/Development/test-driven-development.md)
+* [Unix](/thoughtbot/trail-map/blob/master/trails/Development/unix.md)
+
+Design
+------
+
+* [SASS](/thoughtbot/trail-map/blob/master/trails/Design/sass.md)
 
 To use these, you may want to first set up your laptop with
 [this script](https://github.com/thoughtbot/laptop) and
