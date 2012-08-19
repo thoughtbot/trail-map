@@ -44,4 +44,4 @@ Ongoing Reference
 
 * [Ruby Core Documentation](http://ruby-doc.org/core-1.9.3)
 * Ruby Library reference in The Pickaxe.
-* Stick to a [style](https://github.com/bbatsov/ruby-style-guide) [guide](http://build.thoughtbot.com/style-guide)
+* Stick to [a](https://github.com/styleguide/ruby) [style](https://github.com/bbatsov/ruby-style-guide) [guide](http://build.thoughtbot.com/style-guide)
