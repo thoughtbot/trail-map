@@ -8,10 +8,10 @@ Critical learning
 * Read [Universal Principles of Design, Revised and Updated: 125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design] (http://www.amazon.com/gp/product/1592535879)
 * Read Andy Rutledge&rsquo;s series on Gestalt Principles:
   * [1](http://www.andyrutledge.com/gestalt-principles-1-figure-ground-relationship.php)
-  * [2] (http://www.andyrutledge.com/gestalt-principles-2-similarity.php)
-  * [3] (http://www.andyrutledge.com/gestalt-principles-3.php)
-  * [4] (http://www.andyrutledge.com/common-fate.php)
-  * [5] (http://www.andyrutledge.com/closure.php)
+  * [2](http://www.andyrutledge.com/gestalt-principles-2-similarity.php)
+  * [3](http://www.andyrutledge.com/gestalt-principles-3.php)
+  * [4](http://www.andyrutledge.com/common-fate.php)
+  * [5](http://www.andyrutledge.com/closure.php)
 
 Validation
 ----------
