@@ -43,7 +43,7 @@ Development
 Design
 ------
 
-* [SASS](/thoughtbot/trail-map/blob/master/trails/Design/sass.md)
+* [Sass](/thoughtbot/trail-map/blob/master/trails/Design/sass.md)
 
 To use these, you may want to first set up your laptop with
 [this script](https://github.com/thoughtbot/laptop) and
