@@ -18,7 +18,5 @@ Validation
 
 You know basic visual design when you can:
 
-* Use design principles in your work.
-* Articulate your reasons for using them.
+* Articulate your reasons for using visual principles.
 * Identify principles in others design work.
-
