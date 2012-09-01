@@ -4,15 +4,16 @@ Open Source
 Critical learning
 -----------------
 
-* Get a [GitHub](http://github.com) account ($/free)
+* Get a [GitHub](http://github.com) account ($/free).
 * Read [8 steps to fixing other people's code](http://rdd.me/tsf7khhg).
 * Watch [How to manage an open source project](http://vimeo.com/45214727).
 * Read the rubygems.org ["Make your own gem" guide](http://guides.rubygems.org/make-your-own-gem/).
 * Read the [Semantic Versioning specification](http://semver.org/).
-* Understand [software licenses](http://playbook.thoughtbot.com/choosing-platforms/software-licenses/).
-* Know what a [`NEWS` file](http://www.gnu.org/prep/standards/html_node/NEWS-File.html#NEWS-File) is.
-* Know what a [`ChangeLog` file](http://www.gnu.org/prep/standards/html_node/Change-Logs.html#Change-Logs)
-  is and how it is formatted.
+* Read about [software licenses](http://playbook.thoughtbot.com/choosing-platforms/software-licenses/).
+* Read about the purpose and formatting of a
+  [`NEWS` file](http://www.gnu.org/prep/standards/html_node/NEWS-File.html#NEWS-File).
+* Read about the purpose and formatting of a
+  [`ChangeLog` file](http://www.gnu.org/prep/standards/html_node/Change-Logs.html#Change-Logs).
 
 Validation
 ----------
@@ -48,14 +49,15 @@ You are an everyday open source contributor when you can:
 
 You are an everyday open source maintainer when you can:
 
+* Apply an appropriate license to your project.
 * Document a clear public API.
 * Document where issues are managed, such as [Github](http://github.com) Issues.
+* Evaluate pull requests and provide kind, intelligent feedback.
 * Provide a clear place for questions, such as [Stack Overflow](http://stackoverflow.com). Only provide
   a [Google Group](http://groups.google.com) mailing list if you're ready to support it.
-* Know how to use major, minor, and patch version numbers ([Semantic Versioning](http://semver.org)).
 * Provide your code in easily accessible form ([Rubygems](http://rubygems.org), [GitHub](http://github.com)).
-* Evaluate pull requests and provide kind, intelligent feedback.
-* Know which license to use.
+* Select or reject open source software based on its license.
+* Use major, minor, and patch version numbers ([Semantic Versioning](http://semver.org)).
 
 Ongoing reference
 -----------------

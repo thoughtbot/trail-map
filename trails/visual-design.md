@@ -12,13 +12,13 @@ Critical learning
   * [3](http://www.andyrutledge.com/gestalt-principles-3.php)
   * [4](http://www.andyrutledge.com/common-fate.php)
   * [5](http://www.andyrutledge.com/closure.php)
+* Read [101 Things I Learned in Architecture School](http://amzn.com/0262062666)
 
 Validation
 ----------
 
 You know basic visual design when you can:
 
-* Use design principles in your work.
-* Articulate your reasons for using them.
-* Identify principles in others design work.
-
+* Intentionally break visual design principles in your design.
+* Use the vocabulary of visual design principles when articulating the reasons
+  for your design and when critiquing teammates' designs.
