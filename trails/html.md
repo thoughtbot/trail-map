@@ -4,8 +4,7 @@ HTML
 Critical learning
 -----------------
 
-* Read through [A Beginner’s Guide to
-HTML & CSS](http://learn.shayhowe.com/)
+* Read through [A Beginner’s Guide to HTML & CSS](http://learn.shayhowe.com/)
 * Complete [Code Academy Web Fundamentals](http://www.codecademy.com/tracks/web)
 * Read [Dive into HTML5](http://diveintohtml5.info/)
 * Read [HTML5 for Web Designers](http://www.abookapart.com/products/html5-for-web-designers)
