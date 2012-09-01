@@ -28,7 +28,7 @@ You can use a grid in a design when you can:
 
 Further Reference
 ----------
-* Read [Making and Breaking the Grid: A Graphic Design Layout Workshop](http://www.amazon.com/Making-Breaking-Grid-Graphic-Workshop/dp/1592531253/)
+* Read [Making and Breaking the Grid: A Graphic Design Layout Workshop](http://amzn.com/1592531253)
 * View resources at [The Grid System](http://www.thegridsystem.org/)
-* Read [Ordering Disorder: Grid Principles for Web Design](http://www.amazon.com/Ordering-Disorder-Principles-Design-Voices/dp/0321703537/)
-* Read [Geometry of Design: Studies in Proportion and Composition](http://www.amazon.com/dp/1568982496/)
+* Read [Ordering Disorder: Grid Principles for Web Design](http://amzn.com/0321703537)
+* Read [Geometry of Design: Studies in Proportion and Composition](http://amzn.com/1568982496)

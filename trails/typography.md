@@ -27,7 +27,7 @@ You can use type in a design when you can:
 Further Reference
 ----------
 * Watch [Tim Brown's More Perfect Typography](https://vimeo.com/17079380)
-* Read [Stop Stealing Sheep & Find Out How Type Works](http://www.amazon.com/Stop-Stealing-Sheep-Works-Edition/dp/0201703394/)
+* Read [Stop Stealing Sheep & Find Out How Type Works](http://amzn.com/0201703394)
 
 On Going Reference
 ----------
