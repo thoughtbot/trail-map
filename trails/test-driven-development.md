@@ -5,6 +5,7 @@ Critical learning
 -----------------
 
 * Read [Test-Driven Development By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530). ($)
+* Complete [Testing With RSpec](http://www.codeschool.com/courses/testing-with-rspec) course ($)
 * Read [Beginning Outside-In Rails Development with Cucumber and RSpec](http://blog.carbonfive.com/2012/02/14/beginning-outside-in-rails-development-with-cucumber-and-rspec/).
 * Read [Martin Fowlers "Mocks Aren't Stubs"](http://martinfowler.com/articles/mocksArentStubs.html)
 

@@ -11,6 +11,7 @@ Critical learning
   gitcast.
 * Read [Chapter 3 of Pro Git](http://git-scm.com/book/ch3-0.html).
 * Read [gitready](http://gitready.com) articles that interest you.
+* Complete [Git Real](http://www.codeschool.com/courses/git-real) course ($)
 
 Validation
 ----------
