@@ -4,6 +4,7 @@ Ruby
 Critical Learning
 -----------------
 
+* First, [Try Ruby](http://tryruby.org)!
 * Read [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/).
 * Read [The Well-Grounded Rubyist](http://manning.com/black2/). ($)
 * Complete the [Ruby Koans](http://rubykoans.com).
@@ -44,4 +45,4 @@ Ongoing Reference
 
 * [Ruby Core Documentation](http://ruby-doc.org/core-1.9.3)
 * Ruby Library reference in The Pickaxe.
-* Stick to [a](https://github.com/styleguide/ruby) [style](https://github.com/bbatsov/ruby-style-guide) [guide](http://build.thoughtbot.com/style-guide)
+* Stick to [a style guide](http://build.thoughtbot.com/style-guide).

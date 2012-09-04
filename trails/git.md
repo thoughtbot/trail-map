@@ -4,7 +4,7 @@ Git
 Critical learning
 -----------------
 
-* Take the [Try Git](http://try.github.com/levels/1/challenges/1) guided tour.
+* First, [Try Git](http://try.github.com)!
 * Watch the [Normal Workflow](http://blip.tv/scott-chacon/c2-normal-workflow-4113486)
   gitcast.
 * Watch the [Distributed Workflow](http://blip.tv/scott-chacon/c8-dist-workflow-4113615)

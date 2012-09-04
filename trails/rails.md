@@ -5,11 +5,11 @@ Critical learning
 -----------------
 
 * Complete Michael Hartl's [Rails Tutorial](http://ruby.railstutorial.org). (Free/$)
-* Read [the official guides](http://guides.rubyonrails.org).
+* Complete [Rails Testing for Zombies](http://www.codeschool.com/courses/rails-testing-for-zombies). ($)
 * Push your code to [Github](http://github.com). (Free/$)
 * Deploy to [Heroku](http://heroku.com). (Free/$)
 * Watch [Railscasts](http://railscasts.com) that interest you.
-* Read examples of source code, such as [this](https://github.com/copycopter/copycopter-server).
+* Read open source code: [example](https://github.com/copycopter/copycopter-server).
 
 Validation
 ----------
@@ -30,5 +30,6 @@ Ongoing reference
 -----------------
 
 * Refer to [the API documentation](http://api.rubyonrails.org).
-* Stick to a [style guide](https://github.com/bbatsov/rails-style-guide).
+* Refer to [the official guides](http://guides.rubyonrails.org).
+* Stick to [a style guide](http://build.thoughtbot.com/style-guide).
 * Subscribe to the [Rails Core mailing list](http://goo.gl/YU3Ml).
