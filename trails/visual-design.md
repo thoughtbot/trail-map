@@ -19,8 +19,8 @@ Validation
 
 You know basic visual design when you can:
 
-* Know the history of Gestalt Principles and understand how they work in design.
+* Understand how the history of Gestalt Principles work in design.
 * Articulate your reasons for using visual principles in your design.
-* Identify principles in others design work.
-* Understand how breaking these principles effects the unity of your design.
-* Be able to break the principles purposefully in your design.
+* Identify principles in the design work of others.
+* Understand the impact of breaking these principles on design unity.
+* Intentionally break design principles in your design.

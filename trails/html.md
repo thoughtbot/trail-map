@@ -14,7 +14,7 @@ Validation
 
 You know everyday HTML when you can:
 
-* Understand the basic structure of an html page — including a the doctype, <head>, and <body>
+* Understand the basic structure of an html page — including the doctype, <head>, and <body>
 * Know the best use for basic elements including <h1-6>, <p>, <a>, <img>, <ul>/<ol>/<li>, <div>, <span>, <dl>/<dt>/<dd>, <form>/<fieldset>/<input>
 * Understand the new HTML5 elements, <header>, <hgroup>, <section>, <aside>, <article>, <footer>
 * Know the difference a <section> and a <div>

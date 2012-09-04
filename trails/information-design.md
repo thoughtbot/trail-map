@@ -13,6 +13,6 @@ Validation
 -----------------
 You demonstrate knowledge of Information Design when you can:
 
-* Cleanly and clearly communicate information
-* Know the what chart junk is when to use it and when not to use it
-* Have an understanding of what some of the options are for basic charts and graphs, including bar (vertical/horizontal), line, pie, spark lines, and what they are good at communicating and what they are bad at communicating
+* Cleanly and clearly communicate information.
+* Know the what chart junk is when to use it and when not to use it.
+* Understand the basic chart/graph options (including bar (vertical/horizontal), line, pie, spark lines) and appropriate use cases for each.
