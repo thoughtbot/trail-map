@@ -5,11 +5,16 @@ Critical learning
 -----------------
 
 * Complete Michael Hartl's [Rails Tutorial](http://ruby.railstutorial.org). (Free/$)
+* Complete [Rails for Zombies Redux](http://www.codeschool.com/courses/rails-for-zombies-redux) course.
+* Complete [Rails for Zombies 2](http://www.codeschool.com/courses/rails-for-zombies-2) course. ($)
+* Complete [Rails Best Practices](http://www.codeschool.com/courses/rails-best-practices) course. ($)
+* Complete [Rails Testing for Zombies](http://www.codeschool.com/courses/rails-testing-for-zombies). ($)
 * Read [the official guides](http://guides.rubyonrails.org).
 * Push your code to [Github](http://github.com). (Free/$)
 * Deploy to [Heroku](http://heroku.com). (Free/$)
 * Watch [Railscasts](http://railscasts.com) that interest you.
 * Read examples of source code, such as [this](https://github.com/copycopter/copycopter-server).
+
 
 Validation
 ----------
