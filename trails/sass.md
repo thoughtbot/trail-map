@@ -12,10 +12,10 @@ Validation
 
 You know everyday Sass when you can:
 
-* Use nested selectors.
-* Know the difference between `@include` and `@extend` and the advantages of each.
-* Set and use variables.
 * Create and use mixins.
+* Set and use variables.
+* Use nested selectors.
+* Use `@include` and `@extend`.
 
 Ongoing reference
 -----------------
