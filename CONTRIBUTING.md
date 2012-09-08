@@ -11,13 +11,14 @@ Contributing
 
 Merging Pull Requests (for admins)
 ----------------------------------
-* git remote add username git://github.com/username/trail-map.git
-* git fetch username
-* git cherry-pick aabbcceeddffgg...(this is the SHA)
+
+    git remote add username git://github.com/username/trail-map.git
+    git fetch username
+    git cherry-pick aabbcceeddffgg...(this is the SHA)
 
 Then, edit the commit as necessary and then edit the commit message:
 
-git add -A
-git commit --amend -v
+    git add -A
+    git commit --amend -v
 
-Reasoning [detailed by Linus](https://github.com/torvalds/linux/pull/17)
+Reasoning [detailed by Linus](https://github.com/torvalds/linux/pull/17).
