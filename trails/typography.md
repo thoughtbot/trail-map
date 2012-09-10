@@ -24,7 +24,7 @@ You know everyday typography when you can:
 * Pair two or more typefaces in a design and make it look good.
 * Space letters horizontally (kern).
 * Space lines of type vertically with `line-height` (leading).
-* Use the vocabulary of tyopgraphy with teammates.
+* Use the vocabulary of typography with teammates.
 
 Ongoing reference
 -----------------
