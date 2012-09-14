@@ -59,9 +59,11 @@ Credits
 
 Trail Map is maintained by [thoughtbot, inc](http://thoughtbot.com/community)
 
+Thank you to all [the contributors](https://github.com/thoughtbot/trail_map/contributors)!
+
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
 
 License
 -------
 
-Trail Map is licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/).
+Trail Map is Copyright © 2012 thoughtbot, inc. It is free software, and may be redistributed under the terms specified in the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/).
