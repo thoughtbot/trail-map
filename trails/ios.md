@@ -3,6 +3,7 @@ iOS
 
 Critical Learning
 -----------------
+
 * Read [Learning Objective-C: A Primer](http://developer.apple.com/library/mac/#referencelibrary/GettingStarted/Learning_Objective-C_A_Primer/_index.html)
 * Read [Learn Objective-C on the Mac](http://www.amazon.com/Learn-Objective-C-Mac-For-Apress/dp/1430241888/ref=sr_1_1?s=books&ie=UTF8&qid=1339042063&sr=1-1) ($)
 * Read [Beginning iOS 5 Development: Exploring the iOS SDK](http://www.amazon.com/Beginning-iOS-Development-Exploring-SDK/dp/1430236051/ref=sr_1_2?ie=UTF8&qid=1339041976&sr=8-2) ($)
