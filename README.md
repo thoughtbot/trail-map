@@ -29,6 +29,7 @@ Trails
 ------
 
 * [CSS](/thoughtbot/trail-map/blob/master/trails/css.md)
+* [Code Review](/thoughtbot/trail-map/blob/master/trails/code-review.md)
 * [Git](/thoughtbot/trail-map/blob/master/trails/git.md)
 * [Grids](/thoughtbot/trail-map/blob/master/trails/grids.md)
 * [HTML](/thoughtbot/trail-map/blob/master/trails/html.md)
