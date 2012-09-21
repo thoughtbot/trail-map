@@ -59,3 +59,4 @@ Refer to help pages:
 :help user-manual
 :help visual.txt
 ```
+* Read about the [history of Vi and Vim](http://arstechnica.com/information-technology/2011/11/two-decades-of-productivity-vims-20th-anniversary/)
