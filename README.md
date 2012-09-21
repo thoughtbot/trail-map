@@ -28,6 +28,7 @@ To use these, you may want to first set up your laptop with
 Trails
 ------
 
+* [Code Review](/thoughtbot/trail-map/blob/master/trails/code_review.md)
 * [CSS](/thoughtbot/trail-map/blob/master/trails/css.md)
 * [Git](/thoughtbot/trail-map/blob/master/trails/git.md)
 * [Grids](/thoughtbot/trail-map/blob/master/trails/grids.md)
