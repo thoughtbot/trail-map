@@ -16,7 +16,7 @@ You know how to review code when you can:
 * Comment constructively and politely.
 * Learn something valuable from the comments.
 * Express appreciation to the author.
-* Respond the request in a timely manner.
+* Review the code in a timely manner.
 
 You know how to have your code reviewed when you can:
 
