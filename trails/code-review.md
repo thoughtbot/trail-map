@@ -4,11 +4,7 @@ Code Review
 Critical Learning
 -----------------
 
-* Understand the [feature branch code review process](http://robots.thoughtbot.com/post/2831837714/feature-branch-code-reviews)
-* Understand [why you should review code](http://www.codinghorror.com/blog/2006/01/code-reviews-just-do-it.html)
-* Understand [benefits of code review](http://scientopia.org/blogs/goodmath/2011/07/06/things-everyone-should-do-code-review/)
-* Understand how [Pair Programming compliments Code Review](http://www.codinghorror.com/blog/2007/11/pair-programming-vs-code-reviews.html)
-
+* Read [feature branch code reviews](http://robots.thoughtbot.com/post/2831837714/feature-branch-code-reviews).
 
 Validation
 ----------
