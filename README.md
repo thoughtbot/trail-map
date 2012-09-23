@@ -3,7 +3,8 @@ Trail map
 
 > How do I learn Ruby on Rails? Vim? Test-Driven Development?
 
-[apprentice.io](http://apprentice.io) has forced us to formalize our answers to such questions.
+[apprentice.io](http://apprentice.io) has forced us to formalize our answers to
+such questions.
 
 A few problems make those questions difficult to answer. Individuals:
 
@@ -11,7 +12,8 @@ A few problems make those questions difficult to answer. Individuals:
 * have different learning styles
 * change their goals mid-process
 
-A good metaphor for the learning process is a (hiking, biking, or skiing) trail map. Individuals:
+A good metaphor for the learning process is a (hiking, biking, or skiing) trail
+map. Individuals:
 
 * start in different places
 * want to go to different places
@@ -59,12 +61,13 @@ Credits
 ![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
 
 Trail Map is maintained by [thoughtbot, inc](http://thoughtbot.com/community)
-
-Thank you to all [the contributors](https://github.com/thoughtbot/trail_map/contributors)!
-
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
+
+Thank you, [contributors](/thoughtbot/trail_map/contributors)!
 
 License
 -------
 
-Trail Map is Copyright © 2012 thoughtbot, inc. It is free software, and may be redistributed under the terms specified in the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/).
+Trail Map is © 2012 thoughtbot, inc. It is free software and may be
+redistributed under the terms specified in the [Creative Commons Attribution
+License](http://creativecommons.org/licenses/by/3.0/).
