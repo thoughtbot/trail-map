@@ -16,9 +16,9 @@ Validation
 
 You know basic product design when you can:
 
-* Define an MVP.
+* Define an MVP (Minimum Viable Product).
 * Explain the values of short product development cycles and iterative testing.
 * Write effective user stories.
 * Articulate your process in defining and solving interface problems.
 * Rapidly prototype.
-* Hold the Mayo [Getting Real, chpt. 5](http://gettingreal.37signals.com/)
+* Hold the Mayo: [Getting Real, chpt. 5](http://gettingreal.37signals.com/)
