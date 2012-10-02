@@ -4,14 +4,14 @@ Typography
 Critical learning
 -----------------
 
-* Read [The Elements of Typographic Style](http://amzn.to/aRAKml) and
+* Read [The Elements of Typographic Style](http://amzn.to/elements-typographic-style) ($) and
   [how it applies to the web](http://webtypography.net).
-* Read [Thinking with Type](http://amzn.to/U76Kbj).
+* Read [Thinking with Type](http://amzn.to/thinking-with-type).
 * Read [Real Web Type in Real Web Context](http://www.alistapart.com/articles/real-web-type-in-real-web-context/).
 * Read [On Web Typography](http://www.alistapart.com/articles/on-web-typography/).
 * Read [More Meaningful Typography](http://www.alistapart.com/articles/more-meaningful-typography/).
 * Watch [Tim Brown's More Perfect Typography](https://vimeo.com/17079380).
-* Read [Stop Stealing Sheep & Find Out How Type Works](http://amzn.com/0201703394).
+* Read [Stop Stealing Sheep & Find Out How Type Works](http://amzn.to/stop-stealing-sheep). ($)
 
 Validation
 ----------

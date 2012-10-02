@@ -4,7 +4,7 @@ Test-Driven Development
 Critical learning
 -----------------
 
-* Read [Test-Driven Development By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530). ($)
+* Read [Test-Driven Development By Example](http://amzn.to/test-driven-dev). ($)
 * Read [Beginning Outside-In Rails Development with Cucumber and RSpec](http://blog.carbonfive.com/2012/02/14/beginning-outside-in-rails-development-with-cucumber-and-rspec/).
 * Read [Martin Fowlers "Mocks Aren't Stubs"](http://martinfowler.com/articles/mocksArentStubs.html).
 
@@ -24,4 +24,4 @@ You know everyday TDD when you can:
 Ongoing reference
 -----------------
 
-* [xUnit Test Patterns](http://xunitpatterns.com)
+* [xUnit Test Patterns](http://amzn.to/x-test-patterns) ($)

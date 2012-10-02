@@ -6,11 +6,11 @@ Critical Learning
 
 * First, [Try Ruby](http://tryruby.org)!
 * Read [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/).
-* Read [The Well-Grounded Rubyist](http://manning.com/black2/). ($)
+* Read [The Well-Grounded Rubyist](http://amzn.to/grounded-rubyist). ($)
 * Complete the [Ruby Koans](http://rubykoans.com).
 * Read examples of source code, such as [this](https://github.com/jferris/effigy/tree/master/lib).
 * Read these sections of
-  [The Pickaxe](http://pragprog.com/book/ruby/programming-ruby): ($)
+ [The Pickaxe](http://amzn.to/pickaxe-19): ($)
 
 ```shell
 Chapter 23, "Duck Typing"
