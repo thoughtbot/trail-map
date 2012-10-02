@@ -6,7 +6,7 @@ Critical learning
 
 * Complete [Codecademy](http://www.codecademy.com) exercises.
 * Read [Eloquent Javascript](http://eloquentjavascript.net/contents.html).
-* Read [Javascript Web Applications](http://amzn.to/NXIp5t).
+* Read [Javascript Web Applications](http://amzn.to/javascript-web-apps). ($)
 
 Validation
 ----------

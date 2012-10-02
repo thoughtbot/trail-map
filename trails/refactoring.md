@@ -34,5 +34,5 @@ You know advanced refactoring when you can (safely):
 Ongoing reference
 -----------------
 
-* [Refactoring: Ruby Edition](http://www.amazon.com/Refactoring-Ruby-Edition-ebook/dp/B002TIOYWG/ref=kinw_dp_ke?ie=UTF8&m=AG56TWVU5XWC2) ($)
-* [Refactoring to Patterns](http://www.amazon.com/Refactoring-to-Patterns-ebook/dp/B001TKD4RQ/ref=kinw_dp_ke?ie=UTF8&m=AG56TWVU5XWC2) ($)
+* [Refactoring: Ruby Edition](http://amzn.to/ruby-refactoring) ($)
+* [Refactoring to Patterns](http://amzn.to/refactoring-to-patterns) ($)

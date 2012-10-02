@@ -4,7 +4,7 @@ Unix
 Critical learning
 -----------------
 
-* Read [The Linux Programming Interface](http://www.amazon.com/The-Linux-Programming-Interface-Handbook/dp/1593272200) Chapters 1,2,6,8,10,14,15,18,25,44,62. ($)
+* Read [The Linux Programming Interface](http://amzn.to/the-linux-programming-interface). ($) Chapters 1,2,6,8,10,14,15,18,25,44,62.
 * Read about [I/O redirection](http://en.wikipedia.org/wiki/Redirection_%28computing%29).
 
 Validation

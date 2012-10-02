@@ -4,10 +4,10 @@ Information Design
 Critical learning
 -----------------
 
-* Read [Information Dashboard Design](http://amzn.to/6njM).
-* Read [Envisioning Information](http://amzn.to/YVYei).
-* Read [The Visual Display of Quantitative Information](http://amzn.to/SKnya8).
-* Read [A Practical Guide to Designing with Data](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data).
+* Read [Information Dashboard Design](http://amzn.to/information-dashboard). ($)
+* Read [Envisioning Information](http://amzn.to/envisioning-information). ($)
+* Read [The Visual Display of Quantitative Information](http://amzn.to/visual-display). ($)
+* Read [A Practical Guide to Designing with Data](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data). ($)
 
 Validation
 ----------
