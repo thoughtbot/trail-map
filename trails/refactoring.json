@@ -1,0 +1,67 @@
+{
+  "name": "Refactoring",
+  "description": "Restructuring an existing body of code, altering its internal structure without changing its external behavior.",
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "title": "Read Introduce Explaining Variable",
+          "uri": "http://sourcemaking.com/refactoring/introduce-explaining-variable"
+        },
+        {
+          "title": "Read Rename Method",
+          "uri": "http://sourcemaking.com/refactoring/rename-method"
+        },
+        {
+          "title": "Read Extract Method",
+          "uri": "http://sourcemaking.com/refactoring/extract-method"
+        },
+        {
+          "title": "Read Move Method",
+          "uri": "http://sourcemaking.com/refactoring/move-method"
+        },
+        {
+          "title": "Read Replace Method with Method Object",
+          "uri": "http://sourcemaking.com/refactoring/replace-method-with-method-object"
+        },
+        {
+          "title": "Read Extract Class",
+          "uri": "http://sourcemaking.com/refactoring/extract-class"
+        },
+        {
+          "title": "Read Introduce Null Object",
+          "uri": "http://sourcemaking.com/refactoring/introduce-null-object"
+        },
+        {
+          "title": "Read Replace Conditional with Polymorphism",
+          "uri": "http://sourcemaking.com/refactoring/replace-conditional-with-polymorphism"
+        }
+      ],
+      "validations": [
+        "Introduce an explaining variable.",
+        "Rename a method.",
+        "Extract a method.",
+        "Move a method.",
+        "Replace a method with an object.",
+        "Extract a class.",
+        "Introduce a null object.",
+        "Replace a conditional with polymorphism.",
+        "Replace inheritance with delegation."
+      ]
+    },
+    {
+      "name": "Ongoing Reference",
+      "resources": [
+        {
+          "title": "Refactoring: Ruby Edition",
+          "uri": "http://amzn.to/ruby-refactoring"
+        },
+        {
+          "title": "Refactoring to Patterns",
+          "uri": "http://amzn.to/refactoring-to-patterns"
+        }
+      ]
+    }
+  ]
+}

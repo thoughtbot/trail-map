@@ -1,0 +1,29 @@
+{
+  "name": "Sass",
+  "description": "A scripting language that is interpreted into CSS, that provides powerful functionality not provided by CSS live nesting, variables, and mixins.",
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "title": "Read the Sass Tutorial",
+          "uri": "http://sass-lang.com/tutorial.html"
+        },
+        {
+          "title": "Read open source code",
+          "uri": "https://github.com/thoughtbot/bourbon/tree/master/app/assets/stylesheets"
+        },
+        {
+          "title": "Read the Sass Documentation",
+          "uri": "http://sass-lang.com/docs.html"
+        }
+      ],
+      "validations": [
+        "Create and use mixins.",
+        "Set and use variables.",
+        "Use nested selectors.",
+        "Use @include and @extend."
+      ]
+    }
+  ]
+}

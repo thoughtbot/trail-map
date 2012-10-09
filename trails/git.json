@@ -1,0 +1,134 @@
+{
+  "name": "Git",
+  "description": "A distributed revision control and source code management system with an emphasis on speed.",
+  "steps": [
+    {
+      "name": "Learn everyday git",
+      "resources": [
+        {
+          "title": "Try Git",
+          "uri": "http://try.github.com"
+        },
+        {
+          "title": "Watch the Normal Workflow gitcast",
+          "uri": "http://blip.tv/scott-chacon/c2-normal-workflow-4113486"
+        }
+      ],
+      "validations": [
+        "Initialize a repository",
+        "Clone a repository",
+        "Ignore files",
+        "Add a file to staging",
+        "Unstage a file",
+        "Check status",
+        "View a diff",
+        "Create a commit",
+        "Push to origin",
+        "Pull remote changes locally",
+        "Resolve a conflict",
+        "Create a branch",
+        "Merge a branch into master",
+        "Push to a remote branch",
+        "Rebase origin/master into a branch"
+      ]
+    },
+    {
+      "name": "Intermediate Git",
+      "resources": [
+        {
+          "title": "Watch the Distributed Workflow gitcast.",
+          "uri": "http://blip.tv/scott-chacon/c8-dist-workflow-4113615"
+        },
+        {
+          "title": "Read Chapter 3 of Pro Git",
+          "uri": "http://git-scm.com/book/en/Git-Branching"
+        },
+        {
+          "title": "Read gitready articles that interest you.",
+          "uri": "http://gitready.com"
+        }
+      ],
+      "validations": [
+      "Add a remote",
+        "Amend a commit",
+        "Show a commit by SHA hash",
+        "Stash changes",
+        "Squash commits",
+        "Create a tag"
+      ]
+    },
+    {
+      "name": "Advanced Git",
+      "resources": [
+        {
+          "title": "git-clone",
+          "uri": "http://git-scm.com/docs/git-clone"
+        },
+        {
+          "title": "git-init",
+          "uri": "http://git-scm.com/docs/git-init"
+        },
+        {
+          "title": "git-add",
+          "uri": "http://git-scm.com/docs/git-add"
+        },
+        {
+          "title": "git-branch",
+          "uri": "http://git-scm.com/docs/git-branch"
+        },
+        {
+          "title": "git-checkout",
+          "uri": "http://git-scm.com/docs/git-checkout"
+        },
+        {
+          "title": "git-commit",
+          "uri": "http://git-scm.com/docs/git-commit"
+        },
+        {
+          "title": "git-diff",
+          "uri": "http://git-scm.com/docs/git-diff"
+        },
+        {
+          "title": "git-merge",
+          "uri": "http://git-scm.com/docs/git-merge"
+        },
+        {
+          "title": "git-pull",
+          "uri": "http://git-scm.com/docs/git-pull"
+        },
+        {
+          "title": "git-push",
+          "uri": "http://git-scm.com/docs/git-push"
+        },
+        {
+          "title": "git-rebase",
+          "uri": "http://git-scm.com/docs/git-rebase"
+        },
+        {
+          "title": "git-reset",
+          "uri": "http://git-scm.com/docs/git-reset"
+        },
+        {
+          "title": "git-show",
+          "uri": "http://git-scm.com/docs/git-show"
+        },
+        {
+          "title": "git-stash",
+          "uri": "http://git-scm.com/docs/git-stash"
+        },
+        {
+          "title": "git-status",
+          "uri": "http://git-scm.com/docs/git-status"
+        }
+      ],
+      "validations": [
+        "Cherry pick commits",
+        "Reorder commits",
+        "Keep either file in merge conflicts",
+        "Restore lost commits",
+        "Visualize commits differently using git log flags",
+        "Visualize changes differently using git diff flags"
+      ]
+    }
+  ]
+}

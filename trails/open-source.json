@@ -1,0 +1,147 @@
+{
+  "name": "Open Source",
+  "description": "A software philsophy that promotes free redistribution and access to source code.",
+  "prerequisites": [
+    "code-review",
+    "git",
+    "refactoring",
+    "unix",
+    "vim"
+  ],
+  "steps": [
+    {
+      "name": "Use open source",
+      "resources": [
+        {
+          "title": "Get a GitHub account",
+          "uri": "http://github.com"
+        },
+        {
+          "title": "Read about software licenses",
+          "uri": "http://playbook.thoughtbot.com/choosing-platforms/software-licenses/"
+        },
+        {
+          "title": "Read about the purpose and formatting of a NEWS file",
+          "uri": "http://www.gnu.org/prep/standards/html_node/NEWS-File.html#NEWS-File"
+        },
+        {
+          "title": "Read about the purpose and formatting of a ChangeLog file",
+          "uri": "http://www.gnu.org/prep/standards/html_node/Change-Logs.html#Change-Logs"
+        }
+      ],
+      "validations": [
+        "Evaluate a project based on quality of code, tests, documentation.",
+        "Evaluate a project based on responsiveness of maintainers to developers' questions and feature requests.",
+        "Evaluate a project based on regularity of releases.",
+        "Evaluate a project based on the appropriateness of its license for your needs.",
+        "Evaluate a project by downloading and trying it.",
+        "Search issues for a similar problem you're having.",
+        "Comment with additional data on issues that you're also having.",
+        "Submit new issues with good environment (Ruby version, OS, etc.) info, error messages, and backtraces so the maintainer can quickly replicate it."
+      ]
+    },
+    {
+      "name": "Contribute to open source",
+      "resources": [
+        {
+          "title": "Read 8 steps to fixing other people's code",
+          "uri": "http://rdd.me/tsf7khhg"
+        },
+        {
+          "title": "Read the Semantic Versioning specification",
+          "uri": "http://semver.org/"
+        }
+      ],
+      "validations": [
+        "Get annoyed by a defect or missing feature.",
+        "Find the source code.",
+        "Create a copy of the source (\"fork\" on Github).",
+        "Check out (git clone) the source.",
+        "Poke around the source in your editor and shell (grep).",
+        "Read the contribution guidelines.",
+        "Write a failing test in the style of the project's test suite.",
+        "Write code to make the test pass in the style of the project's codebase.",
+        "Make sure the entire test suite passes.",
+        "Create a patch (push to your fork on Github).",
+        "Submit a patch (\"pull request\" on Github).",
+        "If it exists, email the project's mailing list asking for feedback."
+      ]
+    },
+    {
+      "name": "Maintain an open source project",
+      "resources": [
+        {
+          "title": "Watch How to manage an open source project",
+          "uri": "http://vimeo.com/45214727"
+        },
+        {
+          "title": "Read the rubygems.org \"Make your own gem\" guide",
+          "uri": "http://guides.rubygems.org/make-your-own-gem/"
+        }
+      ],
+      "validations": [
+        "Apply an appropriate license to your project.",
+        "Document a clear public API.",
+        "Document where issues are managed, such as Github Issues.",
+        "Evaluate pull requests and provide kind, intelligent feedback.",
+        "Provide a clear place for questions, such as Stack Overflow. Only provide a Google Group mailing list if you're ready to support it.",
+        "Provide your code in easily accessible form (Rubygems, GitHub).",
+        "Select or reject open source software based on its license.",
+        "Use major, minor, and patch version numbers (Semantic Versioning)."
+      ]
+    },
+    {
+      "name": "Ongoing Reference",
+      "resources": [
+        {
+          "title": "Berkeley DB",
+          "uri": "http://www.aosabook.org/en/bdb.html"
+        },
+        {
+          "title": "The Bourne-Again Shell",
+          "uri": "http://www.aosabook.org/en/bash.html"
+        },
+        {
+          "title": "Continuous Integration",
+          "uri": "http://www.aosabook.org/en/integration.html"
+        },
+        {
+          "title": "Git",
+          "uri": "http://www.aosabook.org/en/git.html"
+        },
+        {
+          "title": "The Glasgow Haskell Compiler",
+          "uri": "http://www.aosabook.org/en/ghc.html"
+        },
+        {
+          "title": "GNU Mailman",
+          "uri": "http://www.aosabook.org/en/mailman.html"
+        },
+        {
+          "title": "MediaWiki",
+          "uri": "http://www.aosabook.org/en/mediawiki.html"
+        },
+        {
+          "title": "nginx",
+          "uri": "http://www.aosabook.org/en/nginx.html"
+        },
+        {
+          "title": "Riak and Erlang/OTP",
+          "uri": "http://www.aosabook.org/en/riak.html"
+        },
+        {
+          "title": "Scalable Web Architecture and Distributed Systems",
+          "uri": "http://www.aosabook.org/en/distsys.html"
+        },
+        {
+          "title": "Sendmail",
+          "uri": "http://www.aosabook.org/en/sendmail.html"
+        },
+        {
+          "title": "Twisted",
+          "uri": "http://www.aosabook.org/en/twisted.html"
+        }
+      ]
+    }
+  ]
+}
