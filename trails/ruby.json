@@ -1,0 +1,76 @@
+{
+  "name": "Ruby",
+  "steps": [
+    {
+      "name": "Get to know ruby",
+      "resources": [
+        {
+          "title": "First, Try Ruby!",
+          "url": "http://tryruby.org"
+        },
+        {
+          "title": "Read Learn Ruby The Hard Way.",
+          "url": "http://ruby.learncodethehardway.org/book/"
+        },
+        {
+          "title": "Read The Well-Grounded Rubyist.",
+          "url": "http://amzn.to/grounded-rubyist"
+        }
+      ],
+      "validations": [
+        "Use irb to test your ideas.",
+        "Print values.",
+        "Run programs.",
+        "Avoid syntax errors.",
+        "Define a method.",
+        "Invode a method.",
+        "Use common control flow structures."
+      ]
+    },
+    {
+      "name": "Expand your knowledge.",
+      "resources": [
+        {
+          "title": "Complete the Ruby Koans.",
+          "url": "http://rubykoans.com"
+        },
+        {
+          "title": "Read examples of source code, like this one.",
+          "url": "https://github.com/jferris/effigy/tree/master/lib"
+        },
+        {
+          "title": "Read Chapters 23 and 24 of The Pickaxe",
+          "url": "http://amzn.to/pickaxe-19"
+        }
+      ],
+      "validations": [
+        "Compare objects.",
+        "Define a class.",
+        "Instantiate an object.",
+        "Iterate over collections."
+      ]
+    },
+  ],
+  "guides": [
+    {
+      "name": "Ruby Core Documentation",
+      "url": "http://ruby-doc.org/core-1.9.3"
+    },
+    {
+      "name": "Ruby Library reference in The Pickaxe",
+      "url": "http://amzn.to/pickaxe-19"
+    },
+    {
+      "name": "Github's Style Guide",
+      "url": "https://github.com/styleguide/ruby"
+    },
+    {
+      "name": "Ruby Style Guide",
+      "url": "https://github.com/bbatsov/ruby-style-guide"
+    },
+    {
+      "name": "thoughtbot's Style Guide",
+      "url": "http://build.thoughtbot.com/style-guide"
+    }
+  ]
+}
