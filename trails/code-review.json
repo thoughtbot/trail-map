@@ -1,0 +1,38 @@
+{
+  "name": "Code Review",
+  "steps": [
+    {
+      "name": "Read about code review.",
+      "resources": [
+        {
+          "name": "Feature branch code reviews",
+          "url": "http://goo.gl/jIcOv"
+        },
+        {
+          "name": "Best Practices of Peer Code Review",
+          "url": "http://goo.gl/A8Boc"
+        }
+      ]
+    },
+    {
+      "name": "Review someone else's code",
+      "validations": [
+        "Comment on a specific line number.",
+        "Comment constructively and politely.",
+        "Learn something valuable from the comments.",
+        "Express appreciation to the author.",
+        "Review the code in a timely manner."
+      ]
+    },
+    {
+      "name": "Have your code reviewed",
+      "validations": [
+        "Create small pull requests, which are easier to review.",
+        "Take comments as constructive and not personal criticism.",
+        "Learn something valuable from the comments.",
+        "Express appreciation to the reviewer.",
+        "Respond to comments in a timely manner."
+      ]
+    }
+  ]
+}
