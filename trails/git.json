@@ -1,0 +1,211 @@
+{
+  "name": "git",
+  "steps": [
+    {
+      "name": "Learn everyday git",
+      "resources": [
+        {
+          "name": "Try Git",
+          "url": "http://try.github.com"
+        },
+        {
+          "name": "Watch the Normal Workflow gitcast",
+          "url": "http://blip.tv/scott-chacon/c2-normal-workflow-4113486"
+        },
+      ],
+      "validations": [
+        {
+          "name": "Initialize a repository",
+          "url": "http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Initializing-a-Repository-in-an-Existing-Directory"
+        },
+        {
+          "name": "Clone a repository",
+          "url": "http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository"
+        },
+        {
+          "name": "Ignore files",
+          "url": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files"
+        },
+        {
+          "name": "Add a file to staging",
+          "url": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Tracking-New-Files"
+        },
+        {
+          "name": "Unstage a file",
+          "url": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Removing-Files"
+        },
+        {
+          "name": "Check status",
+          "url": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files"
+        },
+        {
+          "name": "View a diff",
+          "url": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Viewing-Your-Staged-and-Unstaged-Changes"
+        },
+        {
+          "name": "Create a commit",
+          "url": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Committing-Your-Changes"
+        },
+        {
+          "name": "Push to origin"
+        },
+        {
+          "name": "Pull remote changes locally",
+          "url": "http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Fetching-and-Pulling-from-Your-Remotes"
+        },
+        {
+          "name": "Resolve a conflict",
+          "url": "http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merge-Conflicts"
+        },
+        {
+          "name": "Create a branch",
+          "url": "http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Branching"
+        },
+        {
+          "name": "Merge a branch into master",
+          "url": "http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merging"
+        },
+        {
+          "name": "Push to a remote branch",
+          "url": "http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Pushing-to-Your-Remotes"
+        },
+        {
+          "name": "Rebase origin/master into a branch",
+          "url": "http://git-scm.com/book/en/Git-Branching-Rebasing#The-Basic-Rebase"
+        }
+      ]
+    },
+    {
+      "name": "Intermediate Git",
+      "resources": [
+        {
+          "name": "Watch the Distributed Workflow gitcast.",
+          "url": "http://blip.tv/scott-chacon/c8-dist-workflow-4113615"
+        },
+        {
+          "name": "Read Chapter 3 of Pro Git",
+          "url": "http://git-scm.com/book/en/Git-Branching"
+        },
+        {
+          "name": "Read gitready articles that interest you.",
+          "url": "http://gitready.com"
+        }
+      ],
+      "validations": [
+        {
+          "name": "Add a remote",
+          "url": "http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Adding-Remote-Repositories"
+        },
+        {
+          "name": "Amend a commit",
+          "url": "http://git-scm.com/book/en/Git-Basics-Undoing-Things#Changing-Your-Last-Commit"
+        },
+        {
+          "name": "Show a commit by SHA hash"
+        },
+        {
+          "name": "Stash changes",
+          "url": "http://git-scm.com/book/en/Git-Tools-Stashing#Stashing-Your-Work"
+        },
+        {
+          "name": "Squash commits"
+        },
+        {
+          "name": "Create a tag",
+          "url": "http://git-scm.com/book/en/Git-Basics-Tagging#Creating-Tags"
+        }
+      ]
+    },
+    {
+      "name": "Advanced Git",
+      "references" [
+        {
+          "name": "git-clone",
+          "url": "http://git-scm.com/docs/git-clone"
+        },
+        {
+          "name": "git-init",
+          "url": "http://git-scm.com/docs/git-init"
+        },
+        {
+          "name": "git-add",
+          "url": "http://git-scm.com/docs/git-add"
+        },
+        {
+          "name": "git-branch",
+          "url": "http://git-scm.com/docs/git-branch"
+        },
+        {
+          "name": "git-checkout",
+          "url": "http://git-scm.com/docs/git-checkout"
+        },
+        {
+          "name": "git-commit",
+          "url": "http://git-scm.com/docs/git-commit"
+        },
+        {
+          "name": "git-diff",
+          "url": "http://git-scm.com/docs/git-diff"
+        },
+        {
+          "name": "git-merge",
+          "url": "http://git-scm.com/docs/git-merge"
+        },
+        {
+          "name": "git-pull",
+          "url": "http://git-scm.com/docs/git-pull"
+        },
+        {
+          "name": "git-push",
+          "url": "http://git-scm.com/docs/git-push"
+        },
+        {
+          "name": "git-rebase",
+          "url": "http://git-scm.com/docs/git-rebase"
+        },
+        {
+          "name": "git-reset",
+          "url": "http://git-scm.com/docs/git-reset"
+        },
+        {
+          "name": "git-show",
+          "url": "http://git-scm.com/docs/git-show"
+        },
+        {
+          "name": "git-stash",
+          "url": "http://git-scm.com/docs/git-stash"
+        },
+        {
+          "name": "git-status",
+          "url": "http://git-scm.com/docs/git-status"
+        },
+      ]
+      "validations": [
+        {
+          "name": "Cherry pick commits",
+          "url": "http://git-scm.com/docs/git-cherry-pick"
+        },
+        {
+          "name": "Reorder commits",
+          "url": "http://gitready.com/advanced/2009/03/20/reorder-commits-with-rebase.html"
+        },
+        {
+          "name": "Keep either file in merge conflicts",
+          "url": "http://gitready.com/advanced/2009/02/25/keep-either-file-in-merge-conflicts.html"
+        },
+        {
+          "name": "Restore lost commits",
+          "url": "http://gitready.com/advanced/2009/01/17/restoring-lost-commits.html"
+        },
+        {
+          "name": "Visualize commits differently using `git log` flags",
+          "url": "http://gitready.com/advanced/2009/01/20/bend-logs-to-your-will.html"
+        },
+        {
+          "name": "Visualize changes differently using `git diff` flags",
+          "url": "http://git-scm.com/docs/git-diff"
+        }
+      ]
+    }
+  ]
+}
