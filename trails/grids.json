@@ -1,0 +1,48 @@
+{
+  "name": "Grids",
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "name": "Grid Systems: Principles of Organizing Type",
+          "url": "http://amzn.to/grid-systems-principles"
+        },
+        {
+          "name": "Grid Systems in Graphic Design",
+          "url": "http://amzn.to/grid-systems-graphic-design"
+        },
+        {
+          "name": "Mark Boulton's Designing Grid Systems",
+          "url": "http://goo.gl/VOGP"
+        },
+        {
+          "name": "Ordering Disorder: Grid Principles for Web Design",
+          "url": "http://amzn.to/ordering-disorder"
+        },
+        {
+          "name": "Geometry of Design: Studies in Proportion and Composition",
+          "url": "http://amzn.to/geometry-design"
+        }
+      ],
+      "validations": [
+        "Create inner axial alignment.",
+        "Edit and/or build a grid according to the content in your design (not using a prebuilt framework).",
+        "Have symmetrical and asymmetrical balance in your designs.",
+        "Keep consistent vertical and horizontal space.",
+        "Use the grid to create active white space within a design.",
+        "Use the grid to strengthen the contents hierarchy.",
+        "Use a more complex grid system than a equal column 3 or 4 column grid."
+      ]
+    },
+    {
+      "name": "Ongoing Reference",
+      "resources": [
+        {
+          "name": "Browse The Grid System.",
+          "url": "http://www.thegridsystem.org"
+        }
+      ]
+    }
+  ]
+}
