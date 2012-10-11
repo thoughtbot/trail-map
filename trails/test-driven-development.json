@@ -1,0 +1,35 @@
+{
+  "name": "Test–Driven Development",
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "name": "Read Test-Driven Development By Example.",
+          "url": "http://amzn.to/test-driven-dev"
+        },
+        {
+          "name": "Read Beginning Outside-In Rails Development with Cucumber and RSpec",
+          "url": "http://blog.carbonfive.com/2012/02/14/beginning-outside-in-rails-development-with-cucumber-and-rspec/"
+        },
+        {
+          "name": "Read Martin Fowlers "Mocks Aren't Stubs"",
+          "url": "http://martinfowler.com/articles/mocksArentStubs.html"
+        },
+        {
+          "name": "xUnit Test Patterns",
+          "url": "http://amzn.to/x-test-patterns"
+        }
+      ],
+      "validations": [
+        "Write a test before implementation.",
+        "Make the test error or fail.",
+        "Make the test pass by writing the simplest implementation possible.",
+        "Refactor.",
+        "Understand the basics of mocking and stubbing in unit tests.",
+        "Name each phase of the Four Phase Test.",
+        "Identify a Mystery Guest."
+      ]
+    }
+  ]
+}
