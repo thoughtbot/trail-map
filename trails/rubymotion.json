@@ -1,0 +1,36 @@
+{
+  "name": "RubyMotion",
+  "prerequisites": [
+    "ruby",
+    "ios",
+  ],
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "name": "Purchase RubyMotion",
+          "url": "http://sites.fastspring.com/hipbyte/product/rubymotion"
+        },
+        {
+          "name": "Complete the Getting Started",
+          "url": "http://goo.gl/FAMxA"
+        },
+        {
+          "name": "Watch the Pragmatic Programmers' RubyMotion video",
+          "url": "http://pragmaticstudio.com/screencasts/rubymotion"
+        },
+        {
+          "name": "Read the BubbleWrap source code",
+          "url": "https://github.com/rubymotion/BubbleWrap"
+        }
+      ],
+      "validations": [
+        "Test-drive your app.",
+        "Change the user interface from console.",
+        "Discover the iOS framework libraries in your editor using `ctags`.",
+        "Submit your app to TestFlight."
+      ]
+    }
+  ]
+}
