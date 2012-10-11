@@ -1,0 +1,71 @@
+{
+  "name": "Javascript",
+  "steps": [
+    {
+      "name": "Complete Javascript Fundamentals",
+      "resources": [
+        {
+          "name": "Codecademy",
+          "url": "http://www.codecademy.com/tracks/javascript"
+        },
+      "validations": [
+        "Run programs.",
+        "Define a function.",
+        "Invoke a function.",
+        "Avoid syntax errors.",
+        "Print values.",
+        "Use common control flow structures.",
+        "Instantiate an object.",
+        "Initialize arrays using `[]`.",
+        "Initialize empty objects and hashes using `{}`.",
+        "Iterate over collections."
+      ]
+    },
+    {
+      "name": "Read Eloquent Javascript",
+      "resources": [
+        {
+          "name": "Eloquent Javascript",
+          "url": "http://eloquentjavascript.net/contents.html"
+        },
+        {
+          "name": "Javascript: The Definitive Guide, Core and Client-Side Reference chapters."
+          "url": "http://amzn.to/ONeSOs"
+        }
+      ],
+      "validations": [
+        "Avoid global variables.",
+        "Inherit classes using `prototype`."
+      ]
+    },
+    {
+      "name": "Read Javascript Web Applications",
+      "resources": [
+        {
+          "name": "Javascript Web Applications",
+          "url": "http://amzn.to/javascript-web-apps"
+        },
+        {
+          "name": "jQuery API",
+          "url": "http://api.jquery.com"
+        }
+      ],
+      "validations": [
+        "Use Web Inspector to test your ideas.",
+        "Make HTTP requests.",
+        "Serialize and deserialize JSON.",
+        "Access and manipulate DOM elements.",
+        "Register and remove event handlers.",
+        "Respond to events.",
+        "Define functions that operate on `window` or DOM in scope of `window`.",
+        "Organize code into Models, Views, and Controllers.",
+        "Use [Pub/Sub](http://en.wikipedia.org/wiki/Publish/subscribe) with DOM and non-DOM events.",
+        "Generate GUIDs.",
+        "Secure your application against cross-domain requests.",
+        "Persist data locally between page refreshes using `localStorage`.",
+        "Use the HTML5 History API.",
+        "Bind a view element to a Javascript object (usually a model)."
+      ]
+    }
+  ]
+}

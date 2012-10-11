@@ -2,14 +2,14 @@
   "name": "Code Review",
   "steps": [
     {
-      "name": "Read about code review.",
+      "name": "Read about code reviews.",
       "resources": [
         {
           "name": "Feature branch code reviews",
           "url": "http://goo.gl/jIcOv"
         },
         {
-          "name": "Best Practices of Peer Code Review",
+          "name": "Best practices of peer code review",
           "url": "http://goo.gl/A8Boc"
         }
       ]
