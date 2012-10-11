@@ -1,5 +1,12 @@
 {
   "name": "Open Source",
+  "prerequisites": [
+    "code-review",
+    "git",
+    "refactoring",
+    "unix",
+    "vim"
+  ]
   "steps": [
     {
       "name": "Use open source",
