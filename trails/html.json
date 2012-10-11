@@ -6,19 +6,19 @@
       "name": "Critical Learning",
       "resources": [
         {
-          "name": "ReadA Beginner’s Guide to HTML & CSS",
+          "name": "Read A Beginner’s Guide to HTML & CSS",
           "url": "http://learn.shayhowe.com/"
         },
         {
-          "name": "CompleteCode Academy Web Fundamentals",
+          "name": "Complete Code Academy Web Fundamentals",
           "url": "http://www.codecademy.com/tracks/web"
         },
         {
-          "name": "ReadDive into HTML5",
+          "name": "Read Dive into HTML5",
           "url": "http://diveintohtml5.info/"
         },
         {
-          "name": "ReadHTML5 for Web Designers",
+          "name": "Read HTML5 for Web Designers",
           "url": "http://www.abookapart.com/products/html5-for-web-designers"
         }
       ],
@@ -34,7 +34,7 @@
       "name": "Ongoing Reference",
       "references": [
         {
-          "name": "Refer to theHTML5 Spec",
+          "name": "Refer to the HTML5 Spec",
           "url": "http://dev.w3.org/html5/spec/single-page.html"
         }
       ]
