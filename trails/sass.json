@@ -1,0 +1,28 @@
+{
+  "name": "Sass",
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "name": "Read the Sass Tutorial",
+          "url": "http://sass-lang.com/tutorial.html"
+        },
+        {
+          "name": "Read open source code: example",
+          "url": "https://github.com/thoughtbot/bourbon/tree/master/app/assets/stylesheets"
+        },
+        {
+          "name": "Read the Sass Documentation",
+          "url": "http://sass-lang.com/docs.html"
+        }
+      ],
+      "validations": [
+        "Create and use mixins.",
+        "Set and use variables.",
+        "Use nested selectors.",
+        "Use `@include` and `@extend`."
+      ]
+    }
+  ]
+}
