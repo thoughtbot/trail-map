@@ -1,5 +1,6 @@
 {
   "name": "Javascript",
+  "description": "The primary programming language used for client-side in-browser functionality.",
   "steps": [
     {
       "name": "Complete Javascript Fundamentals",

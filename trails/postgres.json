@@ -1,5 +1,6 @@
 {
   "name": "Postgres",
+  "description": "A special-purpose programming language designed for managing data in relational database management systems.",
   "steps": [
     {
       "name": "Read the following from the Postgres manual",

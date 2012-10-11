@@ -1,5 +1,6 @@
 {
   "name": "Ruby",
+  "description": "A dynamic, general-purpose object-oriented programming language that combines syntax inspired by Perl with Smalltalk-like features. Powers the Ruby on Rails framework.",
   "steps": [
     {
       "name": "Get to know ruby",

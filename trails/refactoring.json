@@ -1,5 +1,6 @@
 {
   "name": "Refactoring",
+  "description": "Restructuring an existing body of code, altering its internal structure without changing its external behavior.",
   "steps": [
     {
       "name": "Critical Learning",

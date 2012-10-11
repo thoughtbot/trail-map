@@ -1,5 +1,6 @@
 {
   "name": "Visual Design",
+  "description": "The fundamental ideas about the practice of good visual design.",
   "prerequisites": [
     "css",
     "grids",

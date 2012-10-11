@@ -1,5 +1,6 @@
 {
   "name": "Vim",
+  "description": "A text editor first released publicly in 1991. Vim's power is that it is keyboard driven and can be extensively customized.",
   "prerequisites": [
     "unix"
   ],
