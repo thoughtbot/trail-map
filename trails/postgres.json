@@ -1,0 +1,202 @@
+{
+  "name": "Postgres",
+  "steps": [
+    {
+      "name": "Read the following from the Postgres manual",
+      "resources": [
+        {
+          "name": "2.5. Querying a Table",
+          "url": "http://www.postgresql.org/docs/9.0/static/tutorial-select.html"
+        },
+        {
+          "name": "2.6. Joins Between Tables",
+          "url": "http://www.postgresql.org/docs/9.0/static/tutorial-join.html"
+        },
+        {
+          "name": "2.7. Aggregate Functions",
+          "url": "http://www.postgresql.org/docs/9.0/static/tutorial-agg.html"
+        },
+        {
+          "name": "3.5. Window Functions",
+          "url": "http://www.postgresql.org/docs/9.0/static/tutorial-window.html"
+        },
+        {
+          "name": "4. SQL Syntax",
+          "url": "http://www.postgresql.org/docs/9.0/static/sql-syntax.html"
+        },
+        {
+          "name": "4.1. Lexical Structure",
+          "url": "http://www.postgresql.org/docs/9.0/static/sql-syntax-lexical.html"
+        },
+        {
+          "name": "4.2. Value Expressions",
+          "url": "http://www.postgresql.org/docs/9.0/static/sql-expressions.html"
+        },
+        {
+          "name": "5. Data Definition",
+          "url": "http://www.postgresql.org/docs/9.0/static/ddl.html"
+        },
+        {
+          "name": "5.1. Table Basics",
+          "url": "http://www.postgresql.org/docs/9.0/static/ddl-basics.html"
+        },
+        {
+          "name": "5.2. Default Values",
+          "url": "http://www.postgresql.org/docs/9.0/static/ddl-default.html"
+        },
+        {
+          "name": "5.3. Constraints",
+          "url": "http://www.postgresql.org/docs/9.0/static/ddl-constraints.html"
+        },
+        {
+          "name": "5.5. Modifying Tables",
+          "url": "http://www.postgresql.org/docs/9.0/static/ddl-alter.html"
+        },
+        {
+          "name": "6. Data Manipulation",
+          "url": "http://www.postgresql.org/docs/9.0/static/dml.html"
+        },
+        {
+          "name": "6.1. Inserting Data",
+          "url": "http://www.postgresql.org/docs/9.0/static/dml-insert.html"
+        },
+        {
+          "name": "6.2. Updating Data",
+          "url": "http://www.postgresql.org/docs/9.0/static/dml-update.html"
+        },
+        {
+          "name": "6.3. Deleting Data",
+          "url": "http://www.postgresql.org/docs/9.0/static/dml-delete.html"
+        },
+        {
+          "name": "7. Queries",
+          "url": "http://www.postgresql.org/docs/9.0/static/queries.html"
+        },
+        {
+          "name": "7.1. Overview",
+          "url": "http://www.postgresql.org/docs/9.0/static/queries-overview.html"
+        },
+        {
+          "name": "7.2. Table Expressions",
+          "url": "http://www.postgresql.org/docs/9.0/static/queries-table-expressions.html"
+        },
+        {
+          "name": "7.3. Select Lists",
+          "url": "http://www.postgresql.org/docs/9.0/static/queries-select-lists.html"
+        },
+        {
+          "name": "7.4. Combining Queries",
+          "url": "http://www.postgresql.org/docs/9.0/static/queries-union.html"
+        },
+        {
+          "name": "7.5. Sorting Rows",
+          "url": "http://www.postgresql.org/docs/9.0/static/queries-order.html"
+        },
+        {
+          "name": "7.6. LIMIT and OFFSET",
+          "url": "http://www.postgresql.org/docs/9.0/static/queries-limit.html"
+        },
+        {
+          "name": "7.7. VALUES Lists",
+          "url": "http://www.postgresql.org/docs/9.0/static/queries-values.html"
+        },
+        {
+          "name": "7.8. WITH Queries (Common Table Expressions)",
+          "url": "http://www.postgresql.org/docs/9.0/static/queries-with.html"
+        },
+        {
+          "name": "9. Functions and Operators",
+          "url": "http://www.postgresql.org/docs/9.0/static/functions.html"
+        },
+        {
+          "name": "9.1. Logical Operators",
+          "url": "http://www.postgresql.org/docs/9.0/static/functions-logical.html"
+        },
+        {
+          "name": "9.2. Comparison Operators",
+          "url": "http://www.postgresql.org/docs/9.0/static/functions-comparison.html"
+        },
+        {
+          "name": "9.7.1. LIKE",
+          "url": "http://www.postgresql.org/docs/9.0/static/functions-matching.html#FUNCTIONS-LIKE"
+        },
+        {
+          "name": "Subquery Expressions",
+          "url": "http://www.postgresql.org/docs/9.0/static/functions-subquery.html"
+        },
+        {
+          "name": "11. Indexes",
+          "url": "http://www.postgresql.org/docs/9.0/static/indexes.html"
+        },
+        {
+          "name": "11.1. Introduction",
+          "url": "http://www.postgresql.org/docs/9.0/static/indexes-intro.html"
+        },
+        {
+          "name": "11.5. Combining Multiple Indexes",
+          "url": "http://www.postgresql.org/docs/9.0/static/indexes-bitmap-scans.html"
+        },
+        {
+          "name": "I. SQL Commands",
+          "url": "http://www.postgresql.org/docs/9.0/static/sql-commands.html"
+        },
+        {
+          "name": "[ALTER TABLE]",
+          "url": "http://www.postgresql.org/docs/9.0/static/sql-altertable.html"
+        },
+        {
+          "name": "[CREATE INDEX [ CONCURRENTLY ]]",
+          "url": "http://www.postgresql.org/docs/9.0/static/sql-createindex.html"
+        },
+        {
+          "name": "[CREATE TABLE]",
+          "url": "http://www.postgresql.org/docs/9.0/static/sql-createtable.html"
+        },
+          {
+          "name": "[DELETE]",
+          "url": "http://www.postgresql.org/docs/9.0/static/sql-delete.html"
+        },
+        {
+          "name": "[INSERT]",
+          "url": "http://www.postgresql.org/docs/9.0/static/sql-insert.html"
+        },
+          {
+          "name": "[SELECT]",
+          "url": "http://www.postgresql.org/docs/9.0/static/sql-select.html"
+        },
+        {
+          "name": "[UPDATE]",
+          "url": "http://www.postgresql.org/docs/9.0/static/sql-update.html"
+        }
+      ],
+      "validations": [
+        "Insert a new record.",
+        "Update one or more records.",
+        "Delete one or more records.",
+        "Find rows that satisfy one or more conditions.",
+        "Limit query results.",
+        "Order query results.",
+        "Average values in a column.",
+        "Find the mininum value in a column.",
+        "Find the maximum value in a column.",
+        "Sum values in a column.",
+        "Count values in a column.",
+        "Paginate results.",
+        "Suppress duplicates.",
+        "Answer negation questions. (\"Which students don't take course 101?\")",
+        "Answer limit questions. (\"Which students take at least 2 courses?\")",
+        "Answer exact questions. (\"Which professors teach only 1 course?\")",
+        "Answer relational division questions. (\"Find a plane faster than all trains.\")"
+      ]
+    },
+    {
+      "name": "Ongoing Reference",
+      "resources": [
+        {
+          "name": "SQL Cookbook",
+          "url": "http://www.amazon.com/Cookbook-Cookbooks-OReilly-Anthony-Molinaro/dp/0596009763"
+        }
+      ]
+    }
+  ]
+}
