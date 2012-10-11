@@ -1,0 +1,66 @@
+{
+  "name": "Refactoring",
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "name": "Read Introduce Explaining Variable",
+          "url": "http://sourcemaking.com/refactoring/introduce-explaining-variable"
+        },
+        {
+          "name": "Read Rename Method",
+          "url": "http://sourcemaking.com/refactoring/rename-method"
+        },
+        {
+          "name": "Read Extract Method",
+          "url": "http://sourcemaking.com/refactoring/extract-method"
+        },
+        {
+          "name": "Read Move Method",
+          "url": "http://sourcemaking.com/refactoring/move-method"
+        },
+        {
+          "name": "Read Replace Method with Method Object",
+          "url": "http://sourcemaking.com/refactoring/replace-method-with-method-object"
+        },
+        {
+          "name": "Read Extract Class",
+          "url": "http://sourcemaking.com/refactoring/extract-class"
+        },
+        {
+          "name": "Read Introduce Null Object",
+          "url": "http://sourcemaking.com/refactoring/introduce-null-object"
+        },
+        {
+          "name": "Read Replace Conditional with Polymorphism",
+          "url": "http://sourcemaking.com/refactoring/replace-conditional-with-polymorphism"
+        }
+      ],
+      "validations": [
+        "Introduce an explaining variable.",
+        "Rename a method.",
+        "Extract a method.",
+        "Move a method.",
+        "Replace a method with an object.",
+        "Extract a class.",
+        "Introduce a null object.",
+        "Replace a conditional with polymorphism.",
+        "Replace inheritance with delegation.",
+      ]
+    },
+    {
+      "name": "Ongoing Reference",
+      "resources": [
+        {
+          "name": "Refactoring: Ruby Edition",
+          "url": "http://amzn.to/ruby-refactoring"
+        },
+        {
+          "name": "Refactoring to Patterns",
+          "url": "http://amzn.to/refactoring-to-patterns"
+        }
+      ]
+    }
+  ]
+}
