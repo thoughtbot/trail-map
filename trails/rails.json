@@ -52,7 +52,7 @@
     },
     {
       "name": "Ongoing Reference",
-      "references" [
+      "resources": [
         {
           "name": "Refer to the API documentation",
           "url": "http://api.rubyonrails.org"
@@ -68,7 +68,7 @@
         {
           "name": "Subscribe to the Rails Core mailing list",
           "url": "http://goo.gl/YU3Ml"
-        },
+        }
       ]
     }
   ]

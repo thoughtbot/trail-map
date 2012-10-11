@@ -3,10 +3,10 @@
   "prerequisites": [
     "unix"
   ],
-  "steps" [
+  "steps": [
     {
       "name": "Critical Learning",
-      "references": [
+      "resources": [
         {
           "name": "Read Seven habits of effective text editing by vim author Bram Moolenaar.",
           "url": "http://www.moolenaar.net/habits.html"
@@ -27,7 +27,7 @@
           "url": "http://robots.thoughtbot.com/post/159805638/integrating-vim-into-your-life"
         },
         {
-          "name": "Type `:help` within vim and read the "Getting Started" and "Editing Effectively" sections."
+          "name": "Type `:help` within vim and read the \"Getting Started\" and \"Editing Effectively\" sections."
         }
       ],
       "validations": [
@@ -56,16 +56,16 @@
     },
     {
       "name": "Ongoing Reference",
-      "resources": {
+      "resources": [
         ":help",
         ":help g",
         ":help motion.txt",
         ":help spell.txt",
         ":help user-manual",
         ":help visual.txt"
-      },
+      ],
       "validations": [
-        "Identify vim's use of every letter on the keyboard (uppercase and lowercase).",
+        "Identify vim's use of every letter on the keyboard (uppercase and lowercase)."
       ]
     }
   ]

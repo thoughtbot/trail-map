@@ -7,7 +7,8 @@
         {
           "name": "Codecademy",
           "url": "http://www.codecademy.com/tracks/javascript"
-        },
+        }
+      ],
       "validations": [
         "Run programs.",
         "Define a function.",
@@ -29,7 +30,7 @@
           "url": "http://eloquentjavascript.net/contents.html"
         },
         {
-          "name": "Javascript: The Definitive Guide, Core and Client-Side Reference chapters."
+          "name": "Javascript: The Definitive Guide, Core and Client-Side Reference chapters.",
           "url": "http://amzn.to/ONeSOs"
         }
       ],

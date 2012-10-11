@@ -2,7 +2,7 @@
   "name": "RubyMotion",
   "prerequisites": [
     "ruby",
-    "ios",
+    "ios"
   ],
   "steps": [
     {

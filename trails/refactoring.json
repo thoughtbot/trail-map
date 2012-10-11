@@ -46,7 +46,7 @@
         "Extract a class.",
         "Introduce a null object.",
         "Replace a conditional with polymorphism.",
-        "Replace inheritance with delegation.",
+        "Replace inheritance with delegation."
       ]
     },
     {

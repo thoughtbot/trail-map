@@ -35,7 +35,7 @@
         {
           "name": "Read the Mobile Human Interface Guidelines",
           "url": "http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html"
-        },
+        }
       ],
       "validations": [
         "Use Xcode (and the built-in Interface Builder) to compile an iOS app.",
@@ -67,7 +67,7 @@
         {
           "name": "Sign up for thecocoa-dev",
           "url": "https://lists.apple.com/mailman/listinfo/cocoa-dev"
-        },
+        }
       ],
       "validations": [
         "Create and manage Core Data objects and schemas.",

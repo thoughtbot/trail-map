@@ -6,11 +6,11 @@
     "refactoring",
     "unix",
     "vim"
-  ]
+  ],
   "steps": [
     {
       "name": "Use open source",
-      "resources" [
+      "resources": [
         {
           "name": "Get a GitHub account",
           "url": "http://github.com"

@@ -11,7 +11,7 @@
         {
           "name": "Watch the Normal Workflow gitcast",
           "url": "http://blip.tv/scott-chacon/c2-normal-workflow-4113486"
-        },
+        }
       ],
       "validations": [
         {
@@ -118,7 +118,7 @@
     },
     {
       "name": "Advanced Git",
-      "references" [
+      "references": [
         {
           "name": "git-clone",
           "url": "http://git-scm.com/docs/git-clone"
@@ -178,8 +178,8 @@
         {
           "name": "git-status",
           "url": "http://git-scm.com/docs/git-status"
-        },
-      ]
+        }
+      ],
       "validations": [
         {
           "name": "Cherry pick commits",
