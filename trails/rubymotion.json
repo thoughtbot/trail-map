@@ -1,5 +1,6 @@
 {
   "name": "RubyMotion",
+  "description": "An implementation of the Ruby programming language that runs on iOS.",
   "prerequisites": [
     "ruby",
     "ios"

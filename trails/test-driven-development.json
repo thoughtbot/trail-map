@@ -1,5 +1,6 @@
 {
   "name": "Test–Driven Development",
+  "description": "The development cycle of writing an initially failing automated test case that defines the behavior of our software, then producing the minimum amount of code to pass that test, and then refactoring the new code to acceptable standards.",
   "steps": [
     {
       "name": "Critical Learning",

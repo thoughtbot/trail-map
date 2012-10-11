@@ -1,5 +1,6 @@
 {
   "name": "git",
+  "description": "A distributed revision control and source code management system with an emphasis on speed.",
   "steps": [
     {
       "name": "Learn everyday git",

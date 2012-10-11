@@ -1,5 +1,6 @@
 {
   "name": "Typography",
+  "description": "The art and technique of arranging type in order to make language visible.",
   "prerequisites": [
     "css"
   ],

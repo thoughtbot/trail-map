@@ -1,5 +1,6 @@
 {
   "name": "Sass",
+  "description": "A scripting language that is interpreted into CSS, that provides powerful functionality not provided by CSS live nesting, variables, and mixins.",
   "steps": [
     {
       "name": "Critical Learning",
