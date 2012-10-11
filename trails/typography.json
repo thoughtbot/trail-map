@@ -1,0 +1,71 @@
+{
+  "name": "Typography",
+  "prerequisites": [
+    "css"
+  ],
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "name": "Read The Elements of Typographic Style",
+          "url": "http://amzn.to/elements-typographic-style"
+        },
+        {
+          "name": "Read The Elements of Typographic Style Applied to the Web",
+          "url": "http://webtypography.net"
+        },
+        {
+          "name": "Read Thinking with Type",
+          "url": "http://amzn.to/thinking-with-type"
+        },
+        {
+          "name": "Read Real Web Type in Real Web Context",
+          "url": "http://www.alistapart.com/articles/real-web-type-in-real-web-context/"
+        },
+        {
+          "name": "Read On Web Typography",
+          "url": "http://www.alistapart.com/articles/on-web-typography/"
+        },
+        {
+          "name": "Read More Meaningful Typography",
+          "url": "http://www.alistapart.com/articles/more-meaningful-typography/"
+        },
+        {
+          "name": "Watch Tim Brown's More Perfect Typography",
+          "url": "https://vimeo.com/17079380"
+        },
+        {
+          "name": "Read Stop Stealing Sheep & Find Out How Type Works",
+          "url": "http://amzn.to/stop-stealing-sheep"
+        }
+      ],
+      "validations": [
+        "Choose a typeface which matches the style of a design.",
+        "Constrain lines of type to the proper length.",
+        "Create type hierarchy with size, space, color, emphasis, and weight.",
+        "Pair two or more typefaces in a design and make it look good.",
+        "Space letters horizontally (kern).",
+        "Space lines of type vertically with `line-height` (leading).",
+        "Use the vocabulary of typography with teammates."
+      ]
+    },
+    {
+      "name": "Ongoing Reference",
+      "resources": [
+        {
+          "name": "Browse I Love Typography",
+          "url": "http://www.ilovetypography.com"
+        },
+        {
+          "name": "Browse Typedia",
+          "url": "http://typedia.org"
+        },
+        {
+          "name": "Browse the Typophile Forums",
+          "url": "http://typophile.com"
+        }
+      ]
+    }
+  ]
+}
