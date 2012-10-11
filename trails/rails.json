@@ -1,0 +1,75 @@
+{
+  "name": "rails",
+  "prerequisites": [
+    "css",
+    "git",
+    "html",
+    "javascript",
+    "ruby",
+    "unix",
+    "vim"
+  ],
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "name": "Complete Michael Hartl's Rails Tutorial",
+          "url": "http://ruby.railstutorial.org"
+        },
+        {
+          "name": "Complete Rails Testing for Zombies",
+          "url": "http://www.codeschool.com/courses/rails-testing-for-zombies"
+        },
+        {
+          "name": "Push your code to Github",
+          "url": "http://github.com"
+        },
+        {
+          "name": "Deploy to Heroku",
+          "url": "http://heroku.com"
+        },
+        {
+          "name": "Watch Railscasts",
+          "url": "http://railscasts.com"
+        },
+        {
+          "name": "Read open source code: example",
+          "url": "https://github.com/copycopter/copycopter-server"
+        }
+      ],
+      "validations": [
+        "Create a route, controller, and action.",
+        "Query the database.",
+        "Create a form that save records.",
+        "Associate ActiveRecord objects.",
+        "Validate ActiveRecord objects.",
+        "Whitelist ActiveRecord attributes.",
+        "Interpolate data in a view.",
+        "Write and run tests for your models.",
+        "Deploy your app to production."
+      ]
+    },
+    {
+      "name": "Ongoing Reference",
+      "references" [
+        {
+          "name": "Refer to the API documentation",
+          "url": "http://api.rubyonrails.org"
+        },
+        {
+          "name": "Refer to the official guides",
+          "url": "http://guides.rubyonrails.org"
+        },
+        {
+          "name": "Stick to a style guide",
+          "url": "http://build.thoughtbot.com/style-guide"
+        },
+        {
+          "name": "Subscribe to the Rails Core mailing list",
+          "url": "http://goo.gl/YU3Ml"
+        },
+      ]
+    }
+  ]
+}
