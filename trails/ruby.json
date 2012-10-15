@@ -6,15 +6,15 @@
       "name": "Get to know ruby",
       "resources": [
         {
-          "title": "First, Try Ruby!",
+          "name": "First, Try Ruby!",
           "url": "http://tryruby.org"
         },
         {
-          "title": "Read Learn Ruby The Hard Way.",
+          "name": "Read Learn Ruby The Hard Way.",
           "url": "http://ruby.learncodethehardway.org/book/"
         },
         {
-          "title": "Read The Well-Grounded Rubyist.",
+          "name": "Read The Well-Grounded Rubyist.",
           "url": "http://amzn.to/grounded-rubyist"
         }
       ],
@@ -32,15 +32,15 @@
       "name": "Expand your knowledge.",
       "resources": [
         {
-          "title": "Complete the Ruby Koans.",
+          "name": "Complete the Ruby Koans.",
           "url": "http://rubykoans.com"
         },
         {
-          "title": "Read examples of source code, like this one.",
+          "name": "Read examples of source code, like this one.",
           "url": "https://github.com/jferris/effigy/tree/master/lib"
         },
         {
-          "title": "Read Chapters 23 and 24 of The Pickaxe",
+          "name": "Read Chapters 23 and 24 of The Pickaxe",
           "url": "http://amzn.to/pickaxe-19"
         }
       ],
