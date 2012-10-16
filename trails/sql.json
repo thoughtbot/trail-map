@@ -1,6 +1,6 @@
 {
-  "name": "Postgres",
-  "description": "A special-purpose programming language designed for managing data in relational database management systems.",
+  "name": "SQL",
+  "description": "A special-purpose programming language designed for managing data in relational database management systems. We recommend the SQL server PostgreSQL",
   "steps": [
     {
       "name": "Read the following from the Postgres manual",
