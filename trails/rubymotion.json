@@ -10,20 +10,20 @@
       "name": "Critical Learning",
       "resources": [
         {
-          "name": "Purchase RubyMotion",
-          "url": "http://sites.fastspring.com/hipbyte/product/rubymotion"
+          "title": "Purchase RubyMotion",
+          "uri": "http://sites.fastspring.com/hipbyte/product/rubymotion"
         },
         {
-          "name": "Complete the Getting Started",
-          "url": "http://goo.gl/FAMxA"
+          "title": "Complete the Getting Started",
+          "uri": "http://goo.gl/FAMxA"
         },
         {
-          "name": "Watch the Pragmatic Programmers' RubyMotion video",
-          "url": "http://pragmaticstudio.com/screencasts/rubymotion"
+          "title": "Watch the Pragmatic Programmers' RubyMotion video",
+          "uri": "http://pragmaticstudio.com/screencasts/rubymotion"
         },
         {
-          "name": "Read the BubbleWrap source code",
-          "url": "https://github.com/rubymotion/BubbleWrap"
+          "title": "Read the BubbleWrap source code",
+          "uri": "https://github.com/rubymotion/BubbleWrap"
         }
       ],
       "validations": [

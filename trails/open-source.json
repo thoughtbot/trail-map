@@ -13,20 +13,20 @@
       "name": "Use open source",
       "resources": [
         {
-          "name": "Get a GitHub account",
-          "url": "http://github.com"
+          "title": "Get a GitHub account",
+          "uri": "http://github.com"
         },
         {
-          "name": "Read about software licenses",
-          "url": "http://playbook.thoughtbot.com/choosing-platforms/software-licenses/"
+          "title": "Read about software licenses",
+          "uri": "http://playbook.thoughtbot.com/choosing-platforms/software-licenses/"
         },
         {
-          "name": "Read about the purpose and formatting of a `NEWS` file",
-          "url": "http://www.gnu.org/prep/standards/html_node/NEWS-File.html#NEWS-File"
+          "title": "Read about the purpose and formatting of a `NEWS` file",
+          "uri": "http://www.gnu.org/prep/standards/html_node/NEWS-File.html#NEWS-File"
         },
         {
-          "name": "Read about the purpose and formatting of a `ChangeLog` file",
-          "url": "http://www.gnu.org/prep/standards/html_node/Change-Logs.html#Change-Logs"
+          "title": "Read about the purpose and formatting of a `ChangeLog` file",
+          "uri": "http://www.gnu.org/prep/standards/html_node/Change-Logs.html#Change-Logs"
         }
       ],
       "validations": [
@@ -44,12 +44,12 @@
       "name": "Contribute to open source",
       "resources": [
         {
-          "name": "Read 8 steps to fixing other people's code",
-          "url": "http://rdd.me/tsf7khhg"
+          "title": "Read 8 steps to fixing other people's code",
+          "uri": "http://rdd.me/tsf7khhg"
         },
         {
-          "name": "Read the Semantic Versioning specification",
-          "url": "http://semver.org/"
+          "title": "Read the Semantic Versioning specification",
+          "uri": "http://semver.org/"
         }
       ],
       "validations": [
@@ -71,12 +71,12 @@
       "name": "Maintain an open source project",
       "resources": [
         {
-          "name": "Watch How to manage an open source project",
-          "url": "http://vimeo.com/45214727"
+          "title": "Watch How to manage an open source project",
+          "uri": "http://vimeo.com/45214727"
         },
         {
-          "name": "Read the rubygems.org \"Make your own gem\" guide",
-          "url": "http://guides.rubygems.org/make-your-own-gem/"
+          "title": "Read the rubygems.org \"Make your own gem\" guide",
+          "uri": "http://guides.rubygems.org/make-your-own-gem/"
         }
       ],
       "validations": [
@@ -94,52 +94,52 @@
       "name": "Ongoing Reference",
       "resources": [
         {
-          "name": "Berkeley DB",
-          "url": "http://www.aosabook.org/en/bdb.html"
+          "title": "Berkeley DB",
+          "uri": "http://www.aosabook.org/en/bdb.html"
         },
         {
-          "name": "The Bourne-Again Shell",
-          "url": "http://www.aosabook.org/en/bash.html"
+          "title": "The Bourne-Again Shell",
+          "uri": "http://www.aosabook.org/en/bash.html"
         },
         {
-          "name": "Continuous Integration",
-          "url": "http://www.aosabook.org/en/integration.html"
+          "title": "Continuous Integration",
+          "uri": "http://www.aosabook.org/en/integration.html"
         },
         {
-          "name": "Git",
-          "url": "http://www.aosabook.org/en/git.html"
+          "title": "Git",
+          "uri": "http://www.aosabook.org/en/git.html"
         },
         {
-          "name": "The Glasgow Haskell Compiler",
-          "url": "http://www.aosabook.org/en/ghc.html"
+          "title": "The Glasgow Haskell Compiler",
+          "uri": "http://www.aosabook.org/en/ghc.html"
         },
         {
-          "name": "GNU Mailman",
-          "url": "http://www.aosabook.org/en/mailman.html"
+          "title": "GNU Mailman",
+          "uri": "http://www.aosabook.org/en/mailman.html"
         },
         {
-          "name": "MediaWiki",
-          "url": "http://www.aosabook.org/en/mediawiki.html"
+          "title": "MediaWiki",
+          "uri": "http://www.aosabook.org/en/mediawiki.html"
         },
         {
-          "name": "nginx",
-          "url": "http://www.aosabook.org/en/nginx.html"
+          "title": "nginx",
+          "uri": "http://www.aosabook.org/en/nginx.html"
         },
         {
-          "name": "Riak and Erlang/OTP",
-          "url": "http://www.aosabook.org/en/riak.html"
+          "title": "Riak and Erlang/OTP",
+          "uri": "http://www.aosabook.org/en/riak.html"
         },
         {
-          "name": "Scalable Web Architecture and Distributed Systems",
-          "url": "http://www.aosabook.org/en/distsys.html"
+          "title": "Scalable Web Architecture and Distributed Systems",
+          "uri": "http://www.aosabook.org/en/distsys.html"
         },
         {
-          "name": "Sendmail",
-          "url": "http://www.aosabook.org/en/sendmail.html"
+          "title": "Sendmail",
+          "uri": "http://www.aosabook.org/en/sendmail.html"
         },
         {
-          "name": "Twisted",
-          "url": "http://www.aosabook.org/en/twisted.html"
+          "title": "Twisted",
+          "uri": "http://www.aosabook.org/en/twisted.html"
         }
       ]
     }

@@ -6,20 +6,20 @@
       "name": "Critical Learning",
       "resources": [
         {
-          "name": "Read Information Dashboard Design",
-          "url": "http://amzn.to/information-dashboard"
+          "title": "Read Information Dashboard Design",
+          "uri": "http://amzn.to/information-dashboard"
         },
         {
-          "name": "Read Envisioning Information",
-          "url": "http://amzn.to/envisioning-information"
+          "title": "Read Envisioning Information",
+          "uri": "http://amzn.to/envisioning-information"
         },
         {
-          "name": "Read The Visual Display of Quantitative Information",
-          "url": "http://amzn.to/visual-display"
+          "title": "Read The Visual Display of Quantitative Information",
+          "uri": "http://amzn.to/visual-display"
         },
         {
-          "name": "Read A Practical Guide to Designing with Data",
-          "url": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data"
+          "title": "Read A Practical Guide to Designing with Data",
+          "uri": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data"
         }
       ],
       "validations": [

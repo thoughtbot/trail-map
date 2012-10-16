@@ -9,26 +9,26 @@
       "name": "Critical Learning",
       "resources": [
         {
-          "name": "Read Seven habits of effective text editing by vim author Bram Moolenaar.",
-          "url": "http://www.moolenaar.net/habits.html"
+          "title": "Read Seven habits of effective text editing by vim author Bram Moolenaar.",
+          "uri": "http://www.moolenaar.net/habits.html"
         },
         {
-          "name": "Improve typing speed by playing Type Racer.",
-          "url": "http://play.typeracer.com"
+          "title": "Improve typing speed by playing Type Racer.",
+          "uri": "http://play.typeracer.com"
         },
         {
-          "name": "Complete `vimtutor`."
+          "title": "Complete `vimtutor`."
         },
         {
-          "name": "Learn the single-letter commands with the vim graphical cheat sheet.",
-          "url": "http://www.viemu.com/vi-vim-cheat-sheet.gif"
+          "title": "Learn the single-letter commands with the vim graphical cheat sheet.",
+          "uri": "http://www.viemu.com/vi-vim-cheat-sheet.gif"
         },
         {
-          "name": "Set up ctags for instanteous tab completion and jumping to method definitions.",
-          "url": "http://robots.thoughtbot.com/post/159805638/integrating-vim-into-your-life"
+          "title": "Set up ctags for instanteous tab completion and jumping to method definitions.",
+          "uri": "http://robots.thoughtbot.com/post/159805638/integrating-vim-into-your-life"
         },
         {
-          "name": "Type `:help` within vim and read the \"Getting Started\" and \"Editing Effectively\" sections."
+          "title": "Type `:help` within vim and read the \"Getting Started\" and \"Editing Effectively\" sections."
         }
       ],
       "validations": [

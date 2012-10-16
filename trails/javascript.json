@@ -6,8 +6,8 @@
       "name": "Complete Javascript Fundamentals",
       "resources": [
         {
-          "name": "Codecademy",
-          "url": "http://www.codecademy.com/tracks/javascript"
+          "title": "Codecademy",
+          "uri": "http://www.codecademy.com/tracks/javascript"
         }
       ],
       "validations": [
@@ -27,12 +27,12 @@
       "name": "Read Eloquent Javascript",
       "resources": [
         {
-          "name": "Eloquent Javascript",
-          "url": "http://eloquentjavascript.net/contents.html"
+          "title": "Eloquent Javascript",
+          "uri": "http://eloquentjavascript.net/contents.html"
         },
         {
-          "name": "Javascript: The Definitive Guide, Core and Client-Side Reference chapters.",
-          "url": "http://amzn.to/ONeSOs"
+          "title": "Javascript: The Definitive Guide, Core and Client-Side Reference chapters.",
+          "uri": "http://amzn.to/ONeSOs"
         }
       ],
       "validations": [
@@ -44,12 +44,12 @@
       "name": "Read Javascript Web Applications",
       "resources": [
         {
-          "name": "Javascript Web Applications",
-          "url": "http://amzn.to/javascript-web-apps"
+          "title": "Javascript Web Applications",
+          "uri": "http://amzn.to/javascript-web-apps"
         },
         {
-          "name": "jQuery API",
-          "url": "http://api.jquery.com"
+          "title": "jQuery API",
+          "uri": "http://api.jquery.com"
         }
       ],
       "validations": [

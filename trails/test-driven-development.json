@@ -6,20 +6,20 @@
       "name": "Critical Learning",
       "resources": [
         {
-          "name": "Read Test-Driven Development By Example.",
-          "url": "http://amzn.to/test-driven-dev"
+          "title": "Read Test-Driven Development By Example.",
+          "uri": "http://amzn.to/test-driven-dev"
         },
         {
-          "name": "Read Beginning Outside-In Rails Development with Cucumber and RSpec",
-          "url": "http://blog.carbonfive.com/2012/02/14/beginning-outside-in-rails-development-with-cucumber-and-rspec/"
+          "title": "Read Beginning Outside-In Rails Development with Cucumber and RSpec",
+          "uri": "http://blog.carbonfive.com/2012/02/14/beginning-outside-in-rails-development-with-cucumber-and-rspec/"
         },
         {
-          "name": "Read Martin Fowlers \"Mocks Aren't Stubs\"",
-          "url": "http://martinfowler.com/articles/mocksArentStubs.html"
+          "title": "Read Martin Fowlers \"Mocks Aren't Stubs\"",
+          "uri": "http://martinfowler.com/articles/mocksArentStubs.html"
         },
         {
-          "name": "xUnit Test Patterns",
-          "url": "http://amzn.to/x-test-patterns"
+          "title": "xUnit Test Patterns",
+          "uri": "http://amzn.to/x-test-patterns"
         }
       ],
       "validations": [

@@ -6,16 +6,16 @@
       "name": "Learn the basics",
       "references": [
         {
-          "name": "CSS3 for Web Designers",
-          "url": "http://www.abookapart.com/products/css3-for-web-designers"
+          "title": "CSS3 for Web Designers",
+          "uri": "http://www.abookapart.com/products/css3-for-web-designers"
         },
         {
-          "name": "CSS Floats 101",
-          "url": "http://www.alistapart.com/articles/css-floats-101/"
+          "title": "CSS Floats 101",
+          "uri": "http://www.alistapart.com/articles/css-floats-101/"
         },
         {
-          "name": "CSS Positioning 101",
-          "url": "http://www.alistapart.com/articles/css-positioning-101/"
+          "title": "CSS Positioning 101",
+          "uri": "http://www.alistapart.com/articles/css-positioning-101/"
         }
       ],
       "validations": [
@@ -29,12 +29,12 @@
       "name": "Expand your knowledge",
       "references": [
         {
-          "name": "Responsive Web Design",
-          "url": "http://www.abookapart.com/products/responsive-web-design"
+          "title": "Responsive Web Design",
+          "uri": "http://www.abookapart.com/products/responsive-web-design"
         },
         {
-          "name": "Code Academy Web Fundamentals",
-          "url": "http://www.codecademy.com/tracks/web"
+          "title": "Code Academy Web Fundamentals",
+          "uri": "http://www.codecademy.com/tracks/web"
         }
       ],
       "validations": [

@@ -6,24 +6,24 @@
       "name": "Critical Learning",
       "resources": [
         {
-          "name": "Grid Systems: Principles of Organizing Type",
-          "url": "http://amzn.to/grid-systems-principles"
+          "title": "Grid Systems: Principles of Organizing Type",
+          "uri": "http://amzn.to/grid-systems-principles"
         },
         {
-          "name": "Grid Systems in Graphic Design",
-          "url": "http://amzn.to/grid-systems-graphic-design"
+          "title": "Grid Systems in Graphic Design",
+          "uri": "http://amzn.to/grid-systems-graphic-design"
         },
         {
-          "name": "Mark Boulton's Designing Grid Systems",
-          "url": "http://goo.gl/VOGP"
+          "title": "Mark Boulton's Designing Grid Systems",
+          "uri": "http://goo.gl/VOGP"
         },
         {
-          "name": "Ordering Disorder: Grid Principles for Web Design",
-          "url": "http://amzn.to/ordering-disorder"
+          "title": "Ordering Disorder: Grid Principles for Web Design",
+          "uri": "http://amzn.to/ordering-disorder"
         },
         {
-          "name": "Geometry of Design: Studies in Proportion and Composition",
-          "url": "http://amzn.to/geometry-design"
+          "title": "Geometry of Design: Studies in Proportion and Composition",
+          "uri": "http://amzn.to/geometry-design"
         }
       ],
       "validations": [
@@ -40,8 +40,8 @@
       "name": "Ongoing Reference",
       "resources": [
         {
-          "name": "Browse The Grid System.",
-          "url": "http://www.thegridsystem.org"
+          "title": "Browse The Grid System.",
+          "uri": "http://www.thegridsystem.org"
         }
       ]
     }

@@ -6,12 +6,12 @@
       "name": "Read about code reviews.",
       "resources": [
         {
-          "name": "Feature branch code reviews",
-          "url": "http://goo.gl/jIcOv"
+          "title": "Feature branch code reviews",
+          "uri": "http://goo.gl/jIcOv"
         },
         {
-          "name": "Best practices of peer code review",
-          "url": "http://goo.gl/A8Boc"
+          "title": "Best practices of peer code review",
+          "uri": "http://goo.gl/A8Boc"
         }
       ]
     },

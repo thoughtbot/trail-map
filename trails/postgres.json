@@ -6,168 +6,168 @@
       "name": "Read the following from the Postgres manual",
       "resources": [
         {
-          "name": "2.5. Querying a Table",
-          "url": "http://www.postgresql.org/docs/9.0/static/tutorial-select.html"
+          "title": "2.5. Querying a Table",
+          "uri": "http://www.postgresql.org/docs/9.0/static/tutorial-select.html"
         },
         {
-          "name": "2.6. Joins Between Tables",
-          "url": "http://www.postgresql.org/docs/9.0/static/tutorial-join.html"
+          "title": "2.6. Joins Between Tables",
+          "uri": "http://www.postgresql.org/docs/9.0/static/tutorial-join.html"
         },
         {
-          "name": "2.7. Aggregate Functions",
-          "url": "http://www.postgresql.org/docs/9.0/static/tutorial-agg.html"
+          "title": "2.7. Aggregate Functions",
+          "uri": "http://www.postgresql.org/docs/9.0/static/tutorial-agg.html"
         },
         {
-          "name": "3.5. Window Functions",
-          "url": "http://www.postgresql.org/docs/9.0/static/tutorial-window.html"
+          "title": "3.5. Window Functions",
+          "uri": "http://www.postgresql.org/docs/9.0/static/tutorial-window.html"
         },
         {
-          "name": "4. SQL Syntax",
-          "url": "http://www.postgresql.org/docs/9.0/static/sql-syntax.html"
+          "title": "4. SQL Syntax",
+          "uri": "http://www.postgresql.org/docs/9.0/static/sql-syntax.html"
         },
         {
-          "name": "4.1. Lexical Structure",
-          "url": "http://www.postgresql.org/docs/9.0/static/sql-syntax-lexical.html"
+          "title": "4.1. Lexical Structure",
+          "uri": "http://www.postgresql.org/docs/9.0/static/sql-syntax-lexical.html"
         },
         {
-          "name": "4.2. Value Expressions",
-          "url": "http://www.postgresql.org/docs/9.0/static/sql-expressions.html"
+          "title": "4.2. Value Expressions",
+          "uri": "http://www.postgresql.org/docs/9.0/static/sql-expressions.html"
         },
         {
-          "name": "5. Data Definition",
-          "url": "http://www.postgresql.org/docs/9.0/static/ddl.html"
+          "title": "5. Data Definition",
+          "uri": "http://www.postgresql.org/docs/9.0/static/ddl.html"
         },
         {
-          "name": "5.1. Table Basics",
-          "url": "http://www.postgresql.org/docs/9.0/static/ddl-basics.html"
+          "title": "5.1. Table Basics",
+          "uri": "http://www.postgresql.org/docs/9.0/static/ddl-basics.html"
         },
         {
-          "name": "5.2. Default Values",
-          "url": "http://www.postgresql.org/docs/9.0/static/ddl-default.html"
+          "title": "5.2. Default Values",
+          "uri": "http://www.postgresql.org/docs/9.0/static/ddl-default.html"
         },
         {
-          "name": "5.3. Constraints",
-          "url": "http://www.postgresql.org/docs/9.0/static/ddl-constraints.html"
+          "title": "5.3. Constraints",
+          "uri": "http://www.postgresql.org/docs/9.0/static/ddl-constraints.html"
         },
         {
-          "name": "5.5. Modifying Tables",
-          "url": "http://www.postgresql.org/docs/9.0/static/ddl-alter.html"
+          "title": "5.5. Modifying Tables",
+          "uri": "http://www.postgresql.org/docs/9.0/static/ddl-alter.html"
         },
         {
-          "name": "6. Data Manipulation",
-          "url": "http://www.postgresql.org/docs/9.0/static/dml.html"
+          "title": "6. Data Manipulation",
+          "uri": "http://www.postgresql.org/docs/9.0/static/dml.html"
         },
         {
-          "name": "6.1. Inserting Data",
-          "url": "http://www.postgresql.org/docs/9.0/static/dml-insert.html"
+          "title": "6.1. Inserting Data",
+          "uri": "http://www.postgresql.org/docs/9.0/static/dml-insert.html"
         },
         {
-          "name": "6.2. Updating Data",
-          "url": "http://www.postgresql.org/docs/9.0/static/dml-update.html"
+          "title": "6.2. Updating Data",
+          "uri": "http://www.postgresql.org/docs/9.0/static/dml-update.html"
         },
         {
-          "name": "6.3. Deleting Data",
-          "url": "http://www.postgresql.org/docs/9.0/static/dml-delete.html"
+          "title": "6.3. Deleting Data",
+          "uri": "http://www.postgresql.org/docs/9.0/static/dml-delete.html"
         },
         {
-          "name": "7. Queries",
-          "url": "http://www.postgresql.org/docs/9.0/static/queries.html"
+          "title": "7. Queries",
+          "uri": "http://www.postgresql.org/docs/9.0/static/queries.html"
         },
         {
-          "name": "7.1. Overview",
-          "url": "http://www.postgresql.org/docs/9.0/static/queries-overview.html"
+          "title": "7.1. Overview",
+          "uri": "http://www.postgresql.org/docs/9.0/static/queries-overview.html"
         },
         {
-          "name": "7.2. Table Expressions",
-          "url": "http://www.postgresql.org/docs/9.0/static/queries-table-expressions.html"
+          "title": "7.2. Table Expressions",
+          "uri": "http://www.postgresql.org/docs/9.0/static/queries-table-expressions.html"
         },
         {
-          "name": "7.3. Select Lists",
-          "url": "http://www.postgresql.org/docs/9.0/static/queries-select-lists.html"
+          "title": "7.3. Select Lists",
+          "uri": "http://www.postgresql.org/docs/9.0/static/queries-select-lists.html"
         },
         {
-          "name": "7.4. Combining Queries",
-          "url": "http://www.postgresql.org/docs/9.0/static/queries-union.html"
+          "title": "7.4. Combining Queries",
+          "uri": "http://www.postgresql.org/docs/9.0/static/queries-union.html"
         },
         {
-          "name": "7.5. Sorting Rows",
-          "url": "http://www.postgresql.org/docs/9.0/static/queries-order.html"
+          "title": "7.5. Sorting Rows",
+          "uri": "http://www.postgresql.org/docs/9.0/static/queries-order.html"
         },
         {
-          "name": "7.6. LIMIT and OFFSET",
-          "url": "http://www.postgresql.org/docs/9.0/static/queries-limit.html"
+          "title": "7.6. LIMIT and OFFSET",
+          "uri": "http://www.postgresql.org/docs/9.0/static/queries-limit.html"
         },
         {
-          "name": "7.7. VALUES Lists",
-          "url": "http://www.postgresql.org/docs/9.0/static/queries-values.html"
+          "title": "7.7. VALUES Lists",
+          "uri": "http://www.postgresql.org/docs/9.0/static/queries-values.html"
         },
         {
-          "name": "7.8. WITH Queries (Common Table Expressions)",
-          "url": "http://www.postgresql.org/docs/9.0/static/queries-with.html"
+          "title": "7.8. WITH Queries (Common Table Expressions)",
+          "uri": "http://www.postgresql.org/docs/9.0/static/queries-with.html"
         },
         {
-          "name": "9. Functions and Operators",
-          "url": "http://www.postgresql.org/docs/9.0/static/functions.html"
+          "title": "9. Functions and Operators",
+          "uri": "http://www.postgresql.org/docs/9.0/static/functions.html"
         },
         {
-          "name": "9.1. Logical Operators",
-          "url": "http://www.postgresql.org/docs/9.0/static/functions-logical.html"
+          "title": "9.1. Logical Operators",
+          "uri": "http://www.postgresql.org/docs/9.0/static/functions-logical.html"
         },
         {
-          "name": "9.2. Comparison Operators",
-          "url": "http://www.postgresql.org/docs/9.0/static/functions-comparison.html"
+          "title": "9.2. Comparison Operators",
+          "uri": "http://www.postgresql.org/docs/9.0/static/functions-comparison.html"
         },
         {
-          "name": "9.7.1. LIKE",
-          "url": "http://www.postgresql.org/docs/9.0/static/functions-matching.html#FUNCTIONS-LIKE"
+          "title": "9.7.1. LIKE",
+          "uri": "http://www.postgresql.org/docs/9.0/static/functions-matching.html#FUNCTIONS-LIKE"
         },
         {
-          "name": "Subquery Expressions",
-          "url": "http://www.postgresql.org/docs/9.0/static/functions-subquery.html"
+          "title": "Subquery Expressions",
+          "uri": "http://www.postgresql.org/docs/9.0/static/functions-subquery.html"
         },
         {
-          "name": "11. Indexes",
-          "url": "http://www.postgresql.org/docs/9.0/static/indexes.html"
+          "title": "11. Indexes",
+          "uri": "http://www.postgresql.org/docs/9.0/static/indexes.html"
         },
         {
-          "name": "11.1. Introduction",
-          "url": "http://www.postgresql.org/docs/9.0/static/indexes-intro.html"
+          "title": "11.1. Introduction",
+          "uri": "http://www.postgresql.org/docs/9.0/static/indexes-intro.html"
         },
         {
-          "name": "11.5. Combining Multiple Indexes",
-          "url": "http://www.postgresql.org/docs/9.0/static/indexes-bitmap-scans.html"
+          "title": "11.5. Combining Multiple Indexes",
+          "uri": "http://www.postgresql.org/docs/9.0/static/indexes-bitmap-scans.html"
         },
         {
-          "name": "I. SQL Commands",
-          "url": "http://www.postgresql.org/docs/9.0/static/sql-commands.html"
+          "title": "I. SQL Commands",
+          "uri": "http://www.postgresql.org/docs/9.0/static/sql-commands.html"
         },
         {
-          "name": "[ALTER TABLE]",
-          "url": "http://www.postgresql.org/docs/9.0/static/sql-altertable.html"
+          "title": "[ALTER TABLE]",
+          "uri": "http://www.postgresql.org/docs/9.0/static/sql-altertable.html"
         },
         {
-          "name": "[CREATE INDEX [ CONCURRENTLY ]]",
-          "url": "http://www.postgresql.org/docs/9.0/static/sql-createindex.html"
+          "title": "[CREATE INDEX [ CONCURRENTLY ]]",
+          "uri": "http://www.postgresql.org/docs/9.0/static/sql-createindex.html"
         },
         {
-          "name": "[CREATE TABLE]",
-          "url": "http://www.postgresql.org/docs/9.0/static/sql-createtable.html"
+          "title": "[CREATE TABLE]",
+          "uri": "http://www.postgresql.org/docs/9.0/static/sql-createtable.html"
         },
           {
-          "name": "[DELETE]",
-          "url": "http://www.postgresql.org/docs/9.0/static/sql-delete.html"
+          "title": "[DELETE]",
+          "uri": "http://www.postgresql.org/docs/9.0/static/sql-delete.html"
         },
         {
-          "name": "[INSERT]",
-          "url": "http://www.postgresql.org/docs/9.0/static/sql-insert.html"
+          "title": "[INSERT]",
+          "uri": "http://www.postgresql.org/docs/9.0/static/sql-insert.html"
         },
           {
-          "name": "[SELECT]",
-          "url": "http://www.postgresql.org/docs/9.0/static/sql-select.html"
+          "title": "[SELECT]",
+          "uri": "http://www.postgresql.org/docs/9.0/static/sql-select.html"
         },
         {
-          "name": "[UPDATE]",
-          "url": "http://www.postgresql.org/docs/9.0/static/sql-update.html"
+          "title": "[UPDATE]",
+          "uri": "http://www.postgresql.org/docs/9.0/static/sql-update.html"
         }
       ],
       "validations": [
@@ -194,8 +194,8 @@
       "name": "Ongoing Reference",
       "resources": [
         {
-          "name": "SQL Cookbook",
-          "url": "http://www.amazon.com/Cookbook-Cookbooks-OReilly-Anthony-Molinaro/dp/0596009763"
+          "title": "SQL Cookbook",
+          "uri": "http://www.amazon.com/Cookbook-Cookbooks-OReilly-Anthony-Molinaro/dp/0596009763"
         }
       ]
     }

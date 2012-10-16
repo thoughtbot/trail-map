@@ -15,28 +15,28 @@
       "name": "Critical Learning",
       "resources": [
         {
-          "name": "Complete Michael Hartl's Rails Tutorial",
-          "url": "http://ruby.railstutorial.org"
+          "title": "Complete Michael Hartl's Rails Tutorial",
+          "uri": "http://ruby.railstutorial.org"
         },
         {
-          "name": "Complete Rails Testing for Zombies",
-          "url": "http://www.codeschool.com/courses/rails-testing-for-zombies"
+          "title": "Complete Rails Testing for Zombies",
+          "uri": "http://www.codeschool.com/courses/rails-testing-for-zombies"
         },
         {
-          "name": "Push your code to Github",
-          "url": "http://github.com"
+          "title": "Push your code to Github",
+          "uri": "http://github.com"
         },
         {
-          "name": "Deploy to Heroku",
-          "url": "http://heroku.com"
+          "title": "Deploy to Heroku",
+          "uri": "http://heroku.com"
         },
         {
-          "name": "Watch Railscasts",
-          "url": "http://railscasts.com"
+          "title": "Watch Railscasts",
+          "uri": "http://railscasts.com"
         },
         {
-          "name": "Read open source code: example",
-          "url": "https://github.com/copycopter/copycopter-server"
+          "title": "Read open source code: example",
+          "uri": "https://github.com/copycopter/copycopter-server"
         }
       ],
       "validations": [
@@ -55,20 +55,20 @@
       "name": "Ongoing Reference",
       "resources": [
         {
-          "name": "Refer to the API documentation",
-          "url": "http://api.rubyonrails.org"
+          "title": "Refer to the API documentation",
+          "uri": "http://api.rubyonrails.org"
         },
         {
-          "name": "Refer to the official guides",
-          "url": "http://guides.rubyonrails.org"
+          "title": "Refer to the official guides",
+          "uri": "http://guides.rubyonrails.org"
         },
         {
-          "name": "Stick to a style guide",
-          "url": "http://build.thoughtbot.com/style-guide"
+          "title": "Stick to a style guide",
+          "uri": "http://build.thoughtbot.com/style-guide"
         },
         {
-          "name": "Subscribe to the Rails Core mailing list",
-          "url": "http://goo.gl/YU3Ml"
+          "title": "Subscribe to the Rails Core mailing list",
+          "uri": "http://goo.gl/YU3Ml"
         }
       ]
     }

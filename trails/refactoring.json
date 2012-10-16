@@ -6,36 +6,36 @@
       "name": "Critical Learning",
       "resources": [
         {
-          "name": "Read Introduce Explaining Variable",
-          "url": "http://sourcemaking.com/refactoring/introduce-explaining-variable"
+          "title": "Read Introduce Explaining Variable",
+          "uri": "http://sourcemaking.com/refactoring/introduce-explaining-variable"
         },
         {
-          "name": "Read Rename Method",
-          "url": "http://sourcemaking.com/refactoring/rename-method"
+          "title": "Read Rename Method",
+          "uri": "http://sourcemaking.com/refactoring/rename-method"
         },
         {
-          "name": "Read Extract Method",
-          "url": "http://sourcemaking.com/refactoring/extract-method"
+          "title": "Read Extract Method",
+          "uri": "http://sourcemaking.com/refactoring/extract-method"
         },
         {
-          "name": "Read Move Method",
-          "url": "http://sourcemaking.com/refactoring/move-method"
+          "title": "Read Move Method",
+          "uri": "http://sourcemaking.com/refactoring/move-method"
         },
         {
-          "name": "Read Replace Method with Method Object",
-          "url": "http://sourcemaking.com/refactoring/replace-method-with-method-object"
+          "title": "Read Replace Method with Method Object",
+          "uri": "http://sourcemaking.com/refactoring/replace-method-with-method-object"
         },
         {
-          "name": "Read Extract Class",
-          "url": "http://sourcemaking.com/refactoring/extract-class"
+          "title": "Read Extract Class",
+          "uri": "http://sourcemaking.com/refactoring/extract-class"
         },
         {
-          "name": "Read Introduce Null Object",
-          "url": "http://sourcemaking.com/refactoring/introduce-null-object"
+          "title": "Read Introduce Null Object",
+          "uri": "http://sourcemaking.com/refactoring/introduce-null-object"
         },
         {
-          "name": "Read Replace Conditional with Polymorphism",
-          "url": "http://sourcemaking.com/refactoring/replace-conditional-with-polymorphism"
+          "title": "Read Replace Conditional with Polymorphism",
+          "uri": "http://sourcemaking.com/refactoring/replace-conditional-with-polymorphism"
         }
       ],
       "validations": [
@@ -54,12 +54,12 @@
       "name": "Ongoing Reference",
       "resources": [
         {
-          "name": "Refactoring: Ruby Edition",
-          "url": "http://amzn.to/ruby-refactoring"
+          "title": "Refactoring: Ruby Edition",
+          "uri": "http://amzn.to/ruby-refactoring"
         },
         {
-          "name": "Refactoring to Patterns",
-          "url": "http://amzn.to/refactoring-to-patterns"
+          "title": "Refactoring to Patterns",
+          "uri": "http://amzn.to/refactoring-to-patterns"
         }
       ]
     }

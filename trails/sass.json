@@ -6,16 +6,16 @@
       "name": "Critical Learning",
       "resources": [
         {
-          "name": "Read the Sass Tutorial",
-          "url": "http://sass-lang.com/tutorial.html"
+          "title": "Read the Sass Tutorial",
+          "uri": "http://sass-lang.com/tutorial.html"
         },
         {
-          "name": "Read open source code",
-          "url": "https://github.com/thoughtbot/bourbon/tree/master/app/assets/stylesheets"
+          "title": "Read open source code",
+          "uri": "https://github.com/thoughtbot/bourbon/tree/master/app/assets/stylesheets"
         },
         {
-          "name": "Read the Sass Documentation",
-          "url": "http://sass-lang.com/docs.html"
+          "title": "Read the Sass Documentation",
+          "uri": "http://sass-lang.com/docs.html"
         }
       ],
       "validations": [

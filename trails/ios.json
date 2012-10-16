@@ -6,36 +6,36 @@
       "name": "Critical Learning",
       "resources": [
         {
-          "name": "Read Learning Objective-C: A Primer",
-          "url": "http://developer.apple.com/library/mac/#referencelibrary/GettingStarted/Learning_Objective-C_A_Primer/_index.html"
+          "title": "Read Learning Objective-C: A Primer",
+          "uri": "http://developer.apple.com/library/mac/#referencelibrary/GettingStarted/Learning_Objective-C_A_Primer/_index.html"
         },
         {
-          "name": "Read Learn Objective-C on the Mac",
-          "url": "http://amzn.to/learn-objective-c-mac"
+          "title": "Read Learn Objective-C on the Mac",
+          "uri": "http://amzn.to/learn-objective-c-mac"
         },
         {
-          "name": "Read Beginning iOS 5 Development: Exploring the iOS SDK",
-          "url": "http://amzn.to/beginning-ios5"
+          "title": "Read Beginning iOS 5 Development: Exploring the iOS SDK",
+          "uri": "http://amzn.to/beginning-ios5"
         },
         {
-          "name": "Read The Objective-C Programming Language",
-          "url": "http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html"
+          "title": "Read The Objective-C Programming Language",
+          "uri": "http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html"
         },
         {
-          "name": "Read About Memory Management",
-          "url": "https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html"
+          "title": "Read About Memory Management",
+          "uri": "https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html"
         },
         {
-          "name": "Read chapters 6 - 15, 17 - 19, 24, 28 - 30 of Cocoa Design Patterns",
-          "url": "http://amzn.to/cocoa-design-patterns"
+          "title": "Read chapters 6 - 15, 17 - 19, 24, 28 - 30 of Cocoa Design Patterns",
+          "uri": "http://amzn.to/cocoa-design-patterns"
         },
         {
-          "name": "Read and hack on sample code",
-          "url": "https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code"
+          "title": "Read and hack on sample code",
+          "uri": "https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code"
         },
         {
-          "name": "Read the Mobile Human Interface Guidelines",
-          "url": "http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html"
+          "title": "Read the Mobile Human Interface Guidelines",
+          "uri": "http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html"
         }
       ],
       "validations": [
@@ -59,15 +59,15 @@
       "name": "Ongoing Reference",
       "resources": [
         {
-          "name": "Maintain an active ADC account and refer tothe official documentation",
-          "url": "https://developer.apple.com"
+          "title": "Maintain an active ADC account and refer tothe official documentation",
+          "uri": "https://developer.apple.com"
         },
         {
-          "name": "Keep up-to-date on iOS news."
+          "title": "Keep up-to-date on iOS news."
         },
         {
-          "name": "Sign up for thecocoa-dev",
-          "url": "https://lists.apple.com/mailman/listinfo/cocoa-dev"
+          "title": "Sign up for thecocoa-dev",
+          "uri": "https://lists.apple.com/mailman/listinfo/cocoa-dev"
         }
       ],
       "validations": [

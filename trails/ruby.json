@@ -6,16 +6,16 @@
       "name": "Get to know ruby",
       "resources": [
         {
-          "name": "First, Try Ruby!",
-          "url": "http://tryruby.org"
+          "title": "First, Try Ruby!",
+          "uri": "http://tryruby.org"
         },
         {
-          "name": "Read Learn Ruby The Hard Way.",
-          "url": "http://ruby.learncodethehardway.org/book/"
+          "title": "Read Learn Ruby The Hard Way.",
+          "uri": "http://ruby.learncodethehardway.org/book/"
         },
         {
-          "name": "Read The Well-Grounded Rubyist.",
-          "url": "http://amzn.to/grounded-rubyist"
+          "title": "Read The Well-Grounded Rubyist.",
+          "uri": "http://amzn.to/grounded-rubyist"
         }
       ],
       "validations": [
@@ -32,16 +32,16 @@
       "name": "Expand your knowledge.",
       "resources": [
         {
-          "name": "Complete the Ruby Koans.",
-          "url": "http://rubykoans.com"
+          "title": "Complete the Ruby Koans.",
+          "uri": "http://rubykoans.com"
         },
         {
-          "name": "Read examples of source code, like this one.",
-          "url": "https://github.com/jferris/effigy/tree/master/lib"
+          "title": "Read examples of source code, like this one.",
+          "uri": "https://github.com/jferris/effigy/tree/master/lib"
         },
         {
-          "name": "Read Chapters 23 and 24 of The Pickaxe",
-          "url": "http://amzn.to/pickaxe-19"
+          "title": "Read Chapters 23 and 24 of The Pickaxe",
+          "uri": "http://amzn.to/pickaxe-19"
         }
       ],
       "validations": [
@@ -54,24 +54,24 @@
   ],
   "guides": [
     {
-      "name": "Ruby Core Documentation",
-      "url": "http://ruby-doc.org/core-1.9.3"
+      "title": "Ruby Core Documentation",
+      "uri": "http://ruby-doc.org/core-1.9.3"
     },
     {
-      "name": "Ruby Library reference in The Pickaxe",
-      "url": "http://amzn.to/pickaxe-19"
+      "title": "Ruby Library reference in The Pickaxe",
+      "uri": "http://amzn.to/pickaxe-19"
     },
     {
-      "name": "Github's Style Guide",
-      "url": "https://github.com/styleguide/ruby"
+      "title": "Github's Style Guide",
+      "uri": "https://github.com/styleguide/ruby"
     },
     {
-      "name": "Ruby Style Guide",
-      "url": "https://github.com/bbatsov/ruby-style-guide"
+      "title": "Ruby Style Guide",
+      "uri": "https://github.com/bbatsov/ruby-style-guide"
     },
     {
-      "name": "thoughtbot's Style Guide",
-      "url": "http://build.thoughtbot.com/style-guide"
+      "title": "thoughtbot's Style Guide",
+      "uri": "http://build.thoughtbot.com/style-guide"
     }
   ]
 }
