@@ -119,7 +119,7 @@
     },
     {
       "name": "Advanced Git",
-      "references": [
+      "resources": [
         {
           "title": "git-clone",
           "uri": "http://git-scm.com/docs/git-clone"
