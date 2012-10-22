@@ -40,7 +40,7 @@
       "validations": [
         "Build a grid.",
         "Minimize problems with browser defaults.",
-        "Use `@media` queries to provide different layouts to devices with differing widths."
+        "Use @media queries to provide different layouts to devices with differing widths."
       ]
     }
   ]

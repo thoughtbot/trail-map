@@ -29,7 +29,7 @@
       "validations": [
         "Test-drive your app.",
         "Change the user interface from console.",
-        "Discover the iOS framework libraries in your editor using `ctags`.",
+        "Discover the iOS framework libraries in your editor using ctags.",
         "Submit your app to TestFlight."
       ]
     }

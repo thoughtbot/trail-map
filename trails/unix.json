@@ -15,7 +15,7 @@
         }
       ],
       "validations": [
-        "You can use these commands and operators: `|`, `<`, `>`, `>>`, `&`, `ack`, `awk`, `cat`, `chmod`, `chown`, `cp`, `export`, `find`, `kill`, `locate`, `ls`, `mkdir`, `mv`, `ps`, `rm`, `sed`, `sort`, `tail`, `top`, `vim`, `whereis`, `xargs`"
+        "You can use these commands and operators: |, <, >, >>, &, ack, awk, cat, chmod, chown, cp, export, find, kill, locate, ls, mkdir, mv, ps, rm, sed, sort, tail, top, vim, whereis, xargs"
       ]
     }
   ]

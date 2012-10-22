@@ -21,11 +21,11 @@
           "uri": "http://playbook.thoughtbot.com/choosing-platforms/software-licenses/"
         },
         {
-          "title": "Read about the purpose and formatting of a `NEWS` file",
+          "title": "Read about the purpose and formatting of a NEWS file",
           "uri": "http://www.gnu.org/prep/standards/html_node/NEWS-File.html#NEWS-File"
         },
         {
-          "title": "Read about the purpose and formatting of a `ChangeLog` file",
+          "title": "Read about the purpose and formatting of a ChangeLog file",
           "uri": "http://www.gnu.org/prep/standards/html_node/Change-Logs.html#Change-Logs"
         }
       ],
@@ -56,8 +56,8 @@
         "Get annoyed by a defect or missing feature.",
         "Find the source code.",
         "Create a copy of the source (\"fork\" on Github).",
-        "Check out (`git clone`) the source.",
-        "Poke around the source in your editor and shell (`grep`).",
+        "Check out (git clone) the source.",
+        "Poke around the source in your editor and shell (grep).",
         "Read the contribution guidelines.",
         "Write a failing test in the style of the project's test suite.",
         "Write code to make the test pass in the style of the project's codebase.",

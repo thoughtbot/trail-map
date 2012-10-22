@@ -47,7 +47,7 @@
         "Create type hierarchy with size, space, color, emphasis, and weight.",
         "Pair two or more typefaces in a design and make it look good.",
         "Space letters horizontally (kern).",
-        "Space lines of type vertically with `line-height` (leading).",
+        "Space lines of type vertically with line-height (leading).",
         "Use the vocabulary of typography with teammates."
       ]
     },

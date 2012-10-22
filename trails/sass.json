@@ -22,7 +22,7 @@
         "Create and use mixins.",
         "Set and use variables.",
         "Use nested selectors.",
-        "Use `@include` and `@extend`."
+        "Use @include and @extend."
       ]
     }
   ]

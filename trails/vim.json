@@ -17,7 +17,7 @@
           "uri": "http://play.typeracer.com"
         },
         {
-          "title": "Complete `vimtutor`."
+          "title": "Complete vimtutor."
         },
         {
           "title": "Learn the single-letter commands with the vim graphical cheat sheet.",
@@ -28,7 +28,7 @@
           "uri": "http://robots.thoughtbot.com/post/159805638/integrating-vim-into-your-life"
         },
         {
-          "title": "Type `:help` within vim and read the \"Getting Started\" and \"Editing Effectively\" sections."
+          "title": "Type :help within vim and read the \"Getting Started\" and \"Editing Effectively\" sections."
         }
       ],
       "validations": [

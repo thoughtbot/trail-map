@@ -18,8 +18,8 @@
         "Print values.",
         "Use common control flow structures.",
         "Instantiate an object.",
-        "Initialize arrays using `[]`.",
-        "Initialize empty objects and hashes using `{}`.",
+        "Initialize arrays using [].",
+        "Initialize empty objects and hashes using {}.",
         "Iterate over collections."
       ]
     },
@@ -37,7 +37,7 @@
       ],
       "validations": [
         "Avoid global variables.",
-        "Inherit classes using `prototype`."
+        "Inherit classes using prototype."
       ]
     },
     {
@@ -59,12 +59,12 @@
         "Access and manipulate DOM elements.",
         "Register and remove event handlers.",
         "Respond to events.",
-        "Define functions that operate on `window` or DOM in scope of `window`.",
+        "Define functions that operate on window or DOM in scope of window.",
         "Organize code into Models, Views, and Controllers.",
         "Use [Pub/Sub](http://en.wikipedia.org/wiki/Publish/subscribe) with DOM and non-DOM events.",
         "Generate GUIDs.",
         "Secure your application against cross-domain requests.",
-        "Persist data locally between page refreshes using `localStorage`.",
+        "Persist data locally between page refreshes using localStorage.",
         "Use the HTML5 History API.",
         "Bind a view element to a Javascript object (usually a model)."
       ]

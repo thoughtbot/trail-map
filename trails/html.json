@@ -23,8 +23,8 @@
         }
       ],
       "validations": [
-        "Use `<h1-6>`, `<p>`, `<a>`, `<img>`, `<ul>`/`<ol>`/`<li>`, `<div>`, `<span>`, `<dl>`/`<dt>`/`<dd>`, `<form>`/`<fieldset>`/`<input>` semantically.",
-        "Use the new HTML5 elements `<header>`, `<hgroup>`, `<section>`, `<aside>`, `<article>`, `<footer>` semantically.",
+        "Use <h1-6>, <p>, <a>, <img>, <ul>/<ol>/<li>, <div>, <span>, <dl>/<dt>/<dd>, <form>/<fieldset>/<input> semantically.",
+        "Use the new HTML5 elements <header>, <hgroup>, <section>, <aside>, <article>, <footer> semantically.",
         "Name classes and ids semantically.",
         "Use Web Inspector quickly (hint: keyboard shortcuts).",
         "View source on a web page and understand it."

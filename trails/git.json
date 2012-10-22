@@ -199,11 +199,11 @@
           "uri": "http://gitready.com/advanced/2009/01/17/restoring-lost-commits.html"
         },
         {
-          "title": "Visualize commits differently using `git log` flags",
+          "title": "Visualize commits differently using git log flags",
           "uri": "http://gitready.com/advanced/2009/01/20/bend-logs-to-your-will.html"
         },
         {
-          "title": "Visualize changes differently using `git diff` flags",
+          "title": "Visualize changes differently using git diff flags",
           "uri": "http://git-scm.com/docs/git-diff"
         }
       ]
