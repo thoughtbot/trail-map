@@ -15,65 +15,21 @@
         }
       ],
       "validations": [
-        {
-          "title": "Initialize a repository",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Initializing-a-Repository-in-an-Existing-Directory"
-        },
-        {
-          "title": "Clone a repository",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository"
-        },
-        {
-          "title": "Ignore files",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files"
-        },
-        {
-          "title": "Add a file to staging",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Tracking-New-Files"
-        },
-        {
-          "title": "Unstage a file",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Removing-Files"
-        },
-        {
-          "title": "Check status",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files"
-        },
-        {
-          "title": "View a diff",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Viewing-Your-Staged-and-Unstaged-Changes"
-        },
-        {
-          "title": "Create a commit",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository#Committing-Your-Changes"
-        },
-        {
-          "title": "Push to origin"
-        },
-        {
-          "title": "Pull remote changes locally",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Fetching-and-Pulling-from-Your-Remotes"
-        },
-        {
-          "title": "Resolve a conflict",
-          "uri": "http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merge-Conflicts"
-        },
-        {
-          "title": "Create a branch",
-          "uri": "http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Branching"
-        },
-        {
-          "title": "Merge a branch into master",
-          "uri": "http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging#Basic-Merging"
-        },
-        {
-          "title": "Push to a remote branch",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Pushing-to-Your-Remotes"
-        },
-        {
-          "title": "Rebase origin/master into a branch",
-          "uri": "http://git-scm.com/book/en/Git-Branching-Rebasing#The-Basic-Rebase"
-        }
+        "Initialize a repository",
+        "Clone a repository",
+        "Ignore files",
+        "Add a file to staging",
+        "Unstage a file",
+        "Check status",
+        "View a diff",
+        "Create a commit",
+        "Push to origin",
+        "Pull remote changes locally",
+        "Resolve a conflict",
+        "Create a branch",
+        "Merge a branch into master",
+        "Push to a remote branch",
+        "Rebase origin/master into a branch"
       ]
     },
     {
@@ -93,28 +49,12 @@
         }
       ],
       "validations": [
-        {
-          "title": "Add a remote",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Working-with-Remotes#Adding-Remote-Repositories"
-        },
-        {
-          "title": "Amend a commit",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Undoing-Things#Changing-Your-Last-Commit"
-        },
-        {
-          "title": "Show a commit by SHA hash"
-        },
-        {
-          "title": "Stash changes",
-          "uri": "http://git-scm.com/book/en/Git-Tools-Stashing#Stashing-Your-Work"
-        },
-        {
-          "title": "Squash commits"
-        },
-        {
-          "title": "Create a tag",
-          "uri": "http://git-scm.com/book/en/Git-Basics-Tagging#Creating-Tags"
-        }
+      "Add a remote",
+        "Amend a commit",
+        "Show a commit by SHA hash",
+        "Stash changes",
+        "Squash commits",
+        "Create a tag"
       ]
     },
     {
@@ -182,30 +122,12 @@
         }
       ],
       "validations": [
-        {
-          "title": "Cherry pick commits",
-          "uri": "http://git-scm.com/docs/git-cherry-pick"
-        },
-        {
-          "title": "Reorder commits",
-          "uri": "http://gitready.com/advanced/2009/03/20/reorder-commits-with-rebase.html"
-        },
-        {
-          "title": "Keep either file in merge conflicts",
-          "uri": "http://gitready.com/advanced/2009/02/25/keep-either-file-in-merge-conflicts.html"
-        },
-        {
-          "title": "Restore lost commits",
-          "uri": "http://gitready.com/advanced/2009/01/17/restoring-lost-commits.html"
-        },
-        {
-          "title": "Visualize commits differently using git log flags",
-          "uri": "http://gitready.com/advanced/2009/01/20/bend-logs-to-your-will.html"
-        },
-        {
-          "title": "Visualize changes differently using git diff flags",
-          "uri": "http://git-scm.com/docs/git-diff"
-        }
+        "Cherry pick commits",
+        "Reorder commits",
+        "Keep either file in merge conflicts",
+        "Restore lost commits",
+        "Visualize commits differently using git log flags",
+        "Visualize changes differently using git diff flags"
       ]
     }
   ]
