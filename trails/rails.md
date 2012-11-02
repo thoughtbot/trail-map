@@ -31,5 +31,5 @@ Ongoing reference
 
 * Refer to [the API documentation](http://api.rubyonrails.org).
 * Refer to [the official guides](http://guides.rubyonrails.org).
-* Stick to [a style guide](http://build.thoughtbot.com/style-guide).
+* Stick to [a style guide](http://github.com/thoughtbot/guides/tree/master/style).
 * Subscribe to the [Rails Core mailing list](http://goo.gl/YU3Ml).
