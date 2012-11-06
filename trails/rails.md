@@ -18,7 +18,7 @@ You know everyday Rails when you can:
 
 * Create a route, controller, and action.
 * Query the database.
-* Create a form that save records.
+* Create a form that saves records.
 * Associate ActiveRecord objects.
 * Validate ActiveRecord objects.
 * Whitelist ActiveRecord attributes.
