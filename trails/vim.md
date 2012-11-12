@@ -8,6 +8,7 @@ Critical learning
   by vim author Bram Moolenaar.
 * Improve typing speed by playing [Type Racer](http://play.typeracer.com).
 * Complete `vimtutor`.
+* Complete levels 1 and 2 of [Vim Adventures](http://vim-adventures.com/)
 * Learn the single-letter commands with the
   [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif).
 * Set up [ctags](http://robots.thoughtbot.com/post/159805638/integrating-vim-into-your-life)
