@@ -1,3 +1,8 @@
+NOTE:
+=====
+
+As of 11/13/2012, this is now a JSON-only data resource. To browse the trails, visit [learn.thoughtbot.com](https://learn.thoughtbot.com)
+
 Trail map
 =========
 
@@ -30,25 +35,26 @@ To use these, you may want to first set up your laptop with
 Trails
 ------
 
-* [CSS](/thoughtbot/trail-map/blob/master/trails/css.md)
-* [Code Review](/thoughtbot/trail-map/blob/master/trails/code-review.md)
-* [Git](/thoughtbot/trail-map/blob/master/trails/git.md)
-* [Grids](/thoughtbot/trail-map/blob/master/trails/grids.md)
-* [HTML](/thoughtbot/trail-map/blob/master/trails/html.md)
-* [Information Design](/thoughtbot/trail-map/blob/master/trails/information-design.md)
-* [iOS](/thoughtbot/trail-map/blob/master/trails/ios.md)
-* [Javascript](/thoughtbot/trail-map/blob/master/trails/javascript.md)
-* [Open Source](/thoughtbot/trail-map/blob/master/trails/open-source.md)
-* [Postgres](/thoughtbot/trail-map/blob/master/trails/postgres.md)
-* [Rails](/thoughtbot/trail-map/blob/master/trails/rails.md)
-* [Refactoring](/thoughtbot/trail-map/blob/master/trails/refactoring.md)
-* [Ruby](/thoughtbot/trail-map/blob/master/trails/ruby.md)
-* [Sass](/thoughtbot/trail-map/blob/master/trails/sass.md)
-* [Test-Driven Development](/thoughtbot/trail-map/blob/master/trails/test-driven-development.md)
-* [Typography](/thoughtbot/trail-map/blob/master/trails/typography.md)
-* [Unix](/thoughtbot/trail-map/blob/master/trails/unix.md)
-* [Vim](/thoughtbot/trail-map/blob/master/trails/vim.md)
-* [Visual Design](/thoughtbot/trail-map/blob/master/trails/visual-design.md)
+* [CSS](https://learn.thoughtbot.com/css)
+* [Code Review](/thoughtbot/trail-map/blob/master/trails/code-review.json)
+* [Design Principles](https://learn.thoughtbot.com/design+principles)
+* [Git](https://learn.thoughtbot.com/git)
+* [Grids](/thoughtbot/trail-map/blob/master/trails/grids.json)
+* [HTML](/thoughtbot/trail-map/blob/master/trails/html.json)
+* [Information Design](/thoughtbot/trail-map/blob/master/trails/information-design.json)
+* [Javascript](https://learn.thoughtbot.com/javascript)
+* [Open Source](/thoughtbot/trail-map/blob/master/trails/open-source.json)
+* [Product Design](/thoughtbot/trail-map/blob/master/trails/product-design.md)
+* [Postgres](/thoughtbot/trail-map/blob/master/trails/postgres.json)
+* [Rails](https://learn.thoughtbot.com/rails)
+* [Refactoring](https://learn.thoughtbot.com/refactoring)
+* [Ruby](https://learn.thoughtbot.com/ruby)
+* [Sass](https://learn.thoughtbot.com/sass)
+* [Test-Driven Development](https://learn.thoughtbot.com/test-driven+development)
+* [Typography](https://learn.thoughtbot.com/typography)
+* [Unix](https://learn.thoughtbot.com/unix)
+* [Vim](https://learn.thoughtbot.com/vim)
+* [iOS](/thoughtbot/trail-map/blob/master/trails/ios.json)
 
 Contributing
 ------------
