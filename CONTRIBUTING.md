@@ -9,6 +9,13 @@ Contributing
 * Use the present tense in commit messages
 * Shorten commit messages to 50 characters with bulleted details
 
+
+> In which format should my contributions be submitted?
+
+* Pull requests should be in JSON format
+* PRs should be validated before submission using [jsonlint](https://github.com/zaach/jsonlint).
+* Considering using [this regex](https://gist.github.com/4068038) for converting Markdown to JSON
+
 Merging Pull Requests (for admins)
 ----------------------------------
 
