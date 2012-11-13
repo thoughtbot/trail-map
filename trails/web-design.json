@@ -1,0 +1,68 @@
+
+{
+  "name": "Design",
+  "description": "Visualy commuicate a message or action with text, images, and shapes.",
+  "steps": [
+    {
+      "name": "First learn visual design",
+      "resources": [
+        {
+          "title": "Visual Design on learn",
+          "uri": ""
+        },
+      ]
+    },
+    {
+      "name": "Dive into designing for the web",
+      "resources": [
+        {
+          "title": "A Dao of Web Design",
+          "uri": "http://www.alistapart.com/articles/dao/"
+        },
+        {
+          "title": "Don't Make Me Think: A Common Sense Approach to Web Usability",
+          "uri": "http://amzn.com/0321344758",
+        },
+        {
+          "title": "Designing With Web Standards",
+          "uri": "http://amzn.com/0321344758",
+        },
+        {
+          "title": "Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with HTML5 and CSS3",
+          "uri": "http://amzn.com/0321808355"
+        }
+        ],
+        "validations": [
+          "",
+          "",
+          ""
+        ]
+    },
+    {
+      "name": "Dive deeper into web and application design",
+      "resources": [
+        {
+          "title": "HTML on Learn",
+          "uri": ""
+        },
+        {
+          "title": "CSS on Learn",
+          "uri": ""
+        }
+      ]
+    },
+    {
+      "name": "",
+      "resources": [
+        {
+          "title": "A List Apart",
+          "uri": "http://www.alistapart.com/"
+        },
+        {
+          "title": "The Manual",
+          "uri": "http://alwaysreadthemanual.com/"
+        }
+      ]
+    }
+  ]
+}

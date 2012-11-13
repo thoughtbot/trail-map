@@ -1,0 +1,68 @@
+{
+  "name": "Design",
+  "description": "Visualy commuicate a message or action with text, images, and shapes.",
+  "steps": [
+    {
+      "name": "First learn design basics: Visual Principles, Grid Systems, Typopgraphy and Color",
+      "resources": [
+        {
+          "title": "Read Visual Grammar.",
+          "uri": "http://amzn.to/visual-grammar"
+        },
+        {
+          "title": "Grid Systems: Principles of Organizing Type",
+          "uri": "http://amzn.to/grid-systems-principles"
+        },
+        {
+          "title": "Read Thinking with Type",
+          "uri": "http://amzn.to/thinking-with-type"
+        },
+        {
+          "title": "Understanding Color: An Introduction for Designers",
+          "uri": "http://amzn.com/0470381353"
+        }
+      ],
+      "validations": [
+        "Have a basic understanding of visual principles",
+        "Use visual priciples in your design",
+        "Communicate visual design priciples in your work and others",
+        "Create and use a simple grid within your work",
+        "Maintain a clear hierarchy within your work",
+        "Elements in your design are aligned to the grid and have relationships to the other elements in the design",
+        "Are able to properly set type within your work",
+        "Are able to choose a adequate typeface for the message in your design",
+        "You can assign colors to elements to add value to the message"
+      ]
+    },
+    {
+      "name": "Dig deeper into each basic design topic",
+      "resources": [
+        {
+          "title": "Visual Principles on Learn",
+          "uri": ""
+        },
+        {
+          "title": "Grid Systems on Learn",
+          "uri": ""
+        },
+        {
+          "title": "Typography on Learn",
+          "uri": ""
+        }
+      ]
+    }
+    {
+      "name": "",
+      "resources": [
+        {
+          "title": "Web Design on Learn",
+          "uri": ""
+        },
+        {
+          "title": "Information Design on learn",
+          "uri": ""
+        }
+      ]
+    }
+  ]
+}

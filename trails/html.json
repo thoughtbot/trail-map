@@ -3,8 +3,12 @@
   "description": "The markup language for displaying web pages and other information that can be displayed in a web browser.",
   "steps": [
     {
-      "name": "Critical Learning",
+      "name": "First read one or more of these introduction books",
       "resources": [
+        {
+          "title": "HTML and CSS: Design and Build Websites",
+          "uri": "http://amzn.com/1118008189"
+        }
         {
           "title": "Read A Beginner’s Guide to HTML & CSS",
           "uri": "http://learn.shayhowe.com/"
@@ -28,6 +32,16 @@
         "Name classes and ids semantically.",
         "Use Web Inspector quickly (hint: keyboard shortcuts).",
         "View source on a web page and understand it."
+      ]
+    },
+
+    {
+      "name": "Learn about ",
+      "references": [
+        {
+          "title": "Refer to the HTML5 Spec",
+          "uri": "http://dev.w3.org/html5/spec/single-page.html"
+        }
       ]
     },
     {
