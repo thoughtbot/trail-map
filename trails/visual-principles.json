@@ -1,0 +1,66 @@
+{
+  "name": "Visual Principles",
+  "description": "The fundamental principles for communicating visually.",
+  "steps": [
+    {
+      "name": "Learn basics ",
+      "resources": [
+        {
+          "title": "Read 'Visual Grammar' for a basic understanding on basic elements of design and how they relate to each other.",
+          "uri": "http://amzn.to/visual-grammar"
+        },
+        {
+          "title": "Read 'Universal Principles of Design' for a larger array of principles covering an array of medium.",
+          "uri": "http://amzn.to/universal-principles"
+        }
+      ],
+      "validations": [
+        "Intentionally use visual design principles in your design.",
+        "Intentionally break visual design principles in your design.",
+        "Use the vocabulary of visual design principles when articulating the reasons for your design and when critiquing teammates' designs.",
+        "Point out what visual principles, in any medium, that are being used in a design and why they are helping the design be successful or unsuccessful"
+      ]
+    },
+    {
+      "name": "Learn about the psycology and phylosophy behind the main principles",
+      "resources": [
+        {
+          "title": "Read Andy Rutledge's \"Gestalt Principles\":"
+        },
+        {
+          "title": "1",
+          "uri": "http://www.andyrutledge.com/gestalt-principles-1-figure-ground-relationship.php"
+        },
+        {
+          "title": "2",
+          "uri": "http://www.andyrutledge.com/gestalt-principles-2-similarity.php"
+        },
+        {
+          "title": "3",
+          "uri": "http://www.andyrutledge.com/gestalt-principles-3.php"
+        },
+        {
+          "title": "4",
+          "uri": "http://www.andyrutledge.com/common-fate.php"
+        },
+        {
+          "title": "5",
+          "uri": "http://www.andyrutledge.com/closure.php"
+        }
+      ],
+      "validations": [
+        "Understand where the visual principles came from and what the history is behind them.",
+        "Can reference the psycology behind visual principles."
+      ]
+    },
+    {
+      "name": "Find out how those principles apply to specific design fields",
+      "resources": [
+        {
+          "title": "Read '101 Things I Learned in Architecture School'",
+          "uri": "http://amzn.to/101-things-learned"
+        }
+      ]
+    }
+  ]
+}

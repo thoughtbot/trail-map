@@ -1,0 +1,135 @@
+{
+  "name": "HTML & CSS",
+  "description": "HTML is the markup language for displaying web pages and other information that can be displayed in a web browser. CSS is a language used for describing the look and formatting of HTML. Together they form the foundation of the web.",
+  "steps": [
+    {
+      "name": "First read one or more of these introduction books",
+      "resources": [
+        {
+          "title": "HTML and CSS: Design and Build Websites",
+          "uri": "http://amzn.com/1118008189"
+        },
+        {
+          "title": "Read A Beginner’s Guide to HTML & CSS",
+          "uri": "http://learn.shayhowe.com/"
+        },
+        {
+          "title": "Read Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with HTML5 and CSS3 for an introduction to HTML and CSS",
+          "uri": "http://amzn.com/0321808355"
+        }
+      ],
+      "validations": [
+        "View source on a web page and understand it.",
+        "Use <h1-6>, <p>, <a>, <img>, <ul>/<ol>/<li>, <div>, <span>, <dl>/<dt>/<dd>, <form>/<fieldset>/<input> semantically.",
+        "Name classes and ids semantically.",
+        "Use Web Inspector quickly (hint: keyboard shortcuts).",
+        "Understand the box model",
+        "Understand floating and positioning",
+        "Style text",
+        "Quickly build a simple layout"
+      ]
+    },
+    {
+      "name": "Run through the tutorials at Code Academy",
+      "references": [
+        {
+          "title": "Complete Code Academy Web Fundamentals",
+          "uri": "http://www.codecademy.com/tracks/web"
+        }
+      ]
+    },
+    {
+      "name": "Dig deeper into HTML5",
+      "references": [
+        {
+          "title": "Read Dive into HTML5",
+          "uri": "http://diveintohtml5.info/"
+        },
+        {
+          "title": "Read HTML5 for Web Designers",
+          "uri": "http://www.abookapart.com/products/html5-for-web-designers"
+        }
+      ],
+      "validations": [
+        "Use the new HTML5 elements <header>, <hgroup>, <section>, <aside>, <article>, <footer> semantically.",
+        "Understand the difference between <section> and <div>",
+        "Know all of the new form input types and if used how to safely degrade them to older browsers"
+      ]
+    },
+    {
+      "name": "Dig deeper into CSS3",
+      "references": [
+        {
+          "title": "CSS3 for Web Designers",
+          "uri": "http://www.abookapart.com/products/css3-for-web-designers"
+        },
+        {
+          "title": "Refer to CSS3.info",
+          "uri": "http://www.css3.info/"
+        }
+      ],
+      "validations": [
+        "Can apply a box shadow, rounded corners, and text shadow",
+        "Can use RGBa, HSL, HSLa, and opacity",
+        "Know trasitsions and animations and where to apply them",
+        "Know what vendor prefixes are, why they are used",
+        "Understand how box-sizing changes the box model",
+        "Know the new sudo-selectors and know their uses"
+      ]
+    },
+    {
+      "name": "Learn about responsive and mobile first design",
+      "references": [
+        {
+          "title": "Read Responsive Web Design the article",
+          "uri": "http://www.alistapart.com/articles/responsive-web-design/"
+        },
+        {
+          "title": "Read Responsive Web Design the book",
+          "uri": "http://www.abookapart.com/products/responsive-web-design"
+        },
+        {
+          "title": "Visit This is Responsive for current news and links about responsive design",
+          "uri": "http://responsive.rga.com/"
+        },
+        {
+          "title": "Read Mobile First",
+          "uri": "http://www.abookapart.com/products/mobile-first"
+        },
+        {
+          "title": "Read The Infinate Grid",
+          "uri": "http://www.alistapart.com/articles/the-infinite-grid/"
+        },
+        {
+          "title": "Read Put Your Content In My Pocket",
+          "uri": "http://www.alistapart.com/articles/putyourcontentinmypocket/"
+        }
+      ],
+      "validations": [
+        "Build a fluid grid.",
+        "Understand where breakpoints should be inserted into design",
+        "Use @media queries to provide different layouts to devices with differing widths.",
+        "Can organize your stylesheets so that the are mobile minded.",
+        "Understand how best to serve images to mobile and retina screens"
+      ]
+    },
+    {
+      "name": "Ongoing Reference",
+      "references": [
+        {
+          "title": "Refer to the HTML5 Spec",
+          "uri": "http://dev.w3.org/html5/spec/single-page.html"
+        }
+      ]
+    },
+    {
+      "name": "Learn about Sass",
+      "references": [
+        {
+          "title": "Visit Sass on Learn",
+          "uri": "http://learn.thoughtbot.com/sass"
+        }
+      ]
+    }
+  ]
+}

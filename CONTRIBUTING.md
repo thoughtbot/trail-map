@@ -13,7 +13,7 @@ Contributing
 > In which format should my contributions be submitted?
 
 * Pull requests should be in JSON format
-* PRs should be validated before submission using [jsonlint](https://github.com/zaach/jsonlint).
+* PRs should be validated before submission using [jsonlint](http://jsonlint.com/).
 * Considering using [this regex](https://gist.github.com/4068038) for converting Markdown to JSON
 
 Merging Pull Requests (for admins)
