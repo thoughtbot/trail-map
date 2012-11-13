@@ -1,0 +1,37 @@
+{
+  "name": "RubyMotion",
+  "description": "An implementation of the Ruby programming language that runs on iOS.",
+  "prerequisites": [
+    "ruby",
+    "ios"
+  ],
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "title": "Purchase RubyMotion",
+          "uri": "http://sites.fastspring.com/hipbyte/product/rubymotion"
+        },
+        {
+          "title": "Complete the Getting Started",
+          "uri": "http://goo.gl/FAMxA"
+        },
+        {
+          "title": "Watch the Pragmatic Programmers' RubyMotion video",
+          "uri": "http://pragmaticstudio.com/screencasts/rubymotion"
+        },
+        {
+          "title": "Read the BubbleWrap source code",
+          "uri": "https://github.com/rubymotion/BubbleWrap"
+        }
+      ],
+      "validations": [
+        "Test-drive your app.",
+        "Change the user interface from console.",
+        "Discover the iOS framework libraries in your editor using ctags.",
+        "Submit your app to TestFlight."
+      ]
+    }
+  ]
+}

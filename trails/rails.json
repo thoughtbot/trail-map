@@ -1,0 +1,76 @@
+{
+  "name": "Ruby on Rails",
+  "description": "An open source full-stack web application framework for the Ruby programming language.",
+  "prerequisites": [
+    "css",
+    "git",
+    "html",
+    "javascript",
+    "ruby",
+    "unix",
+    "vim"
+  ],
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "title": "Complete Michael Hartl's Rails Tutorial",
+          "uri": "http://ruby.railstutorial.org"
+        },
+        {
+          "title": "Complete Rails Testing for Zombies",
+          "uri": "http://www.codeschool.com/courses/rails-testing-for-zombies"
+        },
+        {
+          "title": "Push your code to Github",
+          "uri": "http://github.com"
+        },
+        {
+          "title": "Deploy to Heroku",
+          "uri": "http://heroku.com"
+        },
+        {
+          "title": "Watch Railscasts",
+          "uri": "http://railscasts.com"
+        },
+        {
+          "title": "Read open source code: example",
+          "uri": "https://github.com/copycopter/copycopter-server"
+        }
+      ],
+      "validations": [
+        "Create a route, controller, and action.",
+        "Query the database.",
+        "Create a form that save records.",
+        "Associate ActiveRecord objects.",
+        "Validate ActiveRecord objects.",
+        "Whitelist ActiveRecord attributes.",
+        "Interpolate data in a view.",
+        "Write and run tests for your models.",
+        "Deploy your app to production."
+      ]
+    },
+    {
+      "name": "Ongoing Reference",
+      "resources": [
+        {
+          "title": "Refer to the API documentation",
+          "uri": "http://api.rubyonrails.org"
+        },
+        {
+          "title": "Refer to the official guides",
+          "uri": "http://guides.rubyonrails.org"
+        },
+        {
+          "title": "Stick to a style guide",
+          "uri": "http://build.thoughtbot.com/style-guide"
+        },
+        {
+          "title": "Subscribe to the Rails Core mailing list",
+          "uri": "http://goo.gl/YU3Ml"
+        }
+      ]
+    }
+  ]
+}

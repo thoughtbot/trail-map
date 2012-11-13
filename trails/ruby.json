@@ -1,0 +1,80 @@
+{
+  "name": "Ruby",
+  "description": "A dynamic, general-purpose object-oriented programming language that combines syntax inspired by Perl with Smalltalk-like features. Powers the Ruby on Rails framework.",
+  "steps": [
+    {
+      "name": "Get to know ruby",
+      "resources": [
+        {
+          "title": "First, Try Ruby!",
+          "uri": "http://tryruby.org"
+        },
+        {
+          "title": "Read Learn Ruby The Hard Way.",
+          "uri": "http://ruby.learncodethehardway.org/book/"
+        },
+        {
+          "title": "Read The Well-Grounded Rubyist.",
+          "uri": "http://amzn.to/grounded-rubyist"
+        }
+      ],
+      "validations": [
+        "Use irb to test your ideas.",
+        "Print values.",
+        "Run programs.",
+        "Avoid syntax errors.",
+        "Define a method.",
+        "Invode a method.",
+        "Use common control flow structures."
+      ]
+    },
+    {
+      "name": "Expand your knowledge.",
+      "resources": [
+        {
+          "title": "Complete the Ruby Koans.",
+          "uri": "http://rubykoans.com"
+        },
+        {
+          "title": "Read examples of source code, like this one.",
+          "uri": "https://github.com/jferris/effigy/tree/master/lib"
+        },
+        {
+          "title": "Read Chapters 23 and 24 of The Pickaxe",
+          "uri": "http://amzn.to/pickaxe-19"
+        }
+      ],
+      "validations": [
+        "Compare objects.",
+        "Define a class.",
+        "Instantiate an object.",
+        "Iterate over collections."
+      ]
+    },
+    {
+      "name": "Conform to a style guide",
+      "resources": [
+        {
+          "title": "Ruby Core Documentation",
+          "uri": "http://ruby-doc.org/core-1.9.3"
+        },
+        {
+          "title": "Ruby Library reference in The Pickaxe",
+          "uri": "http://amzn.to/pickaxe-19"
+        },
+        {
+          "title": "Github's Style Guide",
+          "uri": "https://github.com/styleguide/ruby"
+        },
+        {
+          "title": "Ruby Style Guide",
+          "uri": "https://github.com/bbatsov/ruby-style-guide"
+        },
+        {
+          "title": "thoughtbot's Style Guide",
+          "uri": "http://build.thoughtbot.com/style-guide"
+        }
+      ]
+    }
+  ]
+}

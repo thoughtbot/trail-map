@@ -1,0 +1,43 @@
+{
+  "name": "Testing",
+  "description": "A method of improving code quality and minimizing time requred to add new features to software by ensuring that each facet of the program works as expected.",
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "title": "Read Beginning Outside-In Rails Development with Cucumber and RSpec",
+          "uri": "http://blog.carbonfive.com/2012/02/14/beginning-outside-in-rails-development-with-cucumber-and-rspec/"
+        },
+        {
+          "title": "Read Martin Fowlers \"Mocks Aren't Stubs\"",
+          "uri": "http://martinfowler.com/articles/mocksArentStubs.html"
+        },
+        {
+          "title": "xUnit Test Patterns",
+          "uri": "http://amzn.to/x-test-patterns"
+        }
+      ],
+      "validations": [
+        "Understand the basics of mocking and stubbing in unit tests.",
+        "Name each phase of the Four Phase Test.",
+        "Identify a Mystery Guest."
+      ]
+    },
+    {
+      "name": "Test Driven Development",
+      "resources": [
+        {
+          "title": "Read Test-Driven Development By Example.",
+          "uri": "http://amzn.to/test-driven-dev"
+        }
+      ],
+      "validations": [
+        "Write a test before implementation.",
+        "Make the test error or fail.",
+        "Make the test pass by writing the simplest implementation possible.",
+        "Refactor."
+      ]
+    }
+  ]
+}

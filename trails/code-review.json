@@ -1,0 +1,39 @@
+{
+  "name": "Code Review",
+  "description": "A peer review of source code. It is intended to find and fix mistakes overlooked in the initial development phase, improving both the overall quality of software and the developers' skills.",
+  "steps": [
+    {
+      "name": "Read about code reviews.",
+      "resources": [
+        {
+          "title": "Feature branch code reviews",
+          "uri": "http://goo.gl/jIcOv"
+        },
+        {
+          "title": "Best practices of peer code review",
+          "uri": "http://goo.gl/A8Boc"
+        }
+      ]
+    },
+    {
+      "name": "Review someone else's code",
+      "validations": [
+        "Comment on a specific line number.",
+        "Comment constructively and politely.",
+        "Learn something valuable from the comments.",
+        "Express appreciation to the author.",
+        "Review the code in a timely manner."
+      ]
+    },
+    {
+      "name": "Have your code reviewed",
+      "validations": [
+        "Create small pull requests, which are easier to review.",
+        "Take comments as constructive and not personal criticism.",
+        "Learn something valuable from the comments.",
+        "Express appreciation to the reviewer.",
+        "Respond to comments in a timely manner."
+      ]
+    }
+  ]
+}
