@@ -16,20 +16,24 @@
       "name": "Dive into designing for the web",
       "resources": [
         {
-          "title": "A Dao of Web Design",
+          "title": "Read A Practical Guide to Designing for the Web",
+          "uri": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web"
+        }
+        {
+          "title": "Read A Dao of Web Design",
           "uri": "http://www.alistapart.com/articles/dao/"
         },
         {
-          "title": "Don't Make Me Think: A Common Sense Approach to Web Usability",
+          "title": "Read Don't Make Me Think: A Common Sense Approach to Web Usability",
           "uri": "http://amzn.com/0321344758",
         },
         {
-          "title": "Designing With Web Standards",
+          "title": "Skim through Designing With Web Standards",
           "uri": "http://amzn.com/0321344758",
         },
         {
-          "title": "Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with HTML5 and CSS3",
-          "uri": "http://amzn.com/0321808355"
+          "title": "Read Understanding Web Design"
+          "uri": "http://www.alistapart.com/articles/understandingwebdesign/"
         }
         ],
         "validations": [
@@ -39,20 +43,16 @@
         ]
     },
     {
-      "name": "Dive deeper into web and application design",
+      "name": "Dive deeper into HTML & CSS",
       "resources": [
         {
-          "title": "HTML on Learn",
-          "uri": ""
-        },
-        {
-          "title": "CSS on Learn",
+          "title": "Visit HTML & CSS on Learn",
           "uri": ""
         }
       ]
     },
     {
-      "name": "",
+      "name": "On going resources and magazines",
       "resources": [
         {
           "title": "A List Apart",
