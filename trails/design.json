@@ -39,15 +39,15 @@
       "resources": [
         {
           "title": "Visit Visual Principles on Learn to augment your learning on visual principles",
-          "uri": ""
+          "uri": "https://learn.thoughtbot.com/design+principles"
         },
         {
           "title": "Visit Grid Systems on Learn to augment your learning on grid systems",
-          "uri": ""
+          "uri": "https://learn.thoughtbot.com/grids"
         },
         {
           "title": "Visit Typography on Learn to augment your learning on typography",
-          "uri": ""
+          "uri": "https://learn.thoughtbot.com/typography"
         }
       ]
     },

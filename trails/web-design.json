@@ -1,14 +1,13 @@
-
 {
-  "name": "Design",
-  "description": "Visualy commuicate a message or action with text, images, and shapes.",
+  "name": "Web Design",
+  "description": "Visualy commuicate a message or action with text, images, and shapes through the World Wide Web.",
   "steps": [
     {
       "name": "First learn visual design",
       "resources": [
         {
-          "title": "Visual Design on learn",
-          "uri": ""
+          "title": "Visual Design on Learn",
+          "uri": "https://learn.thoughtbot.com/design"
         },
       ]
     },
@@ -37,9 +36,12 @@
         }
         ],
         "validations": [
-          "",
-          "",
-          ""
+          "Apply basic design priciples to the web.",
+          "Create hierarchy within the design and type",
+          "Design a layout that is flexible and changes based on screen size",
+          "Understand the challenges and differences for designing for the web",
+          "Understand what goes into building an HTML page ith CSS.",
+          "Know that your design will look different in every browser on every machine."
         ]
     },
     {
@@ -47,7 +49,7 @@
       "resources": [
         {
           "title": "Visit HTML & CSS on Learn",
-          "uri": ""
+          "uri": "https://learn.thoughtbot.com/html+css"
         }
       ]
     },
