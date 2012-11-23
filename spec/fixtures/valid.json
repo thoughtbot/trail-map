@@ -1,0 +1,22 @@
+{
+  "name": "UNIX",
+  "description": "A multitasking, multi-user computer operating system originally developed in 1969, variants of which now form the underpinning of many operating systems, including OS X, iOS, and Linux.",
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "title": "Read The Linux Programming Interface. Chapters 1,  2, 6, 8, 10, 14, 15, 18, 25, 44, 62.",
+          "uri": "http://amzn.to/the-linux-programming-interface"
+        },
+        {
+          "title": "Read about I/O redirection.",
+          "uri": "http://en.wikipedia.org/wiki/Redirection_%28computing%29"
+        }
+      ],
+      "validations": [
+        "You can use these commands and operators: |, <, >, >>, &, ack, awk, cat, chmod, chown, cp, export, find, kill, locate, ls, mkdir, mv, ps, rm, sed, sort, tail, top, vim, whereis, xargs"
+      ]
+    }
+  ]
+}
