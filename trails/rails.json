@@ -2,7 +2,7 @@
   "name": "Ruby on Rails",
   "description": "An open source full-stack web application framework for the Ruby programming language.",
   "prerequisites": [
-    "css-html",
+    "html-css",
     "git",
     "javascript",
     "ruby",
