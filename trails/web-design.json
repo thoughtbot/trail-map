@@ -3,7 +3,7 @@
   "description": "Visually communicate a message or action with text, images, and shapes through the World Wide Web.",
   "prerequisites": [
     "design",
-    "visual principles",
+    "visual-principles",
     "grids",
     "typography"
     ],
