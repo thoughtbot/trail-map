@@ -1,0 +1,68 @@
+{
+  "name": "Design",
+  "description": "Visually communicate a message or action with text, images, and shapes.",
+  "steps": [
+    {
+      "name": "First learn design basics: Visual Principles, Grid Systems, Typography and Color",
+      "resources": [
+        {
+          "title": "Read 'Visual Grammar' for an introduction to visual principles of design",
+          "uri": "http://amzn.to/visual-grammar"
+        },
+        {
+          "title": "Read 'Grid Systems: Principles of Organizing Type' for an introduction to grid systems",
+          "uri": "http://amzn.to/grid-systems-principles"
+        },
+        {
+          "title": "Read 'Thinking with Type' for an introduction to Typography",
+          "uri": "http://amzn.to/thinking-with-type"
+        },
+        {
+          "title": "Read 'Understanding Color: An Introduction for Designers' for an inroduction to Color theory",
+          "uri": "http://amzn.com/0470381353"
+        }
+      ],
+      "validations": [
+        "Have a basic understanding of visual principles",
+        "Use visual priciples in your design",
+        "Communicate visual design principles in your work and others",
+        "Create and use a simple grid within your work",
+        "Maintain a clear hierarchy within your work",
+        "Elements in your design are aligned to the grid and have relationships to the other elements in the design",
+        "Are able to properly set type within your work",
+        "Are able to choose an adequate typeface for the message in your design",
+        "You can assign colors to elements to add value to the message"
+      ]
+    },
+    {
+      "name": "Dig deeper into each basic design topic",
+      "resources": [
+        {
+          "title": "Visit 'Visual Principles' on Learn to augment your learning on visual principles",
+          "uri": "https://learn.thoughtbot.com/design+principles"
+        },
+        {
+          "title": "Visit 'Grid Systems' on Learn to augment your learning on grid systems",
+          "uri": "https://learn.thoughtbot.com/grids"
+        },
+        {
+          "title": "Visit 'Typography' on Learn to augment your learning on typography",
+          "uri": "https://learn.thoughtbot.com/typography"
+        }
+      ]
+    },
+    {
+      "name": "Look into specific practices of design",
+      "resources": [
+        {
+          "title": "Visit 'Web Design' on Learn",
+          "uri": "https://learn.thoughtbot.com/web+design"
+        },
+        {
+          "title": "Visit 'Information Design' on Learn",
+          "uri": "https://learn.thoughtbot.com/information+design"
+        }
+      ]
+    }
+  ]
+}

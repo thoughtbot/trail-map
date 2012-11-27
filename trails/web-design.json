@@ -1,0 +1,93 @@
+{
+  "name": "Web Design",
+  "description": "Visually communicate a message or action with text, images, and shapes through the World Wide Web.",
+  "prerequisites": [
+    "design",
+    "visual principles",
+    "grids",
+    "typography"
+    ],
+  "steps": [
+    {
+      "name": "First learn visual design",
+      "resources": [
+        {
+          "title": "Visual Design on Learn",
+          "uri": "https://learn.thoughtbot.com/design"
+        }
+      ]
+    },
+    {
+      "name": "Dive into designing for the web",
+      "resources": [
+        {
+          "title": "Read 'A Practical Guide to Designing for the Web'",
+          "uri": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web"
+        },
+        {
+          "title": "Read 'A Dao of Web Design'",
+          "uri": "http://www.alistapart.com/articles/dao/"
+        },
+        {
+          "title": "Read 'Don't Make Me Think: A Common Sense Approach to Web Usability'",
+          "uri": "http://amzn.com/0321344758"
+        },
+        {
+          "title": "Skim through 'Designing With Web Standards'",
+          "uri": "http://amzn.com/0321344758"
+        },
+        {
+          "title": "Read 'Understanding Web Design'",
+          "uri": "http://www.alistapart.com/articles/understandingwebdesign/"
+        }
+        ],
+        "validations": [
+          "Apply basic design priciples to the web.",
+          "Create hierarchy within the design and type",
+          "Design a layout that is flexible and changes based on screen size",
+          "Understand the challenges and differences for designing for the web",
+          "Understand what goes into building an HTML page with CSS.",
+          "Know that your design will look different in every browser on every machine."
+        ]
+    },
+    {
+      "name": "Dive deeper into HTML & CSS",
+      "resources": [
+        {
+          "title": "Visit 'HTML & CSS' on Learn",
+          "uri": "https://learn.thoughtbot.com/html+css"
+        }
+      ]
+    },
+    {
+      "name": "Learn to create good user experiences",
+      "resources": [
+        {
+          "title": "Read 'Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems' to understand how to run a adhoc usability test.",
+          "uri": "http://amzn.com/0465067107"
+        },
+        {
+          "title": "Read 'The Design of Everyday Things' to see how other people have already applied user experience to real world products.",
+          "uri": "http://amzn.com/0321657292"
+        },
+        {
+          "title": "Read through all of the weeks of '52 Weeks of UX'",
+          "uri": "http://52weeksofux.com/"
+        }
+      ]
+      },
+    {
+      "name": "On going resources and magazines",
+      "resources": [
+        {
+          "title": "A List Apart",
+          "uri": "http://www.alistapart.com/"
+        },
+        {
+          "title": "The Manual",
+          "uri": "http://alwaysreadthemanual.com/"
+        }
+      ]
+    }
+  ]
+}
