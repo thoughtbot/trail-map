@@ -24,6 +24,10 @@
         {
           "title": "Read the BubbleWrap source code",
           "uri": "https://github.com/rubymotion/BubbleWrap"
+        },
+        {
+          "title": "Read the RubyMotion Book",
+          "uri": "http://pragprog.com/book/carubym/rubymotion"
         }
       ],
       "validations": [
