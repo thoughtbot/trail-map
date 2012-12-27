@@ -1,0 +1,42 @@
+{
+  "name": "Product Design",
+  "description": "",
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "title": "Read The Lean Startup.",
+          "url": "http://amzn.com/1568985819"
+        },
+        {
+          "title": "Read thoughtbot's The Playbook.",
+          "url": "http://playbook.thoughtbot.com/"
+        },
+        {
+          "title": "Read 37 Signal's Getting Real.",
+          "url": "http://gettingreal.37signals.com/"
+        },
+        {
+          "title": "Read 37 Signal's rework.",
+          "url": "http://37signals.com/rework"
+        },
+        {
+          "title": "Watch Ryan Singer's UX Sketching screencast.",
+          "url": "https://peepcode.com/products/ryan-singer-ux"
+        },
+        {
+          "title": "Watch Ryan Singer's Prototyping screencast.",
+          "url": "https://peepcode.com/products/ryan-singer-ii"
+        }
+      ],
+      "validations": [
+        "Define an MVP (Minimum Viable Product).",
+        "Explain the values of short product development cycles and iterative testing.",
+        "Write effective user stories.",
+        "Articulate your process in defining and solving interface problems.",
+        "Rapidly prototype."
+      ]
+    }
+  ]
+}
