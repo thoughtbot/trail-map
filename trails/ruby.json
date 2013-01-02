@@ -56,7 +56,7 @@
       "resources": [
         {
           "title": "Ruby Core Documentation",
-          "uri": "http://ruby-doc.org/core-1.9.3"
+          "uri": "http://ruby-doc.org/core"
         },
         {
           "title": "Ruby Library reference in The Pickaxe",
