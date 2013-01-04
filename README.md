@@ -36,11 +36,11 @@ Trails
 ------
 
 * [Code Review](/thoughtbot/trail-map/blob/master/trails/code-review.json)
-* [Visual Design](https://learn.thoughtbot.com/design)
 * [Git](https://learn.thoughtbot.com/git)
 * [Grids](https://learn.thoughtbot.com/grids)
 * [HTML/CSS](https://learn.thoughtbot.com/html-css)
 * [Information Design](/thoughtbot/trail-map/blob/master/trails/information-design.json)
+* [iOS](https://learn.thoughtbot.com/ios)
 * [Javascript](https://learn.thoughtbot.com/javascript)
 * [Open Source](/thoughtbot/trail-map/blob/master/trails/open-source.json)
 * [Product Design](/thoughtbot/trail-map/blob/master/trails/product-design.json)
@@ -53,7 +53,7 @@ Trails
 * [Typography](https://learn.thoughtbot.com/typography)
 * [Unix](https://learn.thoughtbot.com/unix)
 * [Vim](https://learn.thoughtbot.com/vim)
-* [iOS](https://learn.thoughtbot.com/ios)
+* [Visual Design](https://learn.thoughtbot.com/design)
 
 Contributing
 ------------
