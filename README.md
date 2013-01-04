@@ -38,7 +38,7 @@ Trails
 * [Code Review](/thoughtbot/trail-map/blob/master/trails/code-review.json)
 * [Visual Design](https://learn.thoughtbot.com/design)
 * [Git](https://learn.thoughtbot.com/git)
-* [Grids](/thoughtbot/trail-map/blob/master/trails/grids.json)
+* [Grids](https://learn.thoughtbot.com/grids)
 * [HTML/CSS](https://learn.thoughtbot.com/html-css)
 * [Information Design](/thoughtbot/trail-map/blob/master/trails/information-design.json)
 * [Javascript](https://learn.thoughtbot.com/javascript)
@@ -53,7 +53,7 @@ Trails
 * [Typography](https://learn.thoughtbot.com/typography)
 * [Unix](https://learn.thoughtbot.com/unix)
 * [Vim](https://learn.thoughtbot.com/vim)
-* [iOS](/thoughtbot/trail-map/blob/master/trails/ios.json)
+* [iOS](https://learn.thoughtbot.com/ios)
 
 Contributing
 ------------
