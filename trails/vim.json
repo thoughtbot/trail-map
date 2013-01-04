@@ -58,12 +58,24 @@
     {
       "name": "Ongoing Reference",
       "resources": [
-        ":help",
-        ":help g",
-        ":help motion.txt",
-        ":help spell.txt",
-        ":help user-manual",
-        ":help visual.txt"
+        {
+          "title": ":help"
+        },
+        {
+          "title": ":help g"
+        },
+        {
+          "title": ":help motion.txt"
+        },
+        {
+          "title": ":help spell.txt"
+        },
+        {
+          "title": ":help user-manual"
+        },
+        {
+          "title": ":help visual.txt"
+        }
       ],
       "validations": [
         "Identify vim's use of every letter on the keyboard (uppercase and lowercase)."
