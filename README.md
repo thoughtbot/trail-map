@@ -35,26 +35,25 @@ To use these, you may want to first set up your laptop with
 Trails
 ------
 
-* [CSS](https://learn.thoughtbot.com/css)
 * [Code Review](/thoughtbot/trail-map/blob/master/trails/code-review.json)
-* [Design Principles](https://learn.thoughtbot.com/design+principles)
+* [Visual Design](https://learn.thoughtbot.com/design)
 * [Git](https://learn.thoughtbot.com/git)
-* [Grids](/thoughtbot/trail-map/blob/master/trails/grids.json)
-* [HTML](/thoughtbot/trail-map/blob/master/trails/html.json)
+* [Grids](https://learn.thoughtbot.com/grids)
+* [HTML/CSS](https://learn.thoughtbot.com/html-css)
 * [Information Design](/thoughtbot/trail-map/blob/master/trails/information-design.json)
 * [Javascript](https://learn.thoughtbot.com/javascript)
 * [Open Source](/thoughtbot/trail-map/blob/master/trails/open-source.json)
-* [Product Design](/thoughtbot/trail-map/blob/master/trails/product-design.md)
-* [Postgres](/thoughtbot/trail-map/blob/master/trails/postgres.json)
+* [Product Design](/thoughtbot/trail-map/blob/master/trails/product-design.json)
 * [Rails](https://learn.thoughtbot.com/rails)
 * [Refactoring](https://learn.thoughtbot.com/refactoring)
 * [Ruby](https://learn.thoughtbot.com/ruby)
 * [Sass](https://learn.thoughtbot.com/sass)
+* [SQL](https://learn.thoughtbot.com/sql)
 * [Test-Driven Development](https://learn.thoughtbot.com/test-driven+development)
 * [Typography](https://learn.thoughtbot.com/typography)
 * [Unix](https://learn.thoughtbot.com/unix)
 * [Vim](https://learn.thoughtbot.com/vim)
-* [iOS](/thoughtbot/trail-map/blob/master/trails/ios.json)
+* [iOS](https://learn.thoughtbot.com/ios)
 
 Contributing
 ------------
