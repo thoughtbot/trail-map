@@ -64,7 +64,7 @@ Guidelines](/thoughtbot/trail-map/blob/master/CONTRIBUTING.md).
 Credits
 -------
 
-![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
+![thoughtbot](http://thoughtbot.com/logo.png)
 
 Trail Map is maintained by [thoughtbot, inc](http://thoughtbot.com/community)
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
