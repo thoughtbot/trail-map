@@ -2,22 +2,16 @@ require 'json'
 require 'rubygems'
 
 class TrailRunner
-  def run
-    print_starting_message
-    run_validations_on_json_files
+  def run(purpose, &block)
+    print_starting_message(purpose)
+    json_files.each(&block)
     print_closing_puts
   end
 
   private
 
-  def print_starting_message
-    puts "Starting JSON validation\n"
-  end
-
-  def run_validations_on_json_files
-    json_files.each do |file|
-      JSONValidator.new(file).run && URIValidator.new(file).run
-    end
+  def print_starting_message(purpose)
+    puts "Starting #{purpose}\n"
   end
 
   def json_files

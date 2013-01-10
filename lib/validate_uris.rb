@@ -5,4 +5,4 @@ helper_files = script_directory + '/helpers/*.rb'
 
 Dir[helper_files].each { |file| require File.expand_path(file) }
 
-TrailRunner.new.run('JSON validation') { |file| JSONValidator.new(file).run }
+TrailRunner.new.run('URI validation') { |file| URIValidator.new(file).run }
