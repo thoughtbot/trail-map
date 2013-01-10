@@ -13,8 +13,10 @@ class JSONValidator
   def check_json_validation
     if valid_json?
       print_progress_marker
+      return true
     else
       print_error_message
+      return false
     end
   end
 

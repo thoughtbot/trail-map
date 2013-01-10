@@ -15,7 +15,9 @@ class TrailRunner
   end
 
   def run_validations_on_json_files
-    json_files.each { |file| JSONValidator.new(file).run }
+    json_files.each do |file|
+      JSONValidator.new(file).run && URIValidator.new(file).run
+    end
   end
 
   def json_files
