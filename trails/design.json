@@ -39,7 +39,7 @@
       "resources": [
         {
           "title": "Visit 'Visual Principles' on Learn to augment your learning on visual principles",
-          "uri": "https://learn.thoughtbot.com/design+principles"
+          "uri": "https://learn.thoughtbot.com/visual-principles"
         },
         {
           "title": "Visit 'Grid Systems' on Learn to augment your learning on grid systems",
@@ -60,7 +60,7 @@
         },
         {
           "title": "Visit 'Information Design' on Learn",
-          "uri": "https://learn.thoughtbot.com/information+design"
+          "uri": "https://learn.thoughtbot.com/information-design"
         }
       ]
     }
