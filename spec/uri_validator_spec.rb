@@ -31,4 +31,17 @@ describe URIValidator, '#run' do
     io.string.should =~ %r{ERROR in bad_json_file\.json: http://bad\.example\.org}
     io.string.should =~ %r{ERROR in bad_json_file\.json: http://thoughtbot\.com/404}
   end
+
+  it 'retries with a GET request on a method not allowed error' do
+    stub_request(:head, 'http://example.com').to_return(status: 405)
+    stub_request(:get, 'http://example.com')
+    file_name = 'rails.json'
+    URIExtractor.stubs(:new).with(file_name).returns %w(http://example.com)
+    $stdout = io = StringIO.new
+
+    URIValidator.new(file_name).run
+
+    WebMock.should have_requested(:head, 'http://example.com')
+    WebMock.should have_requested(:get, 'http://example.com')
+  end
 end

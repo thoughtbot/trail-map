@@ -23,7 +23,10 @@ class URIValidator
 
   def valid_uri?(uri)
     response = HTTParty.head(uri)
-    return response.code == 200
+    if response.method_not_allowed?
+      response = HTTParty.get(uri)
+    end
+    return response.ok?
   rescue SocketError
     return false
   end
