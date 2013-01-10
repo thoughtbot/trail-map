@@ -33,6 +33,6 @@ class URIValidator
   end
 
   def print_error_message(uri)
-    puts "\nERROR: #{uri} cannot be found"
+    puts "\nERROR in #{File.basename(@file_name)}: #{uri} cannot be found"
   end
 end

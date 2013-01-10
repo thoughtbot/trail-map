@@ -19,7 +19,7 @@ describe URIValidator, '#run' do
   it 'outputs an error for each invalid URI' do
     stub_request(:head, 'http://bad.example.org').to_raise(SocketError)
     stub_request(:head, 'http://thoughtbot.com/404').to_return(status: 404)
-    file_name = 'bad_json_file.json'
+    file_name = 'path/to/bad_json_file.json'
     URIExtractor.stubs(:new).with(file_name).returns %w(
       http://bad.example.org
       http://thoughtbot.com/404
@@ -28,7 +28,7 @@ describe URIValidator, '#run' do
 
     URIValidator.new(file_name).run
 
-    io.string.should =~ %r{ERROR: http://bad\.example\.org}
-    io.string.should =~ %r{ERROR: http://thoughtbot\.com/404}
+    io.string.should =~ %r{ERROR in bad_json_file\.json: http://bad\.example\.org}
+    io.string.should =~ %r{ERROR in bad_json_file\.json: http://thoughtbot\.com/404}
   end
 end
