@@ -4,33 +4,29 @@ require 'rspec/mocks/standalone'
 require 'bourne'
 
 describe TrailRunner, '#run' do
-  it 'returns a starting message' do
+  it 'outputs a starting message' do
     $stdout = io = StringIO.new
 
-    TrailRunner.new.run
+    TrailRunner.new.run('JSON validation') {}
 
-    io.string.split("\n")[0].should =~ /Starting/
+    io.string.split("\n")[0].should =~ /Starting JSON validation/
   end
 
-  it 'calls JSONValidator.new(file).run on each file' do
-    validator_stub = stub('json validator stub', :run)
-    JSONValidator.stubs(:new).returns(validator_stub)
-
-    dir = File.dirname(__FILE__)
-    file_name = File.open(dir + '/fixtures/valid.json')
-    files = [file_name]
+  it 'yields each file name' do
     runner = TrailRunner.new
+    files = %w(rails.json vim.json)
     runner.stubs(:json_files).returns(files)
+    yielded_files = []
 
-    runner.run
+    runner.run('Yield test') { |f| yielded_files << f }
 
-    JSONValidator.should have_received(:new)
+    yielded_files.should eq files
   end
 
   it 'prints a closing puts' do
     $stdout = io = StringIO.new
 
-    TrailRunner.new.run
+    TrailRunner.new.run('Closing test') {}
 
     output = io.string[-1, 1]
     output.should == "\n"
