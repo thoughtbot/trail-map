@@ -26,17 +26,13 @@ class URIExtractor
   end
 
   def extract_uris_from_hash(hash)
-    uris = []
-
-    hash.each do |key, value|
+    hash.inject([]) do |uris, (key, value)|
       if key == 'uri'
-        uris << value
+        uris + [value]
       else
-        uris += extract_uris(value)
+        uris + extract_uris(value)
       end
     end
-
-    uris
   end
 
   def extract_uris_from_array(array)
