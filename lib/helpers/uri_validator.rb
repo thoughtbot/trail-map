@@ -22,12 +22,18 @@ class URIValidator
   end
 
   def valid_uri?(uri)
+    head_request_ok?(uri) || get_request_ok?(uri)
+  end
+
+  def head_request_ok?(uri)
     response = HTTParty.head(uri)
+    return response.ok?
+  rescue SocketError
+    return false
+  end
 
-    if response.method_not_allowed?
-      response = HTTParty.get(uri)
-    end
-
+  def get_request_ok?(uri)
+    response = HTTParty.get(uri)
     return response.ok?
   rescue SocketError
     return false
