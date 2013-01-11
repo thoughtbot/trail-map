@@ -1,8 +1,7 @@
 class URIExtractor
   def initialize(file_name)
     @file_name = file_name
-    contents = File.read(@file_name)
-    @json = JSON.parse(contents)
+    @json = parse_json
   end
 
   def each(&block)
@@ -10,10 +9,6 @@ class URIExtractor
   end
 
   private
-
-  def uris
-    @uris ||= extract_uris(@json)
-  end
 
   def extract_uris(source)
     if source.is_a?(Hash)
@@ -37,5 +32,13 @@ class URIExtractor
 
   def extract_uris_from_array(array)
     array.map { |o| extract_uris(o) }.flatten
+  end
+
+  def parse_json
+    JSON.parse(File.read(@file_name))
+  end
+
+  def uris
+    @uris ||= extract_uris(@json)
   end
 end
