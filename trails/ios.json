@@ -42,7 +42,7 @@
         "Use Xcode (and the built-in Interface Builder) to compile an iOS app.",
         "Describe and use ARC and MRC for memory mangement, as well as the rules of the retain/release/autorelease cycle.",
         "Use the basic data types (NSInteger, NSString), collection objects (NSArray, NSDictionary), and know when to use them instead of C primitives (int, char, etc).",
-        "Understand the difference between using tne mutable (NSMutableArray, NSMutableDictionary, NSMutableString) and immutable objects in Objective-C, their advantaces and disavantages.",
+        "Understand the difference between using the mutable (NSMutableArray, NSMutableDictionary, NSMutableString) and immutable objects in Objective-C, their advantages and disadvantages.",
         "Use the basic display and navigation elements (UIWindow, UIView, UINavigationBar, UIToolbar, etc).",
         "Implement a solution using an UITableView, with navigation and a custom UITableViewCell.",
         "Implement the various iOS controls (UISwitch, UILabel, UISegmentedControl, etc).",
@@ -59,7 +59,7 @@
       "name": "Ongoing Reference",
       "resources": [
         {
-          "title": "Maintain an active ADC account and refer tothe official documentation",
+          "title": "Maintain an active ADC account and refer to the official documentation",
           "uri": "https://developer.apple.com"
         },
         {
