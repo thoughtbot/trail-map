@@ -6,7 +6,7 @@
   ],
   "steps": [
     {
-      "name": "The Basics",
+      "name": "Critical Learning",
       "resources": [
         {
           "title": "Read tmux: Productive Mouse Free Development",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "name": "Now that you know what you're doing",
+      "name": "Advanced tmux",
       "resources": [
         {
           "title": "Learn from other ~/tmux.confs",
