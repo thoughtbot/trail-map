@@ -1,0 +1,64 @@
+{
+  "name": "tmux",
+  "description": "A terminal multiplexer, allowing you to access multiple terminal sessions within a single terminal screen. Allows you to detach and later reattach to said sessions, as well as remote screen share.",
+  "prerequisites": [
+    "unix"
+  ],
+  "steps": [
+    {
+      "name": "Critical Learning",
+      "resources": [
+        {
+          "title": "Read tmux: Productive Mouse Free Development",
+          "uri": "http://pragprog.com/book/bhtmux/tmux"
+        },
+        {
+          "title": "Watch Humans Present: tmux",
+          "uri": "https://learn.thoughtbot.com/products/4-humans-present-tmux"
+        },
+        {
+          "title": "Read Love, hate, & tmux",
+          "uri": "http://robots.thoughtbot.com/post/2166174647/love-hate-tmux"
+        },
+        {
+          "title": "Read A Tmux Crash Course",
+          "uri": "http://robots.thoughtbot.com/post/2641409235/a-tmux-crash-course"
+        }
+      ],
+      "validations": [
+        "Attach, detach, and reattach to a session",
+        "Create, switch, and close windows",
+        "Rename windows",
+        "Split panes vertically and horizontally",
+        "Switch and close panes",
+        "Resize and rotate panes"
+      ]
+    },
+    {
+      "name": "Advanced tmux",
+      "resources": [
+        {
+          "title": "Learn from other ~/tmux.confs",
+          "uri": "https://github.com/joshuaclayton/dotfiles/blob/master/tmux.conf"
+        },
+        {
+          "title": "Read How to Copy and Paste with Tmux on Mac OS X",
+          "uri": "http://robots.thoughtbot.com/post/19398560514/how-to-copy-and-paste-with-tmux-on-mac-os-x"
+        },
+        {
+          "title": "Read the documentation",
+          "uri": "http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1"
+        }
+      ]
+    },
+    {
+      "name": "Use tmux for remote screen sharing",
+      "resources": [
+        {
+          "title": "Use wemux in mirror, pair, or rogue mode",
+          "uri": "https://github.com/zolrath/wemux"
+        }
+      ]
+    }
+  ]
+}

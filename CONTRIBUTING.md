@@ -13,7 +13,7 @@ Contributing
 > In which format should my contributions be submitted?
 
 * Pull requests should be in JSON format
-* Run the json validator script (`ruby lib/validate_json.rb`)
+* Run the validator script (`rake validate`)
 * For more detailed output, use [JSONlint.com](http://jsonlint.com).
 * Considering using [this regex](https://gist.github.com/4068038) for converting Markdown to JSON
 
