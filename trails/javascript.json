@@ -31,6 +31,10 @@
           "uri": "http://eloquentjavascript.net/contents.html"
         },
         {
+          "title": "JavaScript Garden",
+          "uri": "http://bonsaiden.github.com/JavaScript-Garden/"
+        },
+        {
           "title": "JavaScript: The Definitive Guide, Core and Client-Side Reference chapters",
           "uri": "http://amzn.to/ONeSOs"
         }
