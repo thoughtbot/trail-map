@@ -3,7 +3,7 @@
   "description": "The primary programming language used for client-side in-browser functionality.",
   "steps": [
     {
-      "name": "Complete Javascript Fundamentals",
+      "name": "Understand the fundamentals",
       "resources": [
         {
           "title": "Codecademy",
@@ -24,14 +24,14 @@
       ]
     },
     {
-      "name": "Read Eloquent Javascript",
+      "name": "Get a deeper understanding",
       "resources": [
         {
-          "title": "Eloquent Javascript",
+          "title": "Eloquent JavaScript",
           "uri": "http://eloquentjavascript.net/contents.html"
         },
         {
-          "title": "Javascript: The Definitive Guide, Core and Client-Side Reference chapters.",
+          "title": "JavaScript: The Definitive Guide, Core and Client-Side Reference chapters",
           "uri": "http://amzn.to/ONeSOs"
         }
       ],
@@ -41,10 +41,10 @@
       ]
     },
     {
-      "name": "Read Javascript Web Applications",
+      "name": "Understand how to build interactive pages",
       "resources": [
         {
-          "title": "Javascript Web Applications",
+          "title": "JavaScript Web Applications",
           "uri": "http://amzn.to/javascript-web-apps"
         },
         {
@@ -66,7 +66,7 @@
         "Secure your application against cross-domain requests.",
         "Persist data locally between page refreshes using localStorage.",
         "Use the HTML5 History API.",
-        "Bind a view element to a Javascript object (usually a model)."
+        "Bind a view element to a JavaScript object (usually a model)."
       ]
     },
     {
