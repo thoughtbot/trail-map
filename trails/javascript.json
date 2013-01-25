@@ -68,6 +68,19 @@
         "Use the HTML5 History API.",
         "Bind a view element to a Javascript object (usually a model)."
       ]
+    },
+    {
+      "name": "Conform to a style guide",
+      "resources": [
+        {
+          "title": "Google JavaScript Style Guide",
+          "uri": "http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml"
+        },
+        {
+          "title": "JQuery Core Style Guidelines",
+          "uri": "http://docs.jquery.com/JQuery_Core_Style_Guidelines"
+        }
+      ]
     }
   ]
 }
