@@ -36,6 +36,10 @@
         {
           "title": "Read open source code: example",
           "uri": "https://github.com/copycopter/copycopter-server"
+        },
+        {
+          "title": "Test your knowledge with the Rails Interview Questions",
+          "uri": "http://documentup.com/afeld/rails_interview_questions"
         }
       ],
       "validations": [
