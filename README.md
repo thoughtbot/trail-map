@@ -37,15 +37,15 @@ To use these, you may want to first set up your laptop with
 Trails
 ------
 
-* [Code Review](/thoughtbot/trail-map/blob/master/trails/code-review.json)
+* [Code Review](/trails/code-review.json)
 * [Git](https://learn.thoughtbot.com/git)
 * [Grids](https://learn.thoughtbot.com/grids)
 * [HTML/CSS](https://learn.thoughtbot.com/html-css)
-* [Information Design](/thoughtbot/trail-map/blob/master/trails/information-design.json)
+* [Information Design](/trails/information-design.json)
 * [iOS](https://learn.thoughtbot.com/ios)
 * [Javascript](https://learn.thoughtbot.com/javascript)
-* [Open Source](/thoughtbot/trail-map/blob/master/trails/open-source.json)
-* [Product Design](/thoughtbot/trail-map/blob/master/trails/product-design.json)
+* [Open Source](/trails/open-source.json)
+* [Product Design](/trails/product-design.json)
 * [Rails](https://learn.thoughtbot.com/rails)
 * [Refactoring](https://learn.thoughtbot.com/refactoring)
 * [Ruby](https://learn.thoughtbot.com/ruby)
@@ -61,7 +61,7 @@ Contributing
 ------------
 
 Please see the [Contribution
-Guidelines](/thoughtbot/trail-map/blob/master/CONTRIBUTING.md).
+Guidelines](/CONTRIBUTING.md).
 
 Credits
 -------
@@ -71,7 +71,7 @@ Credits
 Trail Map is maintained by [thoughtbot, inc](http://thoughtbot.com/community)
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
 
-Thank you, [contributors](/thoughtbot/trail-map/graphs/contributors)!
+Thank you, [contributors](/graphs/contributors)!
 
 License
 -------
