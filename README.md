@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/thoughtbot/trail-map.png?branch=master)](https://travis-ci.org/thoughtbot/trail-map)
+
 NOTE:
 =====
 
