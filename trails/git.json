@@ -10,6 +10,10 @@
           "uri": "http://try.github.com"
         },
         {
+          "title": "Complete Git Branching interactive tutorial",
+          "uri": "http://pcottle.github.com/learnGitBranching"
+        },
+        {
           "title": "Watch the Normal Workflow gitcast",
           "uri": "http://blip.tv/scott-chacon/c2-normal-workflow-4113486"
         }
