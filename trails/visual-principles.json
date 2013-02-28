@@ -39,31 +39,31 @@
       "name": "Learn about the psychology and philosophy behind the main principles",
       "resources": [
         {
-          "title": "Read Andy Rutledge's \"Gestalt Principles\":",
+          "title": "Read Andy Rutledge's \"Gestalt Principles of Perception\":",
           "id": "a68b11772c61cdf521fff5650ccfedab279618a8"
         },
         {
-          "title": "1",
+          "title": "1. Figure Ground Relationships",
           "uri": "http://www.andyrutledge.com/gestalt-principles-1-figure-ground-relationship.php",
           "id": "356a192b7913b04c54574d18c28d46e6395428ab"
         },
         {
-          "title": "2",
+          "title": "2. Similarity",
           "uri": "http://www.andyrutledge.com/gestalt-principles-2-similarity.php",
           "id": "da4b9237bacccdf19c0760cab7aec4a8359010b0"
         },
         {
-          "title": "3",
+          "title": "3. Proximity, Uniform Connectedness, and Good Continuation",
           "uri": "http://www.andyrutledge.com/gestalt-principles-3.php",
           "id": "77de68daecd823babbb58edb1c8e14d7106e83bb"
         },
         {
-          "title": "4",
+          "title": "4. Common Fate",
           "uri": "http://www.andyrutledge.com/common-fate.php",
           "id": "1b6453892473a467d07372d45eb05abc2031647a"
         },
         {
-          "title": "5",
+          "title": "5. Closure",
           "uri": "http://www.andyrutledge.com/closure.php",
           "id": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4"
         }
