@@ -10,22 +10,32 @@ task :environment do
   Dir[helper_files].each { |file| require File.expand_path(file) }
 end
 
-desc 'Run RSpec code examples and validations'
-task :test => [:spec, :validate]
+desc 'Run RSpec code examples, UUID generation, and validations'
+task test: [:spec, :generate, :validate]
 
 desc 'Run validations'
-task :validate => %w(validate:json validate:uris)
+task validate: %w(validate:json validate:uris)
+
+desc 'Generate UUIDs'
+task generate: %w(generate:uuid)
 
 namespace :validate do
   desc 'Run JSON validations'
-  task :json => :environment do
+  task json: :environment do
     TrailRunner.new.run('JSON validation') { |file| JSONValidator.new(file).run }
   end
 
   desc 'Run URI validations'
-  task :uris => :environment do
+  task uris: :environment do
     TrailRunner.new.run('URI validation') { |file| URIValidator.new(file).run }
   end
 end
 
-task :default => :test
+namespace :generate do
+  desc 'Generate UUIDs'
+  task uuid: :environment do
+    TrailRunner.new.run('UUID generation') { |file| UUIDGenerator.new(file).run }
+  end
+end
+
+task default: :test

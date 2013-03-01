@@ -7,22 +7,37 @@
       "resources": [
         {
           "title": "Read the Sass Tutorial",
-          "uri": "http://sass-lang.com/tutorial.html"
+          "uri": "http://sass-lang.com/tutorial.html",
+          "id": "95e20cf1424bc0b08e619a9b27ab27af74ad3f26"
         },
         {
           "title": "Read open source code",
-          "uri": "https://github.com/thoughtbot/bourbon/tree/master/app/assets/stylesheets"
+          "uri": "https://github.com/thoughtbot/bourbon/tree/master/app/assets/stylesheets",
+          "id": "79bde23b45393e3f5c2d31ddd4abe32249201482"
         },
         {
           "title": "Read the Sass Documentation",
-          "uri": "http://sass-lang.com/docs.html"
+          "uri": "http://sass-lang.com/docs.html",
+          "id": "ca2587d2b6879992daf411023be22e2c8b5040f2"
         }
       ],
       "validations": [
-        "Create and use mixins.",
-        "Set and use variables.",
-        "Use nested selectors.",
-        "Use @include and @extend."
+        {
+          "title": "Create and use mixins.",
+          "id": "e2eae114ef7f3573118fe987f7e7902dadc631dc"
+        },
+        {
+          "title": "Set and use variables.",
+          "id": "459c3048099a93a779d677b0f9f9f3f0b7b81d3e"
+        },
+        {
+          "title": "Use nested selectors.",
+          "id": "fcd01580116c44a8f3063c66962a3cde455931d6"
+        },
+        {
+          "title": "Use @include and @extend.",
+          "id": "3f03200ac7f0a6ba9bed1d70bca159e7914b6fa6"
+        }
       ]
     }
   ]

@@ -7,20 +7,51 @@
       "resources": [
         {
           "title": "Codecademy",
-          "uri": "http://www.codecademy.com/tracks/javascript"
+          "uri": "http://www.codecademy.com/tracks/javascript",
+          "id": "e147d44ef6484f358b143f86f2d9b67818356c20"
         }
       ],
       "validations": [
-        "Run programs.",
-        "Define a function.",
-        "Invoke a function.",
-        "Avoid syntax errors.",
-        "Print values.",
-        "Use common control flow structures.",
-        "Instantiate an object.",
-        "Initialize arrays using [].",
-        "Initialize empty objects and hashes using {}.",
-        "Iterate over collections."
+        {
+          "title": "Run programs.",
+          "id": "7fcd7bc60a2af535fee2ec5a03426828650b3865"
+        },
+        {
+          "title": "Define a function.",
+          "id": "acc8948f394a95a3415e1d7834333d948a8aa0ea"
+        },
+        {
+          "title": "Invoke a function.",
+          "id": "b502fa72a83c67b2cccac826bd6d217929759c8a"
+        },
+        {
+          "title": "Avoid syntax errors.",
+          "id": "a899b1ba4506e7c994374fd41499d60230ff85e2"
+        },
+        {
+          "title": "Print values.",
+          "id": "2c4284d27a27a7e8dad31ba8fbe1d7a2703627a2"
+        },
+        {
+          "title": "Use common control flow structures.",
+          "id": "344561225d50387d932edbb8932b66209b777fb2"
+        },
+        {
+          "title": "Instantiate an object.",
+          "id": "7993ef0e834e4d4658d4d5d4ee4a82563e165c56"
+        },
+        {
+          "title": "Initialize arrays using [].",
+          "id": "2009242d419eef1aa5f81bfd862ab6f946da418a"
+        },
+        {
+          "title": "Initialize empty objects and hashes using {}.",
+          "id": "c6634744917a34e90731bf0131ee55dcb6ea7051"
+        },
+        {
+          "title": "Iterate over collections.",
+          "id": "a89f3f40edd0bf7e9b83c0e3c6d42bce5b22311f"
+        }
       ]
     },
     {
@@ -28,20 +59,29 @@
       "resources": [
         {
           "title": "Eloquent JavaScript",
-          "uri": "http://eloquentjavascript.net/contents.html"
+          "uri": "http://eloquentjavascript.net/contents.html",
+          "id": "503ef2c828c94e73cd41e7f757cb70365416367c"
         },
         {
           "title": "JavaScript Garden",
-          "uri": "http://bonsaiden.github.com/JavaScript-Garden/"
+          "uri": "http://bonsaiden.github.com/JavaScript-Garden/",
+          "id": "3c1384d70bf54b60f59616c9ff23828b55b7c1d1"
         },
         {
           "title": "JavaScript: The Definitive Guide, Core and Client-Side Reference chapters",
-          "uri": "http://amzn.to/ONeSOs"
+          "uri": "http://amzn.to/ONeSOs",
+          "id": "91b457d0144f2e8ac562ec6af040ecc10681e1c4"
         }
       ],
       "validations": [
-        "Avoid global variables.",
-        "Inherit classes using prototype."
+        {
+          "title": "Avoid global variables.",
+          "id": "738e10b5227882feb19675453ab91271d0af3013"
+        },
+        {
+          "title": "Inherit classes using prototype.",
+          "id": "0e64de15a6f1ab0d3a3cf8f7875fdba227075ea0"
+        }
       ]
     },
     {
@@ -49,28 +89,72 @@
       "resources": [
         {
           "title": "JavaScript Web Applications",
-          "uri": "http://amzn.to/javascript-web-apps"
+          "uri": "http://amzn.to/javascript-web-apps",
+          "id": "c51812e7b048fc40a36f2c19a6177eec53c6ef12"
         },
         {
           "title": "jQuery API",
-          "uri": "http://api.jquery.com"
+          "uri": "http://api.jquery.com",
+          "id": "47cbf943a5e8e7888cdf0779f1f14323cc621b37"
         }
       ],
       "validations": [
-        "Use Web Inspector to test your ideas.",
-        "Make HTTP requests.",
-        "Serialize and deserialize JSON.",
-        "Access and manipulate DOM elements.",
-        "Register and remove event handlers.",
-        "Respond to events.",
-        "Define functions that operate on window or DOM in scope of window.",
-        "Organize code into Models, Views, and Controllers.",
-        "Use [Pub/Sub](http://en.wikipedia.org/wiki/Publish/subscribe) with DOM and non-DOM events.",
-        "Generate GUIDs.",
-        "Secure your application against cross-domain requests.",
-        "Persist data locally between page refreshes using localStorage.",
-        "Use the HTML5 History API.",
-        "Bind a view element to a JavaScript object (usually a model)."
+        {
+          "title": "Use Web Inspector to test your ideas.",
+          "id": "ec8398e5dd8e898564f49b54e00951e551fd3734"
+        },
+        {
+          "title": "Make HTTP requests.",
+          "id": "2826aad79522c6f0275ae1bb8f76e53507371a8a"
+        },
+        {
+          "title": "Serialize and deserialize JSON.",
+          "id": "06e661e00a0ad4d66b5c7248b0f5e26a48cfa304"
+        },
+        {
+          "title": "Access and manipulate DOM elements.",
+          "id": "7cb2017463f0e309cb8a915ee6046c1c85b8b3ad"
+        },
+        {
+          "title": "Register and remove event handlers.",
+          "id": "130f19d71f81c3a33ef768e238c479f1b984d169"
+        },
+        {
+          "title": "Respond to events.",
+          "id": "3fc17d787f6fbc12ab12bde1e60147fe82cf99e5"
+        },
+        {
+          "title": "Define functions that operate on window or DOM in scope of window.",
+          "id": "cccd38cc14fcdd191ebd68677a2bd77e31576983"
+        },
+        {
+          "title": "Organize code into Models, Views, and Controllers.",
+          "id": "5024392041dc926dd9d16a120c365a4abbf513ea"
+        },
+        {
+          "title": "Use [Pub/Sub](http://en.wikipedia.org/wiki/Publish/subscribe) with DOM and non-DOM events.",
+          "id": "101bf244c416fdbfbf9300f49c65b8d5adbb88b9"
+        },
+        {
+          "title": "Generate GUIDs.",
+          "id": "01b89c0f3fec13208193897492e40475904af33b"
+        },
+        {
+          "title": "Secure your application against cross-domain requests.",
+          "id": "0c91907205260dc3978175fa70c5eb29246ad17c"
+        },
+        {
+          "title": "Persist data locally between page refreshes using localStorage.",
+          "id": "6f657c71e60ca9a628ef6076499768a77d9d8af5"
+        },
+        {
+          "title": "Use the HTML5 History API.",
+          "id": "bb313f8bbcffc79129017c4c21ee95c838696f3d"
+        },
+        {
+          "title": "Bind a view element to a JavaScript object (usually a model).",
+          "id": "19b1659cb283f8a8edd994203909cb7be4993502"
+        }
       ]
     },
     {
@@ -78,11 +162,13 @@
       "resources": [
         {
           "title": "Google JavaScript Style Guide",
-          "uri": "http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml"
+          "uri": "http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml",
+          "id": "c80ce3b2101f6b0f78a281c83f3083d043b13965"
         },
         {
           "title": "JQuery Core Style Guidelines",
-          "uri": "http://docs.jquery.com/JQuery_Core_Style_Guidelines"
+          "uri": "http://docs.jquery.com/JQuery_Core_Style_Guidelines",
+          "id": "bf7268b11c62cfa39b70ee66531e037c605393b4"
         }
       ]
     }

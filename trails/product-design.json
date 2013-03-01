@@ -7,35 +7,56 @@
       "resources": [
         {
           "title": "Read \"The Lean Startup\".",
-          "url": "http://amzn.com/1568985819"
+          "url": "http://amzn.com/1568985819",
+          "id": "1499275a8b0c3088872fe6fb85858d6630405743"
         },
         {
           "title": "Read thoughtbot's \"The Playbook\".",
-          "url": "http://playbook.thoughtbot.com/"
+          "url": "http://playbook.thoughtbot.com/",
+          "id": "6a87b3f4e8e9a916882c74e41febe8062b85e3da"
         },
         {
           "title": "Read 37 Signal's \"Getting Real\".",
-          "url": "http://gettingreal.37signals.com/"
+          "url": "http://gettingreal.37signals.com/",
+          "id": "7541d84e9a5524cee352e06638eb75c3f8d58c04"
         },
         {
           "title": "Read 37 Signal's \"Rework\".",
-          "url": "http://37signals.com/rework"
+          "url": "http://37signals.com/rework",
+          "id": "1e74e80676ade9e4ecc943901161b7226571da41"
         },
         {
           "title": "Watch Ryan Singer's UX Sketching screencast.",
-          "url": "https://peepcode.com/products/ryan-singer-ux"
+          "url": "https://peepcode.com/products/ryan-singer-ux",
+          "id": "d2f3c88433d07f5285b3c2ece4ed208fd288934e"
         },
         {
           "title": "Watch Ryan Singer's Prototyping screencast.",
-          "url": "https://peepcode.com/products/ryan-singer-ii"
+          "url": "https://peepcode.com/products/ryan-singer-ii",
+          "id": "3a2cad7cde8cddd63b149e3298cce961ef74500a"
         }
       ],
       "validations": [
-        "Define an MVP (Minimum Viable Product).",
-        "Explain the values of short product development cycles and iterative testing.",
-        "Write effective user stories.",
-        "Articulate your process in defining and solving interface problems.",
-        "Rapidly prototype."
+        {
+          "title": "Define an MVP (Minimum Viable Product).",
+          "id": "f49a7a8d7e99cecef8a6667ec8438c70efac181e"
+        },
+        {
+          "title": "Explain the values of short product development cycles and iterative testing.",
+          "id": "fc32b0bd6f950fe67a7af469b98ec2e73093e251"
+        },
+        {
+          "title": "Write effective user stories.",
+          "id": "a9971c87052876a3f1b60d562bb824ce5bff0f3e"
+        },
+        {
+          "title": "Articulate your process in defining and solving interface problems.",
+          "id": "a4031bbc535832db764bb7393aeca10412493c32"
+        },
+        {
+          "title": "Rapidly prototype.",
+          "id": "c4b48b39843d014b12643627c4938187b873eca2"
+        }
       ]
     }
   ]

@@ -7,21 +7,33 @@
       "resources": [
         {
           "title": "Read Beginning Outside-In Rails Development with Cucumber and RSpec",
-          "uri": "http://blog.carbonfive.com/2012/02/14/beginning-outside-in-rails-development-with-cucumber-and-rspec/"
+          "uri": "http://blog.carbonfive.com/2012/02/14/beginning-outside-in-rails-development-with-cucumber-and-rspec/",
+          "id": "26b2baf57556368172d55c6ad1d9d5e5853e73dd"
         },
         {
           "title": "Read Martin Fowlers \"Mocks Aren't Stubs\"",
-          "uri": "http://martinfowler.com/articles/mocksArentStubs.html"
+          "uri": "http://martinfowler.com/articles/mocksArentStubs.html",
+          "id": "42205307b2174cf5d2eeed0c82840a2e5bfee1ef"
         },
         {
           "title": "xUnit Test Patterns",
-          "uri": "http://amzn.to/x-test-patterns"
+          "uri": "http://amzn.to/x-test-patterns",
+          "id": "3c4773c1bca04677a050c8d6b3284f732b60de90"
         }
       ],
       "validations": [
-        "Understand the basics of mocking and stubbing in unit tests.",
-        "Name each phase of the Four Phase Test.",
-        "Identify a Mystery Guest."
+        {
+          "title": "Understand the basics of mocking and stubbing in unit tests.",
+          "id": "d31633d1e0b16eec1e8f0f63d2391dda23a317b3"
+        },
+        {
+          "title": "Name each phase of the Four Phase Test.",
+          "id": "3eb5b9e44047adc615aa08d58be50e681dc0b5a1"
+        },
+        {
+          "title": "Identify a Mystery Guest.",
+          "id": "a79fd9ab504e9b8b045e892fac61327b167f6db7"
+        }
       ]
     },
     {
@@ -29,14 +41,27 @@
       "resources": [
         {
           "title": "Read Test-Driven Development By Example.",
-          "uri": "http://amzn.to/test-driven-dev"
+          "uri": "http://amzn.to/test-driven-dev",
+          "id": "3d478184c84fefa705d2a8a76f299e627a8a5b86"
         }
       ],
       "validations": [
-        "Write a test before implementation.",
-        "Make the test error or fail.",
-        "Make the test pass by writing the simplest implementation possible.",
-        "Refactor."
+        {
+          "title": "Write a test before implementation.",
+          "id": "60afd9779315d6db7d6b1976742a224e69ee2f53"
+        },
+        {
+          "title": "Make the test error or fail.",
+          "id": "f3c11d52bbcc676cab26553fe2c2de5d6994a8d0"
+        },
+        {
+          "title": "Make the test pass by writing the simplest implementation possible.",
+          "id": "d877248005d7418f7953b6387614802972d414bd"
+        },
+        {
+          "title": "Refactor.",
+          "id": "2dd9be4baa991e71cb6153e24753a026a3896e9a"
+        }
       ]
     }
   ]

@@ -6,14 +6,15 @@
     "visual-principles",
     "grids",
     "typography"
-    ],
+  ],
   "steps": [
     {
       "name": "First learn visual design",
       "resources": [
         {
           "title": "Visual Design on Learn",
-          "uri": "https://learn.thoughtbot.com/design"
+          "uri": "https://learn.thoughtbot.com/design",
+          "id": "f9987cce1a767e6454d802f539800b67abe1f15c"
         }
       ]
     },
@@ -22,40 +23,64 @@
       "resources": [
         {
           "title": "Read 'A Practical Guide to Designing for the Web'",
-          "uri": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web"
+          "uri": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web",
+          "id": "526880b6c4998e7fa9ee2a7c00ce744d7adcc962"
         },
         {
           "title": "Read 'A Dao of Web Design'",
-          "uri": "http://www.alistapart.com/articles/dao/"
+          "uri": "http://www.alistapart.com/articles/dao/",
+          "id": "c0b6abacee3beb4828b40c83f2121790fddcb54d"
         },
         {
           "title": "Read 'Don't Make Me Think: A Common Sense Approach to Web Usability'",
-          "uri": "http://amzn.com/0321344758"
+          "uri": "http://amzn.com/0321344758",
+          "id": "71cf585a0a50b7f1f6bf21df21ae53924e66d5bd"
         },
         {
           "title": "Skim through 'Designing With Web Standards'",
-          "uri": "http://amzn.com/0321344758"
+          "uri": "http://amzn.com/0321344758",
+          "id": "313f21abc7944875b70a03e9c96fcd9d6565f2d7"
         },
         {
           "title": "Read 'Understanding Web Design'",
-          "uri": "http://www.alistapart.com/articles/understandingwebdesign/"
+          "uri": "http://www.alistapart.com/articles/understandingwebdesign/",
+          "id": "b1b385504d9749424a1871cc79804e8ec044c290"
         }
-        ],
-        "validations": [
-          "Apply basic design priciples to the web.",
-          "Create hierarchy within the design and type",
-          "Design a layout that is flexible and changes based on screen size",
-          "Understand the challenges and differences for designing for the web",
-          "Understand what goes into building an HTML page with CSS.",
-          "Know that your design will look different in every browser on every machine."
-        ]
+      ],
+      "validations": [
+        {
+          "title": "Apply basic design priciples to the web.",
+          "id": "ce34e8b7ba9d4b47fa87c3a753f6e0d79358144e"
+        },
+        {
+          "title": "Create hierarchy within the design and type",
+          "id": "76a0c1c8e7d905e7a5f17383c11f25101f2bca4b"
+        },
+        {
+          "title": "Design a layout that is flexible and changes based on screen size",
+          "id": "5a12ca3dc4f1e2cca660490ab368568d3912f74c"
+        },
+        {
+          "title": "Understand the challenges and differences for designing for the web",
+          "id": "6222daae4d36269071bc9b12593a01f6d44a1053"
+        },
+        {
+          "title": "Understand what goes into building an HTML page with CSS.",
+          "id": "bfd2c3741f35ce6f77623d0cd0bf44bdc0c11a3d"
+        },
+        {
+          "title": "Know that your design will look different in every browser on every machine.",
+          "id": "f5ada1a217d2dc7ea8d0475ea2216ac617ba41e1"
+        }
+      ]
     },
     {
       "name": "Dive deeper into HTML & CSS",
       "resources": [
         {
           "title": "Visit 'HTML & CSS' on Learn",
-          "uri": "https://learn.thoughtbot.com/html-css"
+          "uri": "https://learn.thoughtbot.com/html-css",
+          "id": "a574800a2048129febaa389c6cef95b2ceeb74e1"
         }
       ]
     },
@@ -64,28 +89,33 @@
       "resources": [
         {
           "title": "Read 'Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems' to understand how to run a adhoc usability test.",
-          "uri": "http://amzn.com/0465067107"
+          "uri": "http://amzn.com/0465067107",
+          "id": "c68ff73823dd996b1917c452424a2c020366101e"
         },
         {
           "title": "Read 'The Design of Everyday Things' to see how other people have already applied user experience to real world products.",
-          "uri": "http://amzn.com/0321657292"
+          "uri": "http://amzn.com/0321657292",
+          "id": "1afadd7fdabb6030c05a7b262aa15eb1c6100a94"
         },
         {
           "title": "Read through all of the weeks of '52 Weeks of UX'",
-          "uri": "http://52weeksofux.com/"
+          "uri": "http://52weeksofux.com/",
+          "id": "e6ceb4be99bf07e9c9c6ac4bc4c422872b2f33ab"
         }
       ]
-      },
+    },
     {
       "name": "Ongoing resources and magazines",
       "resources": [
         {
           "title": "A List Apart",
-          "uri": "http://www.alistapart.com/"
+          "uri": "http://www.alistapart.com/",
+          "id": "e393caadadb1e399fac3c38718294c4f1d19ff0a"
         },
         {
           "title": "The Manual",
-          "uri": "http://alwaysreadthemanual.com/"
+          "uri": "http://alwaysreadthemanual.com/",
+          "id": "455f85811f8dcf74607aa51011e21a1e53c5af0c"
         }
       ]
     }

@@ -7,52 +7,102 @@
       "resources": [
         {
           "title": "Read Learning Objective-C: A Primer",
-          "uri": "http://developer.apple.com/library/mac/#referencelibrary/GettingStarted/Learning_Objective-C_A_Primer/_index.html"
+          "uri": "http://developer.apple.com/library/mac/#referencelibrary/GettingStarted/Learning_Objective-C_A_Primer/_index.html",
+          "id": "b8958ef028a6984fad5c8d63c285d48c453bf843"
         },
         {
           "title": "Read Learn Objective-C on the Mac",
-          "uri": "http://amzn.to/learn-objective-c-mac"
+          "uri": "http://amzn.to/learn-objective-c-mac",
+          "id": "d39f5d5c984f65eeaa2885ff6d92d2bd64cc5352"
         },
         {
           "title": "Read Beginning iOS 5 Development: Exploring the iOS SDK",
-          "uri": "http://amzn.to/beginning-ios5"
+          "uri": "http://amzn.to/beginning-ios5",
+          "id": "03bb5acb9802da5fb421bae79f5522fa5a3149dd"
         },
         {
           "title": "Read The Objective-C Programming Language",
-          "uri": "http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html"
+          "uri": "http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html",
+          "id": "26341a776d7f624192cdb428fded5478c934f6b5"
         },
         {
           "title": "Read About Memory Management",
-          "uri": "https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html"
+          "uri": "https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html",
+          "id": "2c6915449143ae5b8737305c41617d2c6d812c4c"
         },
         {
           "title": "Read chapters 6 - 15, 17 - 19, 24, 28 - 30 of Cocoa Design Patterns",
-          "uri": "http://amzn.to/cocoa-design-patterns"
+          "uri": "http://amzn.to/cocoa-design-patterns",
+          "id": "662367815cc07ed96dda948610fb639a7f7ea358"
         },
         {
           "title": "Read and hack on sample code",
-          "uri": "https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code"
+          "uri": "https://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Sample%20Code",
+          "id": "0f7736bf206e2d0202e74523f8b77d5d120eddef"
         },
         {
           "title": "Read the Mobile Human Interface Guidelines",
-          "uri": "http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html"
+          "uri": "http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html",
+          "id": "99e819108d83aaabdc20d56756d11247631e760e"
         }
       ],
       "validations": [
-        "Use Xcode (and the built-in Interface Builder) to compile an iOS app.",
-        "Describe and use ARC and MRC for memory mangement, as well as the rules of the retain/release/autorelease cycle.",
-        "Use the basic data types (NSInteger, NSString), collection objects (NSArray, NSDictionary), and know when to use them instead of C primitives (int, char, etc).",
-        "Understand the difference between using the mutable (NSMutableArray, NSMutableDictionary, NSMutableString) and immutable objects in Objective-C, their advantages and disadvantages.",
-        "Use the basic display and navigation elements (UIWindow, UIView, UINavigationBar, UIToolbar, etc).",
-        "Implement a solution using an UITableView, with navigation and a custom UITableViewCell.",
-        "Implement the various iOS controls (UISwitch, UILabel, UISegmentedControl, etc).",
-        "Understand and implement the usage of iPad specific UI controls, UIPopoverController and UISplitView.",
-        "Design and use basic design patterns like MVC, delegates, callbacks, and notifications.",
-        "Use CoreLocation to get location coordinates.",
-        "Access the cameras to take pictures or access pictures from the device's photo gallery.",
-        "Implement network communications using AFNetworking or NSUrlConnection.",
-        "Implement UX and design best practices as prescribed by Apple.",
-        "Meet App Store submission requirements and submit an app."
+        {
+          "title": "Use Xcode (and the built-in Interface Builder) to compile an iOS app.",
+          "id": "6067e99790813224305d6a60eb0da23176d5a2f3"
+        },
+        {
+          "title": "Describe and use ARC and MRC for memory mangement, as well as the rules of the retain/release/autorelease cycle.",
+          "id": "24cbe27995f92ab7c2d9ff4d3b0d688d5af23593"
+        },
+        {
+          "title": "Use the basic data types (NSInteger, NSString), collection objects (NSArray, NSDictionary), and know when to use them instead of C primitives (int, char, etc).",
+          "id": "b3d691275443e008aefde4a903ad1b8c241956d7"
+        },
+        {
+          "title": "Understand the difference between using the mutable (NSMutableArray, NSMutableDictionary, NSMutableString) and immutable objects in Objective-C, their advantages and disadvantages.",
+          "id": "3536e897428d7c85dd66720e237e036b21323366"
+        },
+        {
+          "title": "Use the basic display and navigation elements (UIWindow, UIView, UINavigationBar, UIToolbar, etc).",
+          "id": "2f8544684370a2340f220acf77bbd6754d91895a"
+        },
+        {
+          "title": "Implement a solution using an UITableView, with navigation and a custom UITableViewCell.",
+          "id": "ea436fe7ef7faadd40580b6e03845a2bd70a0908"
+        },
+        {
+          "title": "Implement the various iOS controls (UISwitch, UILabel, UISegmentedControl, etc).",
+          "id": "991015310b12281bffea12672c5bdffbe7afffd9"
+        },
+        {
+          "title": "Understand and implement the usage of iPad specific UI controls, UIPopoverController and UISplitView.",
+          "id": "2214f8828102d632b031de07ae4db1863dcff1b0"
+        },
+        {
+          "title": "Design and use basic design patterns like MVC, delegates, callbacks, and notifications.",
+          "id": "de22a2dae8e4b0804c435053a9d8ddd8db3261d1"
+        },
+        {
+          "title": "Use CoreLocation to get location coordinates.",
+          "id": "5404772d83648185b176005e141f6e7ed77d709c"
+        },
+        {
+          "title": "Access the cameras to take pictures or access pictures from the device's photo gallery.",
+          "id": "07071e29cddab0497211d02ec20c0db1d59215dd"
+        },
+        {
+          "title": "Implement network communications using AFNetworking or NSUrlConnection.",
+          "id": "11e026b8acd8db8526add63995ff9178047d431e"
+        },
+        {
+          "title": "Implement UX and design best practices as prescribed by Apple.",
+          "id": "780fa55c6b63ff150bbe05b5e675424b5e0be758"
+        },
+        {
+          "title": "Meet App Store submission requirements and submit an app.",
+          "id": "deb91bf5c413609cb9de25fe4b713cffa7a8e488"
+        }
       ]
     },
     {
@@ -60,27 +110,60 @@
       "resources": [
         {
           "title": "Maintain an active ADC account and refer to the official documentation",
-          "uri": "https://developer.apple.com"
+          "uri": "https://developer.apple.com",
+          "id": "88a7bb9dbf1b2ef41aa152c1c5d714aece2c316a"
         },
         {
-          "title": "Keep up-to-date on iOS news."
+          "title": "Keep up-to-date on iOS news.",
+          "id": "cb9a270daef11346e642bc1d4f89712fc0bac7ee"
         },
         {
           "title": "Sign up for thecocoa-dev",
-          "uri": "https://lists.apple.com/mailman/listinfo/cocoa-dev"
+          "uri": "https://lists.apple.com/mailman/listinfo/cocoa-dev",
+          "id": "63a5680576963f3e2472165166d08aa586297361"
         }
       ],
       "validations": [
-        "Create and manage Core Data objects and schemas.",
-        "Decide when to best use:\n  * A category vs subclassing.\n  * Singletons.\n  * Delegates.\n  * Proxies.\n  * Closures.",
-        "Implement animations using CoreAnimation and optimize drawing using CoreGraphics.",
-        "Implement a multi-tasking environment free of race conditions (using appropriate locking techniques such as mutexes and semaphores, message passing, etc)",
-        "Implement task driven concurrency using the Grand Central Dispatch (GCD) (http://developer.apple.com/library/ios/#documentation/Performance/Reference/GCD_libdispatch_Ref/Reference/reference.html) framework.",
-        "Design and use APIs that prefer the use of closures instead of selectors and delegates.",
-        "Create and use UIStoryboards to define and organize the application flow and transitions between screens.",
-        "Debug memory leaks using NSZombieEnabled, Instruments, and other tools.",
-        "Use CocoaPods (https://github.com/CocoaPods/CocoaPods) to define your project's dependencies.",
-        "Create an universal app that contains code for both the iPhone/iPod and iPad devices."
+        {
+          "title": "Create and manage Core Data objects and schemas.",
+          "id": "30c27fb88340152397bcdcc589c738d8a46089da"
+        },
+        {
+          "title": "Decide when to best use:\n  * A category vs subclassing.\n  * Singletons.\n  * Delegates.\n  * Proxies.\n  * Closures.",
+          "id": "217f2d50a579e10d15abba9a35c22a81d8814f82"
+        },
+        {
+          "title": "Implement animations using CoreAnimation and optimize drawing using CoreGraphics.",
+          "id": "5856a49564090ea7557d03ea5ab8a0ce1167856b"
+        },
+        {
+          "title": "Implement a multi-tasking environment free of race conditions (using appropriate locking techniques such as mutexes and semaphores, message passing, etc)",
+          "id": "f5c017d847a889fd4683e70babcc0ccb22c1f58c"
+        },
+        {
+          "title": "Implement task driven concurrency using the Grand Central Dispatch (GCD) (http://developer.apple.com/library/ios/#documentation/Performance/Reference/GCD_libdispatch_Ref/Reference/reference.html) framework.",
+          "id": "2534ad2a9c324dbb1cd3156326108f76822e0d23"
+        },
+        {
+          "title": "Design and use APIs that prefer the use of closures instead of selectors and delegates.",
+          "id": "758344e1aa019b68bfea34550e1d2154e7d6b940"
+        },
+        {
+          "title": "Create and use UIStoryboards to define and organize the application flow and transitions between screens.",
+          "id": "ba6c2085fc1b2cc7e90a6d351920c0ef503dc3ab"
+        },
+        {
+          "title": "Debug memory leaks using NSZombieEnabled, Instruments, and other tools.",
+          "id": "80705e0c78bf20a33b2f99ca46536036c89952c5"
+        },
+        {
+          "title": "Use CocoaPods (https://github.com/CocoaPods/CocoaPods) to define your project's dependencies.",
+          "id": "acc06f5e5323d995bdca661622fd011392e06111"
+        },
+        {
+          "title": "Create an universal app that contains code for both the iPhone/iPod and iPad devices.",
+          "id": "12a009e9cfb4c0f850ccaabc8e3a7c52c56756ea"
+        }
       ]
     }
   ]

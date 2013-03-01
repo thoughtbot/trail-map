@@ -7,15 +7,20 @@
       "resources": [
         {
           "title": "Read The Linux Programming Interface. Chapters 1,  2, 6, 8, 10, 14, 15, 18, 25, 44, 62.",
-          "uri": "http://amzn.to/the-linux-programming-interface"
+          "uri": "http://amzn.to/the-linux-programming-interface",
+          "id": "3e5e1e86286462f7740038c7998ad900080f2cbf"
         },
         {
           "title": "Read about I/O redirection.",
-          "uri": "http://en.wikipedia.org/wiki/Redirection_%28computing%29"
+          "uri": "http://en.wikipedia.org/wiki/Redirection_%28computing%29",
+          "id": "821a57aacb161859742895bddaf3d2ecfda188cf"
         }
       ],
       "validations": [
-        "You can use these commands and operators: |, <, >, >>, &, ack, awk, cat, chmod, chown, cp, export, find, kill, locate, ls, mkdir, mv, ps, rm, sed, sort, tail, top, vim, whereis, xargs"
+        {
+          "title": "You can use these commands and operators: |, <, >, >>, &, ack, awk, cat, chmod, chown, cp, export, find, kill, locate, ls, mkdir, mv, ps, rm, sed, sort, tail, top, vim, whereis, xargs",
+          "id": "ba03a2224008f4078b941e61050f7623164372b9"
+        }
       ]
     }
   ]

@@ -3,40 +3,66 @@
   "description": "A two-dimensional structure made up of a series of intersecting vertical and horizontal axes used to structure content. The grid serves as a framework on which a designer can organize text and images in a rational, easy to absorb manner.",
   "prerequisites": [
     "visual-principles"
-    ],
+  ],
   "steps": [
     {
       "name": "Critical Learning",
       "resources": [
         {
           "title": "Grid Systems: Principles of Organizing Type",
-          "uri": "http://amzn.to/grid-systems-principles"
+          "uri": "http://amzn.to/grid-systems-principles",
+          "id": "3f12888626bdd8a9a81094705bdd514ea7495cdd"
         },
         {
           "title": "Grid Systems in Graphic Design",
-          "uri": "http://amzn.to/grid-systems-graphic-design"
+          "uri": "http://amzn.to/grid-systems-graphic-design",
+          "id": "e4c25a601f0284febaef14aa155d3ad05da8cfa0"
         },
         {
           "title": "Mark Boulton's Designing Grid Systems",
-          "uri": "http://goo.gl/VOGP"
+          "uri": "http://goo.gl/VOGP",
+          "id": "31fb64e65f79801db331daadc005b9993acf4483"
         },
         {
           "title": "Ordering Disorder: Grid Principles for Web Design",
-          "uri": "http://amzn.to/ordering-disorder"
+          "uri": "http://amzn.to/ordering-disorder",
+          "id": "46e5287ed0102dc377d71ad27c3edf96d1063e67"
         },
         {
           "title": "Geometry of Design: Studies in Proportion and Composition",
-          "uri": "http://amzn.to/geometry-design"
+          "uri": "http://amzn.to/geometry-design",
+          "id": "0c28b00f2c4bd526f51945a545817243adc94dee"
         }
       ],
       "validations": [
-        "Create inner axial alignment.",
-        "Edit and/or build a grid according to the content in your design (not using a prebuilt framework).",
-        "Have symmetrical and asymmetrical balance in your designs.",
-        "Keep consistent vertical and horizontal space.",
-        "Use the grid to create active white space within a design.",
-        "Use the grid to strengthen the contents hierarchy.",
-        "Use a more complex grid system than a equal column 3 or 4 column grid."
+        {
+          "title": "Create inner axial alignment.",
+          "id": "4b8e3612801d68b4b0f0bbcbfb5d231e7935b02f"
+        },
+        {
+          "title": "Edit and/or build a grid according to the content in your design (not using a prebuilt framework).",
+          "id": "edb97f490c240692b91b06786622393d10a695c6"
+        },
+        {
+          "title": "Have symmetrical and asymmetrical balance in your designs.",
+          "id": "0da0d1ffd7483e1fea7924497968628adb0de3a4"
+        },
+        {
+          "title": "Keep consistent vertical and horizontal space.",
+          "id": "e68b0a58606104b2544b738078231d3e68af88fd"
+        },
+        {
+          "title": "Use the grid to create active white space within a design.",
+          "id": "88db8e7a28f962993fbeb77e8b00a8a28ab4b448"
+        },
+        {
+          "title": "Use the grid to strengthen the contents hierarchy.",
+          "id": "3b13d103c8405c3457bcfc2de1cb46f7e4aaf0b3"
+        },
+        {
+          "title": "Use a more complex grid system than a equal column 3 or 4 column grid.",
+          "id": "8f5a4fedcb6d59b102efb469ebebbe474806ae79"
+        }
       ]
     },
     {
@@ -44,7 +70,8 @@
       "resources": [
         {
           "title": "Browse The Grid System.",
-          "uri": "http://www.thegridsystem.org"
+          "uri": "http://www.thegridsystem.org",
+          "id": "dfb5eaa94ecdc684e9e3c857ed2474c59ed26faf"
         }
       ]
     }

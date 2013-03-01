@@ -7,32 +7,64 @@
       "resources": [
         {
           "title": "Feature branch code reviews",
-          "uri": "http://goo.gl/jIcOv"
+          "uri": "http://goo.gl/jIcOv",
+          "id": "7702effa2708d62e70512aefb47d19df37e9c7f0"
         },
         {
           "title": "Best practices of peer code review",
-          "uri": "http://goo.gl/A8Boc"
+          "uri": "http://goo.gl/A8Boc",
+          "id": "962c93403800b355f2e1fef25774988934abf1a5"
         }
       ]
     },
     {
       "name": "Review someone else's code",
       "validations": [
-        "Comment on a specific line number.",
-        "Comment constructively and politely.",
-        "Learn something valuable from the comments.",
-        "Express appreciation to the author.",
-        "Review the code in a timely manner."
+        {
+          "title": "Comment on a specific line number.",
+          "id": "31fc572ac42eed77b4b27658041336fed9637fbc"
+        },
+        {
+          "title": "Comment constructively and politely.",
+          "id": "b2c808b778e1a8dda92ebe4a69082e76f416ae7b"
+        },
+        {
+          "title": "Learn something valuable from the comments.",
+          "id": "429bd428337ee50b0dc4a1ce1e9c64fb3e97b95a"
+        },
+        {
+          "title": "Express appreciation to the author.",
+          "id": "34d87d67d8cb968e2d25efa505e2f4691eb2f3b8"
+        },
+        {
+          "title": "Review the code in a timely manner.",
+          "id": "d0849504f2f40cfaa37f953b7181d977fd61fffb"
+        }
       ]
     },
     {
       "name": "Have your code reviewed",
       "validations": [
-        "Create small pull requests, which are easier to review.",
-        "Take comments as constructive and not personal criticism.",
-        "Learn something valuable from the comments.",
-        "Express appreciation to the reviewer.",
-        "Respond to comments in a timely manner."
+        {
+          "title": "Create small pull requests, which are easier to review.",
+          "id": "2de53d8e214022246201df088f59b14ddb10812a"
+        },
+        {
+          "title": "Take comments as constructive and not personal criticism.",
+          "id": "41c368f8a94057ba3dcde034adfc6d260dcc4089"
+        },
+        {
+          "title": "Learn something valuable from the comments.",
+          "id": "429bd428337ee50b0dc4a1ce1e9c64fb3e97b95a"
+        },
+        {
+          "title": "Express appreciation to the reviewer.",
+          "id": "570f8dba353eddb1411a8e838eecc9211734cbda"
+        },
+        {
+          "title": "Respond to comments in a timely manner.",
+          "id": "4cee88824647ef8ceebc0619b802a9dd8b258720"
+        }
       ]
     }
   ]
