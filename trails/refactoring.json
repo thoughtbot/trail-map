@@ -7,47 +7,82 @@
       "resources": [
         {
           "title": "Read Introduce Explaining Variable",
-          "uri": "http://sourcemaking.com/refactoring/introduce-explaining-variable"
+          "uri": "http://sourcemaking.com/refactoring/introduce-explaining-variable",
+          "id": "267b8b2ada360af5df76d7f749621e7958b61bf5"
         },
         {
           "title": "Read Rename Method",
-          "uri": "http://sourcemaking.com/refactoring/rename-method"
+          "uri": "http://sourcemaking.com/refactoring/rename-method",
+          "id": "5d2eb37e0ae3351355910549327ec9f6cf2cb88b"
         },
         {
           "title": "Read Extract Method",
-          "uri": "http://sourcemaking.com/refactoring/extract-method"
+          "uri": "http://sourcemaking.com/refactoring/extract-method",
+          "id": "5f732fb28f3e679a93c758281d23244c141b2a42"
         },
         {
           "title": "Read Move Method",
-          "uri": "http://sourcemaking.com/refactoring/move-method"
+          "uri": "http://sourcemaking.com/refactoring/move-method",
+          "id": "bb7420ba356efeeac1ca7ddab34a5cb69f00cec5"
         },
         {
           "title": "Read Replace Method with Method Object",
-          "uri": "http://sourcemaking.com/refactoring/replace-method-with-method-object"
+          "uri": "http://sourcemaking.com/refactoring/replace-method-with-method-object",
+          "id": "3940c8212c2080412e29fd7b956406ec30f12cc2"
         },
         {
           "title": "Read Extract Class",
-          "uri": "http://sourcemaking.com/refactoring/extract-class"
+          "uri": "http://sourcemaking.com/refactoring/extract-class",
+          "id": "647773b59fd5aadc777912849667313b22497442"
         },
         {
           "title": "Read Introduce Null Object",
-          "uri": "http://sourcemaking.com/refactoring/introduce-null-object"
+          "uri": "http://sourcemaking.com/refactoring/introduce-null-object",
+          "id": "d0a4ed83b9b2cfb1047a01b6820c10a3e761525f"
         },
         {
           "title": "Read Replace Conditional with Polymorphism",
-          "uri": "http://sourcemaking.com/refactoring/replace-conditional-with-polymorphism"
+          "uri": "http://sourcemaking.com/refactoring/replace-conditional-with-polymorphism",
+          "id": "0bbc5e65479d1c9f26b041380457d59059313e96"
         }
       ],
       "validations": [
-        "Introduce an explaining variable.",
-        "Rename a method.",
-        "Extract a method.",
-        "Move a method.",
-        "Replace a method with an object.",
-        "Extract a class.",
-        "Introduce a null object.",
-        "Replace a conditional with polymorphism.",
-        "Replace inheritance with delegation."
+        {
+          "title": "Introduce an explaining variable.",
+          "id": "4f6b651371f93dd41fd633e48a72e38f6c63a3ad"
+        },
+        {
+          "title": "Rename a method.",
+          "id": "82904a8d004303accf7aef24968a811b54499f85"
+        },
+        {
+          "title": "Extract a method.",
+          "id": "03217d835f5d90e7da63860159e1fc456c54996b"
+        },
+        {
+          "title": "Move a method.",
+          "id": "05eb08d0facdaa70a97e96289a8511265d5cfad0"
+        },
+        {
+          "title": "Replace a method with an object.",
+          "id": "47a46b270fcc413ca0589cf7ec2599a96e61d2e4"
+        },
+        {
+          "title": "Extract a class.",
+          "id": "221046bc6dcc719f1103270906373b28b7af3492"
+        },
+        {
+          "title": "Introduce a null object.",
+          "id": "2c144f156a30c4e85eb2c1c3dff2fc2c6ed8c36c"
+        },
+        {
+          "title": "Replace a conditional with polymorphism.",
+          "id": "afbbdf2ff684ae2ea132a30aa63f95552faec708"
+        },
+        {
+          "title": "Replace inheritance with delegation.",
+          "id": "e9e549793d4ac455ea574d595ada907f51e66ee5"
+        }
       ]
     },
     {
@@ -55,11 +90,13 @@
       "resources": [
         {
           "title": "Refactoring: Ruby Edition",
-          "uri": "http://amzn.to/ruby-refactoring"
+          "uri": "http://amzn.to/ruby-refactoring",
+          "id": "94e5e46116f1766fac1fb276e52ead5968ecfd2d"
         },
         {
           "title": "Refactoring to Patterns",
-          "uri": "http://amzn.to/refactoring-to-patterns"
+          "uri": "http://amzn.to/refactoring-to-patterns",
+          "id": "e1f05298c04e3bd6adf800910d2ef9718afdc802"
         }
       ]
     }

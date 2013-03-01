@@ -7,31 +7,62 @@
       "resources": [
         {
           "title": "Read 'Visual Grammar' for an introduction to visual principles of design",
-          "uri": "http://amzn.to/visual-grammar"
+          "uri": "http://amzn.to/visual-grammar",
+          "id": "569fd51c972e75cab47fa7d6f96b0d90434502a8"
         },
         {
           "title": "Read 'Grid Systems: Principles of Organizing Type' for an introduction to grid systems",
-          "uri": "http://amzn.to/grid-systems-principles"
+          "uri": "http://amzn.to/grid-systems-principles",
+          "id": "9ba03a7b939dba2e2c2fa3ca731732bb2caf489a"
         },
         {
           "title": "Read 'Thinking with Type' for an introduction to Typography",
-          "uri": "http://amzn.to/thinking-with-type"
+          "uri": "http://amzn.to/thinking-with-type",
+          "id": "47d56ab5c431e1ff8ce9625f554f4ed04be05c7a"
         },
         {
           "title": "Read 'Understanding Color: An Introduction for Designers' for an inroduction to Color theory",
-          "uri": "http://amzn.com/0470381353"
+          "uri": "http://amzn.com/0470381353",
+          "id": "2b95b6d8d58a123d8dff9b92b20c4067d33f1aa3"
         }
       ],
       "validations": [
-        "Have a basic understanding of visual principles",
-        "Use visual priciples in your design",
-        "Communicate visual design principles in your work and others",
-        "Create and use a simple grid within your work",
-        "Maintain a clear hierarchy within your work",
-        "Elements in your design are aligned to the grid and have relationships to the other elements in the design",
-        "Are able to properly set type within your work",
-        "Are able to choose an adequate typeface for the message in your design",
-        "You can assign colors to elements to add value to the message"
+        {
+          "title": "Have a basic understanding of visual principles",
+          "id": "e43a99a238057032981374ed6bdd1434b8c2f007"
+        },
+        {
+          "title": "Use visual priciples in your design",
+          "id": "18e6c9ca27e9e0b25d19eb13c6e9e96b0bbda1fe"
+        },
+        {
+          "title": "Communicate visual design principles in your work and others",
+          "id": "9677b4dcd18d47eaa4d1cb66fb094d636e0e373f"
+        },
+        {
+          "title": "Create and use a simple grid within your work",
+          "id": "171df1062e40f4ac0a93f49d7ef0ae3c644d52bd"
+        },
+        {
+          "title": "Maintain a clear hierarchy within your work",
+          "id": "ea10a432aa10d6d486fe52e308b8420a57ab3cc0"
+        },
+        {
+          "title": "Elements in your design are aligned to the grid and have relationships to the other elements in the design",
+          "id": "29d3ccaaf040a69fd8e1a203e314a8b3b1f7d788"
+        },
+        {
+          "title": "Are able to properly set type within your work",
+          "id": "6969f19410189c5010a1cf0360a1cd1974ad1fef"
+        },
+        {
+          "title": "Are able to choose an adequate typeface for the message in your design",
+          "id": "4116f4d2f98f35c8e4ca8fab24c7c82e938ef162"
+        },
+        {
+          "title": "You can assign colors to elements to add value to the message",
+          "id": "39bd5cda20dc1ca899bd67c82d8203f4435ae42e"
+        }
       ]
     },
     {
@@ -39,15 +70,18 @@
       "resources": [
         {
           "title": "Visit 'Visual Principles' on Learn to augment your learning on visual principles",
-          "uri": "https://learn.thoughtbot.com/visual-principles"
+          "uri": "https://learn.thoughtbot.com/visual-principles",
+          "id": "63a00ac9bf5bd6ca22e6200a2357baa123d2387d"
         },
         {
           "title": "Visit 'Grid Systems' on Learn to augment your learning on grid systems",
-          "uri": "https://learn.thoughtbot.com/grids"
+          "uri": "https://learn.thoughtbot.com/grids",
+          "id": "181b484df768931aa2509337d76ad1f4a4afa5ca"
         },
         {
           "title": "Visit 'Typography' on Learn to augment your learning on typography",
-          "uri": "https://learn.thoughtbot.com/typography"
+          "uri": "https://learn.thoughtbot.com/typography",
+          "id": "0b8f7e81fa05fc05abd6fdf158159adb12f2b2a7"
         }
       ]
     },
@@ -56,7 +90,8 @@
       "resources": [
         {
           "title": "Visit 'Web Design' on Learn",
-          "uri": "https://learn.thoughtbot.com/web+design"
+          "uri": "https://learn.thoughtbot.com/web+design",
+          "id": "e10e490ec642864dbcb5df3908f730efdde4e293"
         }
       ]
     }

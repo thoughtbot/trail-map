@@ -10,45 +10,74 @@
       "resources": [
         {
           "title": "Read The Elements of Typographic Style",
-          "uri": "http://amzn.to/elements-typographic-style"
+          "uri": "http://amzn.to/elements-typographic-style",
+          "id": "f1944a18da4d96765339e4a9d90518d1aed7842b"
         },
         {
           "title": "Read The Elements of Typographic Style Applied to the Web",
-          "uri": "http://webtypography.net"
+          "uri": "http://webtypography.net",
+          "id": "c665fac4ab702ba65d531c845ce1026370d83772"
         },
         {
           "title": "Read Thinking with Type",
-          "uri": "http://amzn.to/thinking-with-type"
+          "uri": "http://amzn.to/thinking-with-type",
+          "id": "520bbc4236127c5c520e5aae3c36c69dbc2a0e1f"
         },
         {
           "title": "Read Real Web Type in Real Web Context",
-          "uri": "http://www.alistapart.com/articles/real-web-type-in-real-web-context/"
+          "uri": "http://www.alistapart.com/articles/real-web-type-in-real-web-context/",
+          "id": "b6cab5008178817f17d470888022bb2acbe12dba"
         },
         {
           "title": "Read On Web Typography",
-          "uri": "http://www.alistapart.com/articles/on-web-typography/"
+          "uri": "http://www.alistapart.com/articles/on-web-typography/",
+          "id": "5aa16b0530b75f2e699b8b3fafbd4ee9e9f537bc"
         },
         {
           "title": "Read More Meaningful Typography",
-          "uri": "http://www.alistapart.com/articles/more-meaningful-typography/"
+          "uri": "http://www.alistapart.com/articles/more-meaningful-typography/",
+          "id": "373f7d890e239a894edb2e6904fd730e920c9622"
         },
         {
           "title": "Watch Tim Brown's More Perfect Typography",
-          "uri": "https://vimeo.com/17079380"
+          "uri": "https://vimeo.com/17079380",
+          "id": "255e8efbb4655b8b744cdf7b933736abbd0a46b6"
         },
         {
           "title": "Read Stop Stealing Sheep & Find Out How Type Works",
-          "uri": "http://amzn.to/stop-stealing-sheep"
+          "uri": "http://amzn.to/stop-stealing-sheep",
+          "id": "d212bf4bdc9c701b0e8b2897c2540fbf3ded8fc6"
         }
       ],
       "validations": [
-        "Choose a typeface which matches the style of a design.",
-        "Constrain lines of type to the proper length.",
-        "Create type hierarchy with size, space, color, emphasis, and weight.",
-        "Pair two or more typefaces in a design and make it look good.",
-        "Space letters horizontally (kern).",
-        "Space lines of type vertically with line-height (leading).",
-        "Use the vocabulary of typography with teammates."
+        {
+          "title": "Choose a typeface which matches the style of a design.",
+          "id": "041f8e660a19b2aa5fe2022a7898e6a271e93837"
+        },
+        {
+          "title": "Constrain lines of type to the proper length.",
+          "id": "c26eb2bec3eb6cfb0d06f74da969d35aa1b65b01"
+        },
+        {
+          "title": "Create type hierarchy with size, space, color, emphasis, and weight.",
+          "id": "7b5eba0197e53aa9145b0f1cacd949580711a636"
+        },
+        {
+          "title": "Pair two or more typefaces in a design and make it look good.",
+          "id": "870913b8d6d0b9321fc12cac0134780b65afff46"
+        },
+        {
+          "title": "Space letters horizontally (kern).",
+          "id": "72b57fc8daf6bd7c557c76e153d7b79a065e5244"
+        },
+        {
+          "title": "Space lines of type vertically with line-height (leading).",
+          "id": "77d5c76c3f923073a00c1947802b36b88d77b71c"
+        },
+        {
+          "title": "Use the vocabulary of typography with teammates.",
+          "id": "f361575c16128a0581b88cbb98b4564ec1515d28"
+        }
       ]
     },
     {
@@ -56,15 +85,18 @@
       "resources": [
         {
           "title": "Browse I Love Typography",
-          "uri": "http://www.ilovetypography.com"
+          "uri": "http://www.ilovetypography.com",
+          "id": "a7745cb8bbc11a1978823c759819b13c8ebe6f1b"
         },
         {
           "title": "Browse Typedia",
-          "uri": "http://typedia.org"
+          "uri": "http://typedia.org",
+          "id": "071dd6fc8a1bb53961b96ed6e29577f45316e525"
         },
         {
           "title": "Browse the Typophile Forums",
-          "uri": "http://typophile.com"
+          "uri": "http://typophile.com",
+          "id": "40e8019189c90c49885ebc89d5c78d78ccb3aa26"
         }
       ]
     }

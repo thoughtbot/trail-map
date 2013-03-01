@@ -14,30 +14,58 @@
       "resources": [
         {
           "title": "Get a GitHub account",
-          "uri": "http://github.com"
+          "uri": "http://github.com",
+          "id": "9a05e7861cea8f094bca4f7059e8d9194b63f6eb"
         },
         {
           "title": "Read about software licenses",
-          "uri": "http://playbook.thoughtbot.com/choosing-platforms/software-licenses/"
+          "uri": "http://playbook.thoughtbot.com/choosing-platforms/software-licenses/",
+          "id": "950ec627aff91aba0615a360b492ef7f44050356"
         },
         {
           "title": "Read about the purpose and formatting of a NEWS file",
-          "uri": "http://www.gnu.org/prep/standards/html_node/NEWS-File.html#NEWS-File"
+          "uri": "http://www.gnu.org/prep/standards/html_node/NEWS-File.html#NEWS-File",
+          "id": "16602739108cdf51374c1a7b5cb334ac6afa1372"
         },
         {
           "title": "Read about the purpose and formatting of a ChangeLog file",
-          "uri": "http://www.gnu.org/prep/standards/html_node/Change-Logs.html#Change-Logs"
+          "uri": "http://www.gnu.org/prep/standards/html_node/Change-Logs.html#Change-Logs",
+          "id": "d1cfd3bed833fc9ba3a3b35a8a9178eab86506c3"
         }
       ],
       "validations": [
-        "Evaluate a project based on quality of code, tests, documentation.",
-        "Evaluate a project based on responsiveness of maintainers to developers' questions and feature requests.",
-        "Evaluate a project based on regularity of releases.",
-        "Evaluate a project based on the appropriateness of its license for your needs.",
-        "Evaluate a project by downloading and trying it.",
-        "Search issues for a similar problem you're having.",
-        "Comment with additional data on issues that you're also having.",
-        "Submit new issues with good environment (Ruby version, OS, etc.) info, error messages, and backtraces so the maintainer can quickly replicate it."
+        {
+          "title": "Evaluate a project based on quality of code, tests, documentation.",
+          "id": "2cbdf865d70e1a7671c6f0eeb2a74ab43b367d13"
+        },
+        {
+          "title": "Evaluate a project based on responsiveness of maintainers to developers' questions and feature requests.",
+          "id": "47d93d83192deb579164fd9d8415f3567a664d34"
+        },
+        {
+          "title": "Evaluate a project based on regularity of releases.",
+          "id": "6fde40031d43ea4a32eb02575fb8600cd3db37bd"
+        },
+        {
+          "title": "Evaluate a project based on the appropriateness of its license for your needs.",
+          "id": "e2df4db88e03b1a56b0a845adb0806d4b3fdc27f"
+        },
+        {
+          "title": "Evaluate a project by downloading and trying it.",
+          "id": "c06dbc94f7113647458f9009660ac24b142903b6"
+        },
+        {
+          "title": "Search issues for a similar problem you're having.",
+          "id": "ec8273ebed502077337ef0f55bb33ab6e7868a2f"
+        },
+        {
+          "title": "Comment with additional data on issues that you're also having.",
+          "id": "672646b81f5be72b7a72fed9ff39b656bf28067d"
+        },
+        {
+          "title": "Submit new issues with good environment (Ruby version, OS, etc.) info, error messages, and backtraces so the maintainer can quickly replicate it.",
+          "id": "3b68c192ba34afa6557aad1e6b01d88a9ecda1d4"
+        }
       ]
     },
     {
@@ -45,26 +73,64 @@
       "resources": [
         {
           "title": "Read 8 steps to fixing other people's code",
-          "uri": "http://rdd.me/tsf7khhg"
+          "uri": "http://rdd.me/tsf7khhg",
+          "id": "b2160bd4ed120d11722dd99ecf7ee8ccd6aaeef3"
         },
         {
           "title": "Read the Semantic Versioning specification",
-          "uri": "http://semver.org/"
+          "uri": "http://semver.org/",
+          "id": "a902b96daf1a5bcb9b74b1d0b5ab6bd946e51ebf"
         }
       ],
       "validations": [
-        "Get annoyed by a defect or missing feature.",
-        "Find the source code.",
-        "Create a copy of the source (\"fork\" on Github).",
-        "Check out (git clone) the source.",
-        "Poke around the source in your editor and shell (grep).",
-        "Read the contribution guidelines.",
-        "Write a failing test in the style of the project's test suite.",
-        "Write code to make the test pass in the style of the project's codebase.",
-        "Make sure the entire test suite passes.",
-        "Create a patch (push to your fork on Github).",
-        "Submit a patch (\"pull request\" on Github).",
-        "If it exists, email the project's mailing list asking for feedback."
+        {
+          "title": "Get annoyed by a defect or missing feature.",
+          "id": "def22e80511e9969637f059cfb5756e6e26db68a"
+        },
+        {
+          "title": "Find the source code.",
+          "id": "b097e52e58794bc5750dc635189d2085d65b5ccb"
+        },
+        {
+          "title": "Create a copy of the source (\"fork\" on Github).",
+          "id": "e0eba0a8fc17f86b3b738094546e166f79c7ead9"
+        },
+        {
+          "title": "Check out (git clone) the source.",
+          "id": "caafc364c08bb513e989bf2d000f13d5e462a1cc"
+        },
+        {
+          "title": "Poke around the source in your editor and shell (grep).",
+          "id": "2fca3aa56db74f490770eb51db4c87d5341d525d"
+        },
+        {
+          "title": "Read the contribution guidelines.",
+          "id": "c210dfe6a5b7c62bd6ae553d93f54a416338da82"
+        },
+        {
+          "title": "Write a failing test in the style of the project's test suite.",
+          "id": "bad809d553eeff61ec220d75ea60fb4345c3087f"
+        },
+        {
+          "title": "Write code to make the test pass in the style of the project's codebase.",
+          "id": "1db29d69f9a8bb7038017079e6eaecc371a8dbcb"
+        },
+        {
+          "title": "Make sure the entire test suite passes.",
+          "id": "dd584d85a2a6ad5d808aafacf9e523790cacb2b6"
+        },
+        {
+          "title": "Create a patch (push to your fork on Github).",
+          "id": "fe1921881cfe26320a05d77a99171a24fe795da4"
+        },
+        {
+          "title": "Submit a patch (\"pull request\" on Github).",
+          "id": "b825eb63a22e925e962b5d302632d5dd299b7b31"
+        },
+        {
+          "title": "If it exists, email the project's mailing list asking for feedback.",
+          "id": "02b9876b9e8325fb08f904ad87a18be9263adb98"
+        }
       ]
     },
     {
@@ -72,22 +138,48 @@
       "resources": [
         {
           "title": "Watch How to manage an open source project",
-          "uri": "http://vimeo.com/45214727"
+          "uri": "http://vimeo.com/45214727",
+          "id": "7cc3430d61a40a0a497a521e43b3d442e6420fff"
         },
         {
           "title": "Read the rubygems.org \"Make your own gem\" guide",
-          "uri": "http://guides.rubygems.org/make-your-own-gem/"
+          "uri": "http://guides.rubygems.org/make-your-own-gem/",
+          "id": "bcc72a29ac5e565010327d3be810138fcd4496b3"
         }
       ],
       "validations": [
-        "Apply an appropriate license to your project.",
-        "Document a clear public API.",
-        "Document where issues are managed, such as Github Issues.",
-        "Evaluate pull requests and provide kind, intelligent feedback.",
-        "Provide a clear place for questions, such as Stack Overflow. Only provide a Google Group mailing list if you're ready to support it.",
-        "Provide your code in easily accessible form (Rubygems, GitHub).",
-        "Select or reject open source software based on its license.",
-        "Use major, minor, and patch version numbers (Semantic Versioning)."
+        {
+          "title": "Apply an appropriate license to your project.",
+          "id": "8258841bb7a685a33618c0eb6c948ac96df6bf7b"
+        },
+        {
+          "title": "Document a clear public API.",
+          "id": "0d492ddf97279b50c5e774f291534983463f2208"
+        },
+        {
+          "title": "Document where issues are managed, such as Github Issues.",
+          "id": "b07a44da91f9cf50b47e06b8f8531e88259065da"
+        },
+        {
+          "title": "Evaluate pull requests and provide kind, intelligent feedback.",
+          "id": "755056913273bf470e9d569e62f662058efbe0a1"
+        },
+        {
+          "title": "Provide a clear place for questions, such as Stack Overflow. Only provide a Google Group mailing list if you're ready to support it.",
+          "id": "b078b5d3fa620b9de3d54b23d2ee0dde948072b5"
+        },
+        {
+          "title": "Provide your code in easily accessible form (Rubygems, GitHub).",
+          "id": "1bed241397360c9ebd86a3c8a0584a5af09f2cfc"
+        },
+        {
+          "title": "Select or reject open source software based on its license.",
+          "id": "29793685e10a97d26e4ee91e67a7ae68f1b8c2e9"
+        },
+        {
+          "title": "Use major, minor, and patch version numbers (Semantic Versioning).",
+          "id": "b8ce2254f5f86198d3081719eacd0a31d1a850a2"
+        }
       ]
     },
     {
@@ -95,51 +187,63 @@
       "resources": [
         {
           "title": "Berkeley DB",
-          "uri": "http://www.aosabook.org/en/bdb.html"
+          "uri": "http://www.aosabook.org/en/bdb.html",
+          "id": "94961cf809529c135f53f4425ff8d7ea114a0908"
         },
         {
           "title": "The Bourne-Again Shell",
-          "uri": "http://www.aosabook.org/en/bash.html"
+          "uri": "http://www.aosabook.org/en/bash.html",
+          "id": "b1ac8816cf6434db6e74786bf8cc0d6bebc56f75"
         },
         {
           "title": "Continuous Integration",
-          "uri": "http://www.aosabook.org/en/integration.html"
+          "uri": "http://www.aosabook.org/en/integration.html",
+          "id": "7a302c3f9cf2b3cec42c41ee9b6ddfb04d9516a9"
         },
         {
           "title": "Git",
-          "uri": "http://www.aosabook.org/en/git.html"
+          "uri": "http://www.aosabook.org/en/git.html",
+          "id": "5819778898df55e3a762f0c5728b457970d72cae"
         },
         {
           "title": "The Glasgow Haskell Compiler",
-          "uri": "http://www.aosabook.org/en/ghc.html"
+          "uri": "http://www.aosabook.org/en/ghc.html",
+          "id": "100d90f4f2142237d67f0ffbaff1c9f3e6b733c9"
         },
         {
           "title": "GNU Mailman",
-          "uri": "http://www.aosabook.org/en/mailman.html"
+          "uri": "http://www.aosabook.org/en/mailman.html",
+          "id": "7f71aaa7f914352009c39fe7629cf92abf7ff559"
         },
         {
           "title": "MediaWiki",
-          "uri": "http://www.aosabook.org/en/mediawiki.html"
+          "uri": "http://www.aosabook.org/en/mediawiki.html",
+          "id": "429f9802c2088c4c5819bd8664f7ea7bf407e342"
         },
         {
           "title": "nginx",
-          "uri": "http://www.aosabook.org/en/nginx.html"
+          "uri": "http://www.aosabook.org/en/nginx.html",
+          "id": "58a3ed6f2965252c6ac4957d95f7a3bdfca47101"
         },
         {
           "title": "Riak and Erlang/OTP",
-          "uri": "http://www.aosabook.org/en/riak.html"
+          "uri": "http://www.aosabook.org/en/riak.html",
+          "id": "27a2696daca52a54823db1caba283146f3207369"
         },
         {
           "title": "Scalable Web Architecture and Distributed Systems",
-          "uri": "http://www.aosabook.org/en/distsys.html"
+          "uri": "http://www.aosabook.org/en/distsys.html",
+          "id": "dab68f8e16a8d7888e1b0238bd6ac7e9e68664b9"
         },
         {
           "title": "Sendmail",
-          "uri": "http://www.aosabook.org/en/sendmail.html"
+          "uri": "http://www.aosabook.org/en/sendmail.html",
+          "id": "5b91012ca70e18d259519cea84a2204f8c4488b8"
         },
         {
           "title": "Twisted",
-          "uri": "http://www.aosabook.org/en/twisted.html"
+          "uri": "http://www.aosabook.org/en/twisted.html",
+          "id": "4b79156b13c38a60392112dbdf81a9d0a27fcf63"
         }
       ]
     }

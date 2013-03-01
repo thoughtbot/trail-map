@@ -7,25 +7,49 @@
       "resources": [
         {
           "title": "First, Try Ruby!",
-          "uri": "http://tryruby.org"
+          "uri": "http://tryruby.org",
+          "id": "217c9b284f6811a569133c54d5c8b4461ee2a127"
         },
         {
           "title": "Read Learn Ruby The Hard Way.",
-          "uri": "http://ruby.learncodethehardway.org/book/"
+          "uri": "http://ruby.learncodethehardway.org/book/",
+          "id": "5909ddee7e9b4e2233ea432599d3b280df7b2630"
         },
         {
           "title": "Read The Well-Grounded Rubyist.",
-          "uri": "http://amzn.to/grounded-rubyist"
+          "uri": "http://amzn.to/grounded-rubyist",
+          "id": "c3dd3f0bdfb78932257723150ad2d59c6a691e3b"
         }
       ],
       "validations": [
-        "Use irb to test your ideas.",
-        "Print values.",
-        "Run programs.",
-        "Avoid syntax errors.",
-        "Define a method.",
-        "Invoke a method.",
-        "Use common control flow structures."
+        {
+          "title": "Use irb to test your ideas.",
+          "id": "1c1eccda277a5445926cc438e75c4a1b248c05f9"
+        },
+        {
+          "title": "Print values.",
+          "id": "2c4284d27a27a7e8dad31ba8fbe1d7a2703627a2"
+        },
+        {
+          "title": "Run programs.",
+          "id": "7fcd7bc60a2af535fee2ec5a03426828650b3865"
+        },
+        {
+          "title": "Avoid syntax errors.",
+          "id": "a899b1ba4506e7c994374fd41499d60230ff85e2"
+        },
+        {
+          "title": "Define a method.",
+          "id": "6854a8013a5776f6a7a4a09fcdcc0771ed21efa1"
+        },
+        {
+          "title": "Invoke a method.",
+          "id": "af42b67ccf562c30506e465fdd556919ef61d067"
+        },
+        {
+          "title": "Use common control flow structures.",
+          "id": "344561225d50387d932edbb8932b66209b777fb2"
+        }
       ]
     },
     {
@@ -33,22 +57,37 @@
       "resources": [
         {
           "title": "Complete the Ruby Koans.",
-          "uri": "http://rubykoans.com"
+          "uri": "http://rubykoans.com",
+          "id": "1401fe762852bde4c44a57e752c3bce012f19e5a"
         },
         {
           "title": "Read examples of source code, like this one.",
-          "uri": "https://github.com/jferris/effigy/tree/master/lib"
+          "uri": "https://github.com/jferris/effigy/tree/master/lib",
+          "id": "fc5c572c0fd945a7b5d4025f9d29531714a385c0"
         },
         {
           "title": "Read Chapters 23 and 24 of The Pickaxe",
-          "uri": "http://amzn.to/pickaxe-19"
+          "uri": "http://amzn.to/pickaxe-19",
+          "id": "7cabf8db13d4618542456504b39a0f26181eb82a"
         }
       ],
       "validations": [
-        "Compare objects.",
-        "Define a class.",
-        "Instantiate an object.",
-        "Iterate over collections."
+        {
+          "title": "Compare objects.",
+          "id": "789b4767d5f22d37db6520b15e2d38e3c1055415"
+        },
+        {
+          "title": "Define a class.",
+          "id": "a80bdbdca6f81d65a960a7fc3c2d45564dff7bb9"
+        },
+        {
+          "title": "Instantiate an object.",
+          "id": "7993ef0e834e4d4658d4d5d4ee4a82563e165c56"
+        },
+        {
+          "title": "Iterate over collections.",
+          "id": "a89f3f40edd0bf7e9b83c0e3c6d42bce5b22311f"
+        }
       ]
     },
     {
@@ -56,23 +95,28 @@
       "resources": [
         {
           "title": "Ruby Core Documentation",
-          "uri": "http://ruby-doc.org/core"
+          "uri": "http://ruby-doc.org/core",
+          "id": "4c5701a5f0294a498ccf65b8bfe54c1780226c2a"
         },
         {
           "title": "Ruby Library reference in The Pickaxe",
-          "uri": "http://amzn.to/pickaxe-19"
+          "uri": "http://amzn.to/pickaxe-19",
+          "id": "4c57e7a3d587ee3f51e86fd9829fcc77b23c10a5"
         },
         {
           "title": "Github's Style Guide",
-          "uri": "https://github.com/styleguide/ruby"
+          "uri": "https://github.com/styleguide/ruby",
+          "id": "0172e0e8342b55db52866ecf1bc03ca34c55a01a"
         },
         {
           "title": "Ruby Style Guide",
-          "uri": "https://github.com/bbatsov/ruby-style-guide"
+          "uri": "https://github.com/bbatsov/ruby-style-guide",
+          "id": "814ff02a53b5962d18d13fc6ba2b162e2451dab1"
         },
         {
           "title": "thoughtbot's Style Guide",
-          "uri": "https://github.com/thoughtbot/guides/tree/master/style"
+          "uri": "https://github.com/thoughtbot/guides/tree/master/style",
+          "id": "0d4b13aa58bb3b14438312108a29b2e917cd6dac"
         }
       ]
     }

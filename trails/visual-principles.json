@@ -7,50 +7,76 @@
       "resources": [
         {
           "title": "Read 'Visual Grammar' for a basic understanding on basic elements of design and how they relate to each other.",
-          "uri": "http://amzn.to/visual-grammar"
+          "uri": "http://amzn.to/visual-grammar",
+          "id": "cbee22bf1a60ae0906a63c2fb9c777d269c049b1"
         },
         {
           "title": "Read 'Universal Principles of Design' for a larger array of principles covering an array of medium.",
-          "uri": "http://amzn.to/universal-principles"
+          "uri": "http://amzn.to/universal-principles",
+          "id": "a93aafbb4d3a2ebbdbb9971976bde5d9bfbb6cfd"
         }
       ],
       "validations": [
-        "Intentionally use visual design principles in your design.",
-        "Intentionally break visual design principles in your design.",
-        "Use the vocabulary of visual design principles when articulating the reasons for your design and when critiquing teammates' designs.",
-        "Point out what visual principles, in any medium, that are being used in a design and why they are helping the design be successful or unsuccessful"
+        {
+          "title": "Intentionally use visual design principles in your design.",
+          "id": "b2238f9460857bfb35e577cc85579a7e61b76122"
+        },
+        {
+          "title": "Intentionally break visual design principles in your design.",
+          "id": "018b91bf19913fa1219d09e64ddf5c27d32e7f15"
+        },
+        {
+          "title": "Use the vocabulary of visual design principles when articulating the reasons for your design and when critiquing teammates' designs.",
+          "id": "99a39199e94a0d32dc63098544cf2c057aaa1b6e"
+        },
+        {
+          "title": "Point out what visual principles, in any medium, that are being used in a design and why they are helping the design be successful or unsuccessful",
+          "id": "23deeceac68bd161cd30d8adb62071e377672c1f"
+        }
       ]
     },
     {
       "name": "Learn about the psycology and phylosophy behind the main principles",
       "resources": [
         {
-          "title": "Read Andy Rutledge's \"Gestalt Principles\":"
+          "title": "Read Andy Rutledge's \"Gestalt Principles\":",
+          "id": "a68b11772c61cdf521fff5650ccfedab279618a8"
         },
         {
           "title": "1",
-          "uri": "http://www.andyrutledge.com/gestalt-principles-1-figure-ground-relationship.php"
+          "uri": "http://www.andyrutledge.com/gestalt-principles-1-figure-ground-relationship.php",
+          "id": "356a192b7913b04c54574d18c28d46e6395428ab"
         },
         {
           "title": "2",
-          "uri": "http://www.andyrutledge.com/gestalt-principles-2-similarity.php"
+          "uri": "http://www.andyrutledge.com/gestalt-principles-2-similarity.php",
+          "id": "da4b9237bacccdf19c0760cab7aec4a8359010b0"
         },
         {
           "title": "3",
-          "uri": "http://www.andyrutledge.com/gestalt-principles-3.php"
+          "uri": "http://www.andyrutledge.com/gestalt-principles-3.php",
+          "id": "77de68daecd823babbb58edb1c8e14d7106e83bb"
         },
         {
           "title": "4",
-          "uri": "http://www.andyrutledge.com/common-fate.php"
+          "uri": "http://www.andyrutledge.com/common-fate.php",
+          "id": "1b6453892473a467d07372d45eb05abc2031647a"
         },
         {
           "title": "5",
-          "uri": "http://www.andyrutledge.com/closure.php"
+          "uri": "http://www.andyrutledge.com/closure.php",
+          "id": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4"
         }
       ],
       "validations": [
-        "Understand where the visual principles came from and what the history is behind them.",
-        "Can reference the psycology behind visual principles."
+        {
+          "title": "Understand where the visual principles came from and what the history is behind them.",
+          "id": "e7f3498e2a5951e6be2637c491df9e9488411523"
+        },
+        {
+          "title": "Can reference the psycology behind visual principles.",
+          "id": "ce0ab2f2b21a89017279592fd75f5f3f02e08120"
+        }
       ]
     },
     {
@@ -58,7 +84,8 @@
       "resources": [
         {
           "title": "Read '101 Things I Learned in Architecture School'",
-          "uri": "http://amzn.to/101-things-learned"
+          "uri": "http://amzn.to/101-things-learned",
+          "id": "fc030d896593cb0236380f8a0204803b98534a25"
         }
       ]
     }

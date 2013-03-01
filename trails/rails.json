@@ -15,39 +15,72 @@
       "resources": [
         {
           "title": "Complete Michael Hartl's Rails Tutorial",
-          "uri": "http://ruby.railstutorial.org"
+          "uri": "http://ruby.railstutorial.org",
+          "id": "dbe28c25619d315a464afec03d700a8ab3178cbc"
         },
         {
           "title": "Complete Rails Testing for Zombies",
-          "uri": "http://www.codeschool.com/courses/rails-testing-for-zombies"
+          "uri": "http://www.codeschool.com/courses/rails-testing-for-zombies",
+          "id": "f28fcc1f88ce27d5da82edf58917d453e2671e57"
         },
         {
           "title": "Push your code to Github",
-          "uri": "http://github.com"
+          "uri": "http://github.com",
+          "id": "c6dec2f9f8032740c86a80859cc9a2065614b5fd"
         },
         {
           "title": "Deploy to Heroku",
-          "uri": "http://heroku.com"
+          "uri": "http://heroku.com",
+          "id": "1f97c562163a560a3064ecdcd821f45077946ecd"
         },
         {
           "title": "Watch Railscasts",
-          "uri": "http://railscasts.com"
+          "uri": "http://railscasts.com",
+          "id": "73c0d06888c74d9803453c529187bdcf101ca842"
         },
         {
           "title": "Read open source code: example",
-          "uri": "https://github.com/copycopter/copycopter-server"
+          "uri": "https://github.com/copycopter/copycopter-server",
+          "id": "4fee63bb482922cfb9d923bdea3eae9cb3a38284"
         }
       ],
       "validations": [
-        "Create a route, controller, and action.",
-        "Query the database.",
-        "Create a form that save records.",
-        "Associate ActiveRecord objects.",
-        "Validate ActiveRecord objects.",
-        "Whitelist ActiveRecord attributes.",
-        "Interpolate data in a view.",
-        "Write and run tests for your models.",
-        "Deploy your app to production."
+        {
+          "title": "Create a route, controller, and action.",
+          "id": "786e38ba43c9e9c3944b1352f54b2c749397f867"
+        },
+        {
+          "title": "Query the database.",
+          "id": "3ba2c5763b8f860458e4bb66cf76db3083251674"
+        },
+        {
+          "title": "Create a form that save records.",
+          "id": "36c5c9de6c7aff49b83a0a45780a45c82a805c25"
+        },
+        {
+          "title": "Associate ActiveRecord objects.",
+          "id": "bcd92cc87cb9bb068702686522c242eabb690cfa"
+        },
+        {
+          "title": "Validate ActiveRecord objects.",
+          "id": "555f8a7c8302152318199dde67a78d5e517dcd14"
+        },
+        {
+          "title": "Whitelist ActiveRecord attributes.",
+          "id": "2aea3775df38f860f90180066db66075d5d483fc"
+        },
+        {
+          "title": "Interpolate data in a view.",
+          "id": "6140573de6d9eba6e556736d81fac2df0bd46b03"
+        },
+        {
+          "title": "Write and run tests for your models.",
+          "id": "d04163766d8572e3a39a3f448c00f3747f1049f7"
+        },
+        {
+          "title": "Deploy your app to production.",
+          "id": "52320e832664fb57336f0dd55e02ac4521bbf7b2"
+        }
       ]
     },
     {
@@ -55,19 +88,23 @@
       "resources": [
         {
           "title": "Refer to the API documentation",
-          "uri": "http://api.rubyonrails.org"
+          "uri": "http://api.rubyonrails.org",
+          "id": "a26f70b34048c6fe6f09c423efe9cfeb9ec5c923"
         },
         {
           "title": "Refer to the official guides",
-          "uri": "http://guides.rubyonrails.org"
+          "uri": "http://guides.rubyonrails.org",
+          "id": "bc7c33a4128451a648e29a03a7fc90869940533b"
         },
         {
           "title": "Stick to a style guide",
-          "uri": "https://github.com/thoughtbot/guides/tree/master/style"
+          "uri": "https://github.com/thoughtbot/guides/tree/master/style",
+          "id": "30021911ea5e24ba77fcdb475414c4085c923147"
         },
         {
           "title": "Subscribe to the Rails Core mailing list",
-          "uri": "http://goo.gl/YU3Ml"
+          "uri": "http://goo.gl/YU3Ml",
+          "id": "c6cca276ddbe2b45ca54ab042590675be83dd3da"
         }
       ]
     }

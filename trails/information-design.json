@@ -7,25 +7,38 @@
       "resources": [
         {
           "title": "Read Information Dashboard Design",
-          "uri": "http://amzn.to/information-dashboard"
+          "uri": "http://amzn.to/information-dashboard",
+          "id": "24af44ce985b0127da5b10a9e1b68785bd185c7c"
         },
         {
           "title": "Read Envisioning Information",
-          "uri": "http://amzn.to/envisioning-information"
+          "uri": "http://amzn.to/envisioning-information",
+          "id": "97f9816c85cf36e23cd461386b80473a2381cffd"
         },
         {
           "title": "Read The Visual Display of Quantitative Information",
-          "uri": "http://amzn.to/visual-display"
+          "uri": "http://amzn.to/visual-display",
+          "id": "03b18d3184731525abc721139cbdb9fbab29174c"
         },
         {
           "title": "Read A Practical Guide to Designing with Data",
-          "uri": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data"
+          "uri": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data",
+          "id": "f1054c2ebbc53e5302cec3c8834bfe60abe464ea"
         }
       ],
       "validations": [
-        "Cleanly and clearly communicate information.",
-        "Identify chart junk, when to use it, and when not to use it.",
-        "Understand the basic chart/graph options (including bar (vertical/horizontal), line, pie, spark lines) and appropriate use cases for each."
+        {
+          "title": "Cleanly and clearly communicate information.",
+          "id": "202e0792fc1800c9e41bd1811b1a0857432922ab"
+        },
+        {
+          "title": "Identify chart junk, when to use it, and when not to use it.",
+          "id": "d4b064c6da7c1afc2c770b1d9eff4fecc644daa8"
+        },
+        {
+          "title": "Understand the basic chart/graph options (including bar (vertical/horizontal), line, pie, spark lines) and appropriate use cases for each.",
+          "id": "e231e8034672e1bb8f45fe382f89c6b3608a374c"
+        }
       ]
     }
   ]

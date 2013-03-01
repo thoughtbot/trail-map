@@ -10,75 +10,153 @@
       "resources": [
         {
           "title": "Read Seven habits of effective text editing by vim author Bram Moolenaar.",
-          "uri": "http://www.moolenaar.net/habits.html"
+          "uri": "http://www.moolenaar.net/habits.html",
+          "id": "e4dea015c11074c15406d39e53991cebbbc5493c"
         },
         {
           "title": "Improve typing speed by playing Type Racer.",
-          "uri": "http://play.typeracer.com"
+          "uri": "http://play.typeracer.com",
+          "id": "beceec6d789d10e1fffd33a3e981a97f142144a9"
         },
         {
-          "title": "Complete vimtutor."
+          "title": "Complete vimtutor.",
+          "id": "d6f2f8fea553ebac4bfdc41a260fe146f625b232"
         },
         {
           "title": "Learn the single-letter commands with the vim graphical cheat sheet.",
-          "uri": "http://www.viemu.com/vi-vim-cheat-sheet.gif"
+          "uri": "http://www.viemu.com/vi-vim-cheat-sheet.gif",
+          "id": "bed9219683c96b60757e0fb304bc80e0a30d9ab7"
         },
         {
           "title": "Set up ctags for instanteous tab completion and jumping to method definitions.",
-          "uri": "http://robots.thoughtbot.com/post/159805638/integrating-vim-into-your-life"
+          "uri": "http://robots.thoughtbot.com/post/159805638/integrating-vim-into-your-life",
+          "id": "38e74cab24e9252f141a7479da0f522fb9e4ca3c"
         },
         {
-          "title": "Type :help within vim and read the \"Getting Started\" and \"Editing Effectively\" sections."
+          "title": "Type :help within vim and read the \"Getting Started\" and \"Editing Effectively\" sections.",
+          "id": "7fc7d6cc907fce5d40b952e3575831822f01d4b1"
         }
       ],
       "validations": [
-        "Move with h, j, k, l.",
-        "Move up and down a page.",
-        "Move to beginning and end of a line.",
-        "Move to beginning and end of a file.",
-        "Enter and exit insert mode.",
-        "Exit.",
-        "Append text.",
-        "Save.",
-        "Combine operators (like delete) with motions (like end of word).",
-        "Operate on lines.",
-        "Undo.",
-        "Search forward and backward.",
-        "Match parentheses and brackets.",
-        "Substitute.",
-        "Execute a shell command.",
-        "Copy and paste.",
-        "Tab complete.",
-        "Split horizontally and vertically.",
-        "Jump forward and backward.",
-        "Modify your environment via dotfiles.",
-        "Install plugins."
+        {
+          "title": "Move with h, j, k, l.",
+          "id": "16e761d3d73717884589acd7839229f9719d1efc"
+        },
+        {
+          "title": "Move up and down a page.",
+          "id": "b102c9b54f02cfa0e70d3fed6de1ebd32f9c7293"
+        },
+        {
+          "title": "Move to beginning and end of a line.",
+          "id": "79da17ae5b4cd98adcc7c13565af8ef72371a96e"
+        },
+        {
+          "title": "Move to beginning and end of a file.",
+          "id": "fa0adc1e705ea14fa502560c7d848579f54260b6"
+        },
+        {
+          "title": "Enter and exit insert mode.",
+          "id": "b028cc7b0bde890e45414dbd0e8c9dbc90934c6f"
+        },
+        {
+          "title": "Exit.",
+          "id": "9adcaec39047fa06b8153372af9a51e29c158590"
+        },
+        {
+          "title": "Append text.",
+          "id": "442cd1d271f8d6b8d0e0ab5bdc5044f04f2f678a"
+        },
+        {
+          "title": "Save.",
+          "id": "2c489a1e3bab904d39ad4250f2071b87504bf05e"
+        },
+        {
+          "title": "Combine operators (like delete) with motions (like end of word).",
+          "id": "7e03c520f740814ad253833b20447540b6fb0ed6"
+        },
+        {
+          "title": "Operate on lines.",
+          "id": "c0150fb86be85e7b4af0a793c8eb00418cb220e7"
+        },
+        {
+          "title": "Undo.",
+          "id": "8b48720e1daace0d5acad80d5929694e5609c63b"
+        },
+        {
+          "title": "Search forward and backward.",
+          "id": "111d0285765ec96180cc473dc16a16ebce9eaac7"
+        },
+        {
+          "title": "Match parentheses and brackets.",
+          "id": "80687299922637a19caa2a730b108c7c5ce07e81"
+        },
+        {
+          "title": "Substitute.",
+          "id": "5c6a0c1039ba088b54e27a0a4a13bd622f5b7a63"
+        },
+        {
+          "title": "Execute a shell command.",
+          "id": "6700ef8eaeafb2a676a3bc9a62afdcd48f623dfd"
+        },
+        {
+          "title": "Copy and paste.",
+          "id": "acde520cfb3fe70e8c194c1996cc7bbb74fbf15b"
+        },
+        {
+          "title": "Tab complete.",
+          "id": "9fe7245e599ce007356b56009c9e6d095a24a9a6"
+        },
+        {
+          "title": "Split horizontally and vertically.",
+          "id": "b3d68d8412662454a6974907a52164ac8114d2be"
+        },
+        {
+          "title": "Jump forward and backward.",
+          "id": "91f6fc9e56dba58572c92863ba27cf1ea49d0dad"
+        },
+        {
+          "title": "Modify your environment via dotfiles.",
+          "id": "1bbcaeba63768fa79aa9d428383b18e21e3d30d8"
+        },
+        {
+          "title": "Install plugins.",
+          "id": "ca7aa3fda8030cacec4cffe53c218197dbe5f785"
+        }
       ]
     },
     {
       "name": "Ongoing Reference",
       "resources": [
         {
-          "title": ":help"
+          "title": ":help",
+          "id": "b52ed251dffacecb2aaf73d24bc0fb7da734138e"
         },
         {
-          "title": ":help g"
+          "title": ":help g",
+          "id": "15944b47407976706e510745a1edc0dde2482a8f"
         },
         {
-          "title": ":help motion.txt"
+          "title": ":help motion.txt",
+          "id": "bb75b234671a2598fa4a8d7d702db648490126cc"
         },
         {
-          "title": ":help spell.txt"
+          "title": ":help spell.txt",
+          "id": "0ac2fec49314390fe6e22131410bcf2b610b809e"
         },
         {
-          "title": ":help user-manual"
+          "title": ":help user-manual",
+          "id": "d379fa77577fd06832981ee9b83a53a3c564ad21"
         },
         {
-          "title": ":help visual.txt"
+          "title": ":help visual.txt",
+          "id": "612daaacca26a665011171cd175d2642f8884662"
         }
       ],
       "validations": [
-        "Identify vim's use of every letter on the keyboard (uppercase and lowercase)."
+        {
+          "title": "Identify vim's use of every letter on the keyboard (uppercase and lowercase).",
+          "id": "6511d47c4bfd683bc9124f7b1140f8eb66eebc10"
+        }
       ]
     }
   ]
