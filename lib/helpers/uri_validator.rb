@@ -28,7 +28,7 @@ class URIValidator
   def head_request_ok?(uri)
     response = HTTParty.head(uri)
     return response.ok?
-  rescue SocketError
+  rescue
     return false
   end
 
