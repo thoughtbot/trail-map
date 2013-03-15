@@ -150,6 +150,11 @@
         {
           "title": ":help visual.txt",
           "id": "612daaacca26a665011171cd175d2642f8884662"
+        },
+        {
+          "title": "Learn Vimscript the Hard Way",
+          "uri": "http://learnvimscriptthehardway.stevelosh.com/",
+          "id": "ab16899558d0d59d6e587321cbecfe61da517fa5"
         }
       ],
       "validations": [
