@@ -9,18 +9,13 @@
       "name": "Critical Learning",
       "resources": [
         {
+          "title": "Complete vimtutor.",
+          "id": "d6f2f8fea553ebac4bfdc41a260fe146f625b232"
+        },
+        {
           "title": "Read Seven habits of effective text editing by vim author Bram Moolenaar.",
           "uri": "http://www.moolenaar.net/habits.html",
           "id": "e4dea015c11074c15406d39e53991cebbbc5493c"
-        },
-        {
-          "title": "Improve typing speed by playing Type Racer.",
-          "uri": "http://play.typeracer.com",
-          "id": "beceec6d789d10e1fffd33a3e981a97f142144a9"
-        },
-        {
-          "title": "Complete vimtutor.",
-          "id": "d6f2f8fea553ebac4bfdc41a260fe146f625b232"
         },
         {
           "title": "Learn the single-letter commands with the vim graphical cheat sheet.",
@@ -35,6 +30,16 @@
         {
           "title": "Type :help within vim and read the \"Getting Started\" and \"Editing Effectively\" sections.",
           "id": "7fc7d6cc907fce5d40b952e3575831822f01d4b1"
+        },
+        {
+          "title": "Improve Vim-key muscle memory by playing Vim Adventures",
+          "uri": "http://vim-adventures.com",
+          "id": "03e987394c133ff69756936bdb6f4ab6ccdfe031"
+        },
+        {
+          "title": "Improve typing speed by playing Type Racer.",
+          "uri": "http://play.typeracer.com",
+          "id": "beceec6d789d10e1fffd33a3e981a97f142144a9"
         }
       ],
       "validations": [
