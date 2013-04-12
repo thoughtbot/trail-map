@@ -3,7 +3,7 @@
   "description": "A method of improving code quality and minimizing time required to add new features to software by ensuring that each facet of the program works as expected.",
   "steps": [
     {
-      "name": "Critical Learning",
+      "name": "Beginning Testing",
       "resources": [
         {
           "title": "Read Beginning Outside-In Rails Development with Cucumber and RSpec",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Test Driven Development",
+      "name": "Intermediate Testing",
       "resources": [
         {
           "title": "Read Test-Driven Development By Example.",

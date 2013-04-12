@@ -6,7 +6,7 @@
   ],
   "steps": [
     {
-      "name": "Critical Learning",
+      "name": "Beginning Vim",
       "resources": [
         {
           "title": "Complete vimtutor.",
@@ -21,11 +21,6 @@
           "title": "Learn the single-letter commands with the vim graphical cheat sheet.",
           "uri": "http://www.viemu.com/vi-vim-cheat-sheet.gif",
           "id": "bed9219683c96b60757e0fb304bc80e0a30d9ab7"
-        },
-        {
-          "title": "Set up ctags for instanteous tab completion and jumping to method definitions.",
-          "uri": "http://robots.thoughtbot.com/post/159805638/integrating-vim-into-your-life",
-          "id": "38e74cab24e9252f141a7479da0f522fb9e4ca3c"
         },
         {
           "title": "Type :help within vim and read the \"Getting Started\" and \"Editing Effectively\" sections.",
@@ -122,7 +117,19 @@
         {
           "title": "Modify your environment via dotfiles.",
           "id": "1bbcaeba63768fa79aa9d428383b18e21e3d30d8"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Intermediate Vim",
+      "resources": [
+        {
+          "title": "Set up ctags for instanteous tab completion and jumping to method definitions.",
+          "uri": "http://robots.thoughtbot.com/post/159805638/integrating-vim-into-your-life",
+          "id": "38e74cab24e9252f141a7479da0f522fb9e4ca3c"
+        }
+      ],
+      "validations": [
         {
           "title": "Install plugins.",
           "id": "ca7aa3fda8030cacec4cffe53c218197dbe5f785"
@@ -130,7 +137,7 @@
       ]
     },
     {
-      "name": "Ongoing Reference",
+      "name": "Advanced Vim",
       "resources": [
         {
           "title": ":help",

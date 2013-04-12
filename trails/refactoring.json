@@ -3,7 +3,7 @@
   "description": "Restructuring an existing body of code, altering its internal structure without changing its external behavior.",
   "steps": [
     {
-      "name": "Critical Learning",
+      "name": "Beginning Refactoring",
       "resources": [
         {
           "title": "Read Introduce Explaining Variable",
@@ -24,7 +24,30 @@
           "title": "Read Move Method",
           "uri": "http://sourcemaking.com/refactoring/move-method",
           "id": "bb7420ba356efeeac1ca7ddab34a5cb69f00cec5"
+        }
+      ],
+      "validations": [
+        {
+          "title": "Introduce an explaining variable.",
+          "id": "4f6b651371f93dd41fd633e48a72e38f6c63a3ad"
         },
+        {
+          "title": "Rename a method.",
+          "id": "82904a8d004303accf7aef24968a811b54499f85"
+        },
+        {
+          "title": "Extract a method.",
+          "id": "03217d835f5d90e7da63860159e1fc456c54996b"
+        },
+        {
+          "title": "Move a method.",
+          "id": "05eb08d0facdaa70a97e96289a8511265d5cfad0"
+        }
+      ]
+    },
+    {
+      "name": "Intermediate Refactoring",
+      "resources": [
         {
           "title": "Read Replace Method with Method Object",
           "uri": "http://sourcemaking.com/refactoring/replace-method-with-method-object",
@@ -47,22 +70,6 @@
         }
       ],
       "validations": [
-        {
-          "title": "Introduce an explaining variable.",
-          "id": "4f6b651371f93dd41fd633e48a72e38f6c63a3ad"
-        },
-        {
-          "title": "Rename a method.",
-          "id": "82904a8d004303accf7aef24968a811b54499f85"
-        },
-        {
-          "title": "Extract a method.",
-          "id": "03217d835f5d90e7da63860159e1fc456c54996b"
-        },
-        {
-          "title": "Move a method.",
-          "id": "05eb08d0facdaa70a97e96289a8511265d5cfad0"
-        },
         {
           "title": "Replace a method with an object.",
           "id": "47a46b270fcc413ca0589cf7ec2599a96e61d2e4"

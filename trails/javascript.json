@@ -3,10 +3,10 @@
   "description": "The primary programming language used for client-side in-browser functionality.",
   "steps": [
     {
-      "name": "Understand the fundamentals",
+      "name": "Beginning JavaScript",
       "resources": [
         {
-          "title": "Codecademy",
+          "title": "Complete Codecademy's JavaScript Track",
           "uri": "http://www.codecademy.com/tracks/javascript",
           "id": "e147d44ef6484f358b143f86f2d9b67818356c20"
         }
@@ -51,19 +51,23 @@
         {
           "title": "Iterate over collections.",
           "id": "a89f3f40edd0bf7e9b83c0e3c6d42bce5b22311f"
+        },
+        {
+          "title": "Use Web Inspector to test your ideas.",
+          "id": "ec8398e5dd8e898564f49b54e00951e551fd3734"
         }
       ]
     },
     {
-      "name": "Get a deeper understanding",
+      "name": "Intermediate JavaScript",
       "resources": [
         {
-          "title": "Eloquent JavaScript",
+          "title": "Read Eloquent JavaScript",
           "uri": "http://eloquentjavascript.net/contents.html",
           "id": "503ef2c828c94e73cd41e7f757cb70365416367c"
         },
         {
-          "title": "JavaScript Garden",
+          "title": "Read about common mistakes and subtle bugs, as well as performance issues and bad practices in JavaScript Garden",
           "uri": "http://bonsaiden.github.com/JavaScript-Garden/",
           "id": "3c1384d70bf54b60f59616c9ff23828b55b7c1d1"
         },
@@ -87,26 +91,17 @@
       ]
     },
     {
-      "name": "Understand how to build interactive pages",
+      "name": "Advanced JavaScript",
       "resources": [
         {
-          "title": "JavaScript Web Applications",
+          "title": "Read JavaScript Web Applications",
           "uri": "http://amzn.to/javascript-web-apps",
           "id": "c51812e7b048fc40a36f2c19a6177eec53c6ef12",
           "publisher": "http://shop.oreilly.com/product/0636920018421.do",
           "ibook": "itms-books://itunes.apple.com/us/book/javascript-web-applications/id462427083?mt=11"
-        },
-        {
-          "title": "jQuery API",
-          "uri": "http://api.jquery.com",
-          "id": "47cbf943a5e8e7888cdf0779f1f14323cc621b37"
         }
       ],
       "validations": [
-        {
-          "title": "Use Web Inspector to test your ideas.",
-          "id": "ec8398e5dd8e898564f49b54e00951e551fd3734"
-        },
         {
           "title": "Make HTTP requests.",
           "id": "2826aad79522c6f0275ae1bb8f76e53507371a8a"
@@ -158,19 +153,28 @@
         {
           "title": "Bind a view element to a JavaScript object (usually a model).",
           "id": "19b1659cb283f8a8edd994203909cb7be4993502"
+        },
+        {
+          "title": "Conform to a style guide",
+          "id": "6d98b52811029f423d1e0b452428912d39134f28"
         }
       ]
     },
     {
-      "name": "Conform to a style guide",
+      "name": "Ongoing Reference",
       "resources": [
         {
-          "title": "Google JavaScript Style Guide",
+          "title": "Review the jQuery API",
+          "uri": "http://api.jquery.com",
+          "id": "47cbf943a5e8e7888cdf0779f1f14323cc621b37"
+        },
+        {
+          "title": "Read the Google JavaScript Style Guide",
           "uri": "http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml",
           "id": "c80ce3b2101f6b0f78a281c83f3083d043b13965"
         },
         {
-          "title": "JQuery Core Style Guidelines",
+          "title": "Read the JQuery Core Style Guidelines",
           "uri": "http://docs.jquery.com/JQuery_Core_Style_Guidelines",
           "id": "bf7268b11c62cfa39b70ee66531e037c605393b4"
         }

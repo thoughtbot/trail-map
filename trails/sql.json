@@ -3,7 +3,7 @@
   "description": "A special-purpose programming language designed for managing data in relational database management systems. We recommend the SQL server PostgreSQL",
   "steps": [
     {
-      "name": "Read the following from the Postgres manual",
+      "name": "Beginning Postgres",
       "resources": [
         {
           "title": "2.5. Querying a Table",

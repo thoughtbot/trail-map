@@ -3,7 +3,7 @@
   "description": "The fundamental principles for communicating visually.",
   "steps": [
     {
-      "name": "Learn basics ",
+      "name": "Beginning Visual Principles",
       "resources": [
         {
           "title": "Read 'Visual Grammar' for a basic understanding on basic elements of design and how they relate to each other.",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Learn about the psychology and philosophy behind the main principles",
+      "name": "Intermediate Visual Principles",
       "resources": [
         {
           "title": "Read Andy Rutledge's \"Gestalt Principles of Perception\":",
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "Find out how those principles apply to specific design fields",
+      "name": "Advanced Visual Principles",
       "resources": [
         {
           "title": "Read '101 Things I Learned in Architecture School'",

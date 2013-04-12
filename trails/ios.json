@@ -3,7 +3,7 @@
   "description": "The mobile operating system that runs on the iPhone, iPad, iPod touch, and Apple TV.",
   "steps": [
     {
-      "name": "Critical Learning",
+      "name": "Beginning iOS",
       "resources": [
         {
           "title": "Read Learning Objective-C: A Primer",
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "name": "Ongoing Reference",
+      "name": "Advanced iOS",
       "resources": [
         {
           "title": "Maintain an active ADC account and refer to the official documentation",
