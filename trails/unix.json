@@ -8,7 +8,8 @@
         {
           "title": "Read The Linux Programming Interface. Chapters 1,  2, 6, 8, 10, 14, 15, 18, 25, 44, 62.",
           "uri": "http://amzn.to/the-linux-programming-interface",
-          "id": "3e5e1e86286462f7740038c7998ad900080f2cbf"
+          "id": "3e5e1e86286462f7740038c7998ad900080f2cbf",
+          "ibook": "n/a"
         },
         {
           "title": "Read about I/O redirection.",

@@ -8,7 +8,8 @@
         {
           "title": "HTML and CSS: Design and Build Websites",
           "uri": "http://amzn.com/1118008189",
-          "id": "78104f92a0cf0f81269801f2e34f846308c364bb"
+          "id": "78104f92a0cf0f81269801f2e34f846308c364bb",
+          "ibook": "n/a"
         },
         {
           "title": "Read A Beginner’s Guide to HTML & CSS",
@@ -18,7 +19,13 @@
         {
           "title": "Read Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with HTML5 and CSS3 for an introduction to HTML and CSS",
           "uri": "http://amzn.com/0321808355",
-          "id": "a723d16963fd6729516393433bbd9b901f489395"
+          "id": "a723d16963fd6729516393433bbd9b901f489395",
+          "ibook": "bulletproof-web-design-improving/id483421070?mt=11"
+        },
+        {
+          "title": "Complete Code Academy Web Fundamentals",
+          "uri": "http://www.codecademy.com/tracks/web",
+          "id": "1d8fbe7bbe0a30ebc78468131b468d0a3e5f95e0"
         }
       ],
       "validations": [
@@ -57,27 +64,24 @@
       ]
     },
     {
-      "name": "Run through the tutorials at Code Academy",
-      "references": [
-        {
-          "title": "Complete Code Academy Web Fundamentals",
-          "uri": "http://www.codecademy.com/tracks/web",
-          "id": "1d8fbe7bbe0a30ebc78468131b468d0a3e5f95e0"
-        }
-      ]
-    },
-    {
       "name": "Dig deeper into HTML5",
-      "references": [
+      "resources": [
         {
           "title": "Read Dive into HTML5",
           "uri": "http://diveintohtml5.info/",
-          "id": "8e3df4e84e67f47a66682bd9f8f62498ab3c47a4"
+          "id": "8e3df4e84e67f47a66682bd9f8f62498ab3c47a4",
+          "ibook": "html5-up-and-running/id394890993?mt=11"
         },
         {
           "title": "Read HTML5 for Web Designers",
           "uri": "http://www.abookapart.com/products/html5-for-web-designers",
-          "id": "5e950567968695a6ee06d185d7f9cfa0d0ac5759"
+          "id": "5e950567968695a6ee06d185d7f9cfa0d0ac5759",
+          "ibook": "html5-for-web-designers/id391397649?mt=11"
+        },
+        {
+          "title": "Refer to the HTML5 Spec",
+          "uri": "http://dev.w3.org/html5/spec/single-page.html",
+          "id": "3d72ce80d850495ec111602c8b2bf7e628020be8"
         }
       ],
       "validations": [
@@ -97,11 +101,12 @@
     },
     {
       "name": "Dig deeper into CSS3",
-      "references": [
+      "resources": [
         {
           "title": "CSS3 for Web Designers",
           "uri": "http://www.abookapart.com/products/css3-for-web-designers",
-          "id": "d9d3c1d41c0963ae1de6ae2f041365813d88176e"
+          "id": "d9d3c1d41c0963ae1de6ae2f041365813d88176e",
+          "ibook": "css3-for-web-designers/id405582149?mt=11"
         },
         {
           "title": "Refer to CSS3.info",
@@ -119,7 +124,7 @@
           "id": "a472be29ea68bada79c1255738bd9e06649b9d15"
         },
         {
-          "title": "Know trasitsions and animations and where to apply them",
+          "title": "Know transitions and animations and where to apply them",
           "id": "d0d046d4e4db8b1544f78a6c611948a47e297f57"
         },
         {
@@ -131,14 +136,14 @@
           "id": "3c4010eaa87bb3a1e1bfa2977109b3b7aab0a66c"
         },
         {
-          "title": "Know the new psuedo-selectors and know their uses",
+          "title": "Know the new pseudo-selectors and know their uses",
           "id": "aecf8e1709cd0d7072fefd09c1b422664d7cb4a9"
         }
       ]
     },
     {
       "name": "Learn about responsive and mobile first design",
-      "references": [
+      "resources": [
         {
           "title": "Read Responsive Web Design the article",
           "uri": "http://www.alistapart.com/articles/responsive-web-design/",
@@ -147,7 +152,8 @@
         {
           "title": "Read Responsive Web Design the book",
           "uri": "http://www.abookapart.com/products/responsive-web-design",
-          "id": "f32ba296eea9e93c120b3a6698ff13be76582027"
+          "id": "f32ba296eea9e93c120b3a6698ff13be76582027",
+          "ibook": "responsive-web-design/id442160521?mt=11"
         },
         {
           "title": "Visit This is Responsive for current news and links about responsive design",
@@ -157,10 +163,11 @@
         {
           "title": "Read Mobile First",
           "uri": "http://www.abookapart.com/products/mobile-first",
-          "id": "8de6212fb3307996e460157f07d4a75fea10aa62"
+          "id": "8de6212fb3307996e460157f07d4a75fea10aa62",
+          "ibook": "mobile-first/id474052405?mt=11"
         },
         {
-          "title": "Read The Infinate Grid",
+          "title": "Read The Infinite Grid",
           "uri": "http://www.alistapart.com/articles/the-infinite-grid/",
           "id": "f9dc4c08bb664482df033da47060b11e24a3aa13"
         },
@@ -190,26 +197,6 @@
         {
           "title": "Understand how best to serve images to mobile and retina screens",
           "id": "fcaa691226b6b10f3f1ded6f2218ec974566aaa4"
-        }
-      ]
-    },
-    {
-      "name": "Ongoing Reference",
-      "references": [
-        {
-          "title": "Refer to the HTML5 Spec",
-          "uri": "http://dev.w3.org/html5/spec/single-page.html",
-          "id": "3d72ce80d850495ec111602c8b2bf7e628020be8"
-        }
-      ]
-    },
-    {
-      "name": "Learn about Sass",
-      "references": [
-        {
-          "title": "Visit Sass on Learn",
-          "uri": "http://learn.thoughtbot.com/sass",
-          "id": "c0b7b53fd59586cf900e803af84c96ab854738be"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
   "name": "Open Source",
-  "description": "A software philsophy that promotes free redistribution and access to source code.",
+  "description": "A software philosophy that promotes free redistribution and access to source code.",
   "prerequisites": [
     "code-review",
     "git",

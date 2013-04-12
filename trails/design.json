@@ -8,22 +8,26 @@
         {
           "title": "Read 'Visual Grammar' for an introduction to visual principles of design",
           "uri": "http://amzn.to/visual-grammar",
-          "id": "569fd51c972e75cab47fa7d6f96b0d90434502a8"
+          "id": "569fd51c972e75cab47fa7d6f96b0d90434502a8",
+          "ibook": "n/a"
         },
         {
           "title": "Read 'Grid Systems: Principles of Organizing Type' for an introduction to grid systems",
           "uri": "http://amzn.to/grid-systems-principles",
-          "id": "9ba03a7b939dba2e2c2fa3ca731732bb2caf489a"
+          "id": "9ba03a7b939dba2e2c2fa3ca731732bb2caf489a",
+          "ibook": "n/a"
         },
         {
           "title": "Read 'Thinking with Type' for an introduction to Typography",
           "uri": "http://amzn.to/thinking-with-type",
-          "id": "47d56ab5c431e1ff8ce9625f554f4ed04be05c7a"
+          "id": "47d56ab5c431e1ff8ce9625f554f4ed04be05c7a",
+          "ibook": "n/a"
         },
         {
-          "title": "Read 'Understanding Color: An Introduction for Designers' for an inroduction to Color theory",
+          "title": "Read 'Understanding Color: An Introduction for Designers' for an introduction to Color theory",
           "uri": "http://amzn.com/0470381353",
-          "id": "2b95b6d8d58a123d8dff9b92b20c4067d33f1aa3"
+          "id": "2b95b6d8d58a123d8dff9b92b20c4067d33f1aa3",
+          "ibook": "understanding-color/id493857267?mt=11"
         }
       ],
       "validations": [
@@ -32,7 +36,7 @@
           "id": "e43a99a238057032981374ed6bdd1434b8c2f007"
         },
         {
-          "title": "Use visual priciples in your design",
+          "title": "Use visual principles in your design",
           "id": "18e6c9ca27e9e0b25d19eb13c6e9e96b0bbda1fe"
         },
         {

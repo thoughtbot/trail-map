@@ -18,7 +18,8 @@
         {
           "title": "Read The Well-Grounded Rubyist.",
           "uri": "http://amzn.to/grounded-rubyist",
-          "id": "c3dd3f0bdfb78932257723150ad2d59c6a691e3b"
+          "id": "c3dd3f0bdfb78932257723150ad2d59c6a691e3b",
+          "ibook": "the-well-grounded-rubyist/id402503392?mt=11"
         }
       ],
       "validations": [
@@ -68,7 +69,8 @@
         {
           "title": "Read Chapters 23 and 24 of The Pickaxe",
           "uri": "http://amzn.to/pickaxe-19",
-          "id": "7cabf8db13d4618542456504b39a0f26181eb82a"
+          "id": "7cabf8db13d4618542456504b39a0f26181eb82a",
+          "ibook": "n/a"
         }
       ],
       "validations": [
@@ -101,7 +103,8 @@
         {
           "title": "Ruby Library reference in The Pickaxe",
           "uri": "http://amzn.to/pickaxe-19",
-          "id": "4c57e7a3d587ee3f51e86fd9829fcc77b23c10a5"
+          "id": "4c57e7a3d587ee3f51e86fd9829fcc77b23c10a5",
+          "ibook": "n/a"
         },
         {
           "title": "Github's Style Guide",
