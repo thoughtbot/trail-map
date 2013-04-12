@@ -70,7 +70,8 @@
         {
           "title": "JavaScript: The Definitive Guide, Core and Client-Side Reference chapters",
           "uri": "http://amzn.to/ONeSOs",
-          "id": "91b457d0144f2e8ac562ec6af040ecc10681e1c4"
+          "id": "91b457d0144f2e8ac562ec6af040ecc10681e1c4",
+          "ibook": "javascript-definitive-guide/id434078374?mt=11"
         }
       ],
       "validations": [
@@ -90,7 +91,8 @@
         {
           "title": "JavaScript Web Applications",
           "uri": "http://amzn.to/javascript-web-apps",
-          "id": "c51812e7b048fc40a36f2c19a6177eec53c6ef12"
+          "id": "c51812e7b048fc40a36f2c19a6177eec53c6ef12",
+          "ibook": "javascript-web-applications/id462427083?mt=11"
         },
         {
           "title": "jQuery API",

@@ -91,12 +91,14 @@
         {
           "title": "Refactoring: Ruby Edition",
           "uri": "http://amzn.to/ruby-refactoring",
-          "id": "94e5e46116f1766fac1fb276e52ead5968ecfd2d"
+          "id": "94e5e46116f1766fac1fb276e52ead5968ecfd2d",
+          "ibook": "refactoring-ruby-edition/id401429800?mt=11"
         },
         {
           "title": "Refactoring to Patterns",
           "uri": "http://amzn.to/refactoring-to-patterns",
-          "id": "e1f05298c04e3bd6adf800910d2ef9718afdc802"
+          "id": "e1f05298c04e3bd6adf800910d2ef9718afdc802",
+          "ibook": "refactoring-to-patterns/id401492622?mt=11"
         }
       ]
     }

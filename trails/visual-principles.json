@@ -8,12 +8,14 @@
         {
           "title": "Read 'Visual Grammar' for a basic understanding on basic elements of design and how they relate to each other.",
           "uri": "http://amzn.to/visual-grammar",
-          "id": "cbee22bf1a60ae0906a63c2fb9c777d269c049b1"
+          "id": "cbee22bf1a60ae0906a63c2fb9c777d269c049b1",
+          "ibook": "n/a"
         },
         {
           "title": "Read 'Universal Principles of Design' for a larger array of principles covering an array of medium.",
           "uri": "http://amzn.to/universal-principles",
-          "id": "a93aafbb4d3a2ebbdbb9971976bde5d9bfbb6cfd"
+          "id": "a93aafbb4d3a2ebbdbb9971976bde5d9bfbb6cfd",
+          "ibook": "n/a"
         }
       ],
       "validations": [
@@ -85,7 +87,8 @@
         {
           "title": "Read '101 Things I Learned in Architecture School'",
           "uri": "http://amzn.to/101-things-learned",
-          "id": "fc030d896593cb0236380f8a0204803b98534a25"
+          "id": "fc030d896593cb0236380f8a0204803b98534a25",
+          "ibook": "101-things-i-learned-in-architecture/id562185048?mt=11"
         }
       ]
     }

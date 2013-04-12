@@ -7,8 +7,9 @@
       "resources": [
         {
           "title": "Read \"The Lean Startup\".",
-          "uri": "http://amzn.com/1568985819",
-          "id": "1499275a8b0c3088872fe6fb85858d6630405743"
+          "uri": "http://amzn.com/0307887898",
+          "id": "1499275a8b0c3088872fe6fb85858d6630405743",
+          "ibook": "the-lean-startup/id422540072?mt=11"
         },
         {
           "title": "Read thoughtbot's \"The Playbook\".",

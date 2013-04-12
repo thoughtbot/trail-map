@@ -18,7 +18,8 @@
         {
           "title": "xUnit Test Patterns",
           "uri": "http://amzn.to/x-test-patterns",
-          "id": "3c4773c1bca04677a050c8d6b3284f732b60de90"
+          "id": "3c4773c1bca04677a050c8d6b3284f732b60de90",
+          "ibook": "xunit-test-patterns/id432496466?mt=11"
         }
       ],
       "validations": [
@@ -42,7 +43,8 @@
         {
           "title": "Read Test-Driven Development By Example.",
           "uri": "http://amzn.to/test-driven-dev",
-          "id": "3d478184c84fefa705d2a8a76f299e627a8a5b86"
+          "id": "3d478184c84fefa705d2a8a76f299e627a8a5b86",
+          "ibook": "n/a"
         }
       ],
       "validations": [
