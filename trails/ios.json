@@ -12,12 +12,12 @@
         },
         {
           "title": "Read Learn Objective-C on the Mac",
-          "uri": "http://amzn.to/learn-objective-c-mac",
+          "uri": "http://amzn.com/1430241888",
           "id": "d39f5d5c984f65eeaa2885ff6d92d2bd64cc5352"
         },
         {
           "title": "Read Beginning iOS 5 Development: Exploring the iOS SDK",
-          "uri": "http://amzn.to/beginning-ios5",
+          "uri": "http://amzn.com/1430236051",
           "id": "03bb5acb9802da5fb421bae79f5522fa5a3149dd"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
           "title": "Read chapters 6 - 15, 17 - 19, 24, 28 - 30 of Cocoa Design Patterns",
-          "uri": "http://amzn.to/cocoa-design-patterns",
+          "uri": "http://amzn.com/0321535022",
           "id": "662367815cc07ed96dda948610fb639a7f7ea358"
         },
         {
@@ -52,7 +52,7 @@
           "id": "6067e99790813224305d6a60eb0da23176d5a2f3"
         },
         {
-          "title": "Describe and use ARC and MRC for memory mangement, as well as the rules of the retain/release/autorelease cycle.",
+          "title": "Describe and use ARC and MRC for memory management, as well as the rules of the retain/release/autorelease cycle.",
           "id": "24cbe27995f92ab7c2d9ff4d3b0d688d5af23593"
         },
         {
@@ -115,6 +115,7 @@
         },
         {
           "title": "Keep up-to-date on iOS news.",
+          "uri": "https://developer.apple.com/library/ios",
           "id": "cb9a270daef11346e642bc1d4f89712fc0bac7ee"
         },
         {
