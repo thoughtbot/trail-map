@@ -58,7 +58,7 @@
     },
     {
       "name": "Run through the tutorials at Code Academy",
-      "references": [
+      "resources": [
         {
           "title": "Complete Code Academy Web Fundamentals",
           "uri": "http://www.codecademy.com/tracks/web",
@@ -68,7 +68,7 @@
     },
     {
       "name": "Dig deeper into HTML5",
-      "references": [
+      "resources": [
         {
           "title": "Read Dive into HTML5",
           "uri": "http://diveintohtml5.info/",
@@ -97,7 +97,7 @@
     },
     {
       "name": "Dig deeper into CSS3",
-      "references": [
+      "resources": [
         {
           "title": "CSS3 for Web Designers",
           "uri": "http://www.abookapart.com/products/css3-for-web-designers",
@@ -119,7 +119,7 @@
           "id": "a472be29ea68bada79c1255738bd9e06649b9d15"
         },
         {
-          "title": "Know trasitsions and animations and where to apply them",
+          "title": "Know transitions and animations and where to apply them",
           "id": "d0d046d4e4db8b1544f78a6c611948a47e297f57"
         },
         {
@@ -131,14 +131,14 @@
           "id": "3c4010eaa87bb3a1e1bfa2977109b3b7aab0a66c"
         },
         {
-          "title": "Know the new psuedo-selectors and know their uses",
+          "title": "Know the new pseudo-selectors and know their uses",
           "id": "aecf8e1709cd0d7072fefd09c1b422664d7cb4a9"
         }
       ]
     },
     {
       "name": "Learn about responsive and mobile first design",
-      "references": [
+      "resources": [
         {
           "title": "Read Responsive Web Design the article",
           "uri": "http://www.alistapart.com/articles/responsive-web-design/",
@@ -160,7 +160,7 @@
           "id": "8de6212fb3307996e460157f07d4a75fea10aa62"
         },
         {
-          "title": "Read The Infinate Grid",
+          "title": "Read The Infinite Grid",
           "uri": "http://www.alistapart.com/articles/the-infinite-grid/",
           "id": "f9dc4c08bb664482df033da47060b11e24a3aa13"
         },
@@ -195,7 +195,7 @@
     },
     {
       "name": "Ongoing Reference",
-      "references": [
+      "resources": [
         {
           "title": "Refer to the HTML5 Spec",
           "uri": "http://dev.w3.org/html5/spec/single-page.html",
@@ -205,7 +205,7 @@
     },
     {
       "name": "Learn about Sass",
-      "references": [
+      "resources": [
         {
           "title": "Visit Sass on Learn",
           "uri": "http://learn.thoughtbot.com/sass",
