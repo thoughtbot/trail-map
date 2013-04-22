@@ -10,8 +10,9 @@
       "resources": [
         {
           "title": "Read The Elements of Typographic Style",
-          "uri": "http://amzn.com/0881792063",
-          "id": "f1944a18da4d96765339e4a9d90518d1aed7842b"
+          "uri": "http://amzn.to/elements-typographic-style",
+          "id": "f1944a18da4d96765339e4a9d90518d1aed7842b",
+          "publisher": "http://webtypography.net/bibliography/"
         },
         {
           "title": "Read The Elements of Typographic Style Applied to the Web",
@@ -20,8 +21,9 @@
         },
         {
           "title": "Read Thinking with Type",
-          "uri": "http://amzn.com/1568989695",
-          "id": "520bbc4236127c5c520e5aae3c36c69dbc2a0e1f"
+          "uri": "http://amzn.to/thinking-with-type",
+          "id": "520bbc4236127c5c520e5aae3c36c69dbc2a0e1f",
+          "publisher": "http://www.thinkingwithtype.com"
         },
         {
           "title": "Read Real Web Type in Real Web Context",
@@ -46,7 +48,8 @@
         {
           "title": "Read Stop Stealing Sheep & Find Out How Type Works",
           "uri": "http://amzn.com/0201703394",
-          "id": "d212bf4bdc9c701b0e8b2897c2540fbf3ded8fc6"
+          "id": "d212bf4bdc9c701b0e8b2897c2540fbf3ded8fc6",
+          "publisher": "http://www.adobepress.com/store/stop-stealing-sheep-find-out-how-type-works-9780201703399"
         }
       ],
       "validations": [

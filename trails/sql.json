@@ -288,7 +288,9 @@
         {
           "title": "SQL Cookbook",
           "uri": "http://amzn.com/0596009763",
-          "id": "afa03a8d12570cad4565a3b2640804e14b35a106"
+          "id": "afa03a8d12570cad4565a3b2640804e14b35a106",
+          "publisher": "http://shop.oreilly.com/product/9780596009762.do",
+          "ibook": "itms-books://itunes.apple.com/us/book/sql-cookbook/id396890915?mt=11"
         }
       ]
     }

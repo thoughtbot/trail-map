@@ -7,23 +7,27 @@
       "resources": [
         {
           "title": "Read Information Dashboard Design",
-          "uri": "http://amzn.com/0596100167",
-          "id": "24af44ce985b0127da5b10a9e1b68785bd185c7c"
+          "uri": "http://amzn.to/information-dashboard",
+          "id": "24af44ce985b0127da5b10a9e1b68785bd185c7c",
+          "publisher": "http://shop.oreilly.com/product/9780596100162.do"
         },
         {
           "title": "Read Envisioning Information",
-          "uri": "http://amzn.com/0961392118",
-          "id": "97f9816c85cf36e23cd461386b80473a2381cffd"
+          "uri": "http://amzn.to/envisioning-information",
+          "id": "97f9816c85cf36e23cd461386b80473a2381cffd",
+          "publisher": "http://www.edwardtufte.com/tufte/books_ei"
         },
         {
           "title": "Read The Visual Display of Quantitative Information",
-          "uri": "http://amzn.com/0961392142",
-          "id": "03b18d3184731525abc721139cbdb9fbab29174c"
+          "uri": "http://amzn.to/visual-display",
+          "id": "03b18d3184731525abc721139cbdb9fbab29174c",
+          "publisher": "http://www.edwardtufte.com/tufte/books_vdqi"
         },
         {
           "title": "Read A Practical Guide to Designing with Data",
           "uri": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data",
-          "id": "f1054c2ebbc53e5302cec3c8834bfe60abe464ea"
+          "id": "f1054c2ebbc53e5302cec3c8834bfe60abe464ea",
+          "ibook": "itms-books://itunes.apple.com/us/book/practical-guide-to-designing/id447639507?mt=11"
         }
       ],
       "validations": [

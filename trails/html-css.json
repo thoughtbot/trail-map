@@ -8,7 +8,8 @@
         {
           "title": "HTML and CSS: Design and Build Websites",
           "uri": "http://amzn.com/1118008189",
-          "id": "78104f92a0cf0f81269801f2e34f846308c364bb"
+          "id": "78104f92a0cf0f81269801f2e34f846308c364bb",
+          "publisher": "http://htmlandcssbook.com"
         },
         {
           "title": "Read A Beginner’s Guide to HTML & CSS",
@@ -18,7 +19,9 @@
         {
           "title": "Read Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with HTML5 and CSS3 for an introduction to HTML and CSS",
           "uri": "http://amzn.com/0321808355",
-          "id": "a723d16963fd6729516393433bbd9b901f489395"
+          "id": "a723d16963fd6729516393433bbd9b901f489395",
+          "publisher": "http://simplebits.com/publications/bulletproof/",
+          "ibook": "itms-books://itunes.apple.com/us/book/bulletproof-web-design-improving/id483421070?mt=11"
         }
       ],
       "validations": [
@@ -77,7 +80,8 @@
         {
           "title": "Read HTML5 for Web Designers",
           "uri": "http://www.abookapart.com/products/html5-for-web-designers",
-          "id": "5e950567968695a6ee06d185d7f9cfa0d0ac5759"
+          "id": "5e950567968695a6ee06d185d7f9cfa0d0ac5759",
+          "ibook": "itms-books://itunes.apple.com/us/book/html5-for-web-designers/id391397649?mt=11"
         }
       ],
       "validations": [
@@ -101,7 +105,8 @@
         {
           "title": "CSS3 for Web Designers",
           "uri": "http://www.abookapart.com/products/css3-for-web-designers",
-          "id": "d9d3c1d41c0963ae1de6ae2f041365813d88176e"
+          "id": "d9d3c1d41c0963ae1de6ae2f041365813d88176e",
+          "ibook": "itms-books://itunes.apple.com/us/book/css3-for-web-designers/id405582149?mt=11"
         },
         {
           "title": "Refer to CSS3.info",
@@ -147,7 +152,8 @@
         {
           "title": "Read Responsive Web Design the book",
           "uri": "http://www.abookapart.com/products/responsive-web-design",
-          "id": "f32ba296eea9e93c120b3a6698ff13be76582027"
+          "id": "f32ba296eea9e93c120b3a6698ff13be76582027",
+          "ibook": "itms-books://itunes.apple.com/us/book/responsive-web-design/id442160521?mt=11"
         },
         {
           "title": "Visit This is Responsive for current news and links about responsive design",
@@ -157,7 +163,8 @@
         {
           "title": "Read Mobile First",
           "uri": "http://www.abookapart.com/products/mobile-first",
-          "id": "8de6212fb3307996e460157f07d4a75fea10aa62"
+          "id": "8de6212fb3307996e460157f07d4a75fea10aa62",
+          "ibook": "itms-books://itunes.apple.com/us/book/mobile-first/id474052405?mt=11"
         },
         {
           "title": "Read The Infinite Grid",
