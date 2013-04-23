@@ -12,13 +12,16 @@
         },
         {
           "title": "Read Learn Objective-C on the Mac",
-          "uri": "http://amzn.com/1430241888",
-          "id": "d39f5d5c984f65eeaa2885ff6d92d2bd64cc5352"
+          "uri": "http://amzn.to/learn-objective-c-mac",
+          "id": "d39f5d5c984f65eeaa2885ff6d92d2bd64cc5352",
+          "publisher": "http://www.apress.com/9781430218159",
+          "ibook": "itms-books://itunes.apple.com/us/book/learn-objective-c-on-the-mac/id492011030?mt=11"
         },
         {
           "title": "Read Beginning iOS 5 Development: Exploring the iOS SDK",
-          "uri": "http://amzn.com/1430236051",
-          "id": "03bb5acb9802da5fb421bae79f5522fa5a3149dd"
+          "uri": "http://amzn.to/beginning-ios5",
+          "id": "03bb5acb9802da5fb421bae79f5522fa5a3149dd",
+          "publisher": "http://www.apress.com/9781430236054"
         },
         {
           "title": "Read The Objective-C Programming Language",
@@ -32,8 +35,9 @@
         },
         {
           "title": "Read chapters 6 - 15, 17 - 19, 24, 28 - 30 of Cocoa Design Patterns",
-          "uri": "http://amzn.com/0321535022",
-          "id": "662367815cc07ed96dda948610fb639a7f7ea358"
+          "uri": "http://amzn.to/cocoa-design-patterns",
+          "id": "662367815cc07ed96dda948610fb639a7f7ea358",
+          "publisher": "http://www.informit.com/store/cocoa-design-patterns-9780321535023"
         },
         {
           "title": "Read and hack on sample code",
@@ -115,7 +119,7 @@
         },
         {
           "title": "Keep up-to-date on iOS news.",
-          "uri": "https://developer.apple.com/library/ios",
+          "uri": "http://developer.apple.com/library/ios/navigation/#section=Resource%20Types&topic=Release%20Notes",
           "id": "cb9a270daef11346e642bc1d4f89712fc0bac7ee"
         },
         {

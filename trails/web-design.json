@@ -24,7 +24,8 @@
         {
           "title": "Read 'A Practical Guide to Designing for the Web'",
           "uri": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web",
-          "id": "526880b6c4998e7fa9ee2a7c00ce744d7adcc962"
+          "id": "526880b6c4998e7fa9ee2a7c00ce744d7adcc962",
+          "ibook": "itms-books://itunes.apple.com/us/book/practical-guide-to-designing/id447639608?mt=11"
         },
         {
           "title": "Read 'A Dao of Web Design'",
@@ -34,12 +35,15 @@
         {
           "title": "Read 'Don't Make Me Think: A Common Sense Approach to Web Usability'",
           "uri": "http://amzn.com/0321344758",
-          "id": "71cf585a0a50b7f1f6bf21df21ae53924e66d5bd"
+          "id": "71cf585a0a50b7f1f6bf21df21ae53924e66d5bd",
+          "publisher": "http://www.sensible.com/dmmt.html",
+          "ibook": "itms-books://itunes.apple.com/us/book/dont-make-me-think-common/id399578833?mt=11"
         },
         {
           "title": "Skim through 'Designing With Web Standards'",
           "uri": "http://amzn.com/0321616952",
-          "id": "313f21abc7944875b70a03e9c96fcd9d6565f2d7"
+          "id": "313f21abc7944875b70a03e9c96fcd9d6565f2d7",
+          "publisher": "http://www.zeldman.com/dwws/"
         },
         {
           "title": "Read 'Understanding Web Design'",
@@ -90,12 +94,16 @@
         {
           "title": "Read 'Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems' to understand how to run a adhoc usability test.",
           "uri": "http://amzn.com/0321657292",
-          "id": "c68ff73823dd996b1917c452424a2c020366101e"
+          "id": "c68ff73823dd996b1917c452424a2c020366101e",
+          "publisher": "http://www.sensible.com/rsme.html",
+          "ibook": "itms-books://itunes.apple.com/us/book/rocket-surgery-made-easy-do/id399580949?mt=11"
         },
         {
           "title": "Read 'The Design of Everyday Things' to see how other people have already applied user experience to real world products.",
           "uri": "http://amzn.com/0465067107",
-          "id": "1afadd7fdabb6030c05a7b262aa15eb1c6100a94"
+          "id": "1afadd7fdabb6030c05a7b262aa15eb1c6100a94",
+          "publisher": "http://www.jnd.org/books/the-design-of-everyday-things.html",
+          "ibook": "itms-books://itunes.apple.com/us/book/rocket-surgery-made-easy-do/id399580949?mt=11"
         },
         {
           "title": "Read through all of the weeks of '52 Weeks of UX'",

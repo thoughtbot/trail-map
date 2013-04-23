@@ -1,6 +1,6 @@
 {
   "name": "Testing",
-  "description": "A method of improving code quality and minimizing time requred to add new features to software by ensuring that each facet of the program works as expected.",
+  "description": "A method of improving code quality and minimizing time required to add new features to software by ensuring that each facet of the program works as expected.",
   "steps": [
     {
       "name": "Critical Learning",
@@ -17,8 +17,10 @@
         },
         {
           "title": "xUnit Test Patterns",
-          "uri": "http://amzn.com/0131495054",
-          "id": "3c4773c1bca04677a050c8d6b3284f732b60de90"
+          "uri": "http://amzn.to/x-test-patterns",
+          "id": "3c4773c1bca04677a050c8d6b3284f732b60de90",
+          "publisher": "http://www.informit.com/store/xunit-test-patterns-refactoring-test-code-9780131495050",
+          "ibook": "itms-books://itunes.apple.com/us/book/xunit-test-patterns/id432496466?mt=11"
         }
       ],
       "validations": [
@@ -41,8 +43,9 @@
       "resources": [
         {
           "title": "Read Test-Driven Development By Example.",
-          "uri": "http://amzn.com/0321146530",
-          "id": "3d478184c84fefa705d2a8a76f299e627a8a5b86"
+          "uri": "http://amzn.to/test-driven-dev",
+          "id": "3d478184c84fefa705d2a8a76f299e627a8a5b86",
+          "publisher": "http://www.informit.com/store/test-driven-development-by-example-9780321146533"
         }
       ],
       "validations": [

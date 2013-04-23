@@ -7,13 +7,15 @@
       "resources": [
         {
           "title": "Read 'Visual Grammar' for a basic understanding on basic elements of design and how they relate to each other.",
-          "uri": "http://amzn.com/1568985819",
-          "id": "cbee22bf1a60ae0906a63c2fb9c777d269c049b1"
+          "uri": "http://amzn.to/visual-grammar",
+          "id": "cbee22bf1a60ae0906a63c2fb9c777d269c049b1",
+          "publisher": "http://www.papress.com/html/book.details.page.tpl?isbn=9781568985817"
         },
         {
           "title": "Read 'Universal Principles of Design' for a larger array of principles covering an array of medium.",
-          "uri": "http://amzn.com/1592535879",
-          "id": "a93aafbb4d3a2ebbdbb9971976bde5d9bfbb6cfd"
+          "uri": "http://amzn.to/universal-principles",
+          "id": "a93aafbb4d3a2ebbdbb9971976bde5d9bfbb6cfd",
+          "publisher": "http://stuffcreators.com/upod/"
         }
       ],
       "validations": [
@@ -85,7 +87,9 @@
         {
           "title": "Read '101 Things I Learned in Architecture School'",
           "uri": "http://amzn.com/0262062666",
-          "id": "fc030d896593cb0236380f8a0204803b98534a25"
+          "id": "fc030d896593cb0236380f8a0204803b98534a25",
+          "publisher": "http://mitpress.mit.edu/books/101-things-i-learned-architecture-school",
+          "ibook": "itms-books://itunes.apple.com/us/book/101-things-i-learned-in-architecture/id562185048?mt=11"
         }
       ]
     }

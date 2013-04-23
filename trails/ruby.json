@@ -17,8 +17,10 @@
         },
         {
           "title": "Read The Well-Grounded Rubyist.",
-          "uri": "http://amzn.com/1933988657",
-          "id": "c3dd3f0bdfb78932257723150ad2d59c6a691e3b"
+          "uri": "http://amzn.to/grounded-rubyist",
+          "id": "c3dd3f0bdfb78932257723150ad2d59c6a691e3b",
+          "publisher": "http://www.manning.com/black2/",
+          "ibook": "itms-books://itunes.apple.com/us/book/the-well-grounded-rubyist/id402503392?mt=11"
         }
       ],
       "validations": [
@@ -100,8 +102,9 @@
         },
         {
           "title": "Ruby Library reference in The Pickaxe",
-          "uri": "http://amzn.com/1934356085",
-          "id": "4c57e7a3d587ee3f51e86fd9829fcc77b23c10a5"
+          "uri": "http://amzn.to/pickaxe-19",
+          "id": "4c57e7a3d587ee3f51e86fd9829fcc77b23c10a5",
+          "publisher": "http://pragprog.com/book/ruby/programming-ruby"
         },
         {
           "title": "Github's Style Guide",
