@@ -23,4 +23,15 @@ describe JSONValidator, '#run' do
     result.should be_false
     io.string.should =~ /ERROR/
   end
+
+  it 'returns false and outputs an error if the JSON is non compliant' do
+    $stdout = io = StringIO.new
+    dir = File.dirname(__FILE__)
+    file_name = File.open(dir + '/fixtures/non_compliant.json')
+
+    result = JSONValidator.new(file_name).run
+
+    result.should be_false
+    io.string.should =~ /ERROR/
+  end
 end
