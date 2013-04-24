@@ -1,4 +1,8 @@
+require 'json-schema'
+
 class JSONValidator
+  SCHEMA = 'config/schema.json'
+
   def initialize(file_name)
     @file_name = file_name
     @contents = File.open(@file_name).read
@@ -21,12 +25,9 @@ class JSONValidator
   end
 
   def valid_json?
-    begin
-      JSON.parse(@contents)
-      return true
-    rescue Exception => e
-      return false
-    end
+    @errors = JSON::Validator.fully_validate(SCHEMA, @contents)
+
+    @errors == []
   end
 
   def print_progress_marker
@@ -34,7 +35,7 @@ class JSONValidator
   end
 
   def print_error_message
-    puts "\nERROR: #{@file_name} is not valid JSON. Learn more:"
-    puts "cat #{@file_name} | pbcopy; open http://jsonlint.com"
+    puts "\nERROR: #{@file_name} is not valid JSON."
+    puts @errors
   end
 end
