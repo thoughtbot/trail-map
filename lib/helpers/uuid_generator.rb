@@ -31,10 +31,8 @@ class UUIDGenerator
   end
 
   def save_trail
-    pretty_json = JSON.pretty_generate(@trail)
-    File.open(@file_name, 'w') do |file|
-      file.write(pretty_json)
-    end
+    pretty_json = JSON.pretty_generate(@trail) + "\n"
+    IO.write(@file_name, pretty_json)
     print '.'
   end
 end
