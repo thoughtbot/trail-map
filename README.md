@@ -3,7 +3,9 @@
 NOTE:
 =====
 
-As of 11/13/2012, this is now a JSON-only data resource. To browse the trails, visit [learn.thoughtbot.com](https://learn.thoughtbot.com) or download Learn for iPhone and iPad [in the App Store](http://www.appstore.com/thoughtbotlearn). 
+As of 11/13/2012, this is now a JSON-only data resource. 
+
+To browse the trails, download [Learn for iPhone and iPad](http://www.appstore.com/thoughtbotlearn) in the App Store or visit [learn.thoughtbot.com](https://learn.thoughtbot.com). 
 
 Trail map
 =========
