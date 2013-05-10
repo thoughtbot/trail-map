@@ -3,12 +3,17 @@
   "description": "A dynamic, general-purpose object-oriented programming language that combines syntax inspired by Perl with Smalltalk-like features. Powers the Ruby on Rails framework.",
   "steps": [
     {
-      "name": "Get to know ruby",
+      "name": "Beginning Ruby",
       "resources": [
         {
           "title": "First, Try Ruby!",
           "uri": "http://tryruby.org",
           "id": "217c9b284f6811a569133c54d5c8b4461ee2a127"
+        },
+        {
+          "title": "Complete RubyMonk exercises",
+          "uri": "http://rubymonk.com/",
+          "id": "cde6cffce2d06a3989ab936986311043afef9261"
         },
         {
           "title": "Read Learn Ruby The Hard Way.",
@@ -21,6 +26,11 @@
           "id": "c3dd3f0bdfb78932257723150ad2d59c6a691e3b",
           "publisher": "http://www.manning.com/black2/",
           "ibook": "itms-books://itunes.apple.com/us/book/the-well-grounded-rubyist/id402503392?mt=11"
+        },
+        {
+          "title": "Read Why's Poignant Guide.",
+          "uri": "http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html",
+          "id": "17d73c796447dbbd7afa5896da547c7fd0968af0"
         }
       ],
       "validations": [
@@ -55,7 +65,7 @@
       ]
     },
     {
-      "name": "Expand your knowledge",
+      "name": "Intermediate Ruby",
       "resources": [
         {
           "title": "Complete the Ruby Koans.",
@@ -93,31 +103,31 @@
       ]
     },
     {
-      "name": "Conform to a style guide",
+      "name": "Ongoing Reference",
       "resources": [
         {
-          "title": "Ruby Core Documentation",
+          "title": "Read Ruby Core Documentation",
           "uri": "http://ruby-doc.org/core",
           "id": "4c5701a5f0294a498ccf65b8bfe54c1780226c2a"
         },
         {
-          "title": "Ruby Library reference in The Pickaxe",
+          "title": "Read Ruby Library Reference in The Pickaxe",
           "uri": "http://amzn.to/pickaxe-19",
           "id": "4c57e7a3d587ee3f51e86fd9829fcc77b23c10a5",
           "publisher": "http://pragprog.com/book/ruby/programming-ruby"
         },
         {
-          "title": "Github's Style Guide",
+          "title": "Read Github's Style Guide",
           "uri": "https://github.com/styleguide/ruby",
           "id": "0172e0e8342b55db52866ecf1bc03ca34c55a01a"
         },
         {
-          "title": "Ruby Style Guide",
+          "title": "Read the Ruby Style Guide",
           "uri": "https://github.com/bbatsov/ruby-style-guide",
           "id": "814ff02a53b5962d18d13fc6ba2b162e2451dab1"
         },
         {
-          "title": "thoughtbot's Style Guide",
+          "title": "Read thoughtbot's Style Guide",
           "uri": "https://github.com/thoughtbot/guides/tree/master/style",
           "id": "0d4b13aa58bb3b14438312108a29b2e917cd6dac"
         }

@@ -3,7 +3,7 @@
   "description": "A scripting language that is interpreted into CSS, that provides powerful functionality not provided by CSS live nesting, variables, and mixins.",
   "steps": [
     {
-      "name": "Critical Learning",
+      "name": "Beginning Sass",
       "resources": [
         {
           "title": "Read the Sass Tutorial",
@@ -14,11 +14,6 @@
           "title": "Read open source code",
           "uri": "https://github.com/thoughtbot/bourbon/tree/master/app/assets/stylesheets",
           "id": "79bde23b45393e3f5c2d31ddd4abe32249201482"
-        },
-        {
-          "title": "Read the Sass Documentation",
-          "uri": "http://sass-lang.com/docs.html",
-          "id": "ca2587d2b6879992daf411023be22e2c8b5040f2"
         }
       ],
       "validations": [
@@ -37,6 +32,16 @@
         {
           "title": "Use @include and @extend.",
           "id": "3f03200ac7f0a6ba9bed1d70bca159e7914b6fa6"
+        }
+      ]
+    },
+    {
+      "name": "Ongoing Reference",
+      "resources": [
+        {
+          "title": "Read the Sass Documentation",
+          "uri": "http://sass-lang.com/docs.html",
+          "id": "ca2587d2b6879992daf411023be22e2c8b5040f2"
         }
       ]
     }

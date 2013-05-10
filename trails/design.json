@@ -3,7 +3,7 @@
   "description": "Visually communicate a message or action with text, images, and shapes.",
   "steps": [
     {
-      "name": "First learn design basics: Visual Principles, Grid Systems, Typography and Color",
+      "name": "Beginning Design",
       "resources": [
         {
           "title": "Read 'Visual Grammar' for an introduction to visual principles of design",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "Dig deeper into each basic design topic",
+      "name": "Intermediate Design",
       "resources": [
         {
           "title": "Visit 'Visual Principles' on Learn to augment your learning on visual principles",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "name": "Look into specific practices of design",
+      "name": "Ongoing Reference",
       "resources": [
         {
           "title": "Visit 'Web Design' on Learn",

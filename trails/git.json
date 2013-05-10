@@ -3,7 +3,7 @@
   "description": "A distributed revision control and source code management system with an emphasis on speed.",
   "steps": [
     {
-      "name": "Learn everyday git",
+      "name": "Beginning Git",
       "resources": [
         {
           "title": "Try Git",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "name": "Advanced Git",
+      "name": "Ongoing Reference",
       "resources": [
         {
           "title": "git-clone",

@@ -9,7 +9,7 @@
   ],
   "steps": [
     {
-      "name": "First learn visual design",
+      "name": "Beginning Web Design",
       "resources": [
         {
           "title": "Visual Design on Learn",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "name": "Dive into designing for the web",
+      "name": "Intermediate Web Design",
       "resources": [
         {
           "title": "Read 'A Practical Guide to Designing for the Web'",
@@ -79,17 +79,7 @@
       ]
     },
     {
-      "name": "Dive deeper into HTML & CSS",
-      "resources": [
-        {
-          "title": "Visit 'HTML & CSS' on Learn",
-          "uri": "https://learn.thoughtbot.com/html-css",
-          "id": "a574800a2048129febaa389c6cef95b2ceeb74e1"
-        }
-      ]
-    },
-    {
-      "name": "Learn to create good user experiences",
+      "name": "Advanced Web Design",
       "resources": [
         {
           "title": "Read 'Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems' to understand how to run a adhoc usability test.",
@@ -113,7 +103,7 @@
       ]
     },
     {
-      "name": "Ongoing resources and magazines",
+      "name": "Ongoing Reference",
       "resources": [
         {
           "title": "A List Apart",

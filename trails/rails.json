@@ -11,7 +11,7 @@
   ],
   "steps": [
     {
-      "name": "Critical Learning",
+      "name": "Beginning Rails",
       "resources": [
         {
           "title": "Complete Michael Hartl's Rails Tutorial",
@@ -19,9 +19,9 @@
           "id": "dbe28c25619d315a464afec03d700a8ab3178cbc"
         },
         {
-          "title": "Complete Rails Testing for Zombies",
-          "uri": "http://www.codeschool.com/courses/rails-testing-for-zombies",
-          "id": "f28fcc1f88ce27d5da82edf58917d453e2671e57"
+          "title": "Complete Rails for Zombies",
+          "uri": "http://railsforzombies.org/",
+          "id": "539bc3c160e4222b49a36efba5a5d6c3a1dd5b7a"
         },
         {
           "title": "Push your code to Github",
@@ -32,16 +32,6 @@
           "title": "Deploy to Heroku",
           "uri": "http://heroku.com",
           "id": "1f97c562163a560a3064ecdcd821f45077946ecd"
-        },
-        {
-          "title": "Watch Railscasts",
-          "uri": "http://railscasts.com",
-          "id": "73c0d06888c74d9803453c529187bdcf101ca842"
-        },
-        {
-          "title": "Read open source code: example",
-          "uri": "https://github.com/copycopter/copycopter-server",
-          "id": "4fee63bb482922cfb9d923bdea3eae9cb3a38284"
         }
       ],
       "validations": [
@@ -74,12 +64,76 @@
           "id": "6140573de6d9eba6e556736d81fac2df0bd46b03"
         },
         {
+          "title": "Deploy your app to production.",
+          "id": "52320e832664fb57336f0dd55e02ac4521bbf7b2"
+        }
+      ]
+    },
+    {
+      "name": "Intermediate Rails",
+      "resources": [
+        {
+          "title": "Complete Rails Testing for Zombies",
+          "uri": "http://www.codeschool.com/courses/rails-testing-for-zombies",
+          "id": "f28fcc1f88ce27d5da82edf58917d453e2671e57"
+        },
+        {
+          "title": "Complete the RailsApps tutorials",
+          "uri": "https://tutorials.railsapps.org/",
+          "id": "81dc718ee94307c002c21a35cda8751bbfd1364b"
+        },
+        {
+          "title": "Watch Railscasts",
+          "uri": "http://railscasts.com",
+          "id": "73c0d06888c74d9803453c529187bdcf101ca842"
+        }
+      ],
+      "validations": [
+        {
           "title": "Write and run tests for your models.",
           "id": "d04163766d8572e3a39a3f448c00f3747f1049f7"
         },
         {
-          "title": "Deploy your app to production.",
-          "id": "52320e832664fb57336f0dd55e02ac4521bbf7b2"
+          "title": "Write and run acceptance tests for your application.",
+          "id": "638a81cc8fccd7cf0289f6a048d9f61d264615cf"
+        },
+        {
+          "title": "Move code from views and controllers into models.",
+          "id": "a323f1e74c735163413444e7fd1a969b4d82c632"
+        },
+        {
+          "title": "Create models, views, and controllers without built-in generators.",
+          "id": "c61a53596b1ca48160026a58f3fa86457f3b64c9"
+        }
+      ]
+    },
+    {
+      "name": "Advanced Rails",
+      "resources": [
+        {
+          "title": "Read open source code: example",
+          "uri": "https://github.com/copycopter/copycopter-server",
+          "id": "4fee63bb482922cfb9d923bdea3eae9cb3a38284"
+        },
+        {
+          "title": "Review the thoughtbot style guide",
+          "uri": "https://github.com/thoughtbot/guides/tree/master/style",
+          "id": "30021911ea5e24ba77fcdb475414c4085c923147"
+        },
+        {
+          "title": "Subscribe to the Rails Core mailing list",
+          "uri": "http://goo.gl/YU3Ml",
+          "id": "c6cca276ddbe2b45ca54ab042590675be83dd3da"
+        }
+      ],
+      "validations": [
+        {
+          "title": "Contribute to an open source project",
+          "id": "14fb151241cc785f4dc76f88cc469bcb76a9b124"
+        },
+        {
+          "title": "Stick to a style guide",
+          "id": "30021911ea5e24ba77fcdb475414c4085c923147"
         }
       ]
     },
@@ -95,16 +149,6 @@
           "title": "Refer to the official guides",
           "uri": "http://guides.rubyonrails.org",
           "id": "bc7c33a4128451a648e29a03a7fc90869940533b"
-        },
-        {
-          "title": "Stick to a style guide",
-          "uri": "https://github.com/thoughtbot/guides/tree/master/style",
-          "id": "30021911ea5e24ba77fcdb475414c4085c923147"
-        },
-        {
-          "title": "Subscribe to the Rails Core mailing list",
-          "uri": "http://goo.gl/YU3Ml",
-          "id": "c6cca276ddbe2b45ca54ab042590675be83dd3da"
         }
       ]
     }

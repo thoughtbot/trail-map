@@ -3,7 +3,7 @@
   "description": "HTML is the markup language for displaying web pages and other information that can be displayed in a web browser. CSS is a language used for describing the look and formatting of HTML. Together they form the foundation of the web.",
   "steps": [
     {
-      "name": "First read one or more of these introduction books",
+      "name": "Beginning HTML & CSS",
       "resources": [
         {
           "title": "HTML and CSS: Design and Build Websites",
@@ -22,6 +22,11 @@
           "id": "a723d16963fd6729516393433bbd9b901f489395",
           "publisher": "http://simplebits.com/publications/bulletproof/",
           "ibook": "itms-books://itunes.apple.com/us/book/bulletproof-web-design-improving/id483421070?mt=11"
+        },
+        {
+          "title": "Complete Code Academy Web Fundamentals",
+          "uri": "http://www.codecademy.com/tracks/web",
+          "id": "1d8fbe7bbe0a30ebc78468131b468d0a3e5f95e0"
         }
       ],
       "validations": [
@@ -60,17 +65,7 @@
       ]
     },
     {
-      "name": "Run through the tutorials at Code Academy",
-      "resources": [
-        {
-          "title": "Complete Code Academy Web Fundamentals",
-          "uri": "http://www.codecademy.com/tracks/web",
-          "id": "1d8fbe7bbe0a30ebc78468131b468d0a3e5f95e0"
-        }
-      ]
-    },
-    {
-      "name": "Dig deeper into HTML5",
+      "name": "Intermediate HTML & CSS",
       "resources": [
         {
           "title": "Read Dive into HTML5",
@@ -96,31 +91,13 @@
         {
           "title": "Know all of the new form input types and if used how to safely degrade them to older browsers",
           "id": "ddc0dcd3a995cb4f5cea734841a73af061c4b549"
-        }
-      ]
-    },
-    {
-      "name": "Dig deeper into CSS3",
-      "resources": [
-        {
-          "title": "CSS3 for Web Designers",
-          "uri": "http://www.abookapart.com/products/css3-for-web-designers",
-          "id": "d9d3c1d41c0963ae1de6ae2f041365813d88176e",
-          "ibook": "itms-books://itunes.apple.com/us/book/css3-for-web-designers/id405582149?mt=11"
         },
         {
-          "title": "Refer to CSS3.info",
-          "uri": "http://www.css3.info/",
-          "id": "9d176a97334e9cdba0ff7022f52ae38508dd3ced"
-        }
-      ],
-      "validations": [
-        {
-          "title": "Can apply a box shadow, rounded corners, and text shadow",
+          "title": "Apply a box shadow, rounded corners, and text shadow",
           "id": "716ec582fb914e453001d74b175def2fb9cd112d"
         },
         {
-          "title": "Can use RGBa, HSL, HSLa, and opacity",
+          "title": "Use RGBa, HSL, HSLa, and opacity",
           "id": "a472be29ea68bada79c1255738bd9e06649b9d15"
         },
         {
@@ -142,7 +119,7 @@
       ]
     },
     {
-      "name": "Learn about responsive and mobile first design",
+      "name": "Advanced HTML & CSS",
       "resources": [
         {
           "title": "Read Responsive Web Design the article",
@@ -175,6 +152,11 @@
           "title": "Read Put Your Content In My Pocket",
           "uri": "http://www.alistapart.com/articles/putyourcontentinmypocket/",
           "id": "9e4fcc17fc0678228157914461b08d567c8600f5"
+        },
+        {
+          "title": "Visit Sass on Learn",
+          "uri": "http://learn.thoughtbot.com/sass",
+          "id": "c0b7b53fd59586cf900e803af84c96ab854738be"
         }
       ],
       "validations": [
@@ -207,16 +189,11 @@
           "title": "Refer to the HTML5 Spec",
           "uri": "http://dev.w3.org/html5/spec/single-page.html",
           "id": "3d72ce80d850495ec111602c8b2bf7e628020be8"
-        }
-      ]
-    },
-    {
-      "name": "Learn about Sass",
-      "resources": [
+        },
         {
-          "title": "Visit Sass on Learn",
-          "uri": "http://learn.thoughtbot.com/sass",
-          "id": "c0b7b53fd59586cf900e803af84c96ab854738be"
+          "title": "Refer to CSS3.info",
+          "uri": "http://www.css3.info/",
+          "id": "9d176a97334e9cdba0ff7022f52ae38508dd3ced"
         }
       ]
     }

@@ -10,7 +10,7 @@
   ],
   "steps": [
     {
-      "name": "Use open source",
+      "name": "Beginning Open Source",
       "resources": [
         {
           "title": "Get a GitHub account",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "name": "Contribute to open source",
+      "name": "Intermediate Open Source",
       "resources": [
         {
           "title": "Read 8 steps to fixing other people's code",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "name": "Maintain an open source project",
+      "name": "Advanced Open Source",
       "resources": [
         {
           "title": "Watch How to manage an open source project",
