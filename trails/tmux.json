@@ -76,7 +76,8 @@
         }
       ]
     },
-    { "name": "Ongoing Reference",
+    {
+      "name": "Ongoing Reference",
       "resources": [
         {
           "title": "Read the documentation",
