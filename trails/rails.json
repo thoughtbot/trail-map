@@ -14,6 +14,11 @@
       "name": "Beginning Rails",
       "resources": [
         {
+          "title": "Complete thoughtbot's Intro to Ruby on Rails Workshop",
+          "uri": "http://learn.thoughtbot.com/workshops/3-intro-to-ruby-on-rails",
+          "id": "7098cdb9ba7b81ca21d9698fe01ae82430d3dee6"
+        },
+        {
           "title": "Complete Michael Hartl's Rails Tutorial",
           "uri": "http://ruby.railstutorial.org",
           "id": "dbe28c25619d315a464afec03d700a8ab3178cbc"
@@ -73,9 +78,9 @@
       "name": "Intermediate Rails",
       "resources": [
         {
-          "title": "Complete Rails Testing for Zombies",
-          "uri": "http://www.codeschool.com/courses/rails-testing-for-zombies",
-          "id": "f28fcc1f88ce27d5da82edf58917d453e2671e57"
+          "title": "Complete thoughtbot's Intermediate Ruby on Rails Workshop",
+          "uri": "http://learn.thoughtbot.com/workshops/21-intermediate-ruby-on-rails",
+          "id": "c85c236f8fca15ab870e520acbfd94b97cea9082"
         },
         {
           "title": "Complete the RailsApps tutorials",
@@ -90,26 +95,56 @@
       ],
       "validations": [
         {
-          "title": "Write and run tests for your models.",
-          "id": "d04163766d8572e3a39a3f448c00f3747f1049f7"
-        },
-        {
-          "title": "Write and run acceptance tests for your application.",
-          "id": "638a81cc8fccd7cf0289f6a048d9f61d264615cf"
-        },
-        {
           "title": "Move code from views and controllers into models.",
           "id": "a323f1e74c735163413444e7fd1a969b4d82c632"
         },
         {
           "title": "Create models, views, and controllers without built-in generators.",
           "id": "c61a53596b1ca48160026a58f3fa86457f3b64c9"
+        },
+        {
+          "title": "Use partials, built-in Rails helpers, and custom helpers to clean up and reduce duplication in your view code",
+          "id": "3e61e588877778170e227a8e0f4f3733d02cf61c"
+        },
+        {
+          "title": "Use the asset pipeline effective",
+          "id": "8ec0cb3149674908b168e0b38f06125ae5e4a346"
+        },
+        {
+          "title": "Implement user authentication",
+          "id": "e2eab61b6900d3f82a0636c77ce7cc141c50e737"
+        },
+        {
+          "title": "Use polymorphism to model your domain",
+          "id": "172dce24fa2046daae1114b77255a72e89251ded"
+        },
+        {
+          "title": "Implement counter caches and advanced counters",
+          "id": "a5689d588c3e29d85a48b8acacd1535d54247d38"
+        },
+        {
+          "title": "Implement file uploads",
+          "id": "2017bc19194c261ad7fd97fc46225c77fd12691c"
+        },
+        {
+          "title": "Add pagination to your application",
+          "id": "577f80be46bca5d04258fbbe73d68e2e1df91bf9"
         }
       ]
     },
     {
       "name": "Advanced Rails",
       "resources": [
+        {
+          "title": "Complete thoughtbot's Test-Driven Rails Workshop",
+          "uri": "http://learn.thoughtbot.com/workshops/18-test-driven-rails",
+          "id": "8a4dc240285261c07a79fbee48c6a3e8d1fc208a"
+        },
+        {
+          "title": "Complete Rails Testing for Zombies",
+          "uri": "http://www.codeschool.com/courses/rails-testing-for-zombies",
+          "id": "f28fcc1f88ce27d5da82edf58917d453e2671e57"
+        },
         {
           "title": "Read open source code: example",
           "uri": "https://github.com/copycopter/copycopter-server",
@@ -127,6 +162,14 @@
         }
       ],
       "validations": [
+        {
+          "title": "Write and run tests for your models.",
+          "id": "d04163766d8572e3a39a3f448c00f3747f1049f7"
+        },
+        {
+          "title": "Write and run acceptance tests for your application.",
+          "id": "638a81cc8fccd7cf0289f6a048d9f61d264615cf"
+        },
         {
           "title": "Contribute to an open source project",
           "id": "14fb151241cc785f4dc76f88cc469bcb76a9b124"
