@@ -36,6 +36,11 @@
           "title": "Watch Ryan Singer's Prototyping screencast.",
           "uri": "https://peepcode.com/products/ryan-singer-ii",
           "id": "3a2cad7cde8cddd63b149e3298cce961ef74500a"
+        },
+        {
+          "title": "Take thoughtbot's The Playbook Workshop",
+          "uri": "http://learn.thoughtbot.com/workshops/9-the-playbook-workshop",
+          "id": "abd2fe4c021f554471163e28d461be271892631c"
         }
       ],
       "validations": [
