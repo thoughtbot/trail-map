@@ -29,6 +29,11 @@
           "id": "2b95b6d8d58a123d8dff9b92b20c4067d33f1aa3",
           "publisher": "http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470381353.html",
           "ibook": "itms-books://itunes.apple.com/us/book/understanding-color/id493857267"
+        },
+        {
+          "title": "Take thoughtbot's Design for Developers workshop",
+          "uri": "http://learn.thoughtbot.com/workshops/19-design-for-developers",
+          "id": "3a2c06337724415c79cd2b90e339cee445108f40"
         }
       ],
       "validations": [
