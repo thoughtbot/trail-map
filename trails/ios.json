@@ -44,6 +44,11 @@
           "title": "Read the Mobile Human Interface Guidelines",
           "uri": "http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html",
           "id": "99e819108d83aaabdc20d56756d11247631e760e"
+        },
+        {
+          "title": "Watch Try iOS",
+          "uri": "http://www.codeschool.com/courses/try-ios",
+          "id": "da05da15a299bdd4e48143a7cd3c0c68b98037aa"
         }
       ],
       "validations": [
