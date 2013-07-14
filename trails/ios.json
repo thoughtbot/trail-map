@@ -6,6 +6,16 @@
       "name": "Beginning iOS",
       "resources": [
         {
+          "title": "Watch Try Objective-C",
+          "uri": "http://tryobjectivec.codeschool.com",
+          "id": "e3089aa571102df15a7e61c6e44322c593862d16"
+        },
+        {
+          "title": "Watch Try iOS",
+          "uri": "http://www.codeschool.com/courses/try-ios",
+          "id": "da05da15a299bdd4e48143a7cd3c0c68b98037aa"
+        },
+        {
           "title": "Read Learning Objective-C: A Primer",
           "uri": "http://developer.apple.com/library/mac/#referencelibrary/GettingStarted/Learning_Objective-C_A_Primer/index.html",
           "id": "b8958ef028a6984fad5c8d63c285d48c453bf843"
