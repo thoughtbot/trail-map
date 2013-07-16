@@ -27,7 +27,7 @@ class URIValidator
 
   def head_request_ok?(uri)
     response = HTTParty.head(uri)
-    return response.ok?
+    return response.code == 200
   rescue SocketError, Errno::ECONNREFUSED
     return false
   end
