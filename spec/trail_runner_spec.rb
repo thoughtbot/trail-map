@@ -1,7 +1,5 @@
 require 'spec_helper'
-require 'mocha/api'
 require 'rspec/mocks/standalone'
-require 'bourne'
 
 describe TrailRunner, '#run' do
   it 'outputs a starting message' do
@@ -9,18 +7,18 @@ describe TrailRunner, '#run' do
 
     TrailRunner.new.run('JSON validation') {}
 
-    io.string.split("\n")[0].should =~ /Starting JSON validation/
+    expect(io.string.split("\n")[0]).to match %r{Starting JSON validation}
   end
 
   it 'yields each file name' do
     runner = TrailRunner.new
     files = %w(rails.json vim.json)
-    runner.stubs(:json_files).returns(files)
+    runner.stub(:json_files) { files }
     yielded_files = []
 
     runner.run('Yield test') { |f| yielded_files << f }
 
-    yielded_files.should eq files
+    expect(yielded_files).to eq files
   end
 
   it 'prints a closing puts' do
@@ -28,7 +26,6 @@ describe TrailRunner, '#run' do
 
     TrailRunner.new.run('Closing test') {}
 
-    output = io.string[-1, 1]
-    output.should == "\n"
+    expect(io.string[-1, 1]).to eq "\n"
   end
 end
