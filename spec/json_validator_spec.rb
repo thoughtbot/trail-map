@@ -8,10 +8,9 @@ describe JSONValidator, '#run' do
 
     result = JSONValidator.new(file_name).run
 
-    result.should be_true
-    io.string.should eq '.'
+    expect(result).to be_true
+    expect(io.string).to eq '.'
   end
-
 
   it 'returns false and outputs an error if the JSON is not valid' do
     $stdout = io = StringIO.new
@@ -20,8 +19,8 @@ describe JSONValidator, '#run' do
 
     result = JSONValidator.new(file_name).run
 
-    result.should be_false
-    io.string.should =~ /ERROR/
+    expect(result).to be_false
+    expect(io.string).to match(/ERROR/)
   end
 
   it 'returns false and outputs an error if the JSON is non compliant' do
@@ -31,7 +30,7 @@ describe JSONValidator, '#run' do
 
     result = JSONValidator.new(file_name).run
 
-    result.should be_false
-    io.string.should =~ /ERROR/
+    expect(result).to be_false
+    expect(io.string).to match %r{ERROR}
   end
 end

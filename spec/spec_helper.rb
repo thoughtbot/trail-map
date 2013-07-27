@@ -8,5 +8,10 @@ Dir[helper_files].each do |f|
 end
 
 RSpec.configure do |config|
-  config.mock_with :mocha
+  config.expect_with :rspec do |c|
+    c.syntax = :expect
+  end
+
+  config.fail_fast = true
+  config.order = 'random'
 end
