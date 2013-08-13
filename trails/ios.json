@@ -6,6 +6,10 @@
       "name": "Beginning iOS",
       "resources": [
         {
+          "title": "Read Objective-C Programming: The Big Nerd Ranch Guide",
+          "uri": "http://www.bignerdranch.com/book/objective-c_programming_the_big_nerd_ranch_guide"
+        },
+        {
           "title": "Watch Try Objective-C",
           "uri": "http://tryobjectivec.codeschool.com",
           "id": "e3089aa571102df15a7e61c6e44322c593862d16"
