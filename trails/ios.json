@@ -135,18 +135,22 @@
         {
           "title": "Subscribe to iOS Dev Weekly",
           "uri": "http://iosdevweekly.com/",
+          "id": "8bffbb98c8d785d803e01b17360c7b48fc852a34"
         },
         {
           "title": "Subscribe to objc.io",
-          "uri": "http://www.objc.io/"
+          "uri": "http://www.objc.io/",
+          "id": "d64f4f96ac4941268c1994342fa556142977a589"
         },
         {
           "title": "Learn about Grand Central Dispatch",
           "uri": "http://developer.apple.com/library/ios/#documentation/Performance/Reference/GCD_libdispatch_Ref/Reference/reference.html",
+          "id": "117ad81f498dcb4aac72aec7f280d5c6f94db836"
         },
         {
           "title": "Learn about CocoaPods",
-          "uri": "http://cocoapods.org/"
+          "uri": "http://cocoapods.org/",
+          "id": "6c1d38683d7e4ba99af6fa209cd766fc35ae600e"
         }
       ],
       "validations": [
