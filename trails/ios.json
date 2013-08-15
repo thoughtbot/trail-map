@@ -133,9 +133,20 @@
           "id": "cb9a270daef11346e642bc1d4f89712fc0bac7ee"
         },
         {
-          "title": "Sign up for thecocoa-dev",
-          "uri": "https://lists.apple.com/mailman/listinfo/cocoa-dev",
-          "id": "63a5680576963f3e2472165166d08aa586297361"
+          "title": "Subscribe to iOS Dev Weekly",
+          "uri": "http://iosdevweekly.com/",
+        },
+        {
+          "title": "Subscribe to objc.io",
+          "uri": "http://www.objc.io/"
+        },
+        {
+          "title": "Learn about Grand Central Dispatch",
+          "uri": "http://developer.apple.com/library/ios/#documentation/Performance/Reference/GCD_libdispatch_Ref/Reference/reference.html",
+        },
+        {
+          "title": "Learn about CocoaPods",
+          "uri": "http://cocoapods.org/"
         }
       ],
       "validations": [
@@ -156,7 +167,7 @@
           "id": "f5c017d847a889fd4683e70babcc0ccb22c1f58c"
         },
         {
-          "title": "Implement task driven concurrency using the Grand Central Dispatch (GCD) (http://developer.apple.com/library/ios/#documentation/Performance/Reference/GCD_libdispatch_Ref/Reference/reference.html) framework.",
+          "title": "Implement task driven concurrency using the Grand Central Dispatch (GCD) framework.",
           "id": "2534ad2a9c324dbb1cd3156326108f76822e0d23"
         },
         {
@@ -172,7 +183,7 @@
           "id": "80705e0c78bf20a33b2f99ca46536036c89952c5"
         },
         {
-          "title": "Use CocoaPods (https://github.com/CocoaPods/CocoaPods) to define your project's dependencies.",
+          "title": "Use CocoaPods to define your project's dependencies.",
           "id": "acc06f5e5323d995bdca661622fd011392e06111"
         },
         {
