@@ -6,6 +6,16 @@
       "name": "Beginning iOS",
       "resources": [
         {
+          "title": "Read Learning Objective-C: A Primer",
+          "uri": "http://developer.apple.com/library/mac/#referencelibrary/GettingStarted/Learning_Objective-C_A_Primer/index.html",
+          "id": "b8958ef028a6984fad5c8d63c285d48c453bf843"
+        },
+        {
+          "title": "Read The Objective-C Programming Language",
+          "uri": "http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html",
+          "id": "26341a776d7f624192cdb428fded5478c934f6b5"
+        },
+        {
           "title": "Watch Try Objective-C",
           "uri": "http://tryobjectivec.codeschool.com",
           "id": "e3089aa571102df15a7e61c6e44322c593862d16"
@@ -14,11 +24,6 @@
           "title": "Watch Try iOS",
           "uri": "http://www.codeschool.com/courses/try-ios",
           "id": "da05da15a299bdd4e48143a7cd3c0c68b98037aa"
-        },
-        {
-          "title": "Read Learning Objective-C: A Primer",
-          "uri": "http://developer.apple.com/library/mac/#referencelibrary/GettingStarted/Learning_Objective-C_A_Primer/index.html",
-          "id": "b8958ef028a6984fad5c8d63c285d48c453bf843"
         },
         {
           "title": "Read Learn Objective-C on the Mac",
@@ -32,11 +37,6 @@
           "uri": "http://amzn.to/16DLdLy",
           "id": "03bb5acb9802da5fb421bae79f5522fa5a3149dd",
           "publisher": "http://www.apress.com/9781430245124"
-        },
-        {
-          "title": "Read The Objective-C Programming Language",
-          "uri": "http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html",
-          "id": "26341a776d7f624192cdb428fded5478c934f6b5"
         },
         {
           "title": "Read About Memory Management",
@@ -66,16 +66,20 @@
           "id": "6067e99790813224305d6a60eb0da23176d5a2f3"
         },
         {
-          "title": "Describe and use ARC and MRC for memory management, as well as the rules of the retain/release/autorelease cycle.",
-          "id": "24cbe27995f92ab7c2d9ff4d3b0d688d5af23593"
-        },
-        {
           "title": "Use the basic data types (NSInteger, NSString), collection objects (NSArray, NSDictionary), and know when to use them instead of C primitives (int, char, etc).",
           "id": "b3d691275443e008aefde4a903ad1b8c241956d7"
         },
         {
+          "title": "Design and use basic design patterns like MVC, delegates, callbacks, and notifications.",
+          "id": "de22a2dae8e4b0804c435053a9d8ddd8db3261d1"
+        },
+        {
           "title": "Understand the difference between using the mutable (NSMutableArray, NSMutableDictionary, NSMutableString) and immutable objects in Objective-C, their advantages and disadvantages.",
           "id": "3536e897428d7c85dd66720e237e036b21323366"
+        },
+        {
+          "title": "Describe and use ARC and MRC for memory management, as well as the rules of the retain/release/autorelease cycle.",
+          "id": "24cbe27995f92ab7c2d9ff4d3b0d688d5af23593"
         },
         {
           "title": "Use the basic display and navigation elements (UIWindow, UIView, UINavigationBar, UIToolbar, etc).",
@@ -94,8 +98,8 @@
           "id": "2214f8828102d632b031de07ae4db1863dcff1b0"
         },
         {
-          "title": "Design and use basic design patterns like MVC, delegates, callbacks, and notifications.",
-          "id": "de22a2dae8e4b0804c435053a9d8ddd8db3261d1"
+          "title": "Implement network communications using AFNetworking or NSURLConnection.",
+          "id": "11e026b8acd8db8526add63995ff9178047d431e"
         },
         {
           "title": "Use CoreLocation to get location coordinates.",
@@ -104,10 +108,6 @@
         {
           "title": "Access the cameras to take pictures or access pictures from the device's photo gallery.",
           "id": "07071e29cddab0497211d02ec20c0db1d59215dd"
-        },
-        {
-          "title": "Implement network communications using AFNetworking or NSUrlConnection.",
-          "id": "11e026b8acd8db8526add63995ff9178047d431e"
         },
         {
           "title": "Implement UX and design best practices as prescribed by Apple.",
