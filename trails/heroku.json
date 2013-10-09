@@ -4,6 +4,7 @@
   "steps": [
     {
       "name": "Beginning Heroku",
+      "level": "beginner",
       "resources": [
         {
           "title": "Complete the Quickstart Guide",
@@ -52,6 +53,7 @@
     },
     {
       "name": "Intermediate Heroku",
+      "level": "intermediate",
       "resources": [
         {
           "title": "Read 'The 12-Factor App'",

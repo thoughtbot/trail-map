@@ -4,6 +4,7 @@
   "steps": [
     {
       "name": "Beginning Information Design",
+      "level": "beginner",
       "resources": [
         {
           "title": "Read Information Dashboard Design",

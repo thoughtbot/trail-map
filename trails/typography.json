@@ -7,6 +7,7 @@
   "steps": [
     {
       "name": "Beginning Typography",
+      "level": "beginner",
       "resources": [
         {
           "title": "Read The Elements of Typographic Style",
@@ -77,26 +78,23 @@
           "id": "f361575c16128a0581b88cbb98b4564ec1515d28"
         }
       ]
+    }
+  ],
+  "reference": [
+    {
+      "title": "Browse I Love Typography",
+      "uri": "http://www.ilovetypography.com",
+      "id": "a7745cb8bbc11a1978823c759819b13c8ebe6f1b"
     },
     {
-      "name": "Ongoing Reference",
-      "resources": [
-        {
-          "title": "Browse I Love Typography",
-          "uri": "http://www.ilovetypography.com",
-          "id": "a7745cb8bbc11a1978823c759819b13c8ebe6f1b"
-        },
-        {
-          "title": "Browse Typedia",
-          "uri": "http://typedia.org",
-          "id": "071dd6fc8a1bb53961b96ed6e29577f45316e525"
-        },
-        {
-          "title": "Browse the Typophile Forums",
-          "uri": "http://typophile.com",
-          "id": "40e8019189c90c49885ebc89d5c78d78ccb3aa26"
-        }
-      ]
+      "title": "Browse Typedia",
+      "uri": "http://typedia.org",
+      "id": "071dd6fc8a1bb53961b96ed6e29577f45316e525"
+    },
+    {
+      "title": "Browse the Typophile Forums",
+      "uri": "http://typophile.com",
+      "id": "40e8019189c90c49885ebc89d5c78d78ccb3aa26"
     }
   ]
 }

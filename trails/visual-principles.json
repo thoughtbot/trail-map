@@ -4,7 +4,14 @@
   "steps": [
     {
       "name": "Beginning Visual Principles",
+      "level": "beginner",
       "resources": [
+        {
+          "title": "Take thoughtbot's Design for Developers workshop",
+          "uri": "http://learn.thoughtbot.com/workshops/19-design-for-developers",
+          "id": "3a2c06337724415c79cd2b90e339cee445108f40",
+          "type": "workshop"
+        },
         {
           "title": "Read 'Visual Grammar' for a basic understanding on basic elements of design and how they relate to each other.",
           "uri": "http://amzn.to/visual-grammar",
@@ -39,6 +46,7 @@
     },
     {
       "name": "Intermediate Visual Principles",
+      "level": "intermediate",
       "resources": [
         {
           "title": "Read Andy Rutledge's \"Gestalt Principles of Perception\":",
@@ -83,6 +91,7 @@
     },
     {
       "name": "Advanced Visual Principles",
+      "level": "advanced",
       "resources": [
         {
           "title": "Read '101 Things I Learned in Architecture School'",

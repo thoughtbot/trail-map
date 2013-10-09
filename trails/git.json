@@ -4,6 +4,7 @@
   "steps": [
     {
       "name": "Beginning Git",
+      "level": "beginner",
       "resources": [
         {
           "title": "Try Git",
@@ -86,6 +87,7 @@
     },
     {
       "name": "Intermediate Git",
+      "level": "intermediate",
       "resources": [
         {
           "title": "Watch the Distributed Workflow gitcast.",
@@ -131,84 +133,8 @@
       ]
     },
     {
-      "name": "Ongoing Reference",
-      "resources": [
-        {
-          "title": "git-clone",
-          "uri": "http://git-scm.com/docs/git-clone",
-          "id": "370e8fa66aa9a73b477932a21680cc1328460e58"
-        },
-        {
-          "title": "git-init",
-          "uri": "http://git-scm.com/docs/git-init",
-          "id": "98400a1f7beb16e5b90b5ca506f2ff487dd144ae"
-        },
-        {
-          "title": "git-add",
-          "uri": "http://git-scm.com/docs/git-add",
-          "id": "0fbe0482451edc6c55c1a95dea24f44e8c794b37"
-        },
-        {
-          "title": "git-branch",
-          "uri": "http://git-scm.com/docs/git-branch",
-          "id": "39af73c0a505152f0a0593004e3e04daced1f787"
-        },
-        {
-          "title": "git-checkout",
-          "uri": "http://git-scm.com/docs/git-checkout",
-          "id": "d8bc0242e5b8f984a70f8a5bde62e7ac5f2cb8f1"
-        },
-        {
-          "title": "git-commit",
-          "uri": "http://git-scm.com/docs/git-commit",
-          "id": "bde31240ed298191f5c43a5ba8d783c4f06433ae"
-        },
-        {
-          "title": "git-diff",
-          "uri": "http://git-scm.com/docs/git-diff",
-          "id": "213b69de8715c5293377d6bfa9af12a09edf8e43"
-        },
-        {
-          "title": "git-merge",
-          "uri": "http://git-scm.com/docs/git-merge",
-          "id": "ff0d0a2eeee30aef6e08d9469b65f822019afcce"
-        },
-        {
-          "title": "git-pull",
-          "uri": "http://git-scm.com/docs/git-pull",
-          "id": "217bcabd61ed1cbd80ab731b159bc9283bb43712"
-        },
-        {
-          "title": "git-push",
-          "uri": "http://git-scm.com/docs/git-push",
-          "id": "08296c74cedf7ea2b10b71b59ea85e31fb9823d2"
-        },
-        {
-          "title": "git-rebase",
-          "uri": "http://git-scm.com/docs/git-rebase",
-          "id": "9697f6ab77df3bb3e43ccc0d501e6441c87cf46b"
-        },
-        {
-          "title": "git-reset",
-          "uri": "http://git-scm.com/docs/git-reset",
-          "id": "71612a9445236d50d64ac7d8ece487b299fead9e"
-        },
-        {
-          "title": "git-show",
-          "uri": "http://git-scm.com/docs/git-show",
-          "id": "7a113dcdd0f44b018d332df81c39ea2601d427ed"
-        },
-        {
-          "title": "git-stash",
-          "uri": "http://git-scm.com/docs/git-stash",
-          "id": "b18f3e8a020f0b719a3c7f4669c32d513e28a565"
-        },
-        {
-          "title": "git-status",
-          "uri": "http://git-scm.com/docs/git-status",
-          "id": "faeeb8023b49a3435e34ef718262edebc6443089"
-        }
-      ],
+      "name": "Advanced Git",
+      "level": "advanced",
       "validations": [
         {
           "title": "Cherry pick commits",
@@ -235,6 +161,83 @@
           "id": "4b0667767888be1930d4c6cffec71980b661ccd3"
         }
       ]
+    }
+  ],
+  "reference": [
+    {
+      "title": "git-clone",
+      "uri": "http://git-scm.com/docs/git-clone",
+      "id": "370e8fa66aa9a73b477932a21680cc1328460e58"
+    },
+    {
+      "title": "git-init",
+      "uri": "http://git-scm.com/docs/git-init",
+      "id": "98400a1f7beb16e5b90b5ca506f2ff487dd144ae"
+    },
+    {
+      "title": "git-add",
+      "uri": "http://git-scm.com/docs/git-add",
+      "id": "0fbe0482451edc6c55c1a95dea24f44e8c794b37"
+    },
+    {
+      "title": "git-branch",
+      "uri": "http://git-scm.com/docs/git-branch",
+      "id": "39af73c0a505152f0a0593004e3e04daced1f787"
+    },
+    {
+      "title": "git-checkout",
+      "uri": "http://git-scm.com/docs/git-checkout",
+      "id": "d8bc0242e5b8f984a70f8a5bde62e7ac5f2cb8f1"
+    },
+    {
+      "title": "git-commit",
+      "uri": "http://git-scm.com/docs/git-commit",
+      "id": "bde31240ed298191f5c43a5ba8d783c4f06433ae"
+    },
+    {
+      "title": "git-diff",
+      "uri": "http://git-scm.com/docs/git-diff",
+      "id": "213b69de8715c5293377d6bfa9af12a09edf8e43"
+    },
+    {
+      "title": "git-merge",
+      "uri": "http://git-scm.com/docs/git-merge",
+      "id": "ff0d0a2eeee30aef6e08d9469b65f822019afcce"
+    },
+    {
+      "title": "git-pull",
+      "uri": "http://git-scm.com/docs/git-pull",
+      "id": "217bcabd61ed1cbd80ab731b159bc9283bb43712"
+    },
+    {
+      "title": "git-push",
+      "uri": "http://git-scm.com/docs/git-push",
+      "id": "08296c74cedf7ea2b10b71b59ea85e31fb9823d2"
+    },
+    {
+      "title": "git-rebase",
+      "uri": "http://git-scm.com/docs/git-rebase",
+      "id": "9697f6ab77df3bb3e43ccc0d501e6441c87cf46b"
+    },
+    {
+      "title": "git-reset",
+      "uri": "http://git-scm.com/docs/git-reset",
+      "id": "71612a9445236d50d64ac7d8ece487b299fead9e"
+    },
+    {
+      "title": "git-show",
+      "uri": "http://git-scm.com/docs/git-show",
+      "id": "7a113dcdd0f44b018d332df81c39ea2601d427ed"
+    },
+    {
+      "title": "git-stash",
+      "uri": "http://git-scm.com/docs/git-stash",
+      "id": "b18f3e8a020f0b719a3c7f4669c32d513e28a565"
+    },
+    {
+      "title": "git-status",
+      "uri": "http://git-scm.com/docs/git-status",
+      "id": "faeeb8023b49a3435e34ef718262edebc6443089"
     }
   ]
 }

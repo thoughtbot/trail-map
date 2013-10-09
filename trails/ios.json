@@ -4,6 +4,7 @@
   "steps": [
     {
       "name": "Beginning iOS",
+      "level": "beginner",
       "resources": [
         {
           "title": "Read Learning Objective-C: A Primer",
@@ -121,6 +122,7 @@
     },
     {
       "name": "Advanced iOS",
+      "level": "advanced",
       "resources": [
         {
           "title": "Maintain an active ADC account and refer to the official documentation",

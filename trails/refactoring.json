@@ -4,6 +4,7 @@
   "steps": [
     {
       "name": "Beginning Refactoring",
+      "level": "beginner",
       "resources": [
         {
           "title": "Read Introduce Explaining Variable",
@@ -47,6 +48,7 @@
     },
     {
       "name": "Intermediate Refactoring",
+      "level": "intermediate",
       "resources": [
         {
           "title": "Read Replace Method with Method Object",
@@ -91,25 +93,22 @@
           "id": "e9e549793d4ac455ea574d595ada907f51e66ee5"
         }
       ]
+    }
+  ],
+  "reference": [
+    {
+      "title": "Refactoring: Ruby Edition",
+      "uri": "http://amzn.com/0321603508",
+      "id": "94e5e46116f1766fac1fb276e52ead5968ecfd2d",
+      "publisher": "http://www.informit.com/store/refactoring-ruby-edition-9780321603500",
+      "ibook": "itms-books://itunes.apple.com/us/book/refactoring-ruby-edition/id401429800?mt=11"
     },
     {
-      "name": "Ongoing Reference",
-      "resources": [
-        {
-          "title": "Refactoring: Ruby Edition",
-          "uri": "http://amzn.com/0321603508",
-          "id": "94e5e46116f1766fac1fb276e52ead5968ecfd2d",
-          "publisher": "http://www.informit.com/store/refactoring-ruby-edition-9780321603500",
-          "ibook": "itms-books://itunes.apple.com/us/book/refactoring-ruby-edition/id401429800?mt=11"
-        },
-        {
-          "title": "Refactoring to Patterns",
-          "uri": "http://amzn.com/0321213351",
-          "id": "e1f05298c04e3bd6adf800910d2ef9718afdc802",
-          "publisher": "http://www.informit.com/store/refactoring-to-patterns-9780321213358",
-          "ibook": "itms-books://itunes.apple.com/us/book/refactoring-to-patterns/id401492622?mt=11"
-        }
-      ]
+      "title": "Refactoring to Patterns",
+      "uri": "http://amzn.com/0321213351",
+      "id": "e1f05298c04e3bd6adf800910d2ef9718afdc802",
+      "publisher": "http://www.informit.com/store/refactoring-to-patterns-9780321213358",
+      "ibook": "itms-books://itunes.apple.com/us/book/refactoring-to-patterns/id401492622?mt=11"
     }
   ]
 }

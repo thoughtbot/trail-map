@@ -11,6 +11,7 @@
   "steps": [
     {
       "name": "Beginning Open Source",
+      "level": "beginner",
       "resources": [
         {
           "title": "Get a GitHub account",
@@ -70,6 +71,7 @@
     },
     {
       "name": "Intermediate Open Source",
+      "level": "intermediate",
       "resources": [
         {
           "title": "Read 8 steps to fixing other people's code",
@@ -135,6 +137,7 @@
     },
     {
       "name": "Advanced Open Source",
+      "level": "advanced",
       "resources": [
         {
           "title": "Watch How to manage an open source project",
@@ -181,71 +184,68 @@
           "id": "b8ce2254f5f86198d3081719eacd0a31d1a850a2"
         }
       ]
+    }
+  ],
+  "reference": [
+    {
+      "title": "Berkeley DB",
+      "uri": "http://www.aosabook.org/en/bdb.html",
+      "id": "94961cf809529c135f53f4425ff8d7ea114a0908"
     },
     {
-      "name": "Ongoing Reference",
-      "resources": [
-        {
-          "title": "Berkeley DB",
-          "uri": "http://www.aosabook.org/en/bdb.html",
-          "id": "94961cf809529c135f53f4425ff8d7ea114a0908"
-        },
-        {
-          "title": "The Bourne-Again Shell",
-          "uri": "http://www.aosabook.org/en/bash.html",
-          "id": "b1ac8816cf6434db6e74786bf8cc0d6bebc56f75"
-        },
-        {
-          "title": "Continuous Integration",
-          "uri": "http://www.aosabook.org/en/integration.html",
-          "id": "7a302c3f9cf2b3cec42c41ee9b6ddfb04d9516a9"
-        },
-        {
-          "title": "Git",
-          "uri": "http://www.aosabook.org/en/git.html",
-          "id": "5819778898df55e3a762f0c5728b457970d72cae"
-        },
-        {
-          "title": "The Glasgow Haskell Compiler",
-          "uri": "http://www.aosabook.org/en/ghc.html",
-          "id": "100d90f4f2142237d67f0ffbaff1c9f3e6b733c9"
-        },
-        {
-          "title": "GNU Mailman",
-          "uri": "http://www.aosabook.org/en/mailman.html",
-          "id": "7f71aaa7f914352009c39fe7629cf92abf7ff559"
-        },
-        {
-          "title": "MediaWiki",
-          "uri": "http://www.aosabook.org/en/mediawiki.html",
-          "id": "429f9802c2088c4c5819bd8664f7ea7bf407e342"
-        },
-        {
-          "title": "nginx",
-          "uri": "http://www.aosabook.org/en/nginx.html",
-          "id": "58a3ed6f2965252c6ac4957d95f7a3bdfca47101"
-        },
-        {
-          "title": "Riak and Erlang/OTP",
-          "uri": "http://www.aosabook.org/en/riak.html",
-          "id": "27a2696daca52a54823db1caba283146f3207369"
-        },
-        {
-          "title": "Scalable Web Architecture and Distributed Systems",
-          "uri": "http://www.aosabook.org/en/distsys.html",
-          "id": "dab68f8e16a8d7888e1b0238bd6ac7e9e68664b9"
-        },
-        {
-          "title": "Sendmail",
-          "uri": "http://www.aosabook.org/en/sendmail.html",
-          "id": "5b91012ca70e18d259519cea84a2204f8c4488b8"
-        },
-        {
-          "title": "Twisted",
-          "uri": "http://www.aosabook.org/en/twisted.html",
-          "id": "4b79156b13c38a60392112dbdf81a9d0a27fcf63"
-        }
-      ]
+      "title": "The Bourne-Again Shell",
+      "uri": "http://www.aosabook.org/en/bash.html",
+      "id": "b1ac8816cf6434db6e74786bf8cc0d6bebc56f75"
+    },
+    {
+      "title": "Continuous Integration",
+      "uri": "http://www.aosabook.org/en/integration.html",
+      "id": "7a302c3f9cf2b3cec42c41ee9b6ddfb04d9516a9"
+    },
+    {
+      "title": "Git",
+      "uri": "http://www.aosabook.org/en/git.html",
+      "id": "5819778898df55e3a762f0c5728b457970d72cae"
+    },
+    {
+      "title": "The Glasgow Haskell Compiler",
+      "uri": "http://www.aosabook.org/en/ghc.html",
+      "id": "100d90f4f2142237d67f0ffbaff1c9f3e6b733c9"
+    },
+    {
+      "title": "GNU Mailman",
+      "uri": "http://www.aosabook.org/en/mailman.html",
+      "id": "7f71aaa7f914352009c39fe7629cf92abf7ff559"
+    },
+    {
+      "title": "MediaWiki",
+      "uri": "http://www.aosabook.org/en/mediawiki.html",
+      "id": "429f9802c2088c4c5819bd8664f7ea7bf407e342"
+    },
+    {
+      "title": "nginx",
+      "uri": "http://www.aosabook.org/en/nginx.html",
+      "id": "58a3ed6f2965252c6ac4957d95f7a3bdfca47101"
+    },
+    {
+      "title": "Riak and Erlang/OTP",
+      "uri": "http://www.aosabook.org/en/riak.html",
+      "id": "27a2696daca52a54823db1caba283146f3207369"
+    },
+    {
+      "title": "Scalable Web Architecture and Distributed Systems",
+      "uri": "http://www.aosabook.org/en/distsys.html",
+      "id": "dab68f8e16a8d7888e1b0238bd6ac7e9e68664b9"
+    },
+    {
+      "title": "Sendmail",
+      "uri": "http://www.aosabook.org/en/sendmail.html",
+      "id": "5b91012ca70e18d259519cea84a2204f8c4488b8"
+    },
+    {
+      "title": "Twisted",
+      "uri": "http://www.aosabook.org/en/twisted.html",
+      "id": "4b79156b13c38a60392112dbdf81a9d0a27fcf63"
     }
   ]
 }
