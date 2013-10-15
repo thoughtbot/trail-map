@@ -7,6 +7,7 @@
   "steps": [
     {
       "name": "Beginning Grids",
+      "level": "beginner",
       "resources": [
         {
           "title": "Grid Systems: Principles of Organizing Type",
@@ -69,16 +70,13 @@
           "id": "8f5a4fedcb6d59b102efb469ebebbe474806ae79"
         }
       ]
-    },
+    }
+  ],
+  "reference": [
     {
-      "name": "Ongoing Reference",
-      "resources": [
-        {
-          "title": "Browse The Grid System.",
-          "uri": "http://www.thegridsystem.org",
-          "id": "dfb5eaa94ecdc684e9e3c857ed2474c59ed26faf"
-        }
-      ]
+      "title": "Browse The Grid System.",
+      "uri": "http://www.thegridsystem.org",
+      "id": "dfb5eaa94ecdc684e9e3c857ed2474c59ed26faf"
     }
   ]
 }

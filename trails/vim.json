@@ -7,7 +7,14 @@
   "steps": [
     {
       "name": "Beginning Vim",
+      "level": "beginner",
       "resources": [
+        {
+          "title": "The Art of Vim",
+          "uri": "https://learn.thoughtbot.com/products/17-the-art-of-vim",
+          "type": "video",
+          "id": "ed0152b4c87d035e4e04bd28676ea36142ec885b"
+        },
         {
           "title": "Complete vimtutor.",
           "id": "d6f2f8fea553ebac4bfdc41a260fe146f625b232"
@@ -122,7 +129,14 @@
     },
     {
       "name": "Intermediate Vim",
+      "level": "intermediate",
       "resources": [
+        {
+          "title": "Navigating Ruby Files with Vim",
+          "uri": "https://learn.thoughtbot.com/products/21-navigating-ruby-files-with-vim",
+          "type": "video",
+          "id": "78d8c0495ef4dddf5f005d8e7daed8c112bee30a"
+        },
         {
           "title": "Set up ctags for instanteous tab completion and jumping to method definitions.",
           "uri": "http://robots.thoughtbot.com/post/159805638/integrating-vim-into-your-life",
@@ -138,6 +152,7 @@
     },
     {
       "name": "Advanced Vim",
+      "level": "advanced",
       "resources": [
         {
           "title": ":help",

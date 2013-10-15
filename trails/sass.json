@@ -4,6 +4,7 @@
   "steps": [
     {
       "name": "Beginning Sass",
+      "level": "beginner",
       "resources": [
         {
           "title": "Read the Sass Tutorial",
@@ -34,16 +35,13 @@
           "id": "3f03200ac7f0a6ba9bed1d70bca159e7914b6fa6"
         }
       ]
-    },
+    }
+  ],
+  "reference": [
     {
-      "name": "Ongoing Reference",
-      "resources": [
-        {
-          "title": "Read the Sass Documentation",
-          "uri": "http://sass-lang.com/docs.html",
-          "id": "ca2587d2b6879992daf411023be22e2c8b5040f2"
-        }
-      ]
+      "title": "Read the Sass Documentation",
+      "uri": "http://sass-lang.com/docs.html",
+      "id": "ca2587d2b6879992daf411023be22e2c8b5040f2"
     }
   ]
 }

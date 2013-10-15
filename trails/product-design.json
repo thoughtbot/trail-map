@@ -4,6 +4,7 @@
   "steps": [
     {
       "name": "Beginning Product Design",
+      "level": "beginner",
       "resources": [
         {
           "title": "Read \"The Lean Startup\".",

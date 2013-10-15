@@ -12,11 +12,13 @@
   "steps": [
     {
       "name": "Beginning Rails",
+      "level": "beginner",
       "resources": [
         {
           "title": "Complete thoughtbot's Intro to Ruby on Rails Workshop",
           "uri": "http://learn.thoughtbot.com/workshops/20-intro-to-ruby-on-rails",
-          "id": "7098cdb9ba7b81ca21d9698fe01ae82430d3dee6"
+          "id": "7098cdb9ba7b81ca21d9698fe01ae82430d3dee6",
+          "type": "workshop"
         },
         {
           "title": "Complete Michael Hartl's Rails Tutorial",
@@ -76,11 +78,13 @@
     },
     {
       "name": "Intermediate Rails",
+      "level": "advanced",
       "resources": [
         {
           "title": "Complete thoughtbot's Intermediate Ruby on Rails Workshop",
           "uri": "http://learn.thoughtbot.com/workshops/21-intermediate-ruby-on-rails",
-          "id": "c85c236f8fca15ab870e520acbfd94b97cea9082"
+          "id": "c85c236f8fca15ab870e520acbfd94b97cea9082",
+          "type": "workshop"
         },
         {
           "title": "Complete the RailsApps tutorials",
@@ -134,11 +138,13 @@
     },
     {
       "name": "Advanced Rails",
+      "level": "advanced",
       "resources": [
         {
           "title": "Complete thoughtbot's Test-Driven Rails Workshop",
           "uri": "http://learn.thoughtbot.com/workshops/18-test-driven-rails",
-          "id": "8a4dc240285261c07a79fbee48c6a3e8d1fc208a"
+          "id": "8a4dc240285261c07a79fbee48c6a3e8d1fc208a",
+          "type": "workshop"
         },
         {
           "title": "Complete Rails Testing for Zombies",
@@ -179,21 +185,18 @@
           "id": "30021911ea5e24ba77fcdb475414c4085c923147"
         }
       ]
+    }
+  ],
+  "reference": [
+    {
+      "title": "Refer to the API documentation",
+      "uri": "http://api.rubyonrails.org",
+      "id": "a26f70b34048c6fe6f09c423efe9cfeb9ec5c923"
     },
     {
-      "name": "Ongoing Reference",
-      "resources": [
-        {
-          "title": "Refer to the API documentation",
-          "uri": "http://api.rubyonrails.org",
-          "id": "a26f70b34048c6fe6f09c423efe9cfeb9ec5c923"
-        },
-        {
-          "title": "Refer to the official guides",
-          "uri": "http://guides.rubyonrails.org",
-          "id": "bc7c33a4128451a648e29a03a7fc90869940533b"
-        }
-      ]
+      "title": "Refer to the official guides",
+      "uri": "http://guides.rubyonrails.org",
+      "id": "bc7c33a4128451a648e29a03a7fc90869940533b"
     }
   ]
 }

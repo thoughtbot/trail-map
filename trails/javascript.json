@@ -4,6 +4,7 @@
   "steps": [
     {
       "name": "Beginning JavaScript",
+      "level": "beginner",
       "resources": [
         {
           "title": "Complete Codecademy's JavaScript Track",
@@ -60,6 +61,7 @@
     },
     {
       "name": "Intermediate JavaScript",
+      "level": "intermediate",
       "resources": [
         {
           "title": "Read Eloquent JavaScript",
@@ -92,6 +94,7 @@
     },
     {
       "name": "Advanced JavaScript",
+      "level": "advanced",
       "resources": [
         {
           "title": "Read JavaScript Web Applications",
@@ -159,26 +162,23 @@
           "id": "6d98b52811029f423d1e0b452428912d39134f28"
         }
       ]
+    }
+  ],
+  "reference": [
+    {
+      "title": "Review the jQuery API",
+      "uri": "http://api.jquery.com",
+      "id": "47cbf943a5e8e7888cdf0779f1f14323cc621b37"
     },
     {
-      "name": "Ongoing Reference",
-      "resources": [
-        {
-          "title": "Review the jQuery API",
-          "uri": "http://api.jquery.com",
-          "id": "47cbf943a5e8e7888cdf0779f1f14323cc621b37"
-        },
-        {
-          "title": "Read the Google JavaScript Style Guide",
-          "uri": "http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml",
-          "id": "c80ce3b2101f6b0f78a281c83f3083d043b13965"
-        },
-        {
-          "title": "Read the JQuery Core Style Guidelines",
-          "uri": "http://docs.jquery.com/JQuery_Core_Style_Guidelines",
-          "id": "bf7268b11c62cfa39b70ee66531e037c605393b4"
-        }
-      ]
+      "title": "Read the Google JavaScript Style Guide",
+      "uri": "http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml",
+      "id": "c80ce3b2101f6b0f78a281c83f3083d043b13965"
+    },
+    {
+      "title": "Read the JQuery Core Style Guidelines",
+      "uri": "http://docs.jquery.com/JQuery_Core_Style_Guidelines",
+      "id": "bf7268b11c62cfa39b70ee66531e037c605393b4"
     }
   ]
 }

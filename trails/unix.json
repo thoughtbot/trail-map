@@ -4,6 +4,7 @@
   "steps": [
     {
       "name": "Beginning UNIX",
+      "level": "beginner",
       "resources": [
         {
           "title": "Read The Linux Programming Interface. Chapters 1,  2, 6, 8, 10, 14, 15, 18, 25, 44, 62.",

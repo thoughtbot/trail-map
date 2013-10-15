@@ -4,6 +4,7 @@
   "steps": [
     {
       "name": "Beginning Postgres",
+      "level": "beginner",
       "resources": [
         {
           "title": "2.5. Querying a Table",
@@ -281,18 +282,15 @@
           "id": "c2062d8f34ff9f4627801b87247abbb08b59e9c9"
         }
       ]
-    },
+    }
+  ],
+  "reference": [
     {
-      "name": "Ongoing Reference",
-      "resources": [
-        {
-          "title": "SQL Cookbook",
-          "uri": "http://amzn.com/0596009763",
-          "id": "afa03a8d12570cad4565a3b2640804e14b35a106",
-          "publisher": "http://shop.oreilly.com/product/9780596009762.do",
-          "ibook": "itms-books://itunes.apple.com/us/book/sql-cookbook/id396890915?mt=11"
-        }
-      ]
+      "title": "SQL Cookbook",
+      "uri": "http://amzn.com/0596009763",
+      "id": "afa03a8d12570cad4565a3b2640804e14b35a106",
+      "publisher": "http://shop.oreilly.com/product/9780596009762.do",
+      "ibook": "itms-books://itunes.apple.com/us/book/sql-cookbook/id396890915?mt=11"
     }
   ]
 }

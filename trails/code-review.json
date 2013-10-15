@@ -4,6 +4,7 @@
   "steps": [
     {
       "name": "Beginning Code Review",
+      "level": "beginner",
       "resources": [
         {
           "title": "Feature branch code reviews",
@@ -41,6 +42,7 @@
     },
     {
       "name": "Intermediate Code Review",
+      "level": "intermediate",
       "validations": [
         {
           "title": "Create small pull requests, which are easier to review.",

@@ -10,16 +10,19 @@
   "steps": [
     {
       "name": "Beginning Web Design",
+      "level": "beginner",
       "resources": [
         {
           "title": "Visual Design on Learn",
           "uri": "https://learn.thoughtbot.com/design",
-          "id": "f9987cce1a767e6454d802f539800b67abe1f15c"
+          "id": "f9987cce1a767e6454d802f539800b67abe1f15c",
+          "type": "trail"
         }
       ]
     },
     {
       "name": "Intermediate Web Design",
+      "level": "intermediate",
       "resources": [
         {
           "title": "Read 'A Practical Guide to Designing for the Web'",
@@ -80,6 +83,7 @@
     },
     {
       "name": "Advanced Web Design",
+      "level": "advanced",
       "resources": [
         {
           "title": "Read 'Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems' to understand how to run a adhoc usability test.",
@@ -101,21 +105,18 @@
           "id": "e6ceb4be99bf07e9c9c6ac4bc4c422872b2f33ab"
         }
       ]
+    }
+  ],
+  "reference": [
+    {
+      "title": "A List Apart",
+      "uri": "http://www.alistapart.com/",
+      "id": "e393caadadb1e399fac3c38718294c4f1d19ff0a"
     },
     {
-      "name": "Ongoing Reference",
-      "resources": [
-        {
-          "title": "A List Apart",
-          "uri": "http://www.alistapart.com/",
-          "id": "e393caadadb1e399fac3c38718294c4f1d19ff0a"
-        },
-        {
-          "title": "The Manual",
-          "uri": "http://alwaysreadthemanual.com/",
-          "id": "455f85811f8dcf74607aa51011e21a1e53c5af0c"
-        }
-      ]
+      "title": "The Manual",
+      "uri": "http://alwaysreadthemanual.com/",
+      "id": "455f85811f8dcf74607aa51011e21a1e53c5af0c"
     }
   ]
 }
