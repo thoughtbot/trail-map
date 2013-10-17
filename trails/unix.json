@@ -8,24 +8,24 @@
         {
           "title": "Read The Linux Programming Interface. Chapters 1,  2, 6, 8, 10, 14, 15, 18, 25, 44, 62.",
           "uri": "http://amzn.to/the-linux-programming-interface",
-          "id": "3e5e1e86286462f7740038c7998ad900080f2cbf",
+          "id": "8c87ad1e1c6506b141de7377a9da3f56e7cb84b9",
           "publisher": "http://man7.org/tlpi/"
         },
         {
           "title": "Read 'Learning the Shell'",
           "uri": "http://www.linuxcommand.org/lc3_learning_the_shell.php",
-          "id": "5ac7f34f8e0006ecdea578dddb44f544ba99692a"
+          "id": "0c43b30fbc5108ade742a529e566959af34dd848"
         },
         {
           "title": "Read about I/O redirection.",
           "uri": "http://en.wikipedia.org/wiki/Redirection_(computing)",
-          "id": "821a57aacb161859742895bddaf3d2ecfda188cf"
+          "id": "e6f41ffbad2920c2f809e9711955c6899b0d131c"
         }
       ],
       "validations": [
         {
           "title": "You can use these commands and operators: |, <, >, >>, &, ack, awk, cat, chmod, chown, cp, export, find, kill, locate, ls, mkdir, mv, ps, rm, sed, sort, tail, top, vim, whereis, xargs",
-          "id": "ba03a2224008f4078b941e61050f7623164372b9"
+          "id": "914da21d662b0c9c2cd0eef0d7f461f8c2500bc3"
         }
       ]
     }

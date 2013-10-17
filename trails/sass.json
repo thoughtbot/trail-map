@@ -8,30 +8,30 @@
         {
           "title": "Read the Sass Tutorial",
           "uri": "http://sass-lang.com/tutorial.html",
-          "id": "95e20cf1424bc0b08e619a9b27ab27af74ad3f26"
+          "id": "d5f4ba764151d6107111522dd4e573394f56f6b4"
         },
         {
           "title": "Read open source code",
           "uri": "https://github.com/thoughtbot/bourbon/tree/master/app/assets/stylesheets",
-          "id": "79bde23b45393e3f5c2d31ddd4abe32249201482"
+          "id": "49a3e3e88f34e205e3bfc1f87a3e3d2c6bc03a95"
         }
       ],
       "validations": [
         {
           "title": "Create and use mixins.",
-          "id": "e2eae114ef7f3573118fe987f7e7902dadc631dc"
+          "id": "89da35fffceddbb925517394b236a29e346f4d77"
         },
         {
           "title": "Set and use variables.",
-          "id": "459c3048099a93a779d677b0f9f9f3f0b7b81d3e"
+          "id": "bef61d6a430f088c173a41ba6117ac81534ef64d"
         },
         {
           "title": "Use nested selectors.",
-          "id": "fcd01580116c44a8f3063c66962a3cde455931d6"
+          "id": "6fa9555844013cb6c801ba2656829fe772348eea"
         },
         {
           "title": "Use @include and @extend.",
-          "id": "3f03200ac7f0a6ba9bed1d70bca159e7914b6fa6"
+          "id": "d02a30af1258403460609479adbf6f7ae601d489"
         }
       ]
     },
@@ -41,7 +41,7 @@
         {
           "title": "Read the Sass Documentation",
           "uri": "http://sass-lang.com/docs.html",
-          "id": "ca2587d2b6879992daf411023be22e2c8b5040f2"
+          "id": "02e6d50618c53fa250a444612eacd26144d76e5c"
         }
       ]
     }

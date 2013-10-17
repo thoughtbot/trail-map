@@ -8,17 +8,17 @@
         {
           "title": "Read Beginning Outside-In Rails Development with Cucumber and RSpec",
           "uri": "http://blog.carbonfive.com/2012/02/14/beginning-outside-in-rails-development-with-cucumber-and-rspec/",
-          "id": "26b2baf57556368172d55c6ad1d9d5e5853e73dd"
+          "id": "5f54205645096df9f17476fd32919ae0654329ff"
         },
         {
           "title": "Read Martin Fowlers \"Mocks Aren't Stubs\"",
           "uri": "http://martinfowler.com/articles/mocksArentStubs.html",
-          "id": "42205307b2174cf5d2eeed0c82840a2e5bfee1ef"
+          "id": "65d13c7fd509cb0e93a1864faab32e8790a9a56e"
         },
         {
           "title": "xUnit Test Patterns",
           "uri": "http://amzn.to/x-test-patterns",
-          "id": "3c4773c1bca04677a050c8d6b3284f732b60de90",
+          "id": "f4d114907443722019d7ccb811d9c6bb8d52d321",
           "publisher": "http://www.informit.com/store/xunit-test-patterns-refactoring-test-code-9780131495050",
           "ibook": "itms-books://itunes.apple.com/us/book/xunit-test-patterns/id432496466?mt=11"
         }
@@ -26,15 +26,15 @@
       "validations": [
         {
           "title": "Understand the basics of mocking and stubbing in unit tests.",
-          "id": "d31633d1e0b16eec1e8f0f63d2391dda23a317b3"
+          "id": "d5060d29beeb785d1bcc611b9907df10de0261a9"
         },
         {
           "title": "Name each phase of the Four Phase Test.",
-          "id": "3eb5b9e44047adc615aa08d58be50e681dc0b5a1"
+          "id": "68528de3893783dbe1bd2b56c1d75238da49e6a8"
         },
         {
           "title": "Identify a Mystery Guest.",
-          "id": "a79fd9ab504e9b8b045e892fac61327b167f6db7"
+          "id": "d5b6f74ccf882f9039562f3c7c321780852857da"
         }
       ]
     },
@@ -44,31 +44,31 @@
         {
           "title": "Read Test-Driven Development By Example.",
           "uri": "http://amzn.to/test-driven-dev",
-          "id": "3d478184c84fefa705d2a8a76f299e627a8a5b86",
+          "id": "280e2e542e618aa4dadcd50fe76d06f0accedf53",
           "publisher": "http://www.informit.com/store/test-driven-development-by-example-9780321146533"
         },
         {
           "title": "Complete thoughtbot's Test-Driven Rails Workshop",
           "uri": "http://learn.thoughtbot.com/workshops/18-test-driven-rails",
-          "id": "8a4dc240285261c07a79fbee48c6a3e8d1fc2082"
+          "id": "d83ddabf1870bd748cb9df2d7cc664369e6465b3"
         }
       ],
       "validations": [
         {
           "title": "Write a test before implementation.",
-          "id": "60afd9779315d6db7d6b1976742a224e69ee2f53"
+          "id": "1c68e6fce0f8efd058edae31069b6ff1989009a1"
         },
         {
           "title": "Make the test error or fail.",
-          "id": "f3c11d52bbcc676cab26553fe2c2de5d6994a8d0"
+          "id": "f2653060ba46bf82478ff1cdab054adf26ec06aa"
         },
         {
           "title": "Make the test pass by writing the simplest implementation possible.",
-          "id": "d877248005d7418f7953b6387614802972d414bd"
+          "id": "d29cbf53543f21f94ff466ac17ddc4a2d4bb0cda"
         },
         {
           "title": "Refactor.",
-          "id": "2dd9be4baa991e71cb6153e24753a026a3896e9a"
+          "id": "845098c58f9f9574fd0e6068adc0df88d79d82f0"
         }
       ]
     }

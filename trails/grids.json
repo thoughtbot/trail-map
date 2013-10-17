@@ -11,62 +11,62 @@
         {
           "title": "Grid Systems: Principles of Organizing Type",
           "uri": "http://amzn.to/grid-systems-principles",
-          "id": "3f12888626bdd8a9a81094705bdd514ea7495cdd",
+          "id": "e48a7ae6645ebb4013965035f41920d2d3bb13f1",
           "publisher": "http://www.papress.com/html/book.details.page.tpl?isbn=9781568984650"
         },
         {
           "title": "Grid Systems in Graphic Design",
           "uri": "http://amzn.to/grid-systems-graphic-design",
-          "id": "e4c25a601f0284febaef14aa155d3ad05da8cfa0",
+          "id": "bb62d969fc4c915c22ad47d91ba6aa0057926936",
           "publisher": "http://www.rampub.com/graphics+typography/3-7212-0145-0"
         },
         {
           "title": "Mark Boulton's Designing Grid Systems",
           "uri": "http://goo.gl/VOGP",
-          "id": "31fb64e65f79801db331daadc005b9993acf4483"
+          "id": "db2e4c026e642f0abc41b4af17e4c84e0e9d135a"
         },
         {
           "title": "Ordering Disorder: Grid Principles for Web Design",
           "uri": "http://amzn.to/ordering-disorder",
-          "id": "46e5287ed0102dc377d71ad27c3edf96d1063e67",
+          "id": "845884526c13ee48b86282f4eed7fd72e34cbc67",
           "publisher": "http://www.subtraction.com/2010/11/05/i-wrote-a-book",
           "ibook": "itms-books://itunes.apple.com/us/book/ordering-disorder-grid-principles/id406937632"
         },
         {
           "title": "Geometry of Design: Studies in Proportion and Composition",
           "uri": "http://amzn.to/geometry-design",
-          "id": "0c28b00f2c4bd526f51945a545817243adc94dee",
+          "id": "31de0182b0047bacd64d5c39a7e9e87184c8988b",
           "publisher": "http://www.papress.com/html/book.details.page.tpl?isbn=9781616890360"
         }
       ],
       "validations": [
         {
           "title": "Create inner axial alignment.",
-          "id": "4b8e3612801d68b4b0f0bbcbfb5d231e7935b02f"
+          "id": "e956e667527591e1cda7d4a73d4165309e0eac6e"
         },
         {
           "title": "Edit and/or build a grid according to the content in your design (not using a prebuilt framework).",
-          "id": "edb97f490c240692b91b06786622393d10a695c6"
+          "id": "852c5169be5b4e34852f98ba7485b685ee454c61"
         },
         {
           "title": "Have symmetrical and asymmetrical balance in your designs.",
-          "id": "0da0d1ffd7483e1fea7924497968628adb0de3a4"
+          "id": "a5cca417cc9811bd8d3876923b6f6d6146f09922"
         },
         {
           "title": "Keep consistent vertical and horizontal space.",
-          "id": "e68b0a58606104b2544b738078231d3e68af88fd"
+          "id": "4f1596aedb02fe1611adfafef17ac7b784afc21f"
         },
         {
           "title": "Use the grid to create active white space within a design.",
-          "id": "88db8e7a28f962993fbeb77e8b00a8a28ab4b448"
+          "id": "f0654cb91427eb50c20790dde95ca6ea35508320"
         },
         {
           "title": "Use the grid to strengthen the contents hierarchy.",
-          "id": "3b13d103c8405c3457bcfc2de1cb46f7e4aaf0b3"
+          "id": "a43d88191bc8b1f10cfbfefae323b6ba7cb0f09f"
         },
         {
           "title": "Use a more complex grid system than a equal column 3 or 4 column grid.",
-          "id": "8f5a4fedcb6d59b102efb469ebebbe474806ae79"
+          "id": "8e160c806594e21cd1aee08d750387dec34f3c03"
         }
       ]
     },
@@ -76,7 +76,7 @@
         {
           "title": "Browse The Grid System.",
           "uri": "http://www.thegridsystem.org",
-          "id": "dfb5eaa94ecdc684e9e3c857ed2474c59ed26faf"
+          "id": "3f2ce4f899c84192951a757aed415a3731e2365f"
         }
       ]
     }

@@ -8,59 +8,59 @@
         {
           "title": "HTML and CSS: Design and Build Websites",
           "uri": "http://amzn.com/1118008189",
-          "id": "78104f92a0cf0f81269801f2e34f846308c364bb",
+          "id": "5ec880a99b5ce7f96b49fb310d68e6e9b402e976",
           "publisher": "http://htmlandcssbook.com"
         },
         {
           "title": "Read A Beginner’s Guide to HTML & CSS",
           "uri": "http://learn.shayhowe.com/",
-          "id": "f6dc364a50480fd03b45424dd5c06b6b2337506a"
+          "id": "291dc34556d82991600b9cb7defaa12d1b627cf3"
         },
         {
           "title": "Read Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with HTML5 and CSS3 for an introduction to HTML and CSS",
           "uri": "http://amzn.com/0321808355",
-          "id": "a723d16963fd6729516393433bbd9b901f489395",
+          "id": "b03eea157e62f91056caebcc70ac228406467243",
           "publisher": "http://simplebits.com/publications/bulletproof/",
           "ibook": "itms-books://itunes.apple.com/us/book/bulletproof-web-design-improving/id483421070?mt=11"
         },
         {
           "title": "Complete Code Academy Web Fundamentals",
           "uri": "http://www.codecademy.com/tracks/web",
-          "id": "1d8fbe7bbe0a30ebc78468131b468d0a3e5f95e0"
+          "id": "60a2d026401959337419c2b861f1ceca681b57c4"
         }
       ],
       "validations": [
         {
           "title": "View source on a web page and understand it.",
-          "id": "078a08a593db384f33243e14c8769f42b2964a2e"
+          "id": "2753deaeb3d10b251c91b00b2c5a9bf0484057e5"
         },
         {
           "title": "Use <h1-6>, <p>, <a>, <img>, <ul>/<ol>/<li>, <div>, <span>, <dl>/<dt>/<dd>, <form>/<fieldset>/<input> semantically.",
-          "id": "9e76faf3bdd50283da47866408d22d7c2580b562"
+          "id": "3c39fa8c1b2d49a6ce6908578069568935fbdfc0"
         },
         {
           "title": "Name classes and ids semantically.",
-          "id": "d1c66ca321c3e7c21376c4d66d3ae23ee882ab29"
+          "id": "62cb0ab11526a1ee096c562580a6d8044a0863cd"
         },
         {
           "title": "Use Web Inspector quickly (hint: keyboard shortcuts).",
-          "id": "a3fe4879dff7eda0935d70e57fca2c90dc39b519"
+          "id": "53ca735380a3d0c7f84328fc010aecbf1384035a"
         },
         {
           "title": "Understand the box model",
-          "id": "06658a0fd0bba774024bf850bf2145b177732ef7"
+          "id": "83244479b8cf068a4559aab5bbbe9b0293e0c934"
         },
         {
           "title": "Understand floating and positioning",
-          "id": "75a16c2513757729174e1aabb4d9f92a8f1f8708"
+          "id": "f7fb123ca2098e3d7f0e91cc7b0c765aa17ed602"
         },
         {
           "title": "Style text",
-          "id": "f6c26587c3d382fc5aa9ecd6fe16a23b8d145244"
+          "id": "aa7a871f2ebed2ad568184e75ae16e9c49c74445"
         },
         {
           "title": "Quickly build a simple layout",
-          "id": "60c527c909e214b60bcd5d7625c3f2d879a6e725"
+          "id": "cc1846392d7a1c2b2973110a051c7ca4df15bdd1"
         }
       ]
     },
@@ -70,51 +70,51 @@
         {
           "title": "Read Dive into HTML5",
           "uri": "http://diveintohtml5.info/",
-          "id": "8e3df4e84e67f47a66682bd9f8f62498ab3c47a4"
+          "id": "ddbe960c419bb32ea2582e53f998cbf1909f6e19"
         },
         {
           "title": "Read HTML5 for Web Designers",
           "uri": "http://www.abookapart.com/products/html5-for-web-designers",
-          "id": "5e950567968695a6ee06d185d7f9cfa0d0ac5759",
+          "id": "8f59816b024be1293329a2382e7917ae9f86536b",
           "ibook": "itms-books://itunes.apple.com/us/book/html5-for-web-designers/id391397649?mt=11"
         }
       ],
       "validations": [
         {
           "title": "Use the new HTML5 elements <header>, <hgroup>, <section>, <aside>, <article>, <footer> semantically.",
-          "id": "16fabbaf7a203c9c764a0d5474a7f8baff0a81bb"
+          "id": "e77cfb97db9fdc0f430a1035576b3c58fff01dae"
         },
         {
           "title": "Understand the difference between <section> and <div>",
-          "id": "08ab12444e0607ecd1543551bb9ecedef26629c7"
+          "id": "77783bfbb2c5a9922410cc27729045c4dd8791a0"
         },
         {
           "title": "Know all of the new form input types and if used how to safely degrade them to older browsers",
-          "id": "ddc0dcd3a995cb4f5cea734841a73af061c4b549"
+          "id": "3273db635be10b57ee195eda6b7dec91fd79cf24"
         },
         {
           "title": "Apply a box shadow, rounded corners, and text shadow",
-          "id": "716ec582fb914e453001d74b175def2fb9cd112d"
+          "id": "a0e6c595a07dfc1cdeff636fc894b069de3d5023"
         },
         {
           "title": "Use RGBa, HSL, HSLa, and opacity",
-          "id": "a472be29ea68bada79c1255738bd9e06649b9d15"
+          "id": "63e0ed6a699c0ab5d89f717063c64dfe9a07d7ed"
         },
         {
           "title": "Know transitions and animations and where to apply them",
-          "id": "d0d046d4e4db8b1544f78a6c611948a47e297f57"
+          "id": "1101be92e231a5b0c50a9e6f4106304105b5c4da"
         },
         {
           "title": "Know what vendor prefixes are, why they are used",
-          "id": "3f2a3c791ac5c2993ca47d0b452be27eb3b68232"
+          "id": "bedc0afd68bf5af9619c7afafa44266b9d66fa54"
         },
         {
           "title": "Understand how box-sizing changes the box model",
-          "id": "3c4010eaa87bb3a1e1bfa2977109b3b7aab0a66c"
+          "id": "db3eb43f418750fbd63c4f0bf24c2066babd2ac0"
         },
         {
           "title": "Know the new pseudo-selectors and know their uses",
-          "id": "aecf8e1709cd0d7072fefd09c1b422664d7cb4a9"
+          "id": "e03dec9a29811cdb3d40b99f2bc926bb496856e2"
         }
       ]
     },
@@ -124,61 +124,61 @@
         {
           "title": "Read Responsive Web Design the article",
           "uri": "http://www.alistapart.com/articles/responsive-web-design/",
-          "id": "2905a2f8288a499ccc074566350e5e713b13b1f9"
+          "id": "dc7338d5ef97650833cd25097a2af8d2a59b537d"
         },
         {
           "title": "Read Responsive Web Design the book",
           "uri": "http://www.abookapart.com/products/responsive-web-design",
-          "id": "f32ba296eea9e93c120b3a6698ff13be76582027",
+          "id": "06cc3b410635594bc8e313dc1b3220d69911c938",
           "ibook": "itms-books://itunes.apple.com/us/book/responsive-web-design/id442160521?mt=11"
         },
         {
           "title": "Visit This is Responsive for current news and links about responsive design",
           "uri": "http://responsive.rga.com/",
-          "id": "153b970c89b341d60d452a078a1f0b561916e146"
+          "id": "f8abbfb605c986a988a1727ffaa252bb908904c0"
         },
         {
           "title": "Read Mobile First",
           "uri": "http://www.abookapart.com/products/mobile-first",
-          "id": "8de6212fb3307996e460157f07d4a75fea10aa62",
+          "id": "cd46e08a53fdff5d99c727fc18eaa2d91c01834c",
           "ibook": "itms-books://itunes.apple.com/us/book/mobile-first/id474052405?mt=11"
         },
         {
           "title": "Read The Infinite Grid",
           "uri": "http://www.alistapart.com/articles/the-infinite-grid/",
-          "id": "f9dc4c08bb664482df033da47060b11e24a3aa13"
+          "id": "8c7eb8ff55e0474cd12d731d26be4de6f5c276da"
         },
         {
           "title": "Read Put Your Content In My Pocket",
           "uri": "http://www.alistapart.com/articles/putyourcontentinmypocket/",
-          "id": "9e4fcc17fc0678228157914461b08d567c8600f5"
+          "id": "bb2a27d5f387751dbe3e2d0ff41afdc9d6d319db"
         },
         {
           "title": "Visit Sass on Learn",
           "uri": "http://learn.thoughtbot.com/sass",
-          "id": "c0b7b53fd59586cf900e803af84c96ab854738be"
+          "id": "67b894388682af512362345266d49353d87c0462"
         }
       ],
       "validations": [
         {
           "title": "Build a fluid grid.",
-          "id": "01971d640fcadd447281de6625c1e1d9e9de3191"
+          "id": "12f634b603557f4b412eaf8244eff8eddf67eb83"
         },
         {
           "title": "Understand where breakpoints should be inserted into design",
-          "id": "ea0ee7c8e63533b284fcdd703cea7a44038b5b09"
+          "id": "c639781c9bf953d7a5c0288b324446f7b1f23e31"
         },
         {
           "title": "Use @media queries to provide different layouts to devices with differing widths.",
-          "id": "c1bbed5feddcbd408d080bd3132d347510de6d51"
+          "id": "ead70e9b0b622e73b6c0e59145d1bf40094590d9"
         },
         {
           "title": "Can organize your stylesheets so that the are mobile minded.",
-          "id": "b3ab3fd91be55312acd85cb227ccc8844e4c5670"
+          "id": "115bcf4aedd85e1bdece253d645d0eddabb63ba0"
         },
         {
           "title": "Understand how best to serve images to mobile and retina screens",
-          "id": "fcaa691226b6b10f3f1ded6f2218ec974566aaa4"
+          "id": "7dbbb5cc3716022da6a167e77c409ad8284c4181"
         }
       ]
     },
@@ -188,12 +188,12 @@
         {
           "title": "Refer to the HTML5 Spec",
           "uri": "http://dev.w3.org/html5/spec/single-page.html",
-          "id": "3d72ce80d850495ec111602c8b2bf7e628020be8"
+          "id": "e6a23768879b2b3bf4d33ddd2022c61a258bcbf5"
         },
         {
           "title": "Refer to CSS3.info",
           "uri": "http://www.css3.info/",
-          "id": "9d176a97334e9cdba0ff7022f52ae38508dd3ced"
+          "id": "3e2df8a3d3fd5f01c4591ae63255e1dd3978a4c7"
         }
       ]
     }

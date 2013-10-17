@@ -8,61 +8,61 @@
         {
           "title": "Read \"The Lean Startup\".",
           "uri": "http://amzn.com/0307887898",
-          "id": "1499275a8b0c3088872fe6fb85858d6630405743",
+          "id": "58ca5c7bb030426905f9115c82781cd3896e32a3",
           "publisher": "http://theleanstartup.com",
           "ibook": "itms-books://itunes.apple.com/us/book/the-lean-startup/id422540072?mt=11"
         },
         {
           "title": "Read thoughtbot's \"The Playbook\".",
           "uri": "http://playbook.thoughtbot.com/",
-          "id": "6a87b3f4e8e9a916882c74e41febe8062b85e3da"
+          "id": "6d80a3bc3711655e1aae02c2b80be6b38df18691"
         },
         {
           "title": "Read 37 Signal's \"Getting Real\".",
           "uri": "http://gettingreal.37signals.com/",
-          "id": "7541d84e9a5524cee352e06638eb75c3f8d58c04"
+          "id": "496796682aac9875d3a99a4defc4b007fdd1260f"
         },
         {
           "title": "Read 37 Signal's \"Rework\".",
           "uri": "http://37signals.com/rework",
-          "id": "1e74e80676ade9e4ecc943901161b7226571da41"
+          "id": "edc5e18e7bd13f3601da8bd8dba9cf8c7a11357a"
         },
         {
           "title": "Watch Ryan Singer's UX Sketching screencast.",
           "uri": "https://peepcode.com/products/ryan-singer-ux",
-          "id": "d2f3c88433d07f5285b3c2ece4ed208fd288934e"
+          "id": "5240fba0bbef5f7cd05236ceb028bbe2f4e63980"
         },
         {
           "title": "Watch Ryan Singer's Prototyping screencast.",
           "uri": "https://peepcode.com/products/ryan-singer-ii",
-          "id": "3a2cad7cde8cddd63b149e3298cce961ef74500a"
+          "id": "353ce762b0364cc878253a9d7221cccfb98d1045"
         },
         {
           "title": "Take thoughtbot's The Playbook Workshop",
           "uri": "http://learn.thoughtbot.com/workshops/9-the-playbook-workshop",
-          "id": "abd2fe4c021f554471163e28d461be271892631c"
+          "id": "3a0d78b121db5f3c0ea956adebb399c53579dd63"
         }
       ],
       "validations": [
         {
           "title": "Define an MVP (Minimum Viable Product).",
-          "id": "f49a7a8d7e99cecef8a6667ec8438c70efac181e"
+          "id": "f9d0a329e859c05e89fff488b76d903e2e16ea1c"
         },
         {
           "title": "Explain the values of short product development cycles and iterative testing.",
-          "id": "fc32b0bd6f950fe67a7af469b98ec2e73093e251"
+          "id": "9fd4ff5fb72ca1918fa275f99c74ea69d0c4ae63"
         },
         {
           "title": "Write effective user stories.",
-          "id": "a9971c87052876a3f1b60d562bb824ce5bff0f3e"
+          "id": "f3a6313ba592d5b8c3765bd0f80387f5b6028a50"
         },
         {
           "title": "Articulate your process in defining and solving interface problems.",
-          "id": "a4031bbc535832db764bb7393aeca10412493c32"
+          "id": "a77a239969f46346bbe7f2200c654810805ea873"
         },
         {
           "title": "Rapidly prototype.",
-          "id": "c4b48b39843d014b12643627c4938187b873eca2"
+          "id": "7adc8821218b05d1869d60aa373ca39ffbb4f667"
         }
       ]
     }

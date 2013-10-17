@@ -8,32 +8,32 @@
         {
           "title": "Read 'Visual Grammar' for a basic understanding on basic elements of design and how they relate to each other.",
           "uri": "http://amzn.to/visual-grammar",
-          "id": "cbee22bf1a60ae0906a63c2fb9c777d269c049b1",
+          "id": "49a3f88244647329fc891e07f9c85ecd24cea046",
           "publisher": "http://www.papress.com/html/book.details.page.tpl?isbn=9781568985817"
         },
         {
           "title": "Read 'Universal Principles of Design' for a larger array of principles covering an array of medium.",
           "uri": "http://amzn.to/universal-principles",
-          "id": "a93aafbb4d3a2ebbdbb9971976bde5d9bfbb6cfd",
+          "id": "230d7eb55a556c6b7446c8973d893488f3c446aa",
           "publisher": "http://stuffcreators.com/upod/"
         }
       ],
       "validations": [
         {
           "title": "Intentionally use visual design principles in your design.",
-          "id": "b2238f9460857bfb35e577cc85579a7e61b76122"
+          "id": "d4675ea3625a04a1eaf30fc7d9479fbc0b0e00af"
         },
         {
           "title": "Intentionally break visual design principles in your design.",
-          "id": "018b91bf19913fa1219d09e64ddf5c27d32e7f15"
+          "id": "6ccd23a55f8512f6424dfe049bf4cb21054025f3"
         },
         {
           "title": "Use the vocabulary of visual design principles when articulating the reasons for your design and when critiquing teammates' designs.",
-          "id": "99a39199e94a0d32dc63098544cf2c057aaa1b6e"
+          "id": "c2009f72a6876a417253ae9ec558a3b0b6275d22"
         },
         {
           "title": "Point out what visual principles, in any medium, that are being used in a design and why they are helping the design be successful or unsuccessful",
-          "id": "23deeceac68bd161cd30d8adb62071e377672c1f"
+          "id": "f827e1c3a1740d0c513b8fe0a4618d91686e8f18"
         }
       ]
     },
@@ -42,42 +42,42 @@
       "resources": [
         {
           "title": "Read Andy Rutledge's \"Gestalt Principles of Perception\":",
-          "id": "a68b11772c61cdf521fff5650ccfedab279618a8"
+          "id": "e6e809a42126fbf12cab96af0d8039ff6ff05c4b"
         },
         {
           "title": "1. Figure Ground Relationships",
           "uri": "http://www.andyrutledge.com/gestalt-principles-1-figure-ground-relationship.php",
-          "id": "356a192b7913b04c54574d18c28d46e6395428ab"
+          "id": "55d434d5d1b6c5f9df2e2ba62c98b7c8bfcf8ba1"
         },
         {
           "title": "2. Similarity",
           "uri": "http://www.andyrutledge.com/gestalt-principles-2-similarity.php",
-          "id": "da4b9237bacccdf19c0760cab7aec4a8359010b0"
+          "id": "1af4cd7f9bdc67bb0eba73cceb00aeed738548eb"
         },
         {
           "title": "3. Proximity, Uniform Connectedness, and Good Continuation",
           "uri": "http://www.andyrutledge.com/gestalt-principles-3.php",
-          "id": "77de68daecd823babbb58edb1c8e14d7106e83bb"
+          "id": "c5399db857330c8e9a08a84ed7e3bf5e2e0e397f"
         },
         {
           "title": "4. Common Fate",
           "uri": "http://www.andyrutledge.com/common-fate.php",
-          "id": "1b6453892473a467d07372d45eb05abc2031647a"
+          "id": "521f32353d8c30d719625afc9337c56b43b325a3"
         },
         {
           "title": "5. Closure",
           "uri": "http://www.andyrutledge.com/closure.php",
-          "id": "ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4"
+          "id": "f01bb9c2dea8236c5509cb8c7aa4548a55b42e9f"
         }
       ],
       "validations": [
         {
           "title": "Understand where the visual principles came from and what the history is behind them.",
-          "id": "e7f3498e2a5951e6be2637c491df9e9488411523"
+          "id": "25556496cf811c0307ea78dca794d3fc7109e83d"
         },
         {
           "title": "Can reference the psychology behind visual principles.",
-          "id": "ce0ab2f2b21a89017279592fd75f5f3f02e08120"
+          "id": "956ae10fbc7a0d8f004d6d2f66e5cd92a2302b84"
         }
       ]
     },
@@ -87,7 +87,7 @@
         {
           "title": "Read '101 Things I Learned in Architecture School'",
           "uri": "http://amzn.com/0262062666",
-          "id": "fc030d896593cb0236380f8a0204803b98534a25",
+          "id": "d538c66fcd082646a5af7883b86c52bf81d02e77",
           "publisher": "http://mitpress.mit.edu/books/101-things-i-learned-architecture-school",
           "ibook": "itms-books://itunes.apple.com/us/book/101-things-i-learned-in-architecture/id562185048?mt=11"
         }

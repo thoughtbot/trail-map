@@ -8,45 +8,45 @@
         {
           "title": "Complete the Quickstart Guide",
           "uri": "https://devcenter.heroku.com/articles/quickstart",
-          "id": "0afa0079f96623600636c2e649651700e81208c9"
+          "id": "536da0db25876da37e8f43df212a7f7bc80714b6"
         },
         {
           "title": "Watch the 'Intro to Heroku Screencast'",
           "uri": "http://www.codeschool.com/code_tv/heroku",
-          "id": "4ddf1f9e13f214095eecdf45e5b7f8c8efb97314"
+          "id": "eea2719840992784cd8c3f62c42ed59a010eaa56"
         },
         {
           "title": "Read 'Professional Heroku Programming'",
           "uri": "http://www.amazon.com/Professional-Heroku-Programming-Wrox-Programmer/dp/1118508998",
           "publisher": "http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118508998.html",
-          "id": "dfe9d75b86869e8f4f2372a56c9283384e8373e6"
+          "id": "860884a571c1e9d7fe1429a841337216e1c8f595"
         },
         {
           "title": "Read 'The Heroku Hacker's Guide'",
           "uri": "http://www.theherokuhackersguide.com/",
-          "id": "2c91bb5c039ac97dfa917885a34145331f31687c"
+          "id": "157db60defa4de0dda585b84230dd393f03eef69"
         }
       ],
       "validations": [
         {
           "title": "Write a Procfile",
-          "id": "227f8f8cb2c281fae790fbd4dcdeaf0c72a72d03"
+          "id": "ed7223d71bda484fe5989cc2d5ae6d009558b0ec"
         },
         {
           "title": "Store secrets and environmental variables in config vars",
-          "id": "3d0dc5337d810f869dda2830ad7599f4674176f5"
+          "id": "a8a898243827d01e798ebc91ec103d1120206256"
         },
         {
           "title": "Deploy a basic app to Heroku.",
-          "id": "7c3a314e09b51822b69748bca96da404f791f4c1"
+          "id": "77b2b5d490a98907c4f089c0bd87cbbf2f1bb2aa"
         },
         {
           "title": "Provision an add-on",
-          "id": "65fa4796646f81f405808e0463b216d869296925"
+          "id": "6ed186659653986eb839b137b3fb5f32f09dbce6"
         },
         {
           "title": "Add a dyno to an app",
-          "id": "8e0ebacf01b2eb21a2f5ca96fb36cdbf3b69f4d3"
+          "id": "bce2326f8eb5552494cd7af26eb299ac6a168759"
         }
       ]
     },
@@ -56,43 +56,43 @@
         {
           "title": "Read 'The 12-Factor App'",
           "uri": "http://www.12factor.net/",
-          "id": "a3546b6783bfcde1355a8b710ced25fcc3bdef10"
+          "id": "b1fe0b55cde3f4c8eea615cbb95de252d997ccdc"
         },
         {
           "title": "Browse Heroku's guides on Vimeo",
           "uri": "https://devcenter.heroku.com/categories/application-architecture",
-          "id": "668ea6696fb961d5fbfb034edcec80d3565f7215"
+          "id": "26faa0f54388f870a6bf98532576e031b909593c"
         },
         {
           "title": "Explore Heroku's developer blog",
           "uri": "http://www.higherorderheroku.com/",
-          "id": "f1743bcdeebb5e557aa6863930106c32184d042d"
+          "id": "d94ec96fbd4e9f01ae1405cc63c6b81c219c8906"
         }
       ],
       "validations": [
         {
           "title": "Understand the worker pattern",
-          "id": "0e88dcb500d8c65147c41ca663cbce7914c25b71"
+          "id": "22a089232dd4551eedce196e5a58703fc46ef382"
         },
         {
           "title": "Achieve dev-prod parity by using foreman locally",
-          "id": "1732e1fc69d5c56d84e4041b580954c758da936d"
+          "id": "39b8e651acc2f0676e0a7abaf83384f1a7a0d5f0"
         },
         {
           "title": "Leverage Heroku logs as a source of visibility into app performance",
-          "id": "f342dc8209adc62f28b2a02905759dc86c88f8a4"
+          "id": "011513882b56ab21501e3855fd2a0946d3ced5ce"
         },
         {
           "title": "Build an app with a concurrent web server",
-          "id": "35387c0d077273c8c6b8bc86d452402439900ef8"
+          "id": "0b18a8482b4e3dc8435f5aa29ba8d97eb3a2d17a"
         },
         {
           "title": "Understand request queuing",
-          "id": "d93af37f6f189d3640c3bf753303f1fe7af702f4"
+          "id": "987aa86af491349ce0ace7c79970f7d4567f03b0"
         },
         {
           "title": "Use a tool like New Relic to gain visibility into response time variability",
-          "id": "a8dd9f056b751b1925c8d05662d93ae290df33d5"
+          "id": "37b8226f863183312c144b448af5078758c13c36"
         }
       ]
     }
