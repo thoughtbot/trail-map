@@ -11,48 +11,48 @@
         {
           "title": "Read tmux: Productive Mouse Free Development",
           "uri": "http://pragprog.com/book/bhtmux/tmux",
-          "id": "8006e018522cb6e8632027ca94207ca028578e3d"
+          "id": "275708a8db3b3b4838899bc07acdde43d90ff766"
         },
         {
           "title": "Watch Humans Present: tmux",
           "uri": "https://learn.thoughtbot.com/products/4-humans-present-tmux",
-          "id": "4d351261a4fe0f2f56afa4e73e54df7044c52dc8"
+          "id": "2757e81cad6232c2018b66f9a4ea530ce9fc48aa"
         },
         {
           "title": "Read Love, hate, & tmux",
           "uri": "http://robots.thoughtbot.com/post/2166174647/love-hate-tmux",
-          "id": "428f4130a416af32df06b717fd8d0d82fbc287fd"
+          "id": "632fc7022bad4fc8872ad77558f2475924f2ca1b"
         },
         {
           "title": "Read A Tmux Crash Course",
           "uri": "http://robots.thoughtbot.com/post/2641409235/a-tmux-crash-course",
-          "id": "92e5a7e782e89a05024599b1df30bc859e8e9099"
+          "id": "ba4205b673dbd0f8f816a061bad8377c0cfe038b"
         }
       ],
       "validations": [
         {
           "title": "Attach, detach, and reattach to a session",
-          "id": "283ffb0b724711051276f05fcf14587e03ffdb67"
+          "id": "d1d9bda273ce5f77dbbd16b22ab0cac0a74983b3"
         },
         {
           "title": "Create, switch, and close windows",
-          "id": "dd3ff2a531b6b2b9349d5d1c883837d0ccc6223e"
+          "id": "2b91e57c60890a21507bf334cc80aced735cd986"
         },
         {
           "title": "Rename windows",
-          "id": "31db613c8ca08d5f3bf44f7a1603b43b14617ffc"
+          "id": "55ecbc0c28c39237491544fb7f95dfc83f8f72e5"
         },
         {
           "title": "Split panes vertically and horizontally",
-          "id": "fb3ee555344e99ca7acde98200a577b7a2201629"
+          "id": "11d40856a53b5c5ce6d474ac5d622075f24fefe3"
         },
         {
           "title": "Switch and close panes",
-          "id": "25136fd0a5a05223e97f6eac2550a33876b1e6fa"
+          "id": "cbfd53bce6dff23df056fc3d5d05fccc5cd60d96"
         },
         {
           "title": "Resize and rotate panes",
-          "id": "648035715b2546327401d97f75f9b44ed62b251c"
+          "id": "f838f45a8291bd1cac2faf52295de961570d8627"
         }
       ]
     },
@@ -62,17 +62,17 @@
         {
           "title": "Learn from other ~/tmux.confs",
           "uri": "https://github.com/joshuaclayton/dotfiles/blob/master/tmux.conf",
-          "id": "3059ba322ea4a2d86120774924f5af73eab39506"
+          "id": "0ddfdedf55a0c4ae3017043bb29ba3901938318b"
         },
         {
           "title": "Read How to Copy and Paste with Tmux on Mac OS X",
           "uri": "http://robots.thoughtbot.com/post/19398560514/how-to-copy-and-paste-with-tmux-on-mac-os-x",
-          "id": "2a9f5884f31d4e601476cab6f3edf4a137cd6d74"
+          "id": "01083628b6d2aafdf6c45234c769316c7a0eab01"
         },
         {
           "title": "Use wemux in mirror, pair, or rogue mode",
           "uri": "https://github.com/zolrath/wemux",
-          "id": "3f016b2c4d9d4609def9b68bab314d222d135c33"
+          "id": "fde1dd7405c2fe1256e58e7ec6b372e5fac89b9c"
         }
       ]
     },
@@ -82,7 +82,7 @@
         {
           "title": "Read the documentation",
           "uri": "http://www.openbsd.org/cgi-bin/man.cgi?query=tmux&sektion=1",
-          "id": "f9743247fa313050816c5b68210f4aa0f315aedf"
+          "id": "c4b3ef673bf2dcb5291cb5424bc89d717a99ddeb"
         }
       ]
     }

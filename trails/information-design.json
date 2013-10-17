@@ -8,40 +8,40 @@
         {
           "title": "Read Information Dashboard Design",
           "uri": "http://amzn.to/information-dashboard",
-          "id": "24af44ce985b0127da5b10a9e1b68785bd185c7c",
+          "id": "47b78e1936b9f525ddfe6ff8ea23a51a92d1f8da",
           "publisher": "http://shop.oreilly.com/product/9780596100162.do"
         },
         {
           "title": "Read Envisioning Information",
           "uri": "http://amzn.to/envisioning-information",
-          "id": "97f9816c85cf36e23cd461386b80473a2381cffd",
+          "id": "380cb4ae730633866574e165d9838b5e5635a71e",
           "publisher": "http://www.edwardtufte.com/tufte/books_ei"
         },
         {
           "title": "Read The Visual Display of Quantitative Information",
           "uri": "http://amzn.to/visual-display",
-          "id": "03b18d3184731525abc721139cbdb9fbab29174c",
+          "id": "4af185751b5a27e0085f8e80d254dce0c5013138",
           "publisher": "http://www.edwardtufte.com/tufte/books_vdqi"
         },
         {
           "title": "Read A Practical Guide to Designing with Data",
           "uri": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data",
-          "id": "f1054c2ebbc53e5302cec3c8834bfe60abe464ea",
+          "id": "e68348d12c76424c0ddee84e911f43d557c67456",
           "ibook": "itms-books://itunes.apple.com/us/book/practical-guide-to-designing/id447639507?mt=11"
         }
       ],
       "validations": [
         {
           "title": "Cleanly and clearly communicate information.",
-          "id": "202e0792fc1800c9e41bd1811b1a0857432922ab"
+          "id": "72aec27bea11d8c55dd67eac8e477e4fc542b2de"
         },
         {
           "title": "Identify chart junk, when to use it, and when not to use it.",
-          "id": "d4b064c6da7c1afc2c770b1d9eff4fecc644daa8"
+          "id": "17a3e7eda6b6063a638faee4f04d74d8bdab5508"
         },
         {
           "title": "Understand the basic chart/graph options (including bar (vertical/horizontal), line, pie, spark lines) and appropriate use cases for each.",
-          "id": "e231e8034672e1bb8f45fe382f89c6b3608a374c"
+          "id": "748bb4721cd3100d7882d1c038d134681428aa6d"
         }
       ]
     }

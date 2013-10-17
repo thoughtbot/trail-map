@@ -8,59 +8,59 @@
         {
           "title": "First, Try Ruby!",
           "uri": "http://tryruby.org",
-          "id": "217c9b284f6811a569133c54d5c8b4461ee2a127"
+          "id": "0040955c5b9e95338d02eacefdadbbb888c2bec4"
         },
         {
           "title": "Complete RubyMonk exercises",
           "uri": "http://rubymonk.com/",
-          "id": "cde6cffce2d06a3989ab936986311043afef9261"
+          "id": "4010291c02a3735432db9f178060bee8ba19a67d"
         },
         {
           "title": "Read Learn Ruby The Hard Way.",
           "uri": "http://ruby.learncodethehardway.org/book/",
-          "id": "5909ddee7e9b4e2233ea432599d3b280df7b2630"
+          "id": "06c1af35821d9663446bffd9decf0af112ceb6a4"
         },
         {
           "title": "Read The Well-Grounded Rubyist.",
           "uri": "http://amzn.to/grounded-rubyist",
-          "id": "c3dd3f0bdfb78932257723150ad2d59c6a691e3b",
+          "id": "80c268ff92c03ff5ed3d3d1779d997243dcfb7d6",
           "publisher": "http://www.manning.com/black2/",
           "ibook": "itms-books://itunes.apple.com/us/book/the-well-grounded-rubyist/id402503392?mt=11"
         },
         {
           "title": "Read Why's Poignant Guide.",
           "uri": "http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html",
-          "id": "17d73c796447dbbd7afa5896da547c7fd0968af0"
+          "id": "f9305537acfa11d3b7e5018899357efbd001c70b"
         }
       ],
       "validations": [
         {
           "title": "Use irb to test your ideas.",
-          "id": "1c1eccda277a5445926cc438e75c4a1b248c05f9"
+          "id": "3cc740784cf57898a20bef568b5c7703caa20871"
         },
         {
           "title": "Print values.",
-          "id": "2c4284d27a27a7e8dad31ba8fbe1d7a2703627a2"
+          "id": "8667d195b32f9e41cd741712fcf52c8e933e6f98"
         },
         {
           "title": "Run programs.",
-          "id": "7fcd7bc60a2af535fee2ec5a03426828650b3865"
+          "id": "2c6484aa57f26dcd71dafc8594842853749b71bc"
         },
         {
           "title": "Avoid syntax errors.",
-          "id": "a899b1ba4506e7c994374fd41499d60230ff85e2"
+          "id": "7ef6abdb4b0378f1be8f408747a43b91f80a6185"
         },
         {
           "title": "Define a method.",
-          "id": "6854a8013a5776f6a7a4a09fcdcc0771ed21efa1"
+          "id": "82b126c5c2419df493b39956459d35766c532137"
         },
         {
           "title": "Invoke a method.",
-          "id": "af42b67ccf562c30506e465fdd556919ef61d067"
+          "id": "be7b856c56922a66767e940cd38222613dd7c1ee"
         },
         {
           "title": "Use common control flow structures.",
-          "id": "344561225d50387d932edbb8932b66209b777fb2"
+          "id": "da76825239d467dd9d16de181841a6a1895abd74"
         }
       ]
     },
@@ -70,35 +70,35 @@
         {
           "title": "Complete the Ruby Koans.",
           "uri": "http://rubykoans.com",
-          "id": "1401fe762852bde4c44a57e752c3bce012f19e5a"
+          "id": "84d31b1cad15655c4939e48f751e95ac608cf84b"
         },
         {
           "title": "Read examples of source code, like this one.",
           "uri": "https://github.com/jferris/effigy/tree/master/lib",
-          "id": "fc5c572c0fd945a7b5d4025f9d29531714a385c0"
+          "id": "242678010d726ed72b9e7e983fce08d6157e06d3"
         },
         {
           "title": "Read Chapters 23 and 24 of The Pickaxe",
           "uri": "http://amzn.com/1934356085",
-          "id": "7cabf8db13d4618542456504b39a0f26181eb82a"
+          "id": "20c1b26e496ded92ecd863ec56151f4a902222ff"
         }
       ],
       "validations": [
         {
           "title": "Compare objects.",
-          "id": "789b4767d5f22d37db6520b15e2d38e3c1055415"
+          "id": "939f1cda1a00e1a1ffddf72c052647198fabce0d"
         },
         {
           "title": "Define a class.",
-          "id": "a80bdbdca6f81d65a960a7fc3c2d45564dff7bb9"
+          "id": "87251505f0f8be29c68007c7822360267dcf90df"
         },
         {
           "title": "Instantiate an object.",
-          "id": "7993ef0e834e4d4658d4d5d4ee4a82563e165c56"
+          "id": "0334839b62ba85279aee7a0099041c400e3408a1"
         },
         {
           "title": "Iterate over collections.",
-          "id": "a89f3f40edd0bf7e9b83c0e3c6d42bce5b22311f"
+          "id": "14eaf39548401f0e49b3b7ad12d70c088dcd6312"
         }
       ]
     },
@@ -108,28 +108,28 @@
         {
           "title": "Read Ruby Core Documentation",
           "uri": "http://ruby-doc.org/core",
-          "id": "4c5701a5f0294a498ccf65b8bfe54c1780226c2a"
+          "id": "7d6cccc9cf47969c345d3819380f7128eef4aa00"
         },
         {
           "title": "Read Ruby Library Reference in The Pickaxe",
           "uri": "http://amzn.to/pickaxe-19",
-          "id": "4c57e7a3d587ee3f51e86fd9829fcc77b23c10a5",
+          "id": "ac4b193acaa7c13e76a10ec1a101ca1eb90fa7c4",
           "publisher": "http://pragprog.com/book/ruby/programming-ruby"
         },
         {
           "title": "Read Github's Style Guide",
           "uri": "https://github.com/styleguide/ruby",
-          "id": "0172e0e8342b55db52866ecf1bc03ca34c55a01a"
+          "id": "85ec6bd96b8292757747688ee41550c126bc36e9"
         },
         {
           "title": "Read the Ruby Style Guide",
           "uri": "https://github.com/bbatsov/ruby-style-guide",
-          "id": "814ff02a53b5962d18d13fc6ba2b162e2451dab1"
+          "id": "8a6415580db78daa22908d80e7aca43f11ea36ce"
         },
         {
           "title": "Read thoughtbot's Style Guide",
           "uri": "https://github.com/thoughtbot/guides/tree/master/style",
-          "id": "0d4b13aa58bb3b14438312108a29b2e917cd6dac"
+          "id": "b0d9c45276803dfd9fe2beb6f1a440c15c88c50b"
         }
       ]
     }

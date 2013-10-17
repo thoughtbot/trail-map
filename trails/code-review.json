@@ -8,34 +8,34 @@
         {
           "title": "Feature branch code reviews",
           "uri": "http://smartbear.com/SmartBear/media/pdfs/WP-CC-11-Best-Practices-of-Peer-Code-Review.pdf",
-          "id": "7702effa2708d62e70512aefb47d19df37e9c7f0"
+          "id": "cfc8c9f75230e0f1ee93b7093cde4d5362082a75"
         },
         {
           "title": "Best practices of peer code review",
           "uri": "http://goo.gl/A8Boc",
-          "id": "962c93403800b355f2e1fef25774988934abf1a5"
+          "id": "bac24fb9fb291cd62b30f695ef235842393670c0"
         }
       ],
       "validations": [
         {
           "title": "Comment on a specific line number.",
-          "id": "31fc572ac42eed77b4b27658041336fed9637fbc"
+          "id": "232e53f1210bd0077ce2b745fd6236b03ed7bd83"
         },
         {
           "title": "Comment constructively and politely.",
-          "id": "b2c808b778e1a8dda92ebe4a69082e76f416ae7b"
+          "id": "9c9f61478de7df4b24e2fc15fd96cf353326a89a"
         },
         {
           "title": "Learn something valuable from the comments.",
-          "id": "429bd428337ee50b0dc4a1ce1e9c64fb3e97b95a"
+          "id": "2ed063bb292a675258e38d54a652545115fe64b2"
         },
         {
           "title": "Express appreciation to the author.",
-          "id": "34d87d67d8cb968e2d25efa505e2f4691eb2f3b8"
+          "id": "55a8f9f868a501e74a6077c2b015cdfc57451234"
         },
         {
           "title": "Review the code in a timely manner.",
-          "id": "d0849504f2f40cfaa37f953b7181d977fd61fffb"
+          "id": "ca01db669ed1de1c861afcbcab17ee60eee194a7"
         }
       ]
     },
@@ -44,23 +44,23 @@
       "validations": [
         {
           "title": "Create small pull requests, which are easier to review.",
-          "id": "2de53d8e214022246201df088f59b14ddb10812a"
+          "id": "0f11793367260b65c0f02daca44daa189f31a138"
         },
         {
           "title": "Take comments as constructive and not personal criticism.",
-          "id": "41c368f8a94057ba3dcde034adfc6d260dcc4089"
+          "id": "a26deaeaf0a83cd7bff4f326239c6493c41bde97"
         },
         {
           "title": "Learn something valuable from the comments.",
-          "id": "429bd428337ee50b0dc4a1ce1e9c64fb3e97b95a"
+          "id": "4c59f7b6a21102b8986c9747d5775bf6d73d78f4"
         },
         {
           "title": "Express appreciation to the reviewer.",
-          "id": "570f8dba353eddb1411a8e838eecc9211734cbda"
+          "id": "390cf8967cb29b54431e9ada8c798d505529fd05"
         },
         {
           "title": "Respond to comments in a timely manner.",
-          "id": "4cee88824647ef8ceebc0619b802a9dd8b258720"
+          "id": "153ecdc7e1fc03696f6d781461d76b16370f3c35"
         }
       ]
     }

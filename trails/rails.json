@@ -16,61 +16,61 @@
         {
           "title": "Complete thoughtbot's Intro to Ruby on Rails Workshop",
           "uri": "http://learn.thoughtbot.com/workshops/20-intro-to-ruby-on-rails",
-          "id": "7098cdb9ba7b81ca21d9698fe01ae82430d3dee6"
+          "id": "f8a5f15bcf7343b63e1351e1cb47dd4862458845"
         },
         {
           "title": "Complete Michael Hartl's Rails Tutorial",
           "uri": "http://ruby.railstutorial.org",
-          "id": "dbe28c25619d315a464afec03d700a8ab3178cbc"
+          "id": "bee3e8b5bcf0e4bb8fb4b81e6d1cb2dd62b8241a"
         },
         {
           "title": "Complete Rails for Zombies",
           "uri": "http://railsforzombies.org/",
-          "id": "539bc3c160e4222b49a36efba5a5d6c3a1dd5b7a"
+          "id": "6ef6f55ef25ba526cc54f4a8c7ae5041ac3155fe"
         },
         {
           "title": "Push your code to Github",
           "uri": "http://github.com",
-          "id": "c6dec2f9f8032740c86a80859cc9a2065614b5fd"
+          "id": "c9e2ed09c227a9fa940ae8c613a285e1dbd11098"
         },
         {
           "title": "Deploy to Heroku",
           "uri": "http://heroku.com",
-          "id": "1f97c562163a560a3064ecdcd821f45077946ecd"
+          "id": "136ff79b03f12489ce334aac9481fcb77d62b068"
         }
       ],
       "validations": [
         {
           "title": "Create a route, controller, and action.",
-          "id": "786e38ba43c9e9c3944b1352f54b2c749397f867"
+          "id": "8138b7af2d77aafdc1f3b718f635f8bb98620d68"
         },
         {
           "title": "Query the database.",
-          "id": "3ba2c5763b8f860458e4bb66cf76db3083251674"
+          "id": "b0031d71a33883896ef88a28d180ffa9f65620fb"
         },
         {
           "title": "Create a form that saves records.",
-          "id": "36c5c9de6c7aff49b83a0a45780a45c82a805c25"
+          "id": "6ec8db11b090e71219b18fff35864982c9cf031a"
         },
         {
           "title": "Associate ActiveRecord objects.",
-          "id": "bcd92cc87cb9bb068702686522c242eabb690cfa"
+          "id": "1d57f56990f849281d28dd70163882d1b3f8df18"
         },
         {
           "title": "Validate ActiveRecord objects.",
-          "id": "555f8a7c8302152318199dde67a78d5e517dcd14"
+          "id": "e2317fdfe53528973dbe64bfc9fe4ed906be9727"
         },
         {
           "title": "Whitelist ActiveRecord attributes.",
-          "id": "2aea3775df38f860f90180066db66075d5d483fc"
+          "id": "54c7f3dfa976c887313df2932f7fd303d5e21845"
         },
         {
           "title": "Interpolate data in a view.",
-          "id": "6140573de6d9eba6e556736d81fac2df0bd46b03"
+          "id": "fd13f851efd832f56f54de6ae4d13dd366e2f472"
         },
         {
           "title": "Deploy your app to production.",
-          "id": "52320e832664fb57336f0dd55e02ac4521bbf7b2"
+          "id": "73c182f568327511b99c86625646bd820abd5e8a"
         }
       ]
     },
@@ -80,55 +80,55 @@
         {
           "title": "Complete thoughtbot's Intermediate Ruby on Rails Workshop",
           "uri": "http://learn.thoughtbot.com/workshops/21-intermediate-ruby-on-rails",
-          "id": "c85c236f8fca15ab870e520acbfd94b97cea9082"
+          "id": "d40dab0735c10c13195435fb650941e45fd42093"
         },
         {
           "title": "Complete the RailsApps tutorials",
           "uri": "https://tutorials.railsapps.org/",
-          "id": "81dc718ee94307c002c21a35cda8751bbfd1364b"
+          "id": "4dfce3de741da8f9b4e7864d21e717c88aad7a37"
         },
         {
           "title": "Watch Railscasts",
           "uri": "http://railscasts.com",
-          "id": "73c0d06888c74d9803453c529187bdcf101ca842"
+          "id": "21b160b42f60d81f9f8043aea48a1fa46c031372"
         }
       ],
       "validations": [
         {
           "title": "Move code from views and controllers into models.",
-          "id": "a323f1e74c735163413444e7fd1a969b4d82c632"
+          "id": "2159edf6573e98d4ca1e6bc4dd1836b437d92fff"
         },
         {
           "title": "Create models, views, and controllers without built-in generators.",
-          "id": "c61a53596b1ca48160026a58f3fa86457f3b64c9"
+          "id": "15a9326be51a67520042658851d3c220e8c70e74"
         },
         {
           "title": "Use partials, built-in Rails helpers, and custom helpers to clean up and reduce duplication in your view code",
-          "id": "3e61e588877778170e227a8e0f4f3733d02cf61c"
+          "id": "5db47654031d0b0cc93e5d608986eacdd27753ab"
         },
         {
           "title": "Use the asset pipeline effectively.",
-          "id": "8ec0cb3149674908b168e0b38f06125ae5e4a346"
+          "id": "3869122ec18d8bb14fb9548f948ef1ce783ded9f"
         },
         {
           "title": "Implement user authentication",
-          "id": "e2eab61b6900d3f82a0636c77ce7cc141c50e737"
+          "id": "28f041d1b203af5e64c1eb67ee9d9ed998a52c8d"
         },
         {
           "title": "Use polymorphism to model your domain",
-          "id": "172dce24fa2046daae1114b77255a72e89251ded"
+          "id": "2d38af8626ac627a8ca29239401e592cd0913c93"
         },
         {
           "title": "Implement counter caches and advanced counters",
-          "id": "a5689d588c3e29d85a48b8acacd1535d54247d38"
+          "id": "6920351074b46391927a7cce64d7ce808a075c47"
         },
         {
           "title": "Implement file uploads",
-          "id": "2017bc19194c261ad7fd97fc46225c77fd12691c"
+          "id": "17fe31c3d655a7e4a87d9b4d2a47ee6a46b9a4b6"
         },
         {
           "title": "Add pagination to your application",
-          "id": "577f80be46bca5d04258fbbe73d68e2e1df91bf9"
+          "id": "291c66e2089b416d300475a71a6499cdef26cfb2"
         }
       ]
     },
@@ -138,45 +138,45 @@
         {
           "title": "Complete thoughtbot's Test-Driven Rails Workshop",
           "uri": "http://learn.thoughtbot.com/workshops/18-test-driven-rails",
-          "id": "8a4dc240285261c07a79fbee48c6a3e8d1fc208a"
+          "id": "1092e46d146cdc497b00ee416ab1bc93f58665f5"
         },
         {
           "title": "Complete Rails Testing for Zombies",
           "uri": "http://www.codeschool.com/courses/rails-testing-for-zombies",
-          "id": "f28fcc1f88ce27d5da82edf58917d453e2671e57"
+          "id": "e3a9e6d4070d4c232bcd534420b01428084aced3"
         },
         {
           "title": "Read open source code: example",
           "uri": "https://github.com/copycopter/copycopter-server",
-          "id": "4fee63bb482922cfb9d923bdea3eae9cb3a38284"
+          "id": "c12a9606ecd8f7f35428fbbf81c4690253c3fe60"
         },
         {
           "title": "Review the thoughtbot style guide",
           "uri": "https://github.com/thoughtbot/guides/tree/master/style",
-          "id": "30021911ea5e24ba77fcdb475414c4085c923147"
+          "id": "5d361df5a84c06cb4d80429b44632c4857fe3562"
         },
         {
           "title": "Subscribe to the Rails Core mailing list",
           "uri": "http://goo.gl/YU3Ml",
-          "id": "c6cca276ddbe2b45ca54ab042590675be83dd3da"
+          "id": "06c245b28346f2fc5570bff25c1c1fd5a18c7f4d"
         }
       ],
       "validations": [
         {
           "title": "Write and run tests for your models.",
-          "id": "d04163766d8572e3a39a3f448c00f3747f1049f7"
+          "id": "c9ba58526054d4ccb6204b933f1128410d1d1fde"
         },
         {
           "title": "Write and run acceptance tests for your application.",
-          "id": "638a81cc8fccd7cf0289f6a048d9f61d264615cf"
+          "id": "be439003755615d97d49234b4d009fad6debccf5"
         },
         {
           "title": "Contribute to an open source project",
-          "id": "14fb151241cc785f4dc76f88cc469bcb76a9b124"
+          "id": "7940382c8623312ccbc4e2e16a9a8105db749bb2"
         },
         {
           "title": "Stick to a style guide",
-          "id": "30021911ea5e24ba77fcdb475414c4085c923147"
+          "id": "a78e7b31330399aefb0817612259c3ff72166706"
         }
       ]
     },
@@ -186,12 +186,12 @@
         {
           "title": "Refer to the API documentation",
           "uri": "http://api.rubyonrails.org",
-          "id": "a26f70b34048c6fe6f09c423efe9cfeb9ec5c923"
+          "id": "6fc15fca979be6bec6fa9de3418dc4f22c8febad"
         },
         {
           "title": "Refer to the official guides",
           "uri": "http://guides.rubyonrails.org",
-          "id": "bc7c33a4128451a648e29a03a7fc90869940533b"
+          "id": "0caf64928f85b7b54ae010f87c81d67e1a077d66"
         }
       ]
     }

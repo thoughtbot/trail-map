@@ -8,70 +8,70 @@
         {
           "title": "Read 'Visual Grammar' for an introduction to visual principles of design",
           "uri": "http://amzn.to/visual-grammar",
-          "id": "569fd51c972e75cab47fa7d6f96b0d90434502a8",
+          "id": "5f310b6284d1108d3bdef2d842788d5d00ec7d4f",
           "publisher": "http://www.papress.com/html/book.details.page.tpl?isbn=9781568985817"
         },
         {
           "title": "Read 'Grid Systems: Principles of Organizing Type' for an introduction to grid systems",
           "uri": "http://amzn.to/grid-systems-principles",
-          "id": "9ba03a7b939dba2e2c2fa3ca731732bb2caf489a",
+          "id": "f80eba393d682cba5d5e7baa276f9234ff5350e9",
           "publisher": "http://www.papress.com/html/book.details.page.tpl?isbn=9781568984650"
         },
         {
           "title": "Read 'Thinking with Type' for an introduction to Typography",
           "uri": "http://amzn.to/thinking-with-type",
-          "id": "47d56ab5c431e1ff8ce9625f554f4ed04be05c7a",
+          "id": "ff974a18486a6c83460ada7eec536e096d62c6da",
           "publisher": "http://www.papress.com/html/book.details.page.tpl?isbn=9781568989693"
         },
         {
           "title": "Read 'Understanding Color: An Introduction for Designers' for an introduction to Color theory",
           "uri": "http://amzn.com/0470381353",
-          "id": "2b95b6d8d58a123d8dff9b92b20c4067d33f1aa3",
+          "id": "b01f7d3313dc03c9c0ebe5459a5cb4fd2e454c04",
           "publisher": "http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470381353.html",
           "ibook": "itms-books://itunes.apple.com/us/book/understanding-color/id493857267"
         },
         {
           "title": "Take thoughtbot's Design for Developers workshop",
           "uri": "http://learn.thoughtbot.com/workshops/19-design-for-developers",
-          "id": "3a2c06337724415c79cd2b90e339cee445108f40"
+          "id": "3cee3342525517c0e864904ed18ca61faf370a67"
         }
       ],
       "validations": [
         {
           "title": "Have a basic understanding of visual principles",
-          "id": "e43a99a238057032981374ed6bdd1434b8c2f007"
+          "id": "547c9cf6ab593396a69301481c06eececd0c47df"
         },
         {
           "title": "Use visual principles in your design",
-          "id": "18e6c9ca27e9e0b25d19eb13c6e9e96b0bbda1fe"
+          "id": "6e8ae7d43062f0b4fd233f5de973a8adb5dd6c8e"
         },
         {
           "title": "Communicate visual design principles in your work and others",
-          "id": "9677b4dcd18d47eaa4d1cb66fb094d636e0e373f"
+          "id": "96e177811186bdc406fb84236008fa0bad70068b"
         },
         {
           "title": "Create and use a simple grid within your work",
-          "id": "171df1062e40f4ac0a93f49d7ef0ae3c644d52bd"
+          "id": "7f85b76a9067157b4e52dd2d63f3dea010c4dc0f"
         },
         {
           "title": "Maintain a clear hierarchy within your work",
-          "id": "ea10a432aa10d6d486fe52e308b8420a57ab3cc0"
+          "id": "69094990c2bf1d6a35650da82d334de6486b214a"
         },
         {
           "title": "Elements in your design are aligned to the grid and have relationships to the other elements in the design",
-          "id": "29d3ccaaf040a69fd8e1a203e314a8b3b1f7d788"
+          "id": "e1095e326c6454fe05668aede2479202dc7af582"
         },
         {
           "title": "Are able to properly set type within your work",
-          "id": "6969f19410189c5010a1cf0360a1cd1974ad1fef"
+          "id": "d1712162ac3ec525bdb081a3c68934bc4bdd3e84"
         },
         {
           "title": "Are able to choose an adequate typeface for the message in your design",
-          "id": "4116f4d2f98f35c8e4ca8fab24c7c82e938ef162"
+          "id": "aae2675a05aa3ad9fafcb597acf15dfd9388415c"
         },
         {
           "title": "You can assign colors to elements to add value to the message",
-          "id": "39bd5cda20dc1ca899bd67c82d8203f4435ae42e"
+          "id": "5cc92b080b64ed1d25b77e5e1eed0ec7246956e1"
         }
       ]
     },
@@ -81,17 +81,17 @@
         {
           "title": "Visit 'Visual Principles' on Learn to augment your learning on visual principles",
           "uri": "https://learn.thoughtbot.com/visual-principles",
-          "id": "63a00ac9bf5bd6ca22e6200a2357baa123d2387d"
+          "id": "c8388803f5441a05bba7be4bb216a69088c2dbb0"
         },
         {
           "title": "Visit 'Grid Systems' on Learn to augment your learning on grid systems",
           "uri": "https://learn.thoughtbot.com/grids",
-          "id": "181b484df768931aa2509337d76ad1f4a4afa5ca"
+          "id": "4e81f6a416e0ae2bf2e9471104e6e24463f95d1d"
         },
         {
           "title": "Visit 'Typography' on Learn to augment your learning on typography",
           "uri": "https://learn.thoughtbot.com/typography",
-          "id": "0b8f7e81fa05fc05abd6fdf158159adb12f2b2a7"
+          "id": "167bf19a49644cf52a398f88ed0762e6446fc412"
         }
       ]
     },
@@ -101,7 +101,7 @@
         {
           "title": "Visit 'Web Design' on Learn",
           "uri": "https://learn.thoughtbot.com/web+design",
-          "id": "e10e490ec642864dbcb5df3908f730efdde4e293"
+          "id": "d1fffe6a15b050674f20ba12b9415616b834bdc9"
         }
       ]
     }

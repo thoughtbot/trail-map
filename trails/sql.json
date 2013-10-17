@@ -8,277 +8,277 @@
         {
           "title": "2.5. Querying a Table",
           "uri": "http://www.postgresql.org/docs/current/static/tutorial-select.html",
-          "id": "d9a7ed45d014cb8b94c65feabaf46d37b6dbf714"
+          "id": "00f7f7566218075047b9a62705fdfdd5eedbcf98"
         },
         {
           "title": "2.6. Joins Between Tables",
           "uri": "http://www.postgresql.org/docs/current/static/tutorial-join.html",
-          "id": "002a3ddf7baa9e57297e831a141dca3ba6d6ddc4"
+          "id": "cbe6c4ea0e45dd567576e9c0605ff0bfa4fdf203"
         },
         {
           "title": "2.7. Aggregate Functions",
           "uri": "http://www.postgresql.org/docs/current/static/tutorial-agg.html",
-          "id": "f38b1f07187c9d6b5694f42f30cc18f78e99357b"
+          "id": "651cfee4f66b23715908429ec5496c81cc204390"
         },
         {
           "title": "3.5. Window Functions",
           "uri": "http://www.postgresql.org/docs/current/static/tutorial-window.html",
-          "id": "b78e9921c7d90d4f038f62bb71da1d3be399f18c"
+          "id": "541417fbc94777cc3a7402dc00b5d290e95f8f61"
         },
         {
           "title": "4. SQL Syntax",
           "uri": "http://www.postgresql.org/docs/current/static/sql-syntax.html",
-          "id": "fc6498cd72db2060cde2149c8a0afaf726f6b7e3"
+          "id": "7b8f2f96cd791fc3d54669ae59ca539ccff782c3"
         },
         {
           "title": "4.1. Lexical Structure",
           "uri": "http://www.postgresql.org/docs/current/static/sql-syntax-lexical.html",
-          "id": "30a02d4daa2ad1704e24a8513c7fccb249dba1cc"
+          "id": "37eae8260950d851caed1093d77bd192ab909bff"
         },
         {
           "title": "4.2. Value Expressions",
           "uri": "http://www.postgresql.org/docs/current/static/sql-expressions.html",
-          "id": "ed2fd0022016e28ff935d7450b6b30fe7e891faa"
+          "id": "8d2143d7a4d1aaca5b943fe385acd7a47f71c233"
         },
         {
           "title": "5. Data Definition",
           "uri": "http://www.postgresql.org/docs/current/static/ddl.html",
-          "id": "45e5e4dc0d77750914a8deb3d3577aefd28d1f1c"
+          "id": "ea5d27e91c0fdc75562362e951a14a771319c647"
         },
         {
           "title": "5.1. Table Basics",
           "uri": "http://www.postgresql.org/docs/current/static/ddl-basics.html",
-          "id": "445e18867de246d985af22674ddae48f715516e0"
+          "id": "adea42930b77299cca9125a921d2ee501e607c6e"
         },
         {
           "title": "5.2. Default Values",
           "uri": "http://www.postgresql.org/docs/current/static/ddl-default.html",
-          "id": "146607a432efd5016a57ea0824a11fd1709944a1"
+          "id": "6c4f24a6b249ea8b353c62201a2f2e96e3b630b5"
         },
         {
           "title": "5.3. Constraints",
           "uri": "http://www.postgresql.org/docs/current/static/ddl-constraints.html",
-          "id": "45a14cd39faa495923345f2bbbd9050486791014"
+          "id": "8e0dd639862b3c45a62513cde6cb4e2542863c4d"
         },
         {
           "title": "5.5. Modifying Tables",
           "uri": "http://www.postgresql.org/docs/current/static/ddl-alter.html",
-          "id": "ce0fe492e6d328d01cf79da097e6f6969266065e"
+          "id": "767e6869cbe00e590942c8142ca62b7edadd5bd0"
         },
         {
           "title": "6. Data Manipulation",
           "uri": "http://www.postgresql.org/docs/current/static/dml.html",
-          "id": "cfea893ad9dc5ca94c3dc54a45c732fe6e1d225d"
+          "id": "376cc9608d89219d5e11d0f6294b7d0351cdf504"
         },
         {
           "title": "6.1. Inserting Data",
           "uri": "http://www.postgresql.org/docs/current/static/dml-insert.html",
-          "id": "aaa45b1131ee89257f0a06300d7a365aca662caf"
+          "id": "64a264095029ef78e2199ba64f2777541d038b89"
         },
         {
           "title": "6.2. Updating Data",
           "uri": "http://www.postgresql.org/docs/current/static/dml-update.html",
-          "id": "0491c6b74e3a81c3878f38c6b6016dc44a381c37"
+          "id": "1d868c712a0dcf2859597b17c2f7bf9a6271197c"
         },
         {
           "title": "6.3. Deleting Data",
           "uri": "http://www.postgresql.org/docs/current/static/dml-delete.html",
-          "id": "adc765d87b39a47659d4ab555f3f0bf7f0560e89"
+          "id": "12479a89a4988ebbf86eebd27c71e39aa8c6749b"
         },
         {
           "title": "7. Queries",
           "uri": "http://www.postgresql.org/docs/current/static/queries.html",
-          "id": "b8363d20707c9204affc09f2d6d5ffaff0a43b7b"
+          "id": "a71235f42721968cbbac73f026a1974d1f18abd1"
         },
         {
           "title": "7.1. Overview",
           "uri": "http://www.postgresql.org/docs/current/static/queries-overview.html",
-          "id": "4cec99a7f1f2e40938bcbfb0c4fdacd1e46c2954"
+          "id": "fdca992c2491148fab2f1d083467172561089c99"
         },
         {
           "title": "7.2. Table Expressions",
           "uri": "http://www.postgresql.org/docs/current/static/queries-table-expressions.html",
-          "id": "07a2b0ce6da11c9ade030901f7d9e281ab0cde5e"
+          "id": "dfaaccb537edf7446c518b48a55c04515585da61"
         },
         {
           "title": "7.3. Select Lists",
           "uri": "http://www.postgresql.org/docs/current/static/queries-select-lists.html",
-          "id": "7b159bfc660daba91c86a56109c9e0a760a5f6c0"
+          "id": "58de057113dc775db04df604a7c6136b2a1fb56f"
         },
         {
           "title": "7.4. Combining Queries",
           "uri": "http://www.postgresql.org/docs/current/static/queries-union.html",
-          "id": "57021730c27ed582fcebf763f9c37f5e2ca8d596"
+          "id": "85988c6d062f85d8a186e7e9a1ac790a6f018f2f"
         },
         {
           "title": "7.5. Sorting Rows",
           "uri": "http://www.postgresql.org/docs/current/static/queries-order.html",
-          "id": "0232ae97496fea4b7e3f4e1c57c75ed0d77bc366"
+          "id": "6c5dceb04fe6f214dc26bb6685386445e774a4a4"
         },
         {
           "title": "7.6. LIMIT and OFFSET",
           "uri": "http://www.postgresql.org/docs/current/static/queries-limit.html",
-          "id": "65c70738c9481def8008aebcc5decddfaf396636"
+          "id": "17c9091d3f7a0fe06f0239208575b00f57cd4f35"
         },
         {
           "title": "7.7. VALUES Lists",
           "uri": "http://www.postgresql.org/docs/current/static/queries-values.html",
-          "id": "7b7fd273c127c02c137ae41f7f545d4967d30ee1"
+          "id": "93995c3a1181fe351a2eeb2151b0cc5f9d262096"
         },
         {
           "title": "7.8. WITH Queries (Common Table Expressions)",
           "uri": "http://www.postgresql.org/docs/current/static/queries-with.html",
-          "id": "5bb1a9e84a48946662fb9cc6fe7225016b5d6820"
+          "id": "ccedbb3df6d49b2a1e1b93a0df61b5136c31f5d3"
         },
         {
           "title": "9. Functions and Operators",
           "uri": "http://www.postgresql.org/docs/current/static/functions.html",
-          "id": "f94dc3108935df8b1e4cab86877010e7350411b4"
+          "id": "82b2011afdcd245d64c10e0a550c0793391fcbb9"
         },
         {
           "title": "9.1. Logical Operators",
           "uri": "http://www.postgresql.org/docs/current/static/functions-logical.html",
-          "id": "624757c78fd5692f27f76ed9163cd74212fd108e"
+          "id": "ad0bc2e41b03bac786aedf254621e290f6f1f78e"
         },
         {
           "title": "9.2. Comparison Operators",
           "uri": "http://www.postgresql.org/docs/current/static/functions-comparison.html",
-          "id": "e4f8985043d9a8be14ba9992d00e225a61b569b9"
+          "id": "fa93503875cedf54c1f2c2fbb67d668351d8e2ab"
         },
         {
           "title": "9.7.1. LIKE",
           "uri": "http://www.postgresql.org/docs/current/static/functions-matching.html#FUNCTIONS-LIKE",
-          "id": "6e8ece950398af266842785932a9797c8a1b6817"
+          "id": "59c7e88b1ebdfc6c8fb39124671ed5854d8407f8"
         },
         {
           "title": "Subquery Expressions",
           "uri": "http://www.postgresql.org/docs/current/static/functions-subquery.html",
-          "id": "79095639cf2544d3073712b3f47816fbf8b20418"
+          "id": "b9db10d5a58dc98ae74fff24464169d58b8097c7"
         },
         {
           "title": "11. Indexes",
           "uri": "http://www.postgresql.org/docs/current/static/indexes.html",
-          "id": "c8b154e026e176c84eee851398d38ab88f18f473"
+          "id": "2e63af9a05073c1dd81941c5f88b3a189958d35e"
         },
         {
           "title": "11.1. Introduction",
           "uri": "http://www.postgresql.org/docs/current/static/indexes-intro.html",
-          "id": "f4b4b542ddbaebce5d76910f26dabab94f0f536d"
+          "id": "55a278e60c6c3cf31881d24ebc69a866527a7547"
         },
         {
           "title": "11.5. Combining Multiple Indexes",
           "uri": "http://www.postgresql.org/docs/current/static/indexes-bitmap-scans.html",
-          "id": "26451523283c96b2e7e0ea1de681add633b9c0ab"
+          "id": "90736187d249a578c2ce55fa330ea6fc78a34f6d"
         },
         {
           "title": "I. SQL Commands",
           "uri": "http://www.postgresql.org/docs/current/static/sql-commands.html",
-          "id": "4535bce9425bb83ee323631af59cd451a8bf5142"
+          "id": "d1c8fda4d21bb520aed5738cb7228164774253dc"
         },
         {
           "title": "[ALTER TABLE]",
           "uri": "http://www.postgresql.org/docs/current/static/sql-altertable.html",
-          "id": "1ff6bec1c1b1e03f90d83d484a8d5d30b164c5f7"
+          "id": "1f4ac7d796dadb4514d6eddb735b3f61beb4b478"
         },
         {
           "title": "[CREATE INDEX [ CONCURRENTLY ]]",
           "uri": "http://www.postgresql.org/docs/current/static/sql-createindex.html",
-          "id": "86edd44a1c20f9ff6abe5c269a7fc2c9a4ea9f29"
+          "id": "73c2273dc96a380d79c10f2cdcfd0f3846bafb40"
         },
         {
           "title": "[CREATE TABLE]",
           "uri": "http://www.postgresql.org/docs/current/static/sql-createtable.html",
-          "id": "f14a1852b97c3a49b220ce0683c98b31b4327042"
+          "id": "ca9143eb588f9d5b5576fe2173f82b5acc7c5866"
         },
         {
           "title": "[DELETE]",
           "uri": "http://www.postgresql.org/docs/current/static/sql-delete.html",
-          "id": "94fd06f079592601d26725d4fc6222a28b69e283"
+          "id": "66570799bcafd8043d33ba002e87f1e16827fed1"
         },
         {
           "title": "[INSERT]",
           "uri": "http://www.postgresql.org/docs/current/static/sql-insert.html",
-          "id": "8b635aa0cf4d95080cfa5ea7a06e49d02d9d6e28"
+          "id": "d895c70f87a23c7768c283412a39f83ea3e50546"
         },
         {
           "title": "[SELECT]",
           "uri": "http://www.postgresql.org/docs/current/static/sql-select.html",
-          "id": "a3a866c7e577cfe2e9229a8924b23eff49b86ce7"
+          "id": "ce2a39b435872f6e53f41b9d867c12da83854078"
         },
         {
           "title": "[UPDATE]",
           "uri": "http://www.postgresql.org/docs/current/static/sql-update.html",
-          "id": "75e8ff3e7e655448adbfb633d1aa57c884e9d7a6"
+          "id": "a41e5ecd37747d2852666e4e067fa5bcd2b5718c"
         }
       ],
       "validations": [
         {
           "title": "Insert a new record.",
-          "id": "26166c8bb69f7100dfd3063b3d7a93f38d1b587b"
+          "id": "8869a42f262cbf1cd250881c04edd2664f550175"
         },
         {
           "title": "Update one or more records.",
-          "id": "74589989236f9ab77b4bd8d7da3d98ef358de420"
+          "id": "2e55cb7269ea8467780aa4e05021e458f7293c80"
         },
         {
           "title": "Delete one or more records.",
-          "id": "f3b2600653496f46ce8dd56a80aec46bf08eaa39"
+          "id": "f0faf8ed1645de3e49ee77256505866262187d84"
         },
         {
           "title": "Find rows that satisfy one or more conditions.",
-          "id": "79b99b4cccbd482c6c35186ef0057f8a9fd3de3c"
+          "id": "8b1895dbf9dc440ab596377b40f3d49d98d82228"
         },
         {
           "title": "Limit query results.",
-          "id": "01b999e15e5f4a9bedc71226930e168020595cdf"
+          "id": "56ae0d394732c2b11552220f7a61056c26f6444f"
         },
         {
           "title": "Order query results.",
-          "id": "e9ac5850c7f96c713dd564d2e953858d196c7736"
+          "id": "be80fba245b47a45a8ed0bb6e2e984c2ce2cba08"
         },
         {
           "title": "Average values in a column.",
-          "id": "2cb176534ee45c2cae1289e87fb72e32324e7ada"
+          "id": "7e44aa635268c207a6d807f7c9bb388740d43705"
         },
         {
           "title": "Find the mininum value in a column.",
-          "id": "bac7db7cc1d4c75e200ad2fd9134c8252ba9083d"
+          "id": "0935e740ca528706bb4fe8aa3f012db1077f7542"
         },
         {
           "title": "Find the maximum value in a column.",
-          "id": "b8b5f2bad40af98bf3a087d6e2ee21134bcd372d"
+          "id": "799407080f8df7a1dc944710354218bb1f6d86b5"
         },
         {
           "title": "Sum values in a column.",
-          "id": "9d1194e95e5ea62f42c4b4dd61a0367934f8ba3b"
+          "id": "61c9858e531633d58d096cbcebc9b98701bbe8a3"
         },
         {
           "title": "Count values in a column.",
-          "id": "c700cd5be5350ab1721b1862ee347a4f5f1d8a5b"
+          "id": "e96bc758b7d1e00032dfd39bfb7d8e6f140a51f8"
         },
         {
           "title": "Paginate results.",
-          "id": "8872f8e27c50983be045a786e7cbae07c8cae290"
+          "id": "70b17f24cb512f9b38dabab7bfd75e24d553b69e"
         },
         {
           "title": "Suppress duplicates.",
-          "id": "b1f1dd6cd032484db9303dfd2f7cd3af5eea678b"
+          "id": "7fc0018b45542859317fcf39290dab45e15388b2"
         },
         {
           "title": "Answer negation questions. (\"Which students don't take course 101?\")",
-          "id": "0386b685bc1324ebb3496f64c7529b9e1e5f336b"
+          "id": "235213d92565e2ac6477d1094324bb878f863c01"
         },
         {
           "title": "Answer limit questions. (\"Which students take at least 2 courses?\")",
-          "id": "f8b160ecd3822f2278616173266386a4b3cb6dca"
+          "id": "a603ee15324b346040b7542c66ae585d3b056f11"
         },
         {
           "title": "Answer exact questions. (\"Which professors teach only 1 course?\")",
-          "id": "c80f883ac137e17c10ab5da05b70b12f847dfac9"
+          "id": "3f0bf18b40b2eddea9d4504f3d7abc47bc818b3f"
         },
         {
           "title": "Answer relational division questions. (\"Find a plane faster than all trains.\")",
-          "id": "c2062d8f34ff9f4627801b87247abbb08b59e9c9"
+          "id": "7f422679844cda762a735b77421fdf4a5403ad53"
         }
       ]
     },
@@ -288,7 +288,7 @@
         {
           "title": "SQL Cookbook",
           "uri": "http://amzn.com/0596009763",
-          "id": "afa03a8d12570cad4565a3b2640804e14b35a106",
+          "id": "4c0e420a37bce6bdddad44f1cbaf3e1fbcda62dd",
           "publisher": "http://shop.oreilly.com/product/9780596009762.do",
           "ibook": "itms-books://itunes.apple.com/us/book/sql-cookbook/id396890915?mt=11"
         }

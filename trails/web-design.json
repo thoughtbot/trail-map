@@ -14,7 +14,7 @@
         {
           "title": "Visual Design on Learn",
           "uri": "https://learn.thoughtbot.com/design",
-          "id": "f9987cce1a767e6454d802f539800b67abe1f15c"
+          "id": "e74be440df282871b1d2f1a220f582eb85dca310"
         }
       ]
     },
@@ -24,57 +24,57 @@
         {
           "title": "Read 'A Practical Guide to Designing for the Web'",
           "uri": "http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web",
-          "id": "526880b6c4998e7fa9ee2a7c00ce744d7adcc962",
+          "id": "ffe38c1588aab29ebfde08431de5e764aacdb22c",
           "ibook": "itms-books://itunes.apple.com/us/book/practical-guide-to-designing/id447639608?mt=11"
         },
         {
           "title": "Read 'A Dao of Web Design'",
           "uri": "http://www.alistapart.com/articles/dao/",
-          "id": "c0b6abacee3beb4828b40c83f2121790fddcb54d"
+          "id": "457bc3ee86610670bb01965f6db5897c33e4acb1"
         },
         {
           "title": "Read 'Don't Make Me Think: A Common Sense Approach to Web Usability'",
           "uri": "http://amzn.com/0321344758",
-          "id": "71cf585a0a50b7f1f6bf21df21ae53924e66d5bd",
+          "id": "a1c654238bbd46fd43b1bd54920785a491204bff",
           "publisher": "http://www.sensible.com/dmmt.html",
           "ibook": "itms-books://itunes.apple.com/us/book/dont-make-me-think-common/id399578833?mt=11"
         },
         {
           "title": "Skim through 'Designing With Web Standards'",
           "uri": "http://amzn.com/0321616952",
-          "id": "313f21abc7944875b70a03e9c96fcd9d6565f2d7",
+          "id": "1ac6023ab422ffb4c6cba052bad9e2ec3673cc3c",
           "publisher": "http://www.zeldman.com/dwws/"
         },
         {
           "title": "Read 'Understanding Web Design'",
           "uri": "http://www.alistapart.com/articles/understandingwebdesign/",
-          "id": "b1b385504d9749424a1871cc79804e8ec044c290"
+          "id": "1943343cc872b55e181a4dbf2f784e90d68e039a"
         }
       ],
       "validations": [
         {
           "title": "Apply basic design principles to the web.",
-          "id": "ce34e8b7ba9d4b47fa87c3a753f6e0d79358144e"
+          "id": "02452c38bb724274309e28803d01d915dd658e7f"
         },
         {
           "title": "Create hierarchy within the design and type",
-          "id": "76a0c1c8e7d905e7a5f17383c11f25101f2bca4b"
+          "id": "51d58289a2c9b96b578fa35d6e74f58002593240"
         },
         {
           "title": "Design a layout that is flexible and changes based on screen size",
-          "id": "5a12ca3dc4f1e2cca660490ab368568d3912f74c"
+          "id": "5499146750dc278414a591a30d9e3074af75584f"
         },
         {
           "title": "Understand the challenges and differences for designing for the web",
-          "id": "6222daae4d36269071bc9b12593a01f6d44a1053"
+          "id": "84517b648a82c1efe2770602a467757e07304fe1"
         },
         {
           "title": "Understand what goes into building an HTML page with CSS.",
-          "id": "bfd2c3741f35ce6f77623d0cd0bf44bdc0c11a3d"
+          "id": "cfa75d0f4e6117a4f4109d9a5d56bea0b744c8c1"
         },
         {
           "title": "Know that your design will look different in every browser on every machine.",
-          "id": "f5ada1a217d2dc7ea8d0475ea2216ac617ba41e1"
+          "id": "985348c74c42e5710797154fc2d601a2c1dbab65"
         }
       ]
     },
@@ -84,21 +84,21 @@
         {
           "title": "Read 'Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems' to understand how to run a adhoc usability test.",
           "uri": "http://amzn.com/0321657292",
-          "id": "c68ff73823dd996b1917c452424a2c020366101e",
+          "id": "38d39b9150682b84e4c12452cca19a2a9b60deff",
           "publisher": "http://www.sensible.com/rsme.html",
           "ibook": "itms-books://itunes.apple.com/us/book/rocket-surgery-made-easy-do/id399580949?mt=11"
         },
         {
           "title": "Read 'The Design of Everyday Things' to see how other people have already applied user experience to real world products.",
           "uri": "http://amzn.com/0465067107",
-          "id": "1afadd7fdabb6030c05a7b262aa15eb1c6100a94",
+          "id": "e8f2410746db0c24ecf5a0ec5bd425a7e3f78420",
           "publisher": "http://www.jnd.org/books/the-design-of-everyday-things.html",
           "ibook": "itms-books://itunes.apple.com/us/book/rocket-surgery-made-easy-do/id399580949?mt=11"
         },
         {
           "title": "Read through all of the weeks of '52 Weeks of UX'",
           "uri": "http://52weeksofux.com/",
-          "id": "e6ceb4be99bf07e9c9c6ac4bc4c422872b2f33ab"
+          "id": "b1a9072774872e9ad2d178e76f3b36584c224e29"
         }
       ]
     },
@@ -108,12 +108,12 @@
         {
           "title": "A List Apart",
           "uri": "http://www.alistapart.com/",
-          "id": "e393caadadb1e399fac3c38718294c4f1d19ff0a"
+          "id": "8574df353159b86c3ad38ac55257a12b6741c81f"
         },
         {
           "title": "The Manual",
           "uri": "http://alwaysreadthemanual.com/",
-          "id": "455f85811f8dcf74607aa51011e21a1e53c5af0c"
+          "id": "5439f542e0b901600719a251b97e3f2cc31e4481"
         }
       ]
     }
