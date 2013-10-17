@@ -23,7 +23,7 @@ class UUIDGenerator
       if step[item_type]
         step[item_type].each do |item|
           unless item['id']
-            item['id'] = Digest::SHA1.hexdigest(item['title'])
+            item['id'] = Digest::SHA1.hexdigest("#{item['title']}-#{step['name']}")
           end
         end
       end
