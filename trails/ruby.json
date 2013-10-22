@@ -17,19 +17,19 @@
           "id": "cde6cffce2d06a3989ab936986311043afef9261"
         },
         {
-          "title": "Read Learn Ruby The Hard Way.",
+          "title": "Read Learn Ruby The Hard Way",
           "uri": "http://ruby.learncodethehardway.org/book/",
           "id": "5909ddee7e9b4e2233ea432599d3b280df7b2630"
         },
         {
-          "title": "Read The Well-Grounded Rubyist.",
+          "title": "Read The Well-Grounded Rubyist",
           "uri": "http://amzn.to/grounded-rubyist",
           "id": "c3dd3f0bdfb78932257723150ad2d59c6a691e3b",
           "publisher": "http://www.manning.com/black2/",
           "ibook": "itms-books://itunes.apple.com/us/book/the-well-grounded-rubyist/id402503392?mt=11"
         },
         {
-          "title": "Read Why's Poignant Guide.",
+          "title": "Read Why's Poignant Guide",
           "uri": "http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html",
           "id": "17d73c796447dbbd7afa5896da547c7fd0968af0"
         }
@@ -70,12 +70,12 @@
       "level": "intermediate",
       "resources": [
         {
-          "title": "Complete the Ruby Koans.",
+          "title": "Complete the Ruby Koans",
           "uri": "http://rubykoans.com",
           "id": "1401fe762852bde4c44a57e752c3bce012f19e5a"
         },
         {
-          "title": "Read examples of source code, like this one.",
+          "title": "Read examples of source code, like this one",
           "uri": "https://github.com/jferris/effigy/tree/master/lib",
           "id": "fc5c572c0fd945a7b5d4025f9d29531714a385c0"
         },

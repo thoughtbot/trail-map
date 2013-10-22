@@ -48,19 +48,19 @@
           "id": "a3fe4879dff7eda0935d70e57fca2c90dc39b519"
         },
         {
-          "title": "Understand the box model",
+          "title": "Understand the box model.",
           "id": "06658a0fd0bba774024bf850bf2145b177732ef7"
         },
         {
-          "title": "Understand floating and positioning",
+          "title": "Understand floating and positioning.",
           "id": "75a16c2513757729174e1aabb4d9f92a8f1f8708"
         },
         {
-          "title": "Style text",
+          "title": "Style text.",
           "id": "f6c26587c3d382fc5aa9ecd6fe16a23b8d145244"
         },
         {
-          "title": "Quickly build a simple layout",
+          "title": "Quickly build a simple layout.",
           "id": "60c527c909e214b60bcd5d7625c3f2d879a6e725"
         }
       ]
@@ -87,35 +87,35 @@
           "id": "16fabbaf7a203c9c764a0d5474a7f8baff0a81bb"
         },
         {
-          "title": "Understand the difference between <section> and <div>",
+          "title": "Understand the difference between <section> and <div>.",
           "id": "08ab12444e0607ecd1543551bb9ecedef26629c7"
         },
         {
-          "title": "Know all of the new form input types and if used how to safely degrade them to older browsers",
+          "title": "Know all of the new form input types and if used how to safely degrade them to older browsers.",
           "id": "ddc0dcd3a995cb4f5cea734841a73af061c4b549"
         },
         {
-          "title": "Apply a box shadow, rounded corners, and text shadow",
+          "title": "Apply a box shadow, rounded corners, and text shadow.",
           "id": "716ec582fb914e453001d74b175def2fb9cd112d"
         },
         {
-          "title": "Use RGBa, HSL, HSLa, and opacity",
+          "title": "Use RGBa, HSL, HSLa, and opacity.",
           "id": "a472be29ea68bada79c1255738bd9e06649b9d15"
         },
         {
-          "title": "Know transitions and animations and where to apply them",
+          "title": "Know transitions and animations and where to apply them.",
           "id": "d0d046d4e4db8b1544f78a6c611948a47e297f57"
         },
         {
-          "title": "Know what vendor prefixes are, why they are used",
+          "title": "Know what vendor prefixes are, why they are used.",
           "id": "3f2a3c791ac5c2993ca47d0b452be27eb3b68232"
         },
         {
-          "title": "Understand how box-sizing changes the box model",
+          "title": "Understand how box-sizing changes the box model.",
           "id": "3c4010eaa87bb3a1e1bfa2977109b3b7aab0a66c"
         },
         {
-          "title": "Know the new pseudo-selectors and know their uses",
+          "title": "Know the new pseudo-selectors and know their uses.",
           "id": "aecf8e1709cd0d7072fefd09c1b422664d7cb4a9"
         }
       ]
@@ -169,7 +169,7 @@
           "id": "01971d640fcadd447281de6625c1e1d9e9de3191"
         },
         {
-          "title": "Understand where breakpoints should be inserted into design",
+          "title": "Understand where breakpoints should be inserted into design.",
           "id": "ea0ee7c8e63533b284fcdd703cea7a44038b5b09"
         },
         {
@@ -181,7 +181,7 @@
           "id": "b3ab3fd91be55312acd85cb227ccc8844e4c5670"
         },
         {
-          "title": "Understand how best to serve images to mobile and retina screens",
+          "title": "Understand how best to serve images to mobile and retina screens.",
           "id": "fcaa691226b6b10f3f1ded6f2218ec974566aaa4"
         }
       ]

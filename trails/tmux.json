@@ -33,27 +33,27 @@
       ],
       "validations": [
         {
-          "title": "Attach, detach, and reattach to a session",
+          "title": "Attach, detach, and reattach to a session.",
           "id": "283ffb0b724711051276f05fcf14587e03ffdb67"
         },
         {
-          "title": "Create, switch, and close windows",
+          "title": "Create, switch, and close windows.",
           "id": "dd3ff2a531b6b2b9349d5d1c883837d0ccc6223e"
         },
         {
-          "title": "Rename windows",
+          "title": "Rename windows.",
           "id": "31db613c8ca08d5f3bf44f7a1603b43b14617ffc"
         },
         {
-          "title": "Split panes vertically and horizontally",
+          "title": "Split panes vertically and horizontally.",
           "id": "fb3ee555344e99ca7acde98200a577b7a2201629"
         },
         {
-          "title": "Switch and close panes",
+          "title": "Switch and close panes.",
           "id": "25136fd0a5a05223e97f6eac2550a33876b1e6fa"
         },
         {
-          "title": "Resize and rotate panes",
+          "title": "Resize and rotate panes.",
           "id": "648035715b2546327401d97f75f9b44ed62b251c"
         }
       ]

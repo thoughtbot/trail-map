@@ -30,11 +30,11 @@
       ],
       "validations": [
         {
-          "title": "Write a Procfile",
+          "title": "Write a Procfile.",
           "id": "227f8f8cb2c281fae790fbd4dcdeaf0c72a72d03"
         },
         {
-          "title": "Store secrets and environmental variables in config vars",
+          "title": "Store secrets and environmental variables in config vars.",
           "id": "3d0dc5337d810f869dda2830ad7599f4674176f5"
         },
         {
@@ -42,11 +42,11 @@
           "id": "7c3a314e09b51822b69748bca96da404f791f4c1"
         },
         {
-          "title": "Provision an add-on",
+          "title": "Provision an add-on.",
           "id": "65fa4796646f81f405808e0463b216d869296925"
         },
         {
-          "title": "Add a dyno to an app",
+          "title": "Add a dyno to an app.",
           "id": "8e0ebacf01b2eb21a2f5ca96fb36cdbf3b69f4d3"
         }
       ]
@@ -73,27 +73,27 @@
       ],
       "validations": [
         {
-          "title": "Understand the worker pattern",
+          "title": "Understand the worker pattern.",
           "id": "0e88dcb500d8c65147c41ca663cbce7914c25b71"
         },
         {
-          "title": "Achieve dev-prod parity by using foreman locally",
+          "title": "Achieve dev-prod parity by using foreman locally.",
           "id": "1732e1fc69d5c56d84e4041b580954c758da936d"
         },
         {
-          "title": "Leverage Heroku logs as a source of visibility into app performance",
+          "title": "Leverage Heroku logs as a source of visibility into app performance.",
           "id": "f342dc8209adc62f28b2a02905759dc86c88f8a4"
         },
         {
-          "title": "Build an app with a concurrent web server",
+          "title": "Build an app with a concurrent web server.",
           "id": "35387c0d077273c8c6b8bc86d452402439900ef8"
         },
         {
-          "title": "Understand request queuing",
+          "title": "Understand request queuing.",
           "id": "d93af37f6f189d3640c3bf753303f1fe7af702f4"
         },
         {
-          "title": "Use a tool like New Relic to gain visibility into response time variability",
+          "title": "Use a tool like New Relic to gain visibility into response time variability.",
           "id": "a8dd9f056b751b1925c8d05662d93ae290df33d5"
         }
       ]
