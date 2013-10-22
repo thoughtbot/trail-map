@@ -107,7 +107,7 @@
           "id": "c61a53596b1ca48160026a58f3fa86457f3b64c9"
         },
         {
-          "title": "Use partials, built-in Rails helpers, and custom helpers to clean up and reduce duplication in your view code",
+          "title": "Use partials, built-in Rails helpers, and custom helpers to clean up and reduce duplication in your view code.",
           "id": "3e61e588877778170e227a8e0f4f3733d02cf61c"
         },
         {
@@ -115,23 +115,23 @@
           "id": "8ec0cb3149674908b168e0b38f06125ae5e4a346"
         },
         {
-          "title": "Implement user authentication",
+          "title": "Implement user authentication.",
           "id": "e2eab61b6900d3f82a0636c77ce7cc141c50e737"
         },
         {
-          "title": "Use polymorphism to model your domain",
+          "title": "Use polymorphism to model your domain.",
           "id": "172dce24fa2046daae1114b77255a72e89251ded"
         },
         {
-          "title": "Implement counter caches and advanced counters",
+          "title": "Implement counter caches and advanced counters.",
           "id": "a5689d588c3e29d85a48b8acacd1535d54247d38"
         },
         {
-          "title": "Implement file uploads",
+          "title": "Implement file uploads.",
           "id": "2017bc19194c261ad7fd97fc46225c77fd12691c"
         },
         {
-          "title": "Add pagination to your application",
+          "title": "Add pagination to your application.",
           "id": "577f80be46bca5d04258fbbe73d68e2e1df91bf9"
         }
       ]
@@ -177,11 +177,11 @@
           "id": "638a81cc8fccd7cf0289f6a048d9f61d264615cf"
         },
         {
-          "title": "Contribute to an open source project",
+          "title": "Contribute to an open source project.",
           "id": "14fb151241cc785f4dc76f88cc469bcb76a9b124"
         },
         {
-          "title": "Stick to a style guide",
+          "title": "Stick to a style guide.",
           "id": "30021911ea5e24ba77fcdb475414c4085c923147"
         }
       ]

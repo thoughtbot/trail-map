@@ -24,63 +24,63 @@
       ],
       "validations": [
         {
-          "title": "Initialize a repository",
+          "title": "Initialize a repository.",
           "id": "ff25b46bc55ffd0bee25470354a56b6f21def0b5"
         },
         {
-          "title": "Clone a repository",
+          "title": "Clone a repository.",
           "id": "de7fda5bf07c49c938ba8ec46aa2c74d90d0b91b"
         },
         {
-          "title": "Ignore files",
+          "title": "Ignore files.",
           "id": "61dbcb4b24575d906db7d56beaf67990cd7c43da"
         },
         {
-          "title": "Add a file to staging",
+          "title": "Add a file to staging.",
           "id": "8b0fa13d4be2a9047a6638ada5df3f5446b910a1"
         },
         {
-          "title": "Unstage a file",
+          "title": "Unstage a file.",
           "id": "029bb0a36d8c541234f095cfdbf91aff4e041fc0"
         },
         {
-          "title": "Check status",
+          "title": "Check status.",
           "id": "07adf97a76fb80c6d062a86e969f1f8e536ae098"
         },
         {
-          "title": "View a diff",
+          "title": "View a diff.",
           "id": "07280cb812da0f73e160408db068f256c3ca54ff"
         },
         {
-          "title": "Create a commit",
+          "title": "Create a commit.",
           "id": "cab73a959ee344204b0a6d9778d589c4298dd9d3"
         },
         {
-          "title": "Push to origin",
+          "title": "Push to origin.",
           "id": "d5e0ac52487cfd72e63521bb533e3fc50303cbb7"
         },
         {
-          "title": "Pull remote changes locally",
+          "title": "Pull remote changes locally.",
           "id": "9317aef511220d4d3eff822b944902cf106d170f"
         },
         {
-          "title": "Resolve a conflict",
+          "title": "Resolve a conflict.",
           "id": "62652b80837a3a7e62bafdc7e84074bc0d07af64"
         },
         {
-          "title": "Create a branch",
+          "title": "Create a branch.",
           "id": "6f9226a72e59a0aff51d2e20fc4fa469fbba3a67"
         },
         {
-          "title": "Merge a branch into master",
+          "title": "Merge a branch into master.",
           "id": "b266e5ee9abc14b84ef83f57a8bc0181cac49849"
         },
         {
-          "title": "Push to a remote branch",
+          "title": "Push to a remote branch.",
           "id": "869a32ef65f85ac040b6894ff1586f9080225608"
         },
         {
-          "title": "Rebase origin/master into a branch",
+          "title": "Rebase origin/master into a branch.",
           "id": "f8630df75551c450a81d9146ae2cf336b28ddf40"
         }
       ]
@@ -90,7 +90,7 @@
       "level": "intermediate",
       "resources": [
         {
-          "title": "Watch the Distributed Workflow gitcast.",
+          "title": "Watch the Distributed Workflow gitcast",
           "uri": "http://www.youtube.com/watch?v=KWNIKb6sftw",
           "id": "909e39cd2c41596f5a136fcbb5f0908f4ef7359e"
         },
@@ -100,34 +100,34 @@
           "id": "d4d8a6d0b6b4f3aace8bb05b82fe45519c715e71"
         },
         {
-          "title": "Read gitready articles that interest you.",
+          "title": "Read gitready articles that interest you",
           "uri": "http://gitready.com",
           "id": "1153773f1dc8a6fc28401d6229521f6f4efc4360"
         }
       ],
       "validations": [
         {
-          "title": "Add a remote",
+          "title": "Add a remote.",
           "id": "e73ff8a3257fddfdb8d70c6e616749011049a799"
         },
         {
-          "title": "Amend a commit",
+          "title": "Amend a commit.",
           "id": "e57ffdff9b978e7277616294b1fecaf0a5c83d25"
         },
         {
-          "title": "Show a commit by SHA hash",
+          "title": "Show a commit by SHA hash.",
           "id": "5ed6f83c795e2e62fc4e85cb4784bc98dd2e5929"
         },
         {
-          "title": "Stash changes",
+          "title": "Stash changes.",
           "id": "c747d75cac93cf73494bd41dca993609a188710c"
         },
         {
-          "title": "Squash commits",
+          "title": "Squash commits.",
           "id": "01ab03f52ba4de6bc879222feadbd176e506afc5"
         },
         {
-          "title": "Create a tag",
+          "title": "Create a tag.",
           "id": "c5a7c043820a51491c1c7e5ab82c466072ac2bbd"
         }
       ]
@@ -137,27 +137,27 @@
       "level": "advanced",
       "validations": [
         {
-          "title": "Cherry pick commits",
+          "title": "Cherry pick commits.",
           "id": "a3c6e5e1ce2a20ce04a037c183c601cd4df09f7f"
         },
         {
-          "title": "Reorder commits",
+          "title": "Reorder commits.",
           "id": "96da1ff5a56a07284a3f3a7a3b3cd063e4713a25"
         },
         {
-          "title": "Keep either file in merge conflicts",
+          "title": "Keep either file in merge conflicts.",
           "id": "4bc62c4d53f25650f756aeba1c451309d878f674"
         },
         {
-          "title": "Restore lost commits",
+          "title": "Restore lost commits.",
           "id": "28be17b579507c025c4b7f8c1f901acece7075aa"
         },
         {
-          "title": "Visualize commits differently using git log flags",
+          "title": "Visualize commits differently using git log flags.",
           "id": "a247e0af381fa3a38c00e91f81f170eebe720d80"
         },
         {
-          "title": "Visualize changes differently using git diff flags",
+          "title": "Visualize changes differently using git diff flags.",
           "id": "4b0667767888be1930d4c6cffec71980b661ccd3"
         }
       ]

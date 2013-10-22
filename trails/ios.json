@@ -169,7 +169,7 @@
           "id": "5856a49564090ea7557d03ea5ab8a0ce1167856b"
         },
         {
-          "title": "Implement a multi-tasking environment free of race conditions (using appropriate locking techniques such as mutexes and semaphores, message passing, etc)",
+          "title": "Implement a multi-tasking environment free of race conditions (using appropriate locking techniques such as mutexes and semaphores, message passing, etc).",
           "id": "f5c017d847a889fd4683e70babcc0ccb22c1f58c"
         },
         {
