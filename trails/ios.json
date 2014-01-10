@@ -7,12 +7,7 @@
       "level": "beginner",
       "resources": [
         {
-          "title": "Read Learning Objective-C: A Primer",
-          "uri": "http://developer.apple.com/library/mac/#referencelibrary/GettingStarted/Learning_Objective-C_A_Primer/index.html",
-          "id": "b8958ef028a6984fad5c8d63c285d48c453bf843"
-        },
-        {
-          "title": "Read The Objective-C Programming Language",
+          "title": "Read Programming with Objective-C",
           "uri": "http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html",
           "id": "26341a776d7f624192cdb428fded5478c934f6b5"
         },
@@ -57,7 +52,7 @@
         },
         {
           "title": "Read the Mobile Human Interface Guidelines",
-          "uri": "http://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html",
+          "uri": "https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html",
           "id": "99e819108d83aaabdc20d56756d11247631e760e"
         }
       ],
