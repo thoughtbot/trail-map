@@ -140,6 +140,11 @@
           "id": "d64f4f96ac4941268c1994342fa556142977a589"
         },
         {
+          "title": "Subscribe to NSHipster",
+          "uri": "http://www.nshipster.com/",
+          "id": "09aa2f8ed5763945842e163697763447e35d6273"
+        },
+        {
           "title": "Learn about Grand Central Dispatch",
           "uri": "http://developer.apple.com/library/ios/#documentation/Performance/Reference/GCD_libdispatch_Ref/Reference/reference.html",
           "id": "117ad81f498dcb4aac72aec7f280d5c6f94db836"
