@@ -87,6 +87,11 @@
           "type": "workshop"
         },
         {
+          "title": "Agile Web Development with Rails",
+          "uri": "http://pragprog.com/book/rails4/agile-web-development-with-rails-4",
+          "id": "8d597d1d182af59ba89a2d183a5070833e281519"
+        },
+        {
           "title": "Humans Present: Refactoring",
           "uri": "https://learn.thoughtbot.com/products/6-humans-present-refactoring",
           "type": "screencast",
