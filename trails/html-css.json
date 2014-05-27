@@ -83,7 +83,7 @@
       ],
       "validations": [
         {
-          "title": "Use the new HTML5 elements <header>, <hgroup>, <section>, <aside>, <article>, <footer> semantically.",
+          "title": "Use the new HTML5 elements <header>, <section>, <aside>, <article>, <footer> semantically.",
           "id": "16fabbaf7a203c9c764a0d5474a7f8baff0a81bb"
         },
         {
