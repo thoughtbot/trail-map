@@ -5,7 +5,7 @@ NOTE:
 
 As of 11/13/2012, this is now a JSON-only data resource.
 
-To browse the trails, visit [learn.thoughtbot.com](https://learn.thoughtbot.com).
+To browse the trails, visit [learn.thoughtbot.com/trails](https://learn.thoughtbot.com/trails).
 
 Trail map
 =========
