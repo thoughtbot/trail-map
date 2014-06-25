@@ -1,0 +1,102 @@
+{
+  "name": "Swift",
+  "description": "The latest programming language from Apple for OS X and iOS.",
+  "steps": [
+    {
+      "name": "Beginning Swift",
+      "level": "beginner",
+      "resources": [
+        {
+          "title": "Read The Swift Programming Language",
+          "ibook": "itms-books://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11",
+          "id": "aa363b0cc3d695568110dc53f077ba495f8cd51d"
+        },
+        {
+          "title": "Watch Introduction to Swift",
+          "uri": "https://developer.apple.com/videos/wwdc/2014/#402-video",
+          "id": "8ad680c5ec26c23b229d88a06f50e4315ee4f11e"
+        }
+      ],
+      "validations": [
+        {
+          "title": "Understand the difference between `let` and `var`.",
+          "id": "570668f74ed51a67a8aa85f6220df555d9f1fbc3"
+        },
+        {
+          "title": "Use native Swift types like Int and String.",
+          "id": "747ff8ed1a2905906ed9b4d7dbb5fac11d4c6ff3"
+        },
+        {
+          "title": "Use native Swift collections like Array and Dictionary.",
+          "id": "432d1f64d5650a8afaed7c9f1928cc442bb72472"
+        },
+        {
+          "title": "Understand the difference between `class` and `struct`.",
+          "id": "4d6ed03f0bc73303ac5e11850a620292938f6d4a"
+        },
+        {
+          "title": "Allow for a custom struct to be mutated.",
+          "id": "8eb25f8344e14ebcf99be1f97ea253d3689cf36b"
+        },
+        {
+          "title": "Use enums and switches which don't represent integers.",
+          "id": "e89eaf1793e300465f6c2102c522b6abf781d652"
+        },
+        {
+          "title": "Use and understand Optionals.",
+          "id": "aecd79b0e321051a70f595cb7f6a4119f3251dfc"
+        },
+        {
+          "title": "Create functions which take or return closures.",
+          "id": "b781c552fb418fea4b467e01da48f63cc89db11b"
+        }
+      ]
+    },
+    {
+      "name": "Intermediate Swift",
+      "level": "intermediate",
+      "resources": [
+        {
+          "title": "Watch Intermediate Swift",
+          "uri": "https://developer.apple.com/videos/wwdc/2014/#403-video",
+          "id": "d7e4fb863dcd0d0a91d60cb6baf4556194bb5856"
+        },
+        {
+          "title": "Watch Advanced Swift",
+          "uri": "https://developer.apple.com/videos/wwdc/2014/#404-video",
+          "id": "5a4cc31e1d4622dd7ba98529139817df8766dd4d"
+        }
+      ],
+      "validations": [
+        {
+          "title": "Implement a custom collection type using Generics.",
+          "id": "67ae5860e42e2f34b17417e486d43e880b5ea3bc"
+        },
+        {
+          "title": "Use extentions and protocols to extend class and struct functionality.",
+          "id": "89bbb3869823c4f2ba442470bb108466e52f8188"
+        },
+        {
+          "title": "Create subscript functionality on a custom class or struct.",
+          "id": "4fb1d86447ba6d3ecac5543e5b42d5d86b08ffbc"
+        },
+        {
+          "title": "Overload the addition operator for a custom class or struct.",
+          "id": "78db4df1c31d493a6cdd12d7c40c614e21517326"
+        },
+        {
+          "title": "Use pattern matching in a switch statement.",
+          "id": "647825e87ccabb50063a93848b1eab0f69241ed5"
+        },
+        {
+          "title": "Use typealias to create a type for a closure.",
+          "id": "37850f41892a36ddc1f0df695c34c24491eb160f"
+        },
+        {
+          "title": "Use an autoclosure instead of a closure.",
+          "id": "3d38165ad746cdba03c2c13ad041f7a1afb28356"
+        }
+      ]
+    }
+  ]
+}
