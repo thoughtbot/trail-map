@@ -26,14 +26,14 @@ class URIValidator
   end
 
   def head_request_ok?(uri)
-    response = HTTParty.head(uri)
+    response = HTTParty.head(uri, verify: false)
     return response.code == 200
   rescue SocketError, Errno::ECONNREFUSED
     return false
   end
 
   def get_request_ok?(uri)
-    response = HTTParty.get(uri)
+    response = HTTParty.get(uri, verify: false )
     return response.ok?
   rescue SocketError, Errno::ECONNREFUSED
     return false
