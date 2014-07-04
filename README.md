@@ -53,6 +53,7 @@ Trails
 * [Ruby](https://learn.thoughtbot.com/ruby)
 * [Sass](https://learn.thoughtbot.com/sass)
 * [SQL](https://learn.thoughtbot.com/sql)
+* [Swift](https://learn.thoughtbot.com/swift)
 * [Test-Driven Development](https://learn.thoughtbot.com/test-driven+development)
 * [Typography](https://learn.thoughtbot.com/typography)
 * [Unix](https://learn.thoughtbot.com/unix)
@@ -62,8 +63,7 @@ Trails
 Contributing
 ------------
 
-Please see the [Contribution
-Guidelines](/CONTRIBUTING.md).
+Please see the [Contribution Guidelines](/CONTRIBUTING.md).
 
 Credits
 -------
