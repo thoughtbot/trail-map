@@ -78,6 +78,6 @@ Thank you, [contributors](/graphs/contributors)!
 License
 -------
 
-Trail Map is © 2013 thoughtbot, inc. It is free software and may be
+Trail Map is © 2012-2014 thoughtbot, inc. It is free software and may be
 redistributed under the terms specified in the [Creative Commons Attribution
 License](http://creativecommons.org/licenses/by/3.0/).
