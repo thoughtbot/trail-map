@@ -10,6 +10,7 @@
           "title": "Read The Swift Programming Language",
           "uri": "https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11",
           "ibook": "itms-books://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11",
+          "uri": "https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11",
           "id": "aa363b0cc3d695568110dc53f077ba495f8cd51d"
         },
         {
@@ -104,7 +105,8 @@
     {
       "title": "Swift Online Documentation from Apple",
       "uri": "https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/",
-      "id": "aa363b0cc3d695568110dc53f077ba495f8cd51z"
+      "ibook": "itms-books://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11",
+      "id": "aa363b0cc3d695568110dc53f077ba495f8cd51d"
     }
   ]
 }
