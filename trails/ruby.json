@@ -83,6 +83,11 @@
           "title": "Read Chapters 23 and 24 of The Pickaxe",
           "uri": "http://amzn.com/1934356085",
           "id": "7cabf8db13d4618542456504b39a0f26181eb82a"
+        },
+        {
+          "title": "Go through CodeWars",
+          "uri": "http://www.codewars.com",
+          "id": "63f22d32d97a19be9f6b999bda5e860a8f96cb52"
         }
       ],
       "validations": [
