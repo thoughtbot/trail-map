@@ -82,19 +82,19 @@
       "level": "intermediate",
       "resources": [
         {
-          "title": "Visit 'Visual Principles' on Learn to augment your learning on visual principles",
+          "title": "Visit 'Visual Principles' on Upcase to augment your learning on visual principles",
           "uri": "https://upcase.com/visual-principles",
           "id": "63a00ac9bf5bd6ca22e6200a2357baa123d2387d",
           "type": "trail"
         },
         {
-          "title": "Visit 'Grid Systems' on Learn to augment your learning on grid systems",
+          "title": "Visit 'Grid Systems' on Upcase to augment your learning on grid systems",
           "uri": "https://upcase.com/grids",
           "id": "181b484df768931aa2509337d76ad1f4a4afa5ca",
           "type": "trail"
         },
         {
-          "title": "Visit 'Typography' on Learn to augment your learning on typography",
+          "title": "Visit 'Typography' on Upcase to augment your learning on typography",
           "uri": "https://upcase.com/typography",
           "id": "0b8f7e81fa05fc05abd6fdf158159adb12f2b2a7",
           "type": "trail"
@@ -104,7 +104,7 @@
   ],
   "reference": [
     {
-      "title": "Visit 'Web Design' on Learn",
+      "title": "Visit 'Web Design' on Upcase",
       "uri": "https://upcase.com/web+design",
       "id": "e10e490ec642864dbcb5df3908f730efdde4e293",
       "type": "trail"
