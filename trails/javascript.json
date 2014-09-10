@@ -14,8 +14,8 @@
       ],
       "validations": [
         {
-          "title": "Run programs.",
-          "id": "7fcd7bc60a2af535fee2ec5a03426828650b3865"
+          "title": "Run programs. ",
+          "id": "04d7d6703cefe3c65b5712ea9cb19d4aa2faa2ce"
         },
         {
           "title": "Define a function.",
@@ -26,20 +26,20 @@
           "id": "b502fa72a83c67b2cccac826bd6d217929759c8a"
         },
         {
-          "title": "Avoid syntax errors.",
-          "id": "a899b1ba4506e7c994374fd41499d60230ff85e2"
+          "title": "Avoid syntax errors. ",
+          "id": "96197c792dc55a89496acdff9a6d85812cf0735f"
         },
         {
-          "title": "Print values.",
-          "id": "2c4284d27a27a7e8dad31ba8fbe1d7a2703627a2"
+          "title": "Print values. ",
+          "id": "4e360b2745c7522bddec389523848d29bb38156c"
         },
         {
-          "title": "Use common control flow structures.",
-          "id": "344561225d50387d932edbb8932b66209b777fb2"
+          "title": "Use common control flow structures. ",
+          "id": "8b80e349475b2a0007db2136125afe2a59658c71"
         },
         {
-          "title": "Instantiate an object.",
-          "id": "7993ef0e834e4d4658d4d5d4ee4a82563e165c56"
+          "title": "Instantiate an object. ",
+          "id": "af74621321bf31e3e67e13d91be9ab4d878812e2"
         },
         {
           "title": "Initialize arrays using [].",
@@ -50,8 +50,8 @@
           "id": "c6634744917a34e90731bf0131ee55dcb6ea7051"
         },
         {
-          "title": "Iterate over collections.",
-          "id": "a89f3f40edd0bf7e9b83c0e3c6d42bce5b22311f"
+          "title": "Iterate over collections. ",
+          "id": "ddc65e5c2570133e8a3316338d24c33458116ea2"
         },
         {
           "title": "Use Web Inspector to test your ideas.",
