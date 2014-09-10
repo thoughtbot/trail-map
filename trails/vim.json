@@ -11,7 +11,7 @@
       "resources": [
         {
           "title": "The Art of Vim",
-          "uri": "https://learn.thoughtbot.com/products/17-the-art-of-vim",
+          "uri": "https://upcase.com/products/17-the-art-of-vim",
           "type": "video",
           "id": "ed0152b4c87d035e4e04bd28676ea36142ec885b"
         },
@@ -133,7 +133,7 @@
       "resources": [
         {
           "title": "Navigating Ruby Files with Vim",
-          "uri": "https://learn.thoughtbot.com/products/21-navigating-ruby-files-with-vim",
+          "uri": "https://upcase.com/products/21-navigating-ruby-files-with-vim",
           "type": "video",
           "id": "78d8c0495ef4dddf5f005d8e7daed8c112bee30a"
         },

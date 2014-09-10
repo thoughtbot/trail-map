@@ -16,7 +16,7 @@
       "resources": [
         {
           "title": "Complete thoughtbot's Intro to Ruby on Rails Workshop",
-          "uri": "http://learn.thoughtbot.com/workshops/20-intro-to-ruby-on-rails",
+          "uri": "http://upcase.com/workshops/20-intro-to-ruby-on-rails",
           "id": "7098cdb9ba7b81ca21d9698fe01ae82430d3dee6",
           "type": "workshop"
         },
@@ -82,7 +82,7 @@
       "resources": [
         {
           "title": "Complete thoughtbot's Intermediate Ruby on Rails Workshop",
-          "uri": "http://learn.thoughtbot.com/workshops/21-intermediate-ruby-on-rails",
+          "uri": "http://upcase.com/workshops/21-intermediate-ruby-on-rails",
           "id": "c85c236f8fca15ab870e520acbfd94b97cea9082",
           "type": "workshop"
         },
@@ -93,7 +93,7 @@
         },
         {
           "title": "Humans Present: Refactoring",
-          "uri": "https://learn.thoughtbot.com/products/6-humans-present-refactoring",
+          "uri": "https://upcase.com/products/6-humans-present-refactoring",
           "type": "screencast",
           "id": "5748acc036b30fa95050f62aae4afdaff2bc4006"
         },
@@ -153,13 +153,13 @@
       "resources": [
         {
           "title": "Complete thoughtbot's Test-Driven Rails Workshop",
-          "uri": "http://learn.thoughtbot.com/workshops/18-test-driven-rails",
+          "uri": "http://upcase.com/workshops/18-test-driven-rails",
           "id": "8a4dc240285261c07a79fbee48c6a3e8d1fc208a",
           "type": "workshop"
         },
         {
           "title": "Improving Rails Performance",
-          "uri": "https://learn.thoughtbot.com/products/16-improving-rails-performance",
+          "uri": "https://upcase.com/products/16-improving-rails-performance",
           "type": "screencast",
           "id": "cf943c420f20d4775f31252ec9e919716e58ded1"
         },

@@ -8,7 +8,7 @@
       "resources": [
         {
           "title": "Take thoughtbot's Design for Developers workshop",
-          "uri": "http://learn.thoughtbot.com/workshops/19-design-for-developers",
+          "uri": "http://upcase.com/workshops/19-design-for-developers",
           "id": "3a2c06337724415c79cd2b90e339cee445108f40",
           "type": "workshop"
         },
@@ -83,19 +83,19 @@
       "resources": [
         {
           "title": "Visit 'Visual Principles' on Learn to augment your learning on visual principles",
-          "uri": "https://learn.thoughtbot.com/visual-principles",
+          "uri": "https://upcase.com/visual-principles",
           "id": "63a00ac9bf5bd6ca22e6200a2357baa123d2387d",
           "type": "trail"
         },
         {
           "title": "Visit 'Grid Systems' on Learn to augment your learning on grid systems",
-          "uri": "https://learn.thoughtbot.com/grids",
+          "uri": "https://upcase.com/grids",
           "id": "181b484df768931aa2509337d76ad1f4a4afa5ca",
           "type": "trail"
         },
         {
           "title": "Visit 'Typography' on Learn to augment your learning on typography",
-          "uri": "https://learn.thoughtbot.com/typography",
+          "uri": "https://upcase.com/typography",
           "id": "0b8f7e81fa05fc05abd6fdf158159adb12f2b2a7",
           "type": "trail"
         }
@@ -105,7 +105,7 @@
   "reference": [
     {
       "title": "Visit 'Web Design' on Learn",
-      "uri": "https://learn.thoughtbot.com/web+design",
+      "uri": "https://upcase.com/web+design",
       "id": "e10e490ec642864dbcb5df3908f730efdde4e293",
       "type": "trail"
     }

@@ -5,7 +5,7 @@ NOTE:
 
 As of 11/13/2012, this is now a JSON-only data resource.
 
-To browse the trails, visit [learn.thoughtbot.com/trails](https://learn.thoughtbot.com/trails).
+To browse the trails, visit [upcase.com/trails](https://upcase.com/trails).
 
 Trail map
 =========
@@ -40,25 +40,25 @@ Trails
 ------
 
 * [Code Review](/trails/code-review.json)
-* [Git](https://learn.thoughtbot.com/git)
-* [Grids](https://learn.thoughtbot.com/grids)
-* [HTML/CSS](https://learn.thoughtbot.com/html-css)
+* [Git](https://upcase.com/git)
+* [Grids](https://upcase.com/grids)
+* [HTML/CSS](https://upcase.com/html-css)
 * [Information Design](/trails/information-design.json)
-* [iOS](https://learn.thoughtbot.com/ios)
-* [Javascript](https://learn.thoughtbot.com/javascript)
+* [iOS](https://upcase.com/ios)
+* [Javascript](https://upcase.com/javascript)
 * [Open Source](/trails/open-source.json)
 * [Product Design](/trails/product-design.json)
-* [Rails](https://learn.thoughtbot.com/rails)
-* [Refactoring](https://learn.thoughtbot.com/refactoring)
-* [Ruby](https://learn.thoughtbot.com/ruby)
-* [Sass](https://learn.thoughtbot.com/sass)
-* [SQL](https://learn.thoughtbot.com/sql)
-* [Swift](https://learn.thoughtbot.com/swift)
-* [Test-Driven Development](https://learn.thoughtbot.com/test-driven+development)
-* [Typography](https://learn.thoughtbot.com/typography)
-* [Unix](https://learn.thoughtbot.com/unix)
-* [Vim](https://learn.thoughtbot.com/vim)
-* [Visual Design](https://learn.thoughtbot.com/design)
+* [Rails](https://upcase.com/rails)
+* [Refactoring](https://upcase.com/refactoring)
+* [Ruby](https://upcase.com/ruby)
+* [Sass](https://upcase.com/sass)
+* [SQL](https://upcase.com/sql)
+* [Swift](https://upcase.com/swift)
+* [Test-Driven Development](https://upcase.com/test-driven+development)
+* [Typography](https://upcase.com/typography)
+* [Unix](https://upcase.com/unix)
+* [Vim](https://upcase.com/vim)
+* [Visual Design](https://upcase.com/design)
 
 Contributing
 ------------
