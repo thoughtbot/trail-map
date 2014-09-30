@@ -1,11 +1,9 @@
-[![Build Status](https://travis-ci.org/thoughtbot/trail-map.png?branch=master)](https://travis-ci.org/thoughtbot/trail-map)
-
 NOTE:
 =====
 
-As of 11/13/2012, this is now a JSON-only data resource.
+As of 9/30/2014, we are no longer updating these trails.
 
-To browse the trails, visit [upcase.com/trails](https://upcase.com/trails).
+To browse the trails, visit [Upcase](https://upcase.com).
 
 Trail map
 =========
