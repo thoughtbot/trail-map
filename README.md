@@ -1,26 +1,17 @@
-NOTE:
-=====
-
-As of 9/30/2014, we are no longer updating these trails.
-
-To browse the trails, visit [Upcase](https://upcase.com).
-
 Trail map
 =========
 
 > How do I learn Ruby on Rails? Vim? Test-Driven Development?
 
-[apprentice.io](http://apprentice.io) has forced us to formalize our answers to
-such questions.
-
-A few problems make those questions difficult to answer. Individuals:
+A few problems make those questions difficult to answer. We:
 
 * have different levels of experience
 * have different learning styles
-* change their goals mid-process
+* change our goals mid-process
 
-A good metaphor for the learning process is a (hiking, biking, or skiing) trail
-map. Individuals:
+A good metaphor for the learning process is
+a trail map
+for hiking, biking, or skiing. We:
 
 * start in different places
 * want to go to different places
@@ -37,26 +28,26 @@ To use these, you may want to first set up your laptop with
 Trails
 ------
 
-* [Code Review](/trails/code-review.json)
-* [Git](https://upcase.com/git)
-* [Grids](https://upcase.com/grids)
-* [HTML/CSS](https://upcase.com/html-css)
-* [Information Design](/trails/information-design.json)
-* [iOS](https://upcase.com/ios)
-* [Javascript](https://upcase.com/javascript)
-* [Open Source](/trails/open-source.json)
-* [Product Design](/trails/product-design.json)
-* [Rails](https://upcase.com/rails)
-* [Refactoring](https://upcase.com/refactoring)
-* [Ruby](https://upcase.com/ruby)
-* [Sass](https://upcase.com/sass)
-* [SQL](https://upcase.com/sql)
-* [Swift](https://upcase.com/swift)
-* [Test-Driven Development](https://upcase.com/test-driven+development)
-* [Typography](https://upcase.com/typography)
-* [Unix](https://upcase.com/unix)
-* [Vim](https://upcase.com/vim)
-* [Visual Design](https://upcase.com/design)
+* [Code Review](trails/code-review.md)
+* [Git](trails/git.md)
+* [Grids](trails/grids.md)
+* [HTML/CSS](trails/html-css.md)
+* [Information Design](trails/information-design.md)
+* [iOS](trails/ios.md)
+* [JavaScript](trails/javascript.md)
+* [Open Source](trails/open-source.md)
+* [Product Design](trails/product-design.md)
+* [Rails](trails/rails.md)
+* [Refactoring](trails/refactoring.md)
+* [Ruby](trails/ruby.md)
+* [Sass](trails/sass.md)
+* [SQL](trails/sql.md)
+* [Swift](trails/swift.md)
+* [Test-Driven Development](trails/test-driven-development.md)
+* [Typography](trails/typography.md)
+* [Unix](trails/unix.md)
+* [Vim](trails/vim.md)
+* [Visual Design](trails/visual-design.md)
 
 Contributing
 ------------
