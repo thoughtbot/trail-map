@@ -1,10 +1,3 @@
-NOTE:
-=====
-
-As of 9/30/2014, we are no longer updating these trails.
-
-To browse the trails, visit [Upcase](https://upcase.com).
-
 Trail map
 =========
 
@@ -33,30 +26,6 @@ This repository contains trails to help designers and developers learn.
 To use these, you may want to first set up your laptop with
 [this script](https://github.com/thoughtbot/laptop) and
 [these dotfiles](https://github.com/thoughtbot/dotfiles).
-
-Trails
-------
-
-* [Code Review](/trails/code-review.json)
-* [Git](https://upcase.com/git)
-* [Grids](https://upcase.com/grids)
-* [HTML/CSS](https://upcase.com/html-css)
-* [Information Design](/trails/information-design.json)
-* [iOS](https://upcase.com/ios)
-* [Javascript](https://upcase.com/javascript)
-* [Open Source](/trails/open-source.json)
-* [Product Design](/trails/product-design.json)
-* [Rails](https://upcase.com/rails)
-* [Refactoring](https://upcase.com/refactoring)
-* [Ruby](https://upcase.com/ruby)
-* [Sass](https://upcase.com/sass)
-* [SQL](https://upcase.com/sql)
-* [Swift](https://upcase.com/swift)
-* [Test-Driven Development](https://upcase.com/test-driven+development)
-* [Typography](https://upcase.com/typography)
-* [Unix](https://upcase.com/unix)
-* [Vim](https://upcase.com/vim)
-* [Visual Design](https://upcase.com/design)
 
 Contributing
 ------------
