@@ -5,7 +5,7 @@ Cloud Application Platform for Web and Mobile Apps
 ## Beginning Heroku
 
 * Complete the [Quickstart Guide](https://devcenter.heroku.com/articles/quickstart)
-* Watch the [Intro to Heroku Screencast](http://www.codeschool.com/code_tv/heroku)
+* Watch the [Intro to Heroku Screencast](https://www.codeschool.com/screencasts/heroku)
 * Read [Professional Heroku Programming](http://www.amazon.com/Professional-Heroku-Programming-Wrox-Programmer/dp/1118508998)
 * Read [The Heroku Hacker's Guide](http://www.theherokuhackersguide.com)
 
