@@ -4,6 +4,7 @@ A text editor first released publicly in 1991. Vim's power is that it is keyboar
 
 ## Beginning Vim
 
+* Watch [Onramp to Vim on Upcase](https://upcase.com/onramp-to-vim)
 * Complete [vimtutor](http://linuxcommand.org/man_pages/vimtutor1.html)
 * Read [Seven habits of effective text editing](http://www.moolenaar.net/habits.html) by vim author Bram Moolenaar.",
 * Learn the single-letter commands with the [vim graphical cheat sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif).
