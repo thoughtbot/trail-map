@@ -43,7 +43,7 @@ An open source full-stack web application framework for the Ruby programming lan
 
 ## Advanced Rails
 
-* Complete [thoughtbot's Test-Driven Rails Tutorial](https://test-driven-rails)
+* Complete [thoughtbot's Test-Driven Rails Tutorial](https://upcase.com/test-driven-rails)
 * Watch [Improving Rails Performance](https://upcase.com/improving-rails-performance)
 * Complete [Rails Testing for Zombies](http://www.codeschool.com/courses/rails-testing-for-zombies)
 * Read open source code: [example](https://github.com/copycopter/copycopter-server)
