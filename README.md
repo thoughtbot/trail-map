@@ -37,7 +37,7 @@ Credits
 
 ![thoughtbot](http://thoughtbot.com/logo.png)
 
-Trail Map is maintained by [thoughtbot, inc](http://thoughtbot.com/community)
+Trail Map works alongside [Upcase by thoughtbot](https://thoughtbot.com/upcase/join)
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
 
 Thank you, [contributors](/graphs/contributors)!
