@@ -1,0 +1,100 @@
+{
+  "name": "Heroku",
+  "description": "Cloud Application Platform for Web and Mobile Apps",
+  "steps": [
+    {
+      "name": "Beginning Heroku",
+      "resources": [
+        {
+          "title": "Complete the Quickstart Guide",
+          "uri": "https://devcenter.heroku.com/articles/quickstart",
+          "id": "0afa0079f96623600636c2e649651700e81208c9"
+        },
+        {
+          "title": "Watch the 'Intro to Heroku Screencast'",
+          "uri": "http://www.codeschool.com/code_tv/heroku",
+          "id": "4ddf1f9e13f214095eecdf45e5b7f8c8efb97314"
+        },
+        {
+          "title": "Read 'Professional Heroku Programming'",
+          "uri": "http://www.amazon.com/Professional-Heroku-Programming-Wrox-Programmer/dp/1118508998",
+          "publisher": "http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118508998.html",
+          "id": "dfe9d75b86869e8f4f2372a56c9283384e8373e6"
+        },
+        {
+          "title": "Read 'The Heroku Hacker's Guide'",
+          "uri": "http://www.theherokuhackersguide.com/",
+          "id": "2c91bb5c039ac97dfa917885a34145331f31687c"
+        }
+      ],
+      "validations": [
+        {
+          "title": "Write a Procfile",
+          "id": "227f8f8cb2c281fae790fbd4dcdeaf0c72a72d03"
+        },
+        {
+          "title": "Store secrets and environmental variables in config vars",
+          "id": "3d0dc5337d810f869dda2830ad7599f4674176f5"
+        },
+        {
+          "title": "Deploy a basic app to Heroku.",
+          "id": "7c3a314e09b51822b69748bca96da404f791f4c1"
+        },
+        {
+          "title": "Provision an add-on",
+          "id": "65fa4796646f81f405808e0463b216d869296925"
+        },
+        {
+          "title": "Add a dyno to an app",
+          "id": "8e0ebacf01b2eb21a2f5ca96fb36cdbf3b69f4d3"
+        }
+      ]
+    },
+    {
+      "name": "Intermediate Heroku",
+      "resources": [
+        {
+          "title": "Read 'The 12-Factor App'",
+          "uri": "http://www.12factor.net/",
+          "id": "a3546b6783bfcde1355a8b710ced25fcc3bdef10"
+        },
+        {
+          "title": "Browse Heroku's guides on Vimeo",
+          "uri": "https://devcenter.heroku.com/categories/application-architecture",
+          "id": "668ea6696fb961d5fbfb034edcec80d3565f7215"
+        },
+        {
+          "title": "Explore Heroku's developer blog",
+          "uri": "http://www.higherorderheroku.com/",
+          "id": "f1743bcdeebb5e557aa6863930106c32184d042d"
+        }
+      ],
+      "validations": [
+        {
+          "title": "Understand the worker pattern",
+          "id": "0e88dcb500d8c65147c41ca663cbce7914c25b71"
+        },
+        {
+          "title": "Achieve dev-prod parity by using foreman locally",
+          "id": "1732e1fc69d5c56d84e4041b580954c758da936d"
+        },
+        {
+          "title": "Leverage Heroku logs as a source of visibility into app performance",
+          "id": "f342dc8209adc62f28b2a02905759dc86c88f8a4"
+        },
+        {
+          "title": "Build an app with a concurrent web server",
+          "id": "35387c0d077273c8c6b8bc86d452402439900ef8"
+        },
+        {
+          "title": "Understand request queuing",
+          "id": "d93af37f6f189d3640c3bf753303f1fe7af702f4"
+        },
+        {
+          "title": "Use a tool like New Relic to gain visibility into response time variability",
+          "id": "a8dd9f056b751b1925c8d05662d93ae290df33d5"
+        }
+      ]
+    }
+  ]
+}
