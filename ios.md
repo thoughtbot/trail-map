@@ -4,7 +4,7 @@ The mobile operating system that runs on the iPhone, iPad, iPod touch, and Apple
 
 ## Beginning iOS
 
-* Read [Programming with Objective-C](http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ObjectiveC/Introduction/introObjectiveC.html)
+* Read [Programming with Objective-C](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 * Watch [Try Objective-C](http://tryobjectivec.codeschool.com)
 * Watch [Try iOS](http://www.codeschool.com/courses/try-ios)
 * Read [Learn Objective-C on the Mac](http://amzn.to/learn-objective-c-mac)
