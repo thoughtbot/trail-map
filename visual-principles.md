@@ -17,7 +17,6 @@ The fundamental principles for communicating visually.
 
 ## Intermediate Visual Principles
 
-
 * Read CreativeBloq's designer's guide to Gestalt Theory, [1. Similarity](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#01-similarity)
 * Read CreativeBloq's designer's guide to Gestalt Theory, [2. Continuation](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#02-continuation)
 * Read CreativeBloq's designer's guide to Gestalt Theory, [3. Closure](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#03-closure)
