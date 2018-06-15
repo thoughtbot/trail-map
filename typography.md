@@ -18,7 +18,7 @@ The art and technique of arranging type in order to make language visible.
 * Choose a typeface which matches the style of a design.
 * Constrain lines of type to the proper length.
 * Create type hierarchy with size, space, color, emphasis, and weight.
-* Pair two or more typefaces in a design and make it look good. 
+* Pair two or more typefaces in a design and make it look good.
 * Space letters horizontally (kern).
 * Space lines of type vertically with line-height (leading).
 * Use the vocabulary of typography with teammates.
