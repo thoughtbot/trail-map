@@ -24,7 +24,6 @@ HTML is the markup language for displaying web pages and other information that 
 
 * Read MDN's [Introduction to HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Introduction_to_HTML5)
 * Read [HTML5 for Web Designers](http://www.abookapart.com/products/html5-for-web-designers)
-* Complete Front End Masters' [Intro to Web Dev](https://frontendmasters.com/welcome/web-development/)
 
 ### You should be able to
 
