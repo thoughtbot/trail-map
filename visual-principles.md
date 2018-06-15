@@ -17,12 +17,7 @@ The fundamental principles for communicating visually.
 
 ## Intermediate Visual Principles
 
-* Read CreativeBloq's designer's guide to Gestalt Theory, [1. Similarity](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#01-similarity)
-* Read CreativeBloq's designer's guide to Gestalt Theory, [2. Continuation](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#02-continuation)
-* Read CreativeBloq's designer's guide to Gestalt Theory, [3. Closure](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#03-closure)
-* Read CreativeBloq's designer's guide to Gestalt Theory, [4. Proximity, and Grouping](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#04-proximity-aka-grouping)
-* Read CreativeBloq's designer's guide to Gestalt Theory, [5. Figure Ground Relationships](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#05-figure-ground)
-* Read CreativeBloq's designer's guide to Gestalt Theory, [6. Symmetry and Order](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#06-symmetry-and-order)
+* Read Smashing Magazine's [Design Principles: Visual Perception And The Principles Of Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/)
 
 ### You should be able to
 
