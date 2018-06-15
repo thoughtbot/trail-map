@@ -17,11 +17,14 @@ The fundamental principles for communicating visually.
 
 ## Intermediate Visual Principles
 
-* Read Andy Rutledge's Gestalt Principles of Perception, [1. Figure Ground Relationships](http://www.andyrutledge.com/gestalt-principles-1-figure-ground-relationship.php)
-* Read Andy Rutledge's Gestalt Principles of Perception, [2. Similarity](http://www.andyrutledge.com/gestalt-principles-2-similarity.php)
-* Read Andy Rutledge's Gestalt Principles of Perception, [3. Proximity, Uniform Connectedness, and Good Continuation](http://www.andyrutledge.com/gestalt-principles-3.php)
-* Read Andy Rutledge's Gestalt Principles of Perception, [4. Common Fate](http://www.andyrutledge.com/common-fate.php)
-* Read Andy Rutledge's Gestalt Principles of Perception, [5. Closure](http://www.andyrutledge.com/closure.php)
+
+* Read CreativeBloq's designer's guide to Gestalt Theory, [1. Similarity](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#01-similarity)
+* Read CreativeBloq's designer's guide to Gestalt Theory, [2. Continuation](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#02-continuation)
+* Read CreativeBloq's designer's guide to Gestalt Theory, [3. Closure](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#03-closure)
+* Read CreativeBloq's designer's guide to Gestalt Theory, [4. Proximity, and Grouping](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#04-proximity-aka-grouping)
+* Read CreativeBloq's designer's guide to Gestalt Theory, [5. Figure Ground Relationships](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#05-figure-ground)
+* Read CreativeBloq's designer's guide to Gestalt Theory, [6. Symmetry and Order](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#06-symmetry-and-order)
+
 
 ### You should be able to
 
