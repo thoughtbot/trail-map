@@ -22,7 +22,7 @@ HTML is the markup language for displaying web pages and other information that 
 
 ## Intermediate HTML & CSS
 
-* Read [Dive into HTML5](http://diveintohtml5.info)
+* Read MDN's [Introduction to HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Introduction_to_HTML5)
 * Read [HTML5 for Web Designers](http://www.abookapart.com/products/html5-for-web-designers)
 
 ### You should be able to

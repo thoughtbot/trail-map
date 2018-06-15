@@ -17,11 +17,7 @@ The fundamental principles for communicating visually.
 
 ## Intermediate Visual Principles
 
-* Read Andy Rutledge's Gestalt Principles of Perception, [1. Figure Ground Relationships](http://www.andyrutledge.com/gestalt-principles-1-figure-ground-relationship.php)
-* Read Andy Rutledge's Gestalt Principles of Perception, [2. Similarity](http://www.andyrutledge.com/gestalt-principles-2-similarity.php)
-* Read Andy Rutledge's Gestalt Principles of Perception, [3. Proximity, Uniform Connectedness, and Good Continuation](http://www.andyrutledge.com/gestalt-principles-3.php)
-* Read Andy Rutledge's Gestalt Principles of Perception, [4. Common Fate](http://www.andyrutledge.com/common-fate.php)
-* Read Andy Rutledge's Gestalt Principles of Perception, [5. Closure](http://www.andyrutledge.com/closure.php)
+* Read Smashing Magazine's [Design Principles: Visual Perception And The Principles Of Gestalt](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/)
 
 ### You should be able to
 

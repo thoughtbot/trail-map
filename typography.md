@@ -11,6 +11,7 @@ The art and technique of arranging type in order to make language visible.
 * Read [More Meaningful Typography](http://www.alistapart.com/articles/more-meaningful-typography/)
 * Watch [Tim Brown's More Perfect Typography](https://vimeo.com/1707938)
 * Read [Stop Stealing Sheep & Find Out How Type Works](http://amzn.com/0201703394)
+* Read [Butterick's Practical Typography](https://practicaltypography.com/)
 
 ### You should be able to
 
