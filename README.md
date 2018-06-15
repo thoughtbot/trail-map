@@ -3,7 +3,7 @@ Trail map
 
 > How do I learn Ruby on Rails? Vim? Test-Driven Development?
 
-[apprentice.io](http://apprentice.io) has forced us to formalize our answers to
+[Our apprentice program](http://apprentice.thoughtbot.com) has forced us to formalize our answers to
 such questions.
 
 A few problems make those questions difficult to answer. Individuals:
