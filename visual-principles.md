@@ -24,7 +24,6 @@ The fundamental principles for communicating visually.
 * Read CreativeBloq's designer's guide to Gestalt Theory, [5. Figure Ground Relationships](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#05-figure-ground)
 * Read CreativeBloq's designer's guide to Gestalt Theory, [6. Symmetry and Order](https://www.creativebloq.com/graphic-design/gestalt-theory-10134960#06-symmetry-and-order)
 
-
 ### You should be able to
 
 * Understand where the visual principles came from and what the history is behind them.
