@@ -5,7 +5,7 @@ A software philosophy that promotes free redistribution and access to source cod
 ## Beginning Open Source
 
 * [Get a GitHub account](http://github.com)
-* Read about [software licenses](http://playbook.thoughtbot.com/#licenses)
+* Read about [software licenses](https://thoughtbot.com/playbook/choose-platforms/licenses)
 * Read about [the purpose and formatting of a NEWS file](http://www.gnu.org/prep/standards/html_node/NEWS-File.html#NEWS-File)
 * Read about [the purpose and formatting of a ChangeLog file](http://www.gnu.org/prep/standards/html_node/Change-Logs.html#Change-Logs)
 
@@ -22,7 +22,7 @@ A software philosophy that promotes free redistribution and access to source cod
 
 ## Intermediate Open Source
 
-* Read [8 steps to fixing other people's code](http://rdd.me/tsf7khhg)
+* Read [8 steps to fixing other people's code](https://thoughtbot.com/blog/8-new-steps-for-fixing-other-peoples-code)
 * Read the [Semantic Versioning specification](http://semver.org)
 
 ### You should be able to
